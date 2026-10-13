@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".idea/inspectionProfiles/profiles_settings.xml"
+hash = "6172c5997eeb3cd19c9ca2b5b97d6e2983cdd1fa60b2460d7bbb74055edcaa46"
+
+[[files]]
+file = ".idea/modules.xml"
+hash = "4dd3ffd35854629aa6d1de654bb379ba76b4a2270c4bf42aafb111d61de57aa9"
+
+[[files]]
+file = ".idea/oowwo_pack.iml"
+hash = "a334fc692d753db149a3f77168c46441b57f33e1b6ad97aa7f1b3baf2f015823"
+
+[[files]]
+file = ".idea/workspace.xml"
+hash = "2bf1b89c029479ca0336ecea89c236dfcceed8edece950ad44d1c0322c760495"
+
+[[files]]
 file = "config/EndRemastered-NeoForge/Eyes/black_eye.json"
 hash = "0ce694b7842011f30705cbadc1140a105e15eabe5983dd62605d82e57fefd201"
 
@@ -1341,26 +1357,6 @@ file = "config/ars_nouveau/rewind.toml"
 hash = "927983e00266b0b3af2d78c1d5c10e791ed052e3cd8e525cc1bdb773845e921e"
 
 [[files]]
-file = "config/ars_nouveau/search_index/_c5.cfe"
-hash = "da5d2200defc63cd944c8566c4cc9352fb45708928b91a11dea0844e0fd83ef7"
-
-[[files]]
-file = "config/ars_nouveau/search_index/_c5.cfs"
-hash = "401b378dd02cf38dd6984502356df8855b34c53066f9a210e313eb4c58d47d51"
-
-[[files]]
-file = "config/ars_nouveau/search_index/_c5.si"
-hash = "8eb851921f5a1bdb7a616b403f3c5ae9176fb619ba785d9cd1c4bd6393f3a8cb"
-
-[[files]]
-file = "config/ars_nouveau/search_index/segments_c6"
-hash = "90843bff788194feefadfa0bfd413773a370aa6c437848e6e9702da1b5d488eb"
-
-[[files]]
-file = "config/ars_nouveau/search_index/write.lock"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/ars_nouveau/wololo.toml"
 hash = "d97f22e6a2dda9ad91f1dab25b2a700ed87a4d91a9420e576e9516c8476603f4"
 
@@ -1483,10 +1479,6 @@ hash = "b73793e634d1a441c12ed1c3d02ec074b2f19a24766512f78ff0b9d83cf9768b"
 [[files]]
 file = "config/artifacts/items.toml"
 hash = "4ad2b5325a9ddd32792b0cca532ab88914ae0c85aef8f5f56db8f5e75609bc28"
-
-[[files]]
-file = "config/asyncparticles/asyncparticles-mixin.properties"
-hash = "53c38f5b2a286c891320849ae360514852282ebacf689373343328373b7d5f6b"
 
 [[files]]
 file = "config/asyncparticles/asyncparticles.json"
@@ -1881,10 +1873,6 @@ file = "config/dimdungeons-server.toml"
 hash = "96f6c33b20ae6256bd1a9b9b96a62475ec73b58c81b934caed1342de42c6f611"
 
 [[files]]
-file = "config/dragonsurvival-client-1.toml.bak"
-hash = "ed11352aea6f7950eb02c301e7393405d2888ca680d758804ba4cfb08d16fbb3"
-
-[[files]]
 file = "config/dragonsurvival-client.toml"
 hash = "605f58e1565d05dff7677a4ab1fc5a7cb27fcb775ee9774ca897826ee1307132"
 
@@ -1962,7 +1950,7 @@ hash = "36b0d118a1924aa3f2436fa16cc46a366c9a7f138765ae86caec05977be98bd5"
 
 [[files]]
 file = "config/enhancedcelestials2core/translations-cache/en_us.json"
-hash = "dcf0aa0b6998932d2843fba46a53ad945060cfbee8c0103e1eef1c039e2d3427"
+hash = "c82de0fdf10d55bb9f512e4421de3acad1c547ced5e9fe9b6a85bd815baec16d"
 
 [[files]]
 file = "config/enhancedcelestials2core/translations.json"
@@ -1970,7 +1958,7 @@ hash = "24c34c89632454822eb2acc91d2b38b1a72fd370925c544c796396b2b174a205"
 
 [[files]]
 file = "config/enhancedcelestials2defaultlunarevents/translations-cache/en_us.json"
-hash = "ab7859e97368e55505f362ccad47c761414169a6bd15b32bb8da325081c09475"
+hash = "3493061931310f8bde36b037b99be5e79e1bdc368cb0cb9eee88d0c69a12257a"
 
 [[files]]
 file = "config/enhancedmobcap-common.toml"
@@ -2045,14 +2033,6 @@ file = "config/everycomp-common.toml"
 hash = "6bccd9a5af80821fe4b83ea397da43adac0b8511bfb7d3b297c038f2b69da8f1"
 
 [[files]]
-file = "config/everycomp-entries-1.toml.bak"
-hash = "1d92eba6865383513aebd2a16f4d6a570cf740083a1e78e4935e6688bd583102"
-
-[[files]]
-file = "config/everycomp-entries-2.toml.bak"
-hash = "4f4410639d629cf0b39bf1d258b25f93d4c6b115a8800e3a1fc3d425eddc484e"
-
-[[files]]
 file = "config/everycomp-entries.toml"
 hash = "d7957fdc7050c5d0d9830a465ce3143b70051e02362ac2260c467c3a0044e0b3"
 
@@ -2071,14 +2051,6 @@ hash = "7d005b7e0bbbff0724725b6d801d6d6155b6c76720d14a08ababf6244b9c5661"
 [[files]]
 file = "config/explorerscompass-common.toml"
 hash = "4067e50c6833df6619e511f2bc09630f16fa22e61cf250a8abbf3354afbe14f0"
-
-[[files]]
-file = "config/fabric/indigo-renderer.properties"
-hash = "cda75e570dbf96e8c93e0fc75e63be335215bf4b3eb53d31c626bddcdd5eb595"
-
-[[files]]
-file = "config/fangs_n_claws-common-1.toml.bak"
-hash = "2fbac70e294ba18aa898c41deb4c38478aa534241000e3b7d570477ccf034eb3"
 
 [[files]]
 file = "config/fangs_n_claws-common.toml"
@@ -2693,10 +2665,6 @@ file = "config/forgeendertech/Wind.cfg"
 hash = "a3223832bc3dc6be3664a1c87d68b63384f3ee8f4c062cfae77629d247c0ec7b"
 
 [[files]]
-file = "config/forgeendertech/cached.dat"
-hash = "3707a0aa775cfd849940f4a0ef8025d3e9eeb2bf18e08bb45530e0f74eea85b9"
-
-[[files]]
 file = "config/fzzy_config/keybinds.toml"
 hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
 
@@ -3077,10 +3045,6 @@ file = "config/lootr-common.toml"
 hash = "46f41bc157ac77f9a96b4a89a7652668cf910885e4fe868d46b42221377d4d35"
 
 [[files]]
-file = "config/map_atlases-client-1.toml.bak"
-hash = "640ee87dd1a82c8eac4ef5a9b61fbb3ef4948b8e0682f9c23e5df47499b02c89"
-
-[[files]]
 file = "config/map_atlases-client.toml"
 hash = "8dfb036b732a451f5fa68abe9faef44be0c4cf4ea1b5c4424950259219656707"
 
@@ -3189,10 +3153,6 @@ file = "config/modonomicon-client.toml"
 hash = "f7301ac5c174fd4958b6a7bbca7d6211da2f4ac83f85ef87e55461a2110f9044"
 
 [[files]]
-file = "config/moonlight-client-1.toml.bak"
-hash = "c5128bab27d781c03de34e7a4f3ce1bf72f4ea117bf8d8a3b6533a4a71918699"
-
-[[files]]
 file = "config/moonlight-client.toml"
 hash = "70bf06a1baa99b6c6edbe9a324ccfe5f92536ba4eebee90523dfddd22554d07a"
 
@@ -3281,16 +3241,8 @@ file = "config/nirvana-common.toml"
 hash = "824df23443c051ca073045379cd59f7ae136437f7e3f8c457ac7a86d9ae1a230"
 
 [[files]]
-file = "config/nomansland-client-1.toml.bak"
-hash = "9197465180e4dc89584b5774fc31046c7add39dd0ad93891cda506d0646d42be"
-
-[[files]]
 file = "config/nomansland-client.toml"
 hash = "cfb0e78ca8cde99032f5f87c37a6d5c2cd186f64aaec6f45c05d3a03cfb8cc14"
-
-[[files]]
-file = "config/nomansland-common-1.toml.bak"
-hash = "d5ff7ea4175df19f8dd7e0bcc09e7258ee2c511884322aa73c5077a55152213d"
 
 [[files]]
 file = "config/nomansland-common.toml"
@@ -4297,10 +4249,6 @@ file = "config/upgrade_aquatic-common.toml"
 hash = "54a5d5af64899fa48cc385aeca1908df4c486e000726a34400dd5a96a89f14e5"
 
 [[files]]
-file = "config/upgraded_chests-client.properties"
-hash = "55ac738efcfa6b639c652dac68eb831db6f3c311ec34a7cfbc93f73d5d64a68b"
-
-[[files]]
 file = "config/upgraded_chests.properties"
 hash = "ee8ede63b64930d23a4f388d2ec796dc0341b8ad0722940d6d4f41e949ec86f3"
 
@@ -4341,10 +4289,6 @@ file = "config/voicechat/username-cache.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/voicechat/voicechat-client.properties"
-hash = "da11eaf491d134c9d35dc41bf444ec186b7b452487f2a2966ad803628373d162"
-
-[[files]]
 file = "config/voicechat/voicechat-server.properties"
 hash = "cf7e4d387b04e70d39b49addc41a4c1e7004b6d4f289d5770e0c233eead1a808"
 
@@ -4359,10 +4303,6 @@ hash = "3d682f53e53aedd078efd023478840332b60a091d4b5ab2af4f4c84a167dfadb"
 [[files]]
 file = "config/wayfarer_core-client.toml"
 hash = "12297c4993ba920401ec7246f7b563abed47f1f37ff2e6ff7c329b36a6f67e02"
-
-[[files]]
-file = "config/wayfarer_core-common-1.toml.bak"
-hash = "f0016fcb37a30b1527b75a6bfa345ea93dbad6fcf478262523aeadf68200d025"
 
 [[files]]
 file = "config/wayfarer_core-common.toml"
@@ -6117,6 +6057,10 @@ file = "kubejs/server_scripts/oowwo_availability.js"
 hash = "d52b6998226998d0b55d2defca018ffbfdc2c0659af557787ea806c3a9c31f19"
 
 [[files]]
+file = "kubejs/server_scripts/oowwo_blockbox_seats.js"
+hash = "8fac7b8109ba53e7b99d04e5a628ffbd000736541e1335f196649fe76b553466"
+
+[[files]]
 file = "kubejs/server_scripts/oowwo_bow_hunting.js"
 hash = "1eebfba8c0ca0726d0d8be7e307f3574c729427bf100fa74acd8bca42fc4947b"
 
@@ -6131,6 +6075,10 @@ hash = "63dc34c25231ce9378f67ed748947f311dc905056e9d228f28269dcbbe943566"
 [[files]]
 file = "kubejs/server_scripts/oowwo_campfire.js"
 hash = "58fca89dcd8f8a1ade94bc8c8661295d905c610f07a2b5d8b8b446e3d666083d"
+
+[[files]]
+file = "kubejs/server_scripts/oowwo_charcoal_map.js"
+hash = "49c3f9a2d32bbd99d3ebd912f0c60ecee9021f0292b8f0dbf4f666a085e9dea4"
 
 [[files]]
 file = "kubejs/server_scripts/oowwo_circuits.js"
