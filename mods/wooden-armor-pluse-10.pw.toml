@@ -1,0 +1,13 @@
+name = "Wooden Armor+10"
+filename = "wooden_armorpluse10-1.2.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5e1e360fd943bfaf63a8a5fa3653a6035264d0b3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7852968
+project-id = 1369975
