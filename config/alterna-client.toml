@@ -1,0 +1,15 @@
+#Sets how opaque water should be when seen behind transparent blocks such as glass
+# Default: 0.7
+# Range: 0.0 ~ 1.0
+aquarium_opacity = 0.7
+#Where to show a message when a player uses a conch shell to change the weather
+#Allowed Values: CHAT, HOTBAR, OFF
+conch_shell_message_display = "CHAT"
+#Toggles the mod's fish and tadpole animations
+immersive_fish = true
+#Toggles the mod's biome color modifications
+modify_biome_colors = false
+#Toggles the salmon redesign and variants
+redesign_salmon = true
+#Toggles the trident redesign
+redesign_trident = true

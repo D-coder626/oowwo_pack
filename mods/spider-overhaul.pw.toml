@@ -1,0 +1,13 @@
+name = "Spider Overhaul"
+filename = "SpiderOverhaul-0.0.6-NeoForge-v1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jEnrr5I7/versions/gz6BfcyM/SpiderOverhaul-0.0.6-NeoForge-v1.21.jar"
+hash-format = "sha512"
+hash = "930eb71305d6a307493a6dca401a000021ba2d34a8aec3455d519a8c9b9149bc7fc58661ebfa00327484632d43ddfd3270970bfc84ce7a2bcc926245c214610e"
+
+[update]
+[update.modrinth]
+mod-id = "jEnrr5I7"
+version = "gz6BfcyM"

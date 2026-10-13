@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#cnc:cougar_spawning",
+  "spawners": {
+    "type": "cnc:cougar",
+    "weight": 14,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

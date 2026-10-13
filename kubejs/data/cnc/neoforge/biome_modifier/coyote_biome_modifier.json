@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#cnc:coyote_spawning",
+  "spawners": {
+    "type": "cnc:coyote",
+    "weight": 8,
+    "minCount": 3,
+    "maxCount": 8
+  }
+}

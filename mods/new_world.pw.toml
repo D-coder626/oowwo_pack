@@ -1,0 +1,13 @@
+name = "NewWorld"
+filename = "newworld-neoforge-1.21.1-1.7.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8XpQehpK/versions/9IEzYCTx/newworld-neoforge-1.21.1-1.7.3.jar"
+hash-format = "sha512"
+hash = "a457733b33ac2e4976b5cab570dd7144cbb460a522179747f9e634c2f93a4b821b49d84a976dd1875318e65657d939d8f34fd11d100de5a0eb13f6a54599bc33"
+
+[update]
+[update.modrinth]
+mod-id = "8XpQehpK"
+version = "9IEzYCTx"

@@ -1,0 +1,106 @@
+{
+ "pools": [
+  {
+   "rolls": 1,
+   "bonus_rolls": 0,
+   "entries": [
+    {
+     "type": "minecraft:loot_table",
+     "weight": 125,
+     "value": {
+      "pools": [
+       {
+        "rolls": 1,
+        "entries": [
+         {
+          "type": "minecraft:item",
+          "name": "minecraft:carrot",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "minecraft:beetroot_seeds",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "farmersdelight:cabbage_seeds",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "spawn:sunflower_seeds",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "vital_herbs:fizz_fruit_seeds",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "supplementaries:flax_seeds",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "toxony:sunspot_seeds",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "windswept:lavender",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "cropcritters:popper_plant",
+          "weight": 1
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "type": "minecraft:loot_table",
+     "weight": 875,
+     "value": {
+      "pools": [
+       {
+        "rolls": 1,
+        "entries": [
+         {
+          "type": "minecraft:item",
+          "name": "minecraft:sand",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "spelunkery:stone_pebble",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "minecraft:dead_bush",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "minecraft:stick",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "minecraft:flint",
+          "weight": 1
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}

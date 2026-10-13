@@ -1,0 +1,13 @@
+name = "Deep Dark Dimensional Dungeons"
+filename = "deepdarkdimdungeons-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "11e96047235a999b465e5315fbd0d39b08a4d96a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7973035
+project-id = 1337296

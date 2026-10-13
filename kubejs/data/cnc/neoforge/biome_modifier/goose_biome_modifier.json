@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#cnc:goose_spawning",
+  "spawners": {
+    "type": "cnc:goose",
+    "weight": 40,
+    "minCount": 1,
+    "maxCount": 4
+  }
+}

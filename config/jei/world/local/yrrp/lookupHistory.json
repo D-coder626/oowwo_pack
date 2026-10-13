@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"epicfight:skillbook","components":{"epicfight:skill":"epicfight:roll"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:shield"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

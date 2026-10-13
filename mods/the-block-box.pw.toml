@@ -1,0 +1,13 @@
+name = "The Block Box"
+filename = "BlockBox-1.21.1-0.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UmGvBQOb/versions/k6KEg6tp/BlockBox-1.21.1-0.1.3.jar"
+hash-format = "sha512"
+hash = "855fb4bc47fa628e037c8f05ea736a2f5b85069b4ca5ce1239a09942afdfa9b6c9e2f0a49dbd7a11335577769152af51aec8c86e99dde8f36b8310eccfdd343f"
+
+[update]
+[update.modrinth]
+mod-id = "UmGvBQOb"
+version = "k6KEg6tp"

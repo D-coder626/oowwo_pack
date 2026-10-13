@@ -1,0 +1,30 @@
+#Multiplier for monster spawn cap (default: 1.0 = vanilla)
+# Default: 1.0
+# Range: 0.1 ~ 50.0
+monsterCapMultiplier = 1.5
+#Multiplier for creature spawn cap (default: 1.0 = vanilla)
+# Default: 1.0
+# Range: 0.1 ~ 50.0
+creatureCapMultiplier = 2.0
+#Multiplier for ambient spawn cap (default: 1.0 = vanilla)
+# Default: 1.0
+# Range: 0.1 ~ 50.0
+ambientCapMultiplier = 1.0
+#Multiplier for water creature spawn cap (default: 1.0 = vanilla)
+# Default: 1.0
+# Range: 0.1 ~ 50.0
+waterCreatureCapMultiplier = 1.0
+#Multiplier for water ambient spawn cap (default: 1.0 = vanilla)
+# Default: 1.0
+# Range: 0.1 ~ 50.0
+waterAmbientCapMultiplier = 1.0
+#Enable modification of monster spawn cap (default: true)
+modifyMonsterCap = true
+#Enable modification of creature spawn cap (default: true)
+modifyCreatureCap = true
+#Enable modification of ambient spawn cap (default: true)
+modifyAmbientCap = true
+#Enable modification of water creature spawn cap (default: true)
+modifyWaterCreatureCap = true
+#Enable modification of water ambient spawn cap (default: true)
+modifyWaterAmbientCap = true

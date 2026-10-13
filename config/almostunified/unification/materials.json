@@ -1,0 +1,69 @@
+{
+  "mod_priorities": [
+    "minecraft",
+    "create",
+    "bronze",
+    "caverns_and_chasms",
+    "antiquelegacy",
+    "spelunkery",
+    "magistuarmory"
+  ],
+  "priority_overrides": {
+    "c:ingots/bronze": "wayfarer_core",
+    "c:nuggets/bronze": "wayfarer_core",
+    "c:storage_blocks/bronze": "wayfarer_core",
+    "c:ingots/tin": "wayfarer_core",
+    "c:nuggets/tin": "wayfarer_core",
+    "c:raw_materials/tin": "wayfarer_core",
+    "c:storage_blocks/tin": "wayfarer_core",
+    "c:storage_blocks/raw_tin": "wayfarer_core",
+    "c:ores/tin": "wayfarer_core",
+    "c:ingots/silver": "wayfarer_core",
+    "c:nuggets/silver": "wayfarer_core",
+    "c:raw_materials/silver": "wayfarer_core",
+    "c:storage_blocks/silver": "wayfarer_core",
+    "c:storage_blocks/raw_silver": "wayfarer_core"
+  },
+  "stone_variants": [
+    "stone",
+    "andesite",
+    "deepslate",
+    "diorite",
+    "granite",
+    "netherrack",
+    "end_stone",
+    "tuff",
+    "sandstone",
+    "calcite",
+    "smooth_basalt",
+    "depthrock",
+    "shiverstone"
+  ],
+  "tags": [
+    "c:dusts/{material}",
+    "c:gears/{material}",
+    "c:gems/{material}",
+    "c:ingots/{material}",
+    "c:nuggets/{material}",
+    "c:ores/{material}",
+    "c:plates/{material}",
+    "c:raw_materials/{material}",
+    "c:rods/{material}",
+    "c:storage_blocks/raw_{material}",
+    "c:storage_blocks/{material}",
+    "c:wires/{material}"
+  ],
+  "ignored_tags": [],
+  "ignored_items": [
+    "caverns_and_chasms:waxed_copper_ingot",
+    "spelunkery:raw_magnetite",
+    "spelunkery:raw_magnetite_block"
+  ],
+  "ignored_recipe_types": [
+    "cucumber:shaped_tag"
+  ],
+  "ignored_recipe_ids": [],
+  "recipe_viewer_hiding": true,
+  "loot_unification": false,
+  "ignored_loot_tables": []
+}

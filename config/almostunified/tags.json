@@ -1,0 +1,16 @@
+{
+  "custom_tags": {
+    "c:nuggets/bronze": [
+      "bronze:bronze_nugget"
+    ],
+    "c:nuggets/tin": [
+      "bronze:tin_nugget"
+    ]
+  },
+  "tag_substitutions": {},
+  "item_tag_inheritance_mode": "ALLOW",
+  "item_tag_inheritance": {},
+  "block_tag_inheritance_mode": "ALLOW",
+  "block_tag_inheritance": {},
+  "emi_strict_hiding": true
+}

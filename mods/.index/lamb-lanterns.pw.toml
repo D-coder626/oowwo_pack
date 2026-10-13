@@ -1,0 +1,18 @@
+filename = 'lamblanterns-1.2.0.jar'
+name = 'Lamb Lanterns'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.0'
+
+[download]
+hash = '0b465b31e9e9ffff1f3b6c323ee230f31cc5dbd4b89d4bd1981e4a9eab234eab04526d3a4aa29037b41a2ad14e36ebea623b08b7cef8ba91bf778893a61d43ef'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XzuI5IDa/versions/H8iHSQhM/lamblanterns-1.2.0.jar'
+
+[update.modrinth]
+mod-id = 'XzuI5IDa'
+version = 'H8iHSQhM'

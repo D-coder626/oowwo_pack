@@ -1,0 +1,415 @@
+{
+  "wayfarer": {
+    "definition": "wayfarer",
+    "x": 0,
+    "y": 0,
+    "root": true
+  },
+  "pathfinder": {
+    "definition": "pathfinder",
+    "x": 23,
+    "y": 39
+  },
+  "tumble": {
+    "definition": "tumble",
+    "x": 45,
+    "y": 78
+  },
+  "trail_rations": {
+    "definition": "trail_rations",
+    "x": 68,
+    "y": 117
+  },
+  "keen_nose": {
+    "definition": "keen_nose",
+    "x": -22,
+    "y": 39
+  },
+  "foragers_knife": {
+    "definition": "foragers_knife",
+    "x": -45,
+    "y": 78
+  },
+  "iron_gut": {
+    "definition": "iron_gut",
+    "x": -67,
+    "y": 117
+  },
+  "swimmer": {
+    "definition": "swimmer",
+    "x": 23,
+    "y": -39
+  },
+  "deep_breath": {
+    "definition": "deep_breath",
+    "x": 45,
+    "y": -78
+  },
+  "dark_adaptation": {
+    "definition": "dark_adaptation",
+    "x": 68,
+    "y": -117
+  },
+  "gourmand": {
+    "definition": "gourmand",
+    "x": -30,
+    "y": -52
+  },
+  "beast_whisperer_start": {
+    "definition": "beast_whisperer_start",
+    "x": -86,
+    "y": -169,
+    "root": true
+  },
+  "beast_whisperer_s1": {
+    "definition": "beast_whisperer_s1",
+    "x": -127,
+    "y": -197
+  },
+  "beast_whisperer_s2": {
+    "definition": "beast_whisperer_s2",
+    "x": -84,
+    "y": -219
+  },
+  "beast_whisperer_unique": {
+    "definition": "beast_whisperer_unique",
+    "x": -125,
+    "y": -246
+  },
+  "beast_whisperer_a1": {
+    "definition": "beast_whisperer_a1",
+    "x": -169,
+    "y": -272
+  },
+  "beast_whisperer_b1": {
+    "definition": "beast_whisperer_b1",
+    "x": -121,
+    "y": -296
+  },
+  "beast_whisperer_a2": {
+    "definition": "beast_whisperer_a2",
+    "x": -187,
+    "y": -308
+  },
+  "beast_whisperer_b2": {
+    "definition": "beast_whisperer_b2",
+    "x": -139,
+    "y": -332
+  },
+  "beast_whisperer_a3": {
+    "definition": "beast_whisperer_a3",
+    "x": -205,
+    "y": -343
+  },
+  "beast_whisperer_b3": {
+    "definition": "beast_whisperer_b3",
+    "x": -157,
+    "y": -368
+  },
+  "beast_whisperer_capstone": {
+    "definition": "beast_whisperer_capstone",
+    "x": -202,
+    "y": -396
+  },
+  "green_thumb_start": {
+    "definition": "green_thumb_start",
+    "x": 83,
+    "y": -171,
+    "root": true
+  },
+  "green_thumb_s1": {
+    "definition": "green_thumb_s1",
+    "x": 81,
+    "y": -220
+  },
+  "green_thumb_s2": {
+    "definition": "green_thumb_s2",
+    "x": 124,
+    "y": -199
+  },
+  "green_thumb_unique": {
+    "definition": "green_thumb_unique",
+    "x": 121,
+    "y": -248
+  },
+  "green_thumb_a1": {
+    "definition": "green_thumb_a1",
+    "x": 116,
+    "y": -299
+  },
+  "green_thumb_b1": {
+    "definition": "green_thumb_b1",
+    "x": 164,
+    "y": -275
+  },
+  "green_thumb_a2": {
+    "definition": "green_thumb_a2",
+    "x": 133,
+    "y": -335
+  },
+  "green_thumb_b2": {
+    "definition": "green_thumb_b2",
+    "x": 182,
+    "y": -311
+  },
+  "green_thumb_a3": {
+    "definition": "green_thumb_a3",
+    "x": 151,
+    "y": -370
+  },
+  "green_thumb_b3": {
+    "definition": "green_thumb_b3",
+    "x": 199,
+    "y": -347
+  },
+  "green_thumb_capstone": {
+    "definition": "green_thumb_capstone",
+    "x": 195,
+    "y": -400
+  },
+  "angler_start": {
+    "definition": "angler_start",
+    "x": 187,
+    "y": -36,
+    "root": true
+  },
+  "angler_s1": {
+    "definition": "angler_s1",
+    "x": 224,
+    "y": -68
+  },
+  "angler_s2": {
+    "definition": "angler_s2",
+    "x": 233,
+    "y": -21
+  },
+  "angler_unique": {
+    "definition": "angler_unique",
+    "x": 271,
+    "y": -53
+  },
+  "angler_a1": {
+    "definition": "angler_a1",
+    "x": 308,
+    "y": -87
+  },
+  "angler_b1": {
+    "definition": "angler_b1",
+    "x": 318,
+    "y": -34
+  },
+  "angler_a2": {
+    "definition": "angler_a2",
+    "x": 347,
+    "y": -95
+  },
+  "angler_b2": {
+    "definition": "angler_b2",
+    "x": 358,
+    "y": -42
+  },
+  "angler_a3": {
+    "definition": "angler_a3",
+    "x": 387,
+    "y": -103
+  },
+  "angler_b3": {
+    "definition": "angler_b3",
+    "x": 397,
+    "y": -50
+  },
+  "angler_capstone": {
+    "definition": "angler_capstone",
+    "x": 437,
+    "y": -85
+  },
+  "hearthkeeper_start": {
+    "definition": "hearthkeeper_start",
+    "x": -139,
+    "y": 130,
+    "root": true
+  },
+  "hearthkeeper_s1": {
+    "definition": "hearthkeeper_s1",
+    "x": -154,
+    "y": 176
+  },
+  "hearthkeeper_s2": {
+    "definition": "hearthkeeper_s2",
+    "x": -187,
+    "y": 141
+  },
+  "hearthkeeper_unique": {
+    "definition": "hearthkeeper_unique",
+    "x": -202,
+    "y": 188
+  },
+  "hearthkeeper_a1": {
+    "definition": "hearthkeeper_a1",
+    "x": -215,
+    "y": 237
+  },
+  "hearthkeeper_b1": {
+    "definition": "hearthkeeper_b1",
+    "x": -252,
+    "y": 198
+  },
+  "hearthkeeper_a2": {
+    "definition": "hearthkeeper_a2",
+    "x": -244,
+    "y": 265
+  },
+  "hearthkeeper_b2": {
+    "definition": "hearthkeeper_b2",
+    "x": -281,
+    "y": 225
+  },
+  "hearthkeeper_a3": {
+    "definition": "hearthkeeper_a3",
+    "x": -273,
+    "y": 292
+  },
+  "hearthkeeper_b3": {
+    "definition": "hearthkeeper_b3",
+    "x": -310,
+    "y": 252
+  },
+  "hearthkeeper_capstone": {
+    "definition": "hearthkeeper_capstone",
+    "x": -325,
+    "y": 303
+  },
+  "delver_start": {
+    "definition": "delver_start",
+    "x": -187,
+    "y": -33,
+    "root": true
+  },
+  "delver_s1": {
+    "definition": "delver_s1",
+    "x": -234,
+    "y": -17
+  },
+  "delver_s2": {
+    "definition": "delver_s2",
+    "x": -225,
+    "y": -64
+  },
+  "delver_unique": {
+    "definition": "delver_unique",
+    "x": -272,
+    "y": -48
+  },
+  "delver_a1": {
+    "definition": "delver_a1",
+    "x": -319,
+    "y": -29
+  },
+  "delver_b1": {
+    "definition": "delver_b1",
+    "x": -309,
+    "y": -82
+  },
+  "delver_a2": {
+    "definition": "delver_a2",
+    "x": -358,
+    "y": -36
+  },
+  "delver_b2": {
+    "definition": "delver_b2",
+    "x": -349,
+    "y": -89
+  },
+  "delver_a3": {
+    "definition": "delver_a3",
+    "x": -398,
+    "y": -43
+  },
+  "delver_b3": {
+    "definition": "delver_b3",
+    "x": -388,
+    "y": -96
+  },
+  "delver_capstone": {
+    "definition": "delver_capstone",
+    "x": -438,
+    "y": -77
+  },
+  "tinkerer_start": {
+    "definition": "tinkerer_start",
+    "x": 141,
+    "y": 127,
+    "root": true
+  },
+  "tinkerer_s1": {
+    "definition": "tinkerer_s1",
+    "x": 189,
+    "y": 138
+  },
+  "tinkerer_s2": {
+    "definition": "tinkerer_s2",
+    "x": 157,
+    "y": 174
+  },
+  "tinkerer_unique": {
+    "definition": "tinkerer_unique",
+    "x": 205,
+    "y": 185
+  },
+  "tinkerer_a1": {
+    "definition": "tinkerer_a1",
+    "x": 255,
+    "y": 193
+  },
+  "tinkerer_b1": {
+    "definition": "tinkerer_b1",
+    "x": 219,
+    "y": 234
+  },
+  "tinkerer_a2": {
+    "definition": "tinkerer_a2",
+    "x": 285,
+    "y": 220
+  },
+  "tinkerer_b2": {
+    "definition": "tinkerer_b2",
+    "x": 249,
+    "y": 260
+  },
+  "tinkerer_a3": {
+    "definition": "tinkerer_a3",
+    "x": 315,
+    "y": 247
+  },
+  "tinkerer_b3": {
+    "definition": "tinkerer_b3",
+    "x": 278,
+    "y": 287
+  },
+  "tinkerer_capstone": {
+    "definition": "tinkerer_capstone",
+    "x": 331,
+    "y": 298
+  },
+  "seasoned": {
+    "definition": "seasoned",
+    "x": 0,
+    "y": 200,
+    "root": true
+  },
+  "roadwise": {
+    "definition": "roadwise",
+    "x": 43,
+    "y": 246
+  },
+  "weathered": {
+    "definition": "weathered",
+    "x": -43,
+    "y": 246
+  },
+  "legendary_wayfarer": {
+    "definition": "legendary_wayfarer",
+    "x": 0,
+    "y": 305
+  }
+}

@@ -1,0 +1,9 @@
+[gameplay]
+	#Stop wear from making a tool worse than your bare hand.
+	#Durability mods subtract a flat amount of mining speed once a tool passes a wear
+	#threshold. That amount is the same for every tier, so it barely touches iron but
+	#halves wood - a half-worn wooden axe ends up slower than punching the block. With
+	#this on, a worn (not broken) tool never drops below the midpoint between its speed at
+	#full durability and bare-hand speed. Wear still costs up to half the tool's advantage.
+	#Broken tools are not affected - that penalty is left as the durability mod intends.
+	wornToolFloor = true

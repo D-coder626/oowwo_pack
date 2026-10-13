@@ -1,0 +1,3 @@
+[
+	"!manager InternalError: Java class \"net.neoforged.neoforge.common.NeoForgeEventHandler\" has no public instance field or method named \"getLootModifierManager\". (server_scripts:oowwo_avail_census.js#149)"
+]

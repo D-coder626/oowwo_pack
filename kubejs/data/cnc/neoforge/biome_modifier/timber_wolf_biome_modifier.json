@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#cnc:grey_wolf_spawning",
+  "spawners": {
+    "type": "cnc:timber_wolf",
+    "weight": 16,
+    "minCount": 3,
+    "maxCount": 6
+  }
+}

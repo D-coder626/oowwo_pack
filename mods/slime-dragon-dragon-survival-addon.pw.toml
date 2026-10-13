@@ -1,0 +1,13 @@
+name = "Slime Dragon - Dragon Survival Addon"
+filename = "slime_dragon_addon-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "11132b967d457158e4fcc4fed822194b0c26779a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8302470
+project-id = 1584662

@@ -1,0 +1,17 @@
+[inventory]
+	#Open Minecraft's own inventory screen instead of this mod's one.
+	#The small button in the bottom left corner of either screen flips this,
+	#so there is rarely a reason to edit it here.
+	useVanillaInventory = false
+	#Mark crafting cells your current crafting upgrade has not unlocked with an x,
+	#so it is obvious they are disabled. Turn off for a plain faint dim instead.
+	strongLockedSlots = true
+
+[hud]
+	#Show the auto-selected tool in your first-person hand while it is being used.
+	showToolInHand = true
+	#How long (in ticks, 20 = 1 second) the auto-used tool keeps showing in the HUD slot
+	#after you stop using it, before the slot falls back to your held item.
+	# Default: 20
+	# Range: 0 ~ 200
+	toolLingerTicks = 20

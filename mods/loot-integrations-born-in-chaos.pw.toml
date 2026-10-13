@@ -1,0 +1,13 @@
+name = "Loot Integrations: Born in Chaos"
+filename = "lootintegrations_borninchaos-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "79c2c4098a69c0b0d3ec0208fd1bfa169cc21371"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7417334
+project-id = 1420691

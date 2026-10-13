@@ -1,0 +1,13 @@
+name = "Aether Dragon - Dragon Survival addon"
+filename = "ds_aether_addon-1.1.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9968e260850df1dae020aa8b498b6955fedd6f3c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6447148
+project-id = 1246018

@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#oowwo:bic_waterside",
+  "spawners": {
+    "type": "born_in_chaos_v1:bloody_gadfly",
+    "weight": 3,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

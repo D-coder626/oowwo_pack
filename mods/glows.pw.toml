@@ -1,0 +1,13 @@
+name = "Glow"
+filename = "glow-1.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y8eR2217/versions/7Fnr5mON/glow-1.3.1.jar"
+hash-format = "sha512"
+hash = "74966d33d59e82a2dee7ef9c34e711a806991553aaed0779f835a7378dfa8d7b7f7307267bfdeb6c4474fede32a484dd03e69913b6aa9fc38154ac3c9be01a8b"
+
+[update]
+[update.modrinth]
+mod-id = "Y8eR2217"
+version = "7Fnr5mON"

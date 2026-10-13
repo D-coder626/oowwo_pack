@@ -1,0 +1,89 @@
+[tool_replacement]
+	#替换工具总开关 (Master switch for tool replacement)
+	#关闭后，所有自动工具替换功能将被禁用
+	#When OFF, all auto tool replacement is disabled
+	#Default: true
+	enabled = true
+	#空手时替换工具 (Replace when empty-handed)
+	#开启后，空手时也会自动替换为工具栏中的工具
+	#When ON, empty hand triggers tool replacement
+	#Default: false
+	replace_when_empty_handed = true
+	#手拿工具时自动替换工具 (Replace when holding a tool)
+	#开启后，即使手持工具也会用工具栏中更好的工具替换
+	#When ON, bypass Inventorio's guard - replace current tool with a better one
+	#Default: false
+	replace_when_holding_tool = false
+
+[tool_replacement_whitelist]
+	#=============================================================
+	#  工具替换白名单 (Tool Replacement Whitelist)
+	#=============================================================
+	#
+	#  功能说明:
+	#    Inventorio模组会在你挖掘方块/攻击生物时，自动将手中的物品
+	#    替换成工具栏中对应的工具（如镐、剑等）。
+	#    将物品添加到此白名单后，手持该物品时将不会触发自动替换。
+	#
+	#  支持的格式:
+	#    1. 精确物品ID: 'minecraft:compass'
+	#    2. 标签引用: '#forge:tools'
+	#    3. 模组通配符: 'modname:*'
+	#
+	#  推荐使用游戏内的配置界面添加物品
+	#=============================================================
+	items = []
+
+[block_mining_whitelist]
+	#=============================================================
+	#  免替换挖掘方块白名单 (Block Mining Whitelist)
+	#=============================================================
+	#
+	#  功能说明:
+	#    挖掘此白名单中的方块时，不会触发自动工具替换。
+	#    注意：此白名单检测的是被挖掘的方块，而非手中的物品。
+	#
+	#  支持的格式:
+	#    1. 精确方块ID: 'minecraft:stone'
+	#    2. 标签引用: '#minecraft:base_stone_overworld'
+	#    3. 模组通配符: 'modname:*'
+	#
+	#  推荐使用游戏内的配置界面添加方块
+	#=============================================================
+	blocks = []
+
+[button_position]
+	#合并按钮模式 (Combined button mode)
+	#开启时两个界面共用一个按钮位置
+	#关闭时原版和模组界面各有独立按钮位置
+	#When ON, both screens share one button position
+	#When OFF, each screen has its own button position
+	#Default: true
+	combined_mode = true
+	#原版界面切换按钮X偏移 (-1=默认位置)
+	# Default: -1
+	# Range: -1 ~ 1000
+	vanilla_toggle_x = -1
+	#原版界面切换按钮Y偏移 (-1=默认位置)
+	# Default: -1
+	# Range: -1 ~ 1000
+	vanilla_toggle_y = -1
+	#Inventorio界面切换按钮X偏移 (-1=默认位置)
+	# Default: -1
+	# Range: -1 ~ 1000
+	inventorio_toggle_x = -1
+	#Inventorio界面切换按钮Y偏移 (-1=默认位置)
+	# Default: -1
+	# Range: -1 ~ 1000
+	inventorio_toggle_y = -1
+	#Inventorio界面整理按钮X偏移 (-1=默认位置)
+	# Default: -1
+	# Range: -1 ~ 1000
+	sort_button_x = -1
+	#Inventorio界面整理按钮Y偏移 (-1=默认位置)
+	# Default: -1
+	# Range: -1 ~ 1000
+	sort_button_y = -1
+	#显示整理物品栏按钮 (Show sort inventory button)
+	#Default: true
+	show_sort_button = true

@@ -1,0 +1,18 @@
+filename = 'sons_of_sins-2.2.1c-neoforge-1.21.1.jar'
+name = 'Sons of Sins'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.2.1.c'
+
+[download]
+hash = '146869a529872fa2afb389f3624ee756810b5518b6b4ca308ae286b4b3d30e0ccacbb7354143edfc02655aae01b67668f19850201943a1be73d95bcf12b46547'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/l7YxzukZ/versions/Ht6dwOOn/sons_of_sins-2.2.1c-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'l7YxzukZ'
+version = 'Ht6dwOOn'

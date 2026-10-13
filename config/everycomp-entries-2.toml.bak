@@ -1,0 +1,233 @@
+		[types.cake.dungeonsdelight]
+			monster_cake = true
+
+		[types.cake.nomansland]
+			fruit_cake = true
+
+		[types.lantern.caverns_and_chasms]
+			cupric_lantern = true
+			copper_lantern = true
+			exposed_copper_lantern = true
+			weathered_copper_lantern = true
+			oxidized_copper_lantern = true
+			waxed_copper_lantern = true
+			waxed_exposed_copper_lantern = true
+			waxed_weathered_copper_lantern = true
+			waxed_oxidized_copper_lantern = true
+
+		[types.lantern.cropcritters]
+			lost_soul_in_a_jar = true
+
+		[types.lantern.dungeonsdelight]
+			living_lantern = true
+
+		[types.lantern.fangs_n_claws]
+			vile_lantern = true
+
+		[types.lantern.hexalia]
+			salt_lamp = true
+
+		[types.lantern.netherdescent]
+			pendorite_lantern = true
+
+		[types.lantern.wayfarer_core]
+			rift_lantern = true
+
+		[types.lantern.windswept]
+			ice_lantern = true
+
+		[types.wood_type.abundant_atmosphere]
+			red_bamboo = true
+			ashroot = true
+			gourdrot = true
+
+		[types.wood_type.aether]
+			skyroot = true
+
+		[types.wood_type.ars_nouveau]
+			archwood = true
+
+		[types.wood_type.betterarcheology]
+			rotten = true
+
+		[types.wood_type.born_in_chaos_v1]
+			scorched = true
+
+		[types.wood_type.caverns_and_chasms]
+			azalea = true
+
+		[types.wood_type.dungeonsdelight]
+			wormwood = true
+
+		[types.wood_type.evilcraft]
+			undead = true
+
+		[types.wood_type.ghosts]
+			haunted = true
+
+		[types.wood_type.hexalia]
+			cottonwood = true
+			willow = true
+
+		[types.wood_type.hexerei]
+			mahogany = true
+			willow = true
+			witch_hazel = true
+
+		[types.wood_type.netherdescent]
+			wailing = true
+			embur = true
+			arisian = true
+			sythian = true
+
+		[types.wood_type.newworld]
+			fir = true
+
+		[types.wood_type.nomansland]
+			pine = true
+			maple = true
+			walnut = true
+			willow = true
+
+		[types.wood_type.quark]
+			azalea = true
+			ancient = true
+			blossom = true
+
+		[types.wood_type.spawn]
+			rotten = true
+			date = true
+
+		[types.wood_type.upgrade_aquatic]
+			driftwood = true
+			river = true
+
+		[types.wood_type.windswept]
+			holly = true
+			chestnut = true
+			pine = true
+
+		[types.leaves_type.abundant_atmosphere]
+			ashroot = true
+			gourdrot = true
+
+		[types.leaves_type.aether]
+			skyroot = true
+			golden_oak = true
+			crystal = true
+			crystal_fruit = true
+			holiday = true
+			decorated_holiday = true
+
+		[types.leaves_type.ars_elemental]
+			yellow_archwood = true
+
+		[types.leaves_type.ars_nouveau]
+			blue_archwood = true
+			red_archwood = true
+			purple_archwood = true
+			green_archwood = true
+
+		[types.leaves_type.evilcraft]
+			undead = true
+
+		[types.leaves_type.galosphere]
+			opal = true
+
+		[types.leaves_type.ghosts]
+			haunted = true
+
+		[types.leaves_type.hexalia]
+			cottonwood = true
+			willow = true
+
+		[types.leaves_type.hexerei]
+			mahogany = true
+			willow = true
+			witch_hazel = true
+
+		[types.leaves_type.netherdescent]
+			arisian = true
+
+		[types.leaves_type.newworld]
+			fir = true
+
+		[types.leaves_type.nomansland]
+			autumnal_oak = true
+			frosted = true
+			pale_cherry = true
+			red_maple = true
+			yellow_birch = true
+			pine = true
+			maple = true
+			walnut = true
+			willow = true
+			apple_fruit = true
+			pear_fruit = true
+
+		[types.leaves_type.quark]
+			ancient = true
+			blue_blossom = true
+			lavender_blossom = true
+			orange_blossom = true
+			yellow_blossom = true
+			red_blossom = true
+
+		[types.leaves_type.spawn]
+			date = true
+
+		[types.leaves_type.upgrade_aquatic]
+			river = true
+
+		[types.leaves_type.windswept]
+			holly = true
+			chestnut = true
+			pine = true
+			flowering_acacia = true
+
+		[entries.wood_type.boatload]
+			large_boat = true
+			furnace_boat = true
+
+		[entries.wood_type.create]
+			window = true
+			window_pane = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
+
+		[entries.wood_type.handcrafted]
+			counter = true
+			corner_trim = true
+			fancy_bed = true
+			desk = true
+			shelf = true
+			nightstand = true
+			cupboard = true
+			dining_bench = true
+			bench = true
+			couch = true
+			table = true
+			chair = true
+			drawer = true
+			pillar_trim = true
+			side_table = true
+
+		[entries.wood_type.nomansland]
+			bookshelf = true
+			trimmed_planks = true
+
+		[entries.wood_type.quark]
+			hollow_log = true
+			vertical_planks = true
+			post = true
+			trapped_chest = true
+			bookshelf = true
+			chest = true
+			stripped_post = true
+			ladder = true
+			vertical_slab = true
+
+		[entries.leaves_type.quark]
+			hedge = true
+			leaf_carpet = true

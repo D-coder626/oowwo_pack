@@ -1,0 +1,319 @@
+#Global feature switches. Set a value to false to fully disable that mechanic.
+[features]
+	#Master switch for per-player dread_level storage, ticking, and sync.
+	enableDreadmeter = true
+	#Master switch for random cave event attempts and chaining.
+	enableEventSystem = true
+	#Enables client-side cave dust particles.
+	enableCaveDust = true
+	#Enables very rare atmospheric cave structures during world generation.
+	enableRareCaveStructures = true
+	#Enables tiny client-side black screen flickers at high dread.
+	enableScreenFlickers = true
+	#Enables the Light Flicker event.
+	enableLightFlicker = true
+	#Enables the False Miner event.
+	enableFalseMiner = true
+	#Enables the False Player event.
+	enableFalsePlayer = true
+	#Enables the Blackout event.
+	enableBlackout = true
+	#Enables the Tremble event.
+	enableTremble = true
+
+#Dreadmeter accumulation. dread_level is stored server-side per player and clamped between 0 and maxLevel.
+[dreadmeter]
+	#Player must be at or below this Y level before cave dread can grow.
+	# Default: 40
+	# Range: -64 ~ 320
+	caveMaxY = 40
+	#How many blocks above the player are scanned to decide whether the player is under a closed cave ceiling.
+	# Default: 18
+	# Range: 1 ~ 96
+	overheadScanBlocks = 18
+	#Minimum solid blocks in the overhead scan required to count the location as a cave.
+	# Default: 3
+	# Range: 1 ~ 32
+	requiredSolidBlocksOverhead = 3
+	#Nearby block light below this value applies the darkness multiplier. This uses block light only, not sky light.
+	# Default: 7
+	# Range: 0 ~ 15
+	darknessLightThreshold = 7
+	#Nearby block light at or above this value applies brightLightMultiplier. Use this to make torches strongly suppress dread.
+	# Default: 10
+	# Range: 0 ~ 15
+	brightLightThreshold = 10
+	#Horizontal radius around the player scanned for block light sources.
+	# Default: 4
+	# Range: 0 ~ 12
+	lightCheckHorizontalRadius = 4
+	#Vertical radius around the player scanned for block light sources.
+	# Default: 2
+	# Range: 0 ~ 8
+	lightCheckVerticalRadius = 2
+	#Radius used to detect hostile mobs. Hostile mobs reduce dread growth because the mod emphasizes fear of isolation.
+	# Default: 16
+	# Range: 1 ~ 64
+	hostileMobRadius = 16
+	#After mining activity is detected, the player counts as actively mining for this many ticks.
+	# Default: 40
+	# Range: 1 ~ 200
+	miningMemoryTicks = 40
+	#How often server-side dread is recalculated for each player.
+	# Default: 20
+	# Range: 1 ~ 200
+	updateIntervalTicks = 20
+	#Maximum delay between server-to-client dread sync packets while the value is changing.
+	# Default: 40
+	# Range: 1 ~ 200
+	syncIntervalTicks = 40
+	#Base dread gain per second while the player is in a valid cave area.
+	# Default: 0.35
+	# Range: 0.0 ~ 100.0
+	baseGainPerSecond = 0.35
+	#Multiplier applied when local light is below darknessLightThreshold.
+	# Default: 2.5
+	# Range: 0.0 ~ 20.0
+	darknessMultiplier = 2.5
+	#Multiplier applied when nearby block light is at or above brightLightThreshold. Set to 0 to stop dread growth in well-lit caves; set below 0 to reduce dread.
+	# Default: 0.05
+	# Range: -20.0 ~ 20.0
+	brightLightMultiplier = 0.05
+	#Multiplier applied while the player recently mined and holds a torch in either hand. Values below 1 slow growth; negative values reduce dread.
+	# Default: 0.35
+	# Range: -20.0 ~ 20.0
+	torchMiningMultiplier = 0.35
+	#Multiplier applied when hostile mobs are nearby. Use 0 to stop growth around monsters.
+	# Default: 0.1
+	# Range: 0.0 ~ 20.0
+	hostileMobMultiplier = 0.1
+	#Dread lost per second while outside the configured cave conditions.
+	# Default: 0.8
+	# Range: 0.0 ~ 100.0
+	safeDecayPerSecond = 0.8
+	#Maximum dread_level value.
+	# Default: 100.0
+	# Range: 1.0 ~ 1000.0
+	maxLevel = 100.0
+
+#Event probabilities. These are declared now so future event implementations read from one structured config file.
+[events]
+	#How often the event manager attempts to start a random event.
+	# Default: 600
+	# Range: 20 ~ 72000
+	attemptIntervalTicks = 600
+	#Minimum cooldown after any event starts before the same player can receive another normal event attempt.
+	# Default: 400
+	# Range: 0 ~ 72000
+	minCooldownTicks = 400
+	#Maximum cooldown after any event starts. The final cooldown is randomly chosen between minCooldownTicks and maxCooldownTicks.
+	# Default: 1200
+	# Range: 0 ~ 72000
+	maxCooldownTicks = 1200
+	#Base multiplier for event start chance. Final chance is based on dread level, depth, and this value.
+	# Default: 0.35
+	# Range: 0.0 ~ 1.0
+	baseStartChance = 0.35
+	#Chance that a finished event immediately triggers another event of the same or higher category.
+	# Default: 0.2
+	# Range: 0.0 ~ 1.0
+	chainChance = 0.2
+	#Extra event chance multiplier applied as the player goes deeper underground.
+	# Default: 1.0
+	# Range: 0.0 ~ 20.0
+	depthChanceMultiplier = 1.0
+	#Minimum dread_level required for light event candidates.
+	# Default: 15.0
+	# Range: 0.0 ~ 1000.0
+	lightEventMinDread = 15.0
+	#Minimum dread_level required for heavy event candidates such as Blackout and Tremble.
+	# Default: 65.0
+	# Range: 0.0 ~ 1000.0
+	heavyEventMinDread = 65.0
+	#Base chance weight for Light Flicker.
+	# Default: 0.35
+	# Range: 0.0 ~ 1.0
+	lightFlickerChance = 0.35
+	#Client-side visual radius for Light Flicker. Real light blocks are not updated.
+	# Default: 15
+	# Range: 1 ~ 64
+	lightFlickerRadius = 15
+	#Minimum number of visible Light Flicker pulses.
+	# Default: 1
+	# Range: 1 ~ 16
+	lightFlickerMinPulses = 1
+	#Maximum number of visible Light Flicker pulses.
+	# Default: 4
+	# Range: 1 ~ 16
+	lightFlickerMaxPulses = 4
+	#Base chance weight for False Miner.
+	# Default: 0.3
+	# Range: 0.0 ~ 1.0
+	falseMinerChance = 0.3
+	#Minimum fake block break sounds during False Miner.
+	# Default: 1
+	# Range: 1 ~ 32
+	falseMinerMinBreaks = 1
+	#Maximum fake block break sounds during False Miner.
+	# Default: 8
+	# Range: 1 ~ 32
+	falseMinerMaxBreaks = 8
+	#Minimum distance from the player for the False Miner sound source.
+	# Default: 8
+	# Range: 2 ~ 64
+	falseMinerMinDistance = 8
+	#Maximum distance from the player for the False Miner sound source.
+	# Default: 18
+	# Range: 2 ~ 96
+	falseMinerMaxDistance = 18
+	#False Miner stops abruptly when the player gets this close to the sound source.
+	# Default: 5
+	# Range: 1 ~ 32
+	falseMinerCancelDistance = 5
+	#Base chance weight for False Player.
+	# Default: 0.18
+	# Range: 0.0 ~ 1.0
+	falsePlayerChance = 0.18
+	#Minimum spawn distance for False Player.
+	# Default: 36
+	# Range: 8 ~ 128
+	falsePlayerMinDistance = 36
+	#Maximum spawn distance for False Player.
+	# Default: 52
+	# Range: 8 ~ 160
+	falsePlayerMaxDistance = 52
+	#Minimum False Player lifetime.
+	# Default: 400
+	# Range: 20 ~ 2400
+	falsePlayerMinDurationTicks = 400
+	#Maximum False Player lifetime.
+	# Default: 600
+	# Range: 20 ~ 2400
+	falsePlayerMaxDurationTicks = 600
+	#Maximum dot product between player look direction and spawn direction. Lower values force spawns farther out of the current field of view.
+	# Default: 0.15
+	# Range: -1.0 ~ 1.0
+	falsePlayerMaxLookDotOnSpawn = 0.15
+	#Dot product threshold used to remove False Player when the camera looks at it. Higher means stricter aim required.
+	# Default: 0.985
+	# Range: 0.0 ~ 1.0
+	falsePlayerLookDotThreshold = 0.985
+	#Base chance weight for Blackout. This should be gated by high dread in the event manager.
+	# Default: 0.08
+	# Range: 0.0 ~ 1.0
+	blackoutChance = 0.08
+	#Radius around player where Blackout sends client-only fake block updates that turn light sources off.
+	# Default: 24
+	# Range: 1 ~ 96
+	blackoutRadius = 24
+	#Minimum Blackout duration.
+	# Default: 120
+	# Range: 20 ~ 1200
+	blackoutMinDurationTicks = 120
+	#Maximum Blackout duration.
+	# Default: 200
+	# Range: 20 ~ 1200
+	blackoutMaxDurationTicks = 200
+	#Blindness amplifier applied during Blackout.
+	# Default: 0
+	# Range: 0 ~ 10
+	blackoutBlindnessAmplifier = 0
+	#Darkness amplifier applied during Blackout.
+	# Default: 0
+	# Range: 0 ~ 10
+	blackoutDarknessAmplifier = 0
+	#Base chance weight for Tremble. This should be gated by high dread in the event manager.
+	# Default: 0.09
+	# Range: 0.0 ~ 1.0
+	trembleChance = 0.09
+	#Minimum Tremble duration.
+	# Default: 80
+	# Range: 20 ~ 1200
+	trembleMinDurationTicks = 80
+	#Maximum Tremble duration.
+	# Default: 240
+	# Range: 20 ~ 1200
+	trembleMaxDurationTicks = 240
+	#Client camera shake strength during Tremble.
+	# Default: 2.5
+	# Range: 0.0 ~ 20.0
+	trembleCameraShakeStrength = 2.5
+	#How many falling block spawn attempts Tremble makes per second.
+	# Default: 2
+	# Range: 0 ~ 20
+	trembleFallingBlockAttemptsPerSecond = 2
+	#Horizontal radius around player searched for Tremble ceiling blocks.
+	# Default: 8
+	# Range: 1 ~ 32
+	trembleFallingBlockRadius = 8
+	#Minimum height above player searched for Tremble ceiling blocks.
+	# Default: 3
+	# Range: 1 ~ 32
+	trembleFallingBlockMinHeight = 3
+	#Maximum height above player searched for Tremble ceiling blocks.
+	# Default: 12
+	# Range: 1 ~ 64
+	trembleFallingBlockMaxHeight = 12
+
+#Mechanic-specific values used by later implementation steps.
+[mechanics]
+	#Maximum client-side cave dust particles around a player.
+	# Default: 220
+	# Range: 0 ~ 2000
+	caveDustMaxParticles = 220
+	#Maximum cave dust particles spawned per client tick at full depth.
+	# Default: 5
+	# Range: 0 ~ 64
+	caveDustParticlesPerTick = 5
+	#Per client tick chance to spawn cave dust before depth scaling is applied.
+	# Default: 0.95
+	# Range: 0.0 ~ 1.0
+	caveDustSpawnChance = 0.95
+	#Y level where cave dust reaches maximum density.
+	# Default: -32
+	# Range: -64 ~ 320
+	caveDustMinY = -32
+	#Y level where cave dust starts appearing. Above this, cave dust does not spawn.
+	# Default: 63
+	# Range: -64 ~ 320
+	caveDustMaxY = 63
+	#Horizontal and vertical random spawn radius for cave dust around the client player.
+	# Default: 12
+	# Range: 1 ~ 32
+	caveDustSpawnRadius = 12
+	#When true, cave dust only spawns if the player has no direct sky access, matching the Cave Dust-style underground check.
+	caveDustRequireNoSky = true
+	#Minimum synced dread_level required before screen flickers can occur.
+	# Default: 70.0
+	# Range: 0.0 ~ 1000.0
+	screenFlickerMinDread = 70.0
+	#Per client tick chance for a screen flicker at maximum dread. The chance scales up from screenFlickerMinDread.
+	# Default: 0.002
+	# Range: 0.0 ~ 1.0
+	screenFlickerChance = 0.002
+	#Minimum duration of a screen flicker.
+	# Default: 1
+	# Range: 1 ~ 20
+	screenFlickerMinTicks = 1
+	#Maximum duration of a screen flicker.
+	# Default: 2
+	# Range: 1 ~ 20
+	screenFlickerMaxTicks = 2
+	#Average rarity for abandoned cave relic placement. Higher means rarer; roughly one placement attempt per N chunks.
+	# Default: 32
+	# Range: 1 ~ 100000
+	rareCaveStructureRarity = 32
+	#Minimum Y for abandoned cave relic placement.
+	# Default: -54
+	# Range: -64 ~ 320
+	rareCaveStructureMinY = -54
+	#Maximum Y for abandoned cave relic placement.
+	# Default: 48
+	# Range: -64 ~ 320
+	rareCaveStructureMaxY = 48
+	#Damage dealt when a falling rock from Tremble hits a player.
+	# Default: 6
+	# Range: 0 ~ 100
+	fallingRockDamage = 6
+	#Names used by fake player apparitions.
+	falsePlayerNames = ["Miner", "Alex", "Steve", "Herobrine"]

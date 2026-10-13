@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#oowwo:bic_waterside",
+  "spawners": {
+    "type": "born_in_chaos_v1:barrel_zombie",
+    "weight": 5,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

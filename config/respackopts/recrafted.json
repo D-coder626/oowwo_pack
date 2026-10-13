@@ -1,0 +1,17 @@
+{
+    general: {
+        font: "minecraftFive",
+        atlasFix: "off"
+    },
+    visualEffects: {
+        recraftedClouds: "off",
+        recraftedFog: "off",
+        recraftedLightmap: "off",
+        lightRays: "on",
+        bushyLeaves: "on",
+        animatedLeaves: "on",
+        animatedGrass: "on",
+        animatedFerns: "on",
+        overlayTextures: "on"
+    }
+}

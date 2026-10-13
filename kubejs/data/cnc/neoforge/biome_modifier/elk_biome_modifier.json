@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#cnc:elk_spawning",
+  "spawners": {
+    "type": "cnc:elk",
+    "weight": 13,
+    "minCount": 1,
+    "maxCount": 4
+  }
+}

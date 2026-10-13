@@ -1,0 +1,13 @@
+name = "Baubley Heart Canisters"
+filename = "baubley-heart-canisters-1.21.1-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fPdy2fCM/versions/IUFCVcX3/baubley-heart-canisters-1.21.1-1.4.1.jar"
+hash-format = "sha512"
+hash = "0a9603a4ed349c57cf1827295263cc3cad443adda4000c02140427695f0ace758c7cf715cd24de869be8f7d3c65487bf4b1408043dc3737aa73ce29b87ebed29"
+
+[update]
+[update.modrinth]
+mod-id = "fPdy2fCM"
+version = "IUFCVcX3"

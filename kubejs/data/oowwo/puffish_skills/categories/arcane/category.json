@@ -1,0 +1,18 @@
+{
+  "title": "Arcane",
+  "icon": {
+    "type": "item",
+    "data": {
+      "item": "irons_spellbooks:arcane_essence"
+    }
+  },
+  "background": {
+    "texture": "minecraft:textures/block/deepslate_tiles.png",
+    "width": 16,
+    "height": 16,
+    "position": "tile"
+  },
+  "description": "Passive magic for Iron's Spells, Ars Nouveau and alchemy. Earn points by casting, brewing, drinking new potions and hitting with oil-coated weapons. Spend 5 points in this tree to open the Schools. Pick any two Schools; Archmage opens at 20 points.",
+  "unlocked_by_default": true,
+  "starting_points": 0
+}

@@ -1,0 +1,13 @@
+name = "Underground Rivers"
+filename = "underground-rivers-1.0.3-neoforge-21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y7J94SaP/versions/agetvDe3/underground-rivers-1.0.3-neoforge-21.1.jar"
+hash-format = "sha512"
+hash = "15042c2b05e685e36c6b9063d79158a7fc484d2fd98a67ed09d910aad5e073894860ea5556fb474a2d85354d961ea40ad0badccbd6948248c8b42b93a9c69671"
+
+[update]
+[update.modrinth]
+mod-id = "Y7J94SaP"
+version = "agetvDe3"

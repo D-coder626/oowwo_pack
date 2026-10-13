@@ -1,0 +1,14 @@
+{
+  "values": [
+    "#minecraft:is_beach",
+    "#minecraft:is_river",
+    "#minecraft:is_ocean",
+    "minecraft:swamp",
+    "minecraft:mangrove_swamp",
+    "minecraft:stony_shore",
+    {
+      "id": "#c:is_swamp",
+      "required": false
+    }
+  ]
+}

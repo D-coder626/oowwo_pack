@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#cnc:ringtail_spawning",
+  "spawners": {
+    "type": "cnc:ringtail",
+    "weight": 15,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

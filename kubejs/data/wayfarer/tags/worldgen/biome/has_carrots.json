@@ -1,0 +1,13 @@
+{
+  "values": [
+    "#c:is_cold"
+  ],
+  "remove":[
+    "#minecraft:is_river",
+    "#minecraft:is_beach",
+    "#minecraft:is_mountain",
+    "#c:is_taiga",
+    "#c:is_forest",
+    "#c:is_dense_vegetation"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "add": {
+    "nomansland:polished_stone": [
+      "wayfarer_core:polished_stone_wall"
+    ],
+    "nomansland:polished_siltstone": [
+      "wayfarer_core:polished_siltstone_wall"
+    ]
+  }
+}

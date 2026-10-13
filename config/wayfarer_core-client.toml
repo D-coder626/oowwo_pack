@@ -1,0 +1,6 @@
+resourcepacks = []
+hiddenresourcepacks = []
+distantRendering = true
+# Default: 96
+# Range: 64 ~ 128
+distantRenderDistance = 96

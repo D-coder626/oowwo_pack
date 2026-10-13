@@ -1,0 +1,13 @@
+name = "Crop Critters"
+filename = "cropcritters-neoforge-1.21.1-1.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5u8twXEK/versions/S2KoskZ7/cropcritters-neoforge-1.21.1-1.4.2.jar"
+hash-format = "sha512"
+hash = "6d43cd8e83700a4611c0901f686a23f2f3aed6dccf48b43bd4786c46e47401f2f2f7c19c4c81571254016a2c26c27c000f0cb2c73ab8c1cc75d27ace6837445d"
+
+[update]
+[update.modrinth]
+mod-id = "5u8twXEK"
+version = "S2KoskZ7"

@@ -1,0 +1,13 @@
+name = "Upgraded Iron Chests"
+filename = "upgraded-iron-chests-1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gie37Jxu/versions/2v6KTQGT/upgraded-iron-chests-1.4.jar"
+hash-format = "sha512"
+hash = "8c3198ff24829417a06d40b06235e75caa80b2bdb14ae7880577bba7c2ae9b17edc73cf91e19278ae240efe004fc37bd0cf4d12703f8c161a3da8d9d84bf3bf1"
+
+[update]
+[update.modrinth]
+mod-id = "gie37Jxu"
+version = "2v6KTQGT"

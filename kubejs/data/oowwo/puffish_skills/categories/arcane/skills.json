@@ -1,0 +1,714 @@
+{
+  "initiate": {
+    "definition": "initiate",
+    "x": 0,
+    "y": 0,
+    "root": true
+  },
+  "mana_well_1": {
+    "definition": "mana_well_1",
+    "x": -42,
+    "y": 0
+  },
+  "mana_well_2": {
+    "definition": "mana_well_2",
+    "x": -82,
+    "y": 0
+  },
+  "meditation": {
+    "definition": "meditation",
+    "x": -122,
+    "y": 0
+  },
+  "focus": {
+    "definition": "focus",
+    "x": 13,
+    "y": -40
+  },
+  "flow": {
+    "definition": "flow",
+    "x": 25,
+    "y": -78
+  },
+  "glyph_economy": {
+    "definition": "glyph_economy",
+    "x": 38,
+    "y": -116
+  },
+  "warding_1": {
+    "definition": "warding_1",
+    "x": 13,
+    "y": 40
+  },
+  "warding_2": {
+    "definition": "warding_2",
+    "x": 25,
+    "y": 78
+  },
+  "witchsight": {
+    "definition": "witchsight",
+    "x": 38,
+    "y": 116
+  },
+  "alchemists_patience": {
+    "definition": "alchemists_patience",
+    "x": -25,
+    "y": 57
+  },
+  "featherfall": {
+    "definition": "featherfall",
+    "x": -46,
+    "y": -41
+  },
+  "spellbound_scavenger": {
+    "definition": "spellbound_scavenger",
+    "x": 61,
+    "y": 13
+  },
+  "technomancer": {
+    "definition": "technomancer",
+    "x": 54,
+    "y": -31
+  },
+  "pyromancy_attunement": {
+    "definition": "pyromancy_attunement",
+    "x": 52,
+    "y": -178,
+    "root": true
+  },
+  "pyromancy_resilience": {
+    "definition": "pyromancy_resilience",
+    "x": 41,
+    "y": -226
+  },
+  "pyromancy_efficiency": {
+    "definition": "pyromancy_efficiency",
+    "x": 87,
+    "y": -212
+  },
+  "pyromancy_unique": {
+    "definition": "pyromancy_unique",
+    "x": 76,
+    "y": -260
+  },
+  "pyromancy_power": {
+    "definition": "pyromancy_power",
+    "x": 63,
+    "y": -309
+  },
+  "pyromancy_b1": {
+    "definition": "pyromancy_b1",
+    "x": 114,
+    "y": -294
+  },
+  "pyromancy_a2": {
+    "definition": "pyromancy_a2",
+    "x": 74,
+    "y": -347
+  },
+  "pyromancy_b2": {
+    "definition": "pyromancy_b2",
+    "x": 126,
+    "y": -332
+  },
+  "pyromancy_mastery": {
+    "definition": "pyromancy_mastery",
+    "x": 85,
+    "y": -386
+  },
+  "pyromancy_b3": {
+    "definition": "pyromancy_b3",
+    "x": 137,
+    "y": -370
+  },
+  "pyromancy_capstone": {
+    "definition": "pyromancy_capstone",
+    "x": 124,
+    "y": -422
+  },
+  "stormcalling_attunement": {
+    "definition": "stormcalling_attunement",
+    "x": 140,
+    "y": -121,
+    "root": true
+  },
+  "stormcalling_resilience": {
+    "definition": "stormcalling_resilience",
+    "x": 157,
+    "y": -167
+  },
+  "stormcalling_efficiency": {
+    "definition": "stormcalling_efficiency",
+    "x": 188,
+    "y": -131
+  },
+  "stormcalling_unique": {
+    "definition": "stormcalling_unique",
+    "x": 205,
+    "y": -177
+  },
+  "stormcalling_power": {
+    "definition": "stormcalling_power",
+    "x": 220,
+    "y": -226
+  },
+  "stormcalling_b1": {
+    "definition": "stormcalling_b1",
+    "x": 255,
+    "y": -185
+  },
+  "stormcalling_a2": {
+    "definition": "stormcalling_a2",
+    "x": 250,
+    "y": -252
+  },
+  "stormcalling_b2": {
+    "definition": "stormcalling_b2",
+    "x": 285,
+    "y": -211
+  },
+  "stormcalling_mastery": {
+    "definition": "stormcalling_mastery",
+    "x": 280,
+    "y": -278
+  },
+  "stormcalling_b3": {
+    "definition": "stormcalling_b3",
+    "x": 315,
+    "y": -238
+  },
+  "stormcalling_capstone": {
+    "definition": "stormcalling_capstone",
+    "x": 333,
+    "y": -288
+  },
+  "cryomancy_attunement": {
+    "definition": "cryomancy_attunement",
+    "x": 183,
+    "y": -26,
+    "root": true
+  },
+  "cryomancy_resilience": {
+    "definition": "cryomancy_resilience",
+    "x": 222,
+    "y": -56
+  },
+  "cryomancy_efficiency": {
+    "definition": "cryomancy_efficiency",
+    "x": 229,
+    "y": -9
+  },
+  "cryomancy_unique": {
+    "definition": "cryomancy_unique",
+    "x": 268,
+    "y": -39
+  },
+  "cryomancy_power": {
+    "definition": "cryomancy_power",
+    "x": 307,
+    "y": -71
+  },
+  "cryomancy_b1": {
+    "definition": "cryomancy_b1",
+    "x": 315,
+    "y": -18
+  },
+  "cryomancy_a2": {
+    "definition": "cryomancy_a2",
+    "x": 347,
+    "y": -77
+  },
+  "cryomancy_b2": {
+    "definition": "cryomancy_b2",
+    "x": 354,
+    "y": -24
+  },
+  "cryomancy_mastery": {
+    "definition": "cryomancy_mastery",
+    "x": 386,
+    "y": -83
+  },
+  "cryomancy_b3": {
+    "definition": "cryomancy_b3",
+    "x": 394,
+    "y": -29
+  },
+  "cryomancy_capstone": {
+    "definition": "cryomancy_capstone",
+    "x": 436,
+    "y": -63
+  },
+  "geomancy_attunement": {
+    "definition": "geomancy_attunement",
+    "x": 168,
+    "y": 77,
+    "root": true
+  },
+  "geomancy_resilience": {
+    "definition": "geomancy_resilience",
+    "x": 217,
+    "y": 73
+  },
+  "geomancy_efficiency": {
+    "definition": "geomancy_efficiency",
+    "x": 197,
+    "y": 117
+  },
+  "geomancy_unique": {
+    "definition": "geomancy_unique",
+    "x": 247,
+    "y": 113
+  },
+  "geomancy_power": {
+    "definition": "geomancy_power",
+    "x": 297,
+    "y": 106
+  },
+  "geomancy_b1": {
+    "definition": "geomancy_b1",
+    "x": 274,
+    "y": 155
+  },
+  "geomancy_a2": {
+    "definition": "geomancy_a2",
+    "x": 333,
+    "y": 122
+  },
+  "geomancy_b2": {
+    "definition": "geomancy_b2",
+    "x": 311,
+    "y": 172
+  },
+  "geomancy_mastery": {
+    "definition": "geomancy_mastery",
+    "x": 370,
+    "y": 139
+  },
+  "geomancy_b3": {
+    "definition": "geomancy_b3",
+    "x": 347,
+    "y": 188
+  },
+  "geomancy_capstone": {
+    "definition": "geomancy_capstone",
+    "x": 400,
+    "y": 183
+  },
+  "divinity_attunement": {
+    "definition": "divinity_attunement",
+    "x": 100,
+    "y": 156,
+    "root": true
+  },
+  "divinity_resilience": {
+    "definition": "divinity_resilience",
+    "x": 143,
+    "y": 179
+  },
+  "divinity_efficiency": {
+    "definition": "divinity_efficiency",
+    "x": 103,
+    "y": 205
+  },
+  "divinity_unique": {
+    "definition": "divinity_unique",
+    "x": 147,
+    "y": 228
+  },
+  "divinity_power": {
+    "definition": "divinity_power",
+    "x": 192,
+    "y": 250
+  },
+  "divinity_b1": {
+    "definition": "divinity_b1",
+    "x": 147,
+    "y": 279
+  },
+  "divinity_a2": {
+    "definition": "divinity_a2",
+    "x": 214,
+    "y": 283
+  },
+  "divinity_b2": {
+    "definition": "divinity_b2",
+    "x": 169,
+    "y": 312
+  },
+  "divinity_mastery": {
+    "definition": "divinity_mastery",
+    "x": 236,
+    "y": 317
+  },
+  "divinity_b3": {
+    "definition": "divinity_b3",
+    "x": 190,
+    "y": 346
+  },
+  "divinity_capstone": {
+    "definition": "divinity_capstone",
+    "x": 238,
+    "y": 370
+  },
+  "druidism_attunement": {
+    "definition": "druidism_attunement",
+    "x": -100,
+    "y": 156,
+    "root": true
+  },
+  "druidism_resilience": {
+    "definition": "druidism_resilience",
+    "x": -103,
+    "y": 205
+  },
+  "druidism_bark": {
+    "definition": "druidism_bark",
+    "x": -143,
+    "y": 179
+  },
+  "druidism_unique": {
+    "definition": "druidism_unique",
+    "x": -147,
+    "y": 228
+  },
+  "druidism_power": {
+    "definition": "druidism_power",
+    "x": -147,
+    "y": 279
+  },
+  "druidism_b1": {
+    "definition": "druidism_b1",
+    "x": -192,
+    "y": 250
+  },
+  "druidism_a2": {
+    "definition": "druidism_a2",
+    "x": -169,
+    "y": 312
+  },
+  "druidism_b2": {
+    "definition": "druidism_b2",
+    "x": -214,
+    "y": 283
+  },
+  "druidism_mastery": {
+    "definition": "druidism_mastery",
+    "x": -190,
+    "y": 346
+  },
+  "druidism_b3": {
+    "definition": "druidism_b3",
+    "x": -236,
+    "y": 317
+  },
+  "druidism_capstone": {
+    "definition": "druidism_capstone",
+    "x": -238,
+    "y": 370
+  },
+  "voidwalking_attunement": {
+    "definition": "voidwalking_attunement",
+    "x": -168,
+    "y": 77,
+    "root": true
+  },
+  "voidwalking_resilience": {
+    "definition": "voidwalking_resilience",
+    "x": -197,
+    "y": 117
+  },
+  "voidwalking_efficiency": {
+    "definition": "voidwalking_efficiency",
+    "x": -217,
+    "y": 73
+  },
+  "voidwalking_unique": {
+    "definition": "voidwalking_unique",
+    "x": -247,
+    "y": 113
+  },
+  "voidwalking_power": {
+    "definition": "voidwalking_power",
+    "x": -274,
+    "y": 155
+  },
+  "voidwalking_b1": {
+    "definition": "voidwalking_b1",
+    "x": -297,
+    "y": 106
+  },
+  "voidwalking_a2": {
+    "definition": "voidwalking_a2",
+    "x": -311,
+    "y": 172
+  },
+  "voidwalking_b2": {
+    "definition": "voidwalking_b2",
+    "x": -333,
+    "y": 122
+  },
+  "voidwalking_mastery": {
+    "definition": "voidwalking_mastery",
+    "x": -347,
+    "y": 188
+  },
+  "voidwalking_b3": {
+    "definition": "voidwalking_b3",
+    "x": -370,
+    "y": 139
+  },
+  "voidwalking_capstone": {
+    "definition": "voidwalking_capstone",
+    "x": -400,
+    "y": 183
+  },
+  "hemomancy_attunement": {
+    "definition": "hemomancy_attunement",
+    "x": -183,
+    "y": -26,
+    "root": true
+  },
+  "hemomancy_resilience": {
+    "definition": "hemomancy_resilience",
+    "x": -229,
+    "y": -9
+  },
+  "hemomancy_efficiency": {
+    "definition": "hemomancy_efficiency",
+    "x": -222,
+    "y": -56
+  },
+  "hemomancy_unique": {
+    "definition": "hemomancy_unique",
+    "x": -268,
+    "y": -39
+  },
+  "hemomancy_power": {
+    "definition": "hemomancy_power",
+    "x": -315,
+    "y": -18
+  },
+  "hemomancy_b1": {
+    "definition": "hemomancy_b1",
+    "x": -307,
+    "y": -71
+  },
+  "hemomancy_a2": {
+    "definition": "hemomancy_a2",
+    "x": -354,
+    "y": -24
+  },
+  "hemomancy_b2": {
+    "definition": "hemomancy_b2",
+    "x": -347,
+    "y": -77
+  },
+  "hemomancy_mastery": {
+    "definition": "hemomancy_mastery",
+    "x": -394,
+    "y": -29
+  },
+  "hemomancy_b3": {
+    "definition": "hemomancy_b3",
+    "x": -386,
+    "y": -83
+  },
+  "hemomancy_capstone": {
+    "definition": "hemomancy_capstone",
+    "x": -436,
+    "y": -63
+  },
+  "evocation_attunement": {
+    "definition": "evocation_attunement",
+    "x": -140,
+    "y": -121,
+    "root": true
+  },
+  "evocation_resilience": {
+    "definition": "evocation_resilience",
+    "x": -188,
+    "y": -131
+  },
+  "evocation_efficiency": {
+    "definition": "evocation_efficiency",
+    "x": -157,
+    "y": -167
+  },
+  "evocation_unique": {
+    "definition": "evocation_unique",
+    "x": -205,
+    "y": -177
+  },
+  "evocation_power": {
+    "definition": "evocation_power",
+    "x": -255,
+    "y": -185
+  },
+  "evocation_b1": {
+    "definition": "evocation_b1",
+    "x": -220,
+    "y": -226
+  },
+  "evocation_a2": {
+    "definition": "evocation_a2",
+    "x": -285,
+    "y": -211
+  },
+  "evocation_b2": {
+    "definition": "evocation_b2",
+    "x": -250,
+    "y": -252
+  },
+  "evocation_mastery": {
+    "definition": "evocation_mastery",
+    "x": -315,
+    "y": -238
+  },
+  "evocation_b3": {
+    "definition": "evocation_b3",
+    "x": -280,
+    "y": -278
+  },
+  "evocation_capstone": {
+    "definition": "evocation_capstone",
+    "x": -333,
+    "y": -288
+  },
+  "alchemy_attunement": {
+    "definition": "alchemy_attunement",
+    "x": -52,
+    "y": -178,
+    "root": true
+  },
+  "alchemy_s1": {
+    "definition": "alchemy_s1",
+    "x": -87,
+    "y": -212
+  },
+  "alchemy_s2": {
+    "definition": "alchemy_s2",
+    "x": -41,
+    "y": -226
+  },
+  "alchemy_unique": {
+    "definition": "alchemy_unique",
+    "x": -76,
+    "y": -260
+  },
+  "alchemy_a1": {
+    "definition": "alchemy_a1",
+    "x": -114,
+    "y": -294
+  },
+  "alchemy_b1": {
+    "definition": "alchemy_b1",
+    "x": -63,
+    "y": -309
+  },
+  "alchemy_a2": {
+    "definition": "alchemy_a2",
+    "x": -126,
+    "y": -332
+  },
+  "alchemy_b2": {
+    "definition": "alchemy_b2",
+    "x": -74,
+    "y": -347
+  },
+  "alchemy_a3": {
+    "definition": "alchemy_a3",
+    "x": -137,
+    "y": -370
+  },
+  "alchemy_b3": {
+    "definition": "alchemy_b3",
+    "x": -85,
+    "y": -386
+  },
+  "alchemy_capstone": {
+    "definition": "alchemy_capstone",
+    "x": -124,
+    "y": -422
+  },
+  "fusion_cinder_pyromancy": {
+    "definition": "fusion_cinder_pyromancy",
+    "x": 91,
+    "y": -482
+  },
+  "fusion_lava_pyromancy": {
+    "definition": "fusion_lava_pyromancy",
+    "x": 137,
+    "y": -468
+  },
+  "fusion_vapor_pyromancy": {
+    "definition": "fusion_vapor_pyromancy",
+    "x": 184,
+    "y": -455
+  },
+  "fusion_cinder_stormcalling": {
+    "definition": "fusion_cinder_stormcalling",
+    "x": 337,
+    "y": -356
+  },
+  "fusion_silt_stormcalling": {
+    "definition": "fusion_silt_stormcalling",
+    "x": 369,
+    "y": -320
+  },
+  "fusion_tempest_stormcalling": {
+    "definition": "fusion_tempest_stormcalling",
+    "x": 400,
+    "y": -283
+  },
+  "fusion_mire_cryomancy": {
+    "definition": "fusion_mire_cryomancy",
+    "x": 476,
+    "y": -117
+  },
+  "fusion_tempest_cryomancy": {
+    "definition": "fusion_tempest_cryomancy",
+    "x": 483,
+    "y": -69
+  },
+  "fusion_vapor_cryomancy": {
+    "definition": "fusion_vapor_cryomancy",
+    "x": 490,
+    "y": -22
+  },
+  "fusion_lava_geomancy": {
+    "definition": "fusion_lava_geomancy",
+    "x": 464,
+    "y": 159
+  },
+  "fusion_mire_geomancy": {
+    "definition": "fusion_mire_geomancy",
+    "x": 444,
+    "y": 203
+  },
+  "fusion_silt_geomancy": {
+    "definition": "fusion_silt_geomancy",
+    "x": 424,
+    "y": 246
+  },
+  "archmage": {
+    "definition": "archmage",
+    "x": 0,
+    "y": 185,
+    "root": true
+  },
+  "cooldown_1": {
+    "definition": "cooldown_1",
+    "x": 41,
+    "y": 231
+  },
+  "cooldown_2": {
+    "definition": "cooldown_2",
+    "x": -41,
+    "y": 231
+  },
+  "eldritch_insight": {
+    "definition": "eldritch_insight",
+    "x": 0,
+    "y": 290
+  }
+}

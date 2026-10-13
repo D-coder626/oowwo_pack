@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#cnc:squonk_spawning",
+  "spawners": {
+    "type": "cnc:squonk",
+    "weight": 12,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "wayfarer_core:crucible_melting",
+  "ingredient": { "item": "bronze:bronze_ingot" },
+  "duration": 600,
+  "result": { "id": "wayfarer_core:molten_bronze", "amount": 250 }
+}

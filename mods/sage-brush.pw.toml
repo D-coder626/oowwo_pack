@@ -1,0 +1,13 @@
+name = "Sage Brush"
+filename = "sage_brush-1.21.1-2.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LUKC9brq/versions/oTkjezzM/sage_brush-1.21.1-2.2.4.jar"
+hash-format = "sha512"
+hash = "fb7da7fed7c96c54818176f576cbf080254a86635ffd15761979d8e9e9293049f0118481d34ff53742ce2cf19fccefa295364d26fa17f0e4c0774021192f1e2c"
+
+[update]
+[update.modrinth]
+mod-id = "LUKC9brq"
+version = "oTkjezzM"

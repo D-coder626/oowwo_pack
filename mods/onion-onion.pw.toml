@@ -1,0 +1,13 @@
+name = "Onion Onion"
+filename = "oniononion-3.1.0+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vC6rKlKN/versions/P0cjFqM9/oniononion-3.1.0%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "08d07b2355c71601bf46379a5c6555856de86011ed3c332fcbf55dcca9e8b37ae49f08142b3ee4e7d4318cd6d113b2a9ac7381bc6de1a6b349e576d588fd1ae3"
+
+[update]
+[update.modrinth]
+mod-id = "vC6rKlKN"
+version = "P0cjFqM9"

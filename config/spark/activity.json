@@ -1,0 +1,67 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "DrunkenTanuki21",
+      "uniqueId": "38ff2d03-8cb4-458d-84ba-6f8d8b412b29"
+    },
+    "time": 1791335331011,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\talyb\\AppData\\Roaming\\PrismLauncher\\instances\\oowwo-1.0.0\\minecraft\\config\\spark\\profile-2026-10-06_20.08.50.sparkprofile"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "DrunkenTanuki21",
+      "uniqueId": "38ff2d03-8cb4-458d-84ba-6f8d8b412b29"
+    },
+    "time": 1791335166396,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Suit2t9Ox6"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "DrunkenTanuki21",
+      "uniqueId": "38ff2d03-8cb4-458d-84ba-6f8d8b412b29"
+    },
+    "time": 1789911318895,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\talyb\\AppData\\Roaming\\PrismLauncher\\instances\\oowwo-1.0.0\\minecraft\\config\\spark\\profile-2026-09-20_08.35.18.sparkprofile"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "DrunkenTanuki21",
+      "uniqueId": "38ff2d03-8cb4-458d-84ba-6f8d8b412b29"
+    },
+    "time": 1787953421398,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/XOrgmWYpdM"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "DrunkenTanuki21",
+      "uniqueId": "38ff2d03-8cb4-458d-84ba-6f8d8b412b29"
+    },
+    "time": 1787769777842,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/y4MKHwPahZ"
+    }
+  }
+]

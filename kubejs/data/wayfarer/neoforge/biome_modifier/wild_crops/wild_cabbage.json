@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#wayfarer:has_cabbage",
+  "features": "wayfarer:wild_cabbage",
+  "step": "vegetal_decoration"
+}

@@ -1,0 +1,313 @@
+{
+  "survivor": {
+    "definition": "survivor",
+    "x": 0,
+    "y": 0,
+    "root": true
+  },
+  "toughness_1": {
+    "definition": "toughness_1",
+    "x": 43,
+    "y": -14
+  },
+  "toughness_2": {
+    "definition": "toughness_2",
+    "x": 86,
+    "y": -28
+  },
+  "battle_hardened": {
+    "definition": "battle_hardened",
+    "x": 128,
+    "y": -42
+  },
+  "recovery_1": {
+    "definition": "recovery_1",
+    "x": 26,
+    "y": 36
+  },
+  "recovery_2": {
+    "definition": "recovery_2",
+    "x": 53,
+    "y": 73
+  },
+  "adrenaline": {
+    "definition": "adrenaline",
+    "x": 79,
+    "y": 109
+  },
+  "footwork": {
+    "definition": "footwork",
+    "x": -43,
+    "y": -14
+  },
+  "lunge": {
+    "definition": "lunge",
+    "x": -86,
+    "y": -28
+  },
+  "steady_stance": {
+    "definition": "steady_stance",
+    "x": -128,
+    "y": -42
+  },
+  "keen_eye_1": {
+    "definition": "keen_eye_1",
+    "x": -26,
+    "y": 36
+  },
+  "keen_eye_2": {
+    "definition": "keen_eye_2",
+    "x": -53,
+    "y": 73
+  },
+  "riposte": {
+    "definition": "riposte",
+    "x": -79,
+    "y": 109
+  },
+  "warrior_start": {
+    "definition": "warrior_start",
+    "x": 181,
+    "y": 59,
+    "root": true
+  },
+  "warrior_s1": {
+    "definition": "warrior_s1",
+    "x": 229,
+    "y": 49
+  },
+  "warrior_s2": {
+    "definition": "warrior_s2",
+    "x": 214,
+    "y": 95
+  },
+  "warrior_unique": {
+    "definition": "warrior_unique",
+    "x": 262,
+    "y": 85
+  },
+  "warrior_a1": {
+    "definition": "warrior_a1",
+    "x": 312,
+    "y": 73
+  },
+  "warrior_b1": {
+    "definition": "warrior_b1",
+    "x": 295,
+    "y": 124
+  },
+  "warrior_a2": {
+    "definition": "warrior_a2",
+    "x": 350,
+    "y": 85
+  },
+  "warrior_b2": {
+    "definition": "warrior_b2",
+    "x": 333,
+    "y": 137
+  },
+  "warrior_a3": {
+    "definition": "warrior_a3",
+    "x": 388,
+    "y": 98
+  },
+  "warrior_b3": {
+    "definition": "warrior_b3",
+    "x": 371,
+    "y": 149
+  },
+  "warrior_capstone": {
+    "definition": "warrior_capstone",
+    "x": 423,
+    "y": 138
+  },
+  "rogue_start": {
+    "definition": "rogue_start",
+    "x": 112,
+    "y": -154,
+    "root": true
+  },
+  "rogue_s1": {
+    "definition": "rogue_s1",
+    "x": 118,
+    "y": -203
+  },
+  "rogue_s2": {
+    "definition": "rogue_s2",
+    "x": 156,
+    "y": -174
+  },
+  "rogue_unique": {
+    "definition": "rogue_unique",
+    "x": 162,
+    "y": -223
+  },
+  "rogue_a1": {
+    "definition": "rogue_a1",
+    "x": 166,
+    "y": -274
+  },
+  "rogue_b1": {
+    "definition": "rogue_b1",
+    "x": 209,
+    "y": -242
+  },
+  "rogue_a2": {
+    "definition": "rogue_a2",
+    "x": 189,
+    "y": -306
+  },
+  "rogue_b2": {
+    "definition": "rogue_b2",
+    "x": 233,
+    "y": -275
+  },
+  "rogue_a3": {
+    "definition": "rogue_a3",
+    "x": 213,
+    "y": -339
+  },
+  "rogue_b3": {
+    "definition": "rogue_b3",
+    "x": 256,
+    "y": -307
+  },
+  "rogue_capstone": {
+    "definition": "rogue_capstone",
+    "x": 262,
+    "y": -360
+  },
+  "ranger_start": {
+    "definition": "ranger_start",
+    "x": -112,
+    "y": -154,
+    "root": true
+  },
+  "ranger_s1": {
+    "definition": "ranger_s1",
+    "x": -156,
+    "y": -174
+  },
+  "ranger_s2": {
+    "definition": "ranger_s2",
+    "x": -118,
+    "y": -203
+  },
+  "ranger_unique": {
+    "definition": "ranger_unique",
+    "x": -162,
+    "y": -223
+  },
+  "ranger_a1": {
+    "definition": "ranger_a1",
+    "x": -209,
+    "y": -242
+  },
+  "ranger_b1": {
+    "definition": "ranger_b1",
+    "x": -166,
+    "y": -274
+  },
+  "ranger_a2": {
+    "definition": "ranger_a2",
+    "x": -233,
+    "y": -275
+  },
+  "ranger_b2": {
+    "definition": "ranger_b2",
+    "x": -189,
+    "y": -306
+  },
+  "ranger_a3": {
+    "definition": "ranger_a3",
+    "x": -256,
+    "y": -307
+  },
+  "ranger_b3": {
+    "definition": "ranger_b3",
+    "x": -213,
+    "y": -339
+  },
+  "ranger_capstone": {
+    "definition": "ranger_capstone",
+    "x": -262,
+    "y": -360
+  },
+  "vanguard_start": {
+    "definition": "vanguard_start",
+    "x": -181,
+    "y": 59,
+    "root": true
+  },
+  "vanguard_s1": {
+    "definition": "vanguard_s1",
+    "x": -214,
+    "y": 95
+  },
+  "vanguard_s2": {
+    "definition": "vanguard_s2",
+    "x": -229,
+    "y": 49
+  },
+  "vanguard_unique": {
+    "definition": "vanguard_unique",
+    "x": -262,
+    "y": 85
+  },
+  "vanguard_a1": {
+    "definition": "vanguard_a1",
+    "x": -295,
+    "y": 124
+  },
+  "vanguard_b1": {
+    "definition": "vanguard_b1",
+    "x": -312,
+    "y": 73
+  },
+  "vanguard_a2": {
+    "definition": "vanguard_a2",
+    "x": -333,
+    "y": 137
+  },
+  "vanguard_b2": {
+    "definition": "vanguard_b2",
+    "x": -350,
+    "y": 85
+  },
+  "vanguard_a3": {
+    "definition": "vanguard_a3",
+    "x": -371,
+    "y": 149
+  },
+  "vanguard_b3": {
+    "definition": "vanguard_b3",
+    "x": -388,
+    "y": 98
+  },
+  "vanguard_capstone": {
+    "definition": "vanguard_capstone",
+    "x": -423,
+    "y": 138
+  },
+  "veteran": {
+    "definition": "veteran",
+    "x": 0,
+    "y": 200,
+    "root": true
+  },
+  "war_weary": {
+    "definition": "war_weary",
+    "x": 43,
+    "y": 246
+  },
+  "old_wounds": {
+    "definition": "old_wounds",
+    "x": -43,
+    "y": 246
+  },
+  "legend": {
+    "definition": "legend",
+    "x": 0,
+    "y": 305
+  }
+}

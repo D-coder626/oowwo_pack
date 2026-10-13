@@ -1,0 +1,13 @@
+name = "Infernos Otter Taming"
+filename = "ottertaming-1.21.1-NeoForge-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hDnX08L0/versions/y1xZMC9C/ottertaming-1.21.1-NeoForge-1.0.2.jar"
+hash-format = "sha512"
+hash = "553b0afb3f341aaa464efe3a038e41dfec615a68ebd6e417f194345017695cac51275da53d2b36d28caa5085a098446b3fb7c1de8099dad5d9f81c014a3d9a6e"
+
+[update]
+[update.modrinth]
+mod-id = "hDnX08L0"
+version = "y1xZMC9C"

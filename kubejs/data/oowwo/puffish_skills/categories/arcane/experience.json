@@ -1,0 +1,33 @@
+{
+  "experience_per_level": {
+    "type": "expression",
+    "data": {
+      "expression": "40 + 12 * level"
+    }
+  },
+  "level_limit": 30,
+  "sources": [
+    {
+      "type": "pufferfish_unofficial_additions:spell_casting",
+      "data": {
+        "variables": {
+          "mana_cost": {
+            "operations": [
+              {
+                "type": "mana_cost"
+              }
+            ]
+          },
+          "level": {
+            "operations": [
+              {
+                "type": "level"
+              }
+            ]
+          }
+        },
+        "experience": "2 + mana_cost / 10 + level"
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+ "pools": [
+  {
+   "rolls": 1,
+   "bonus_rolls": 0,
+   "entries": [
+    {
+     "type": "minecraft:loot_table",
+     "weight": 200,
+     "value": {
+      "pools": [
+       {
+        "rolls": 1,
+        "entries": [
+         {
+          "type": "minecraft:item",
+          "name": "minecraft:potato",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "minecraft:carrot",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "minecraft:beetroot_seeds",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "minecraft:glow_berries",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "hexerei:mandrake_plant",
+          "weight": 1
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "type": "minecraft:loot_table",
+     "weight": 800,
+     "value": {
+      "pools": [
+       {
+        "rolls": 1,
+        "entries": [
+         {
+          "type": "minecraft:item",
+          "weight": 20,
+          "name": "spelunkery:tangle_roots"
+         },
+         {
+          "type": "minecraft:item",
+          "weight": 20,
+          "name": "minecraft:hanging_roots"
+         },
+         {
+          "type": "minecraft:item",
+          "weight": 20,
+          "name": "minecraft:string"
+         },
+         {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:poisonous_potato"
+         },
+         {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:beetroot"
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}

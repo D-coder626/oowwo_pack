@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#cnc:howler_spawning",
+  "spawners": {
+    "type": "cnc:howler",
+    "weight": 10,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

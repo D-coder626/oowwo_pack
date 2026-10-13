@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#cnc:beaver_spawning",
+  "spawners": {
+    "type": "cnc:beaver",
+    "weight": 16,
+    "minCount": 1,
+    "maxCount": 2
+  }
+}

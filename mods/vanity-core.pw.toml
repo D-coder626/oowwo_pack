@@ -1,0 +1,13 @@
+name = "Vanity: Core"
+filename = "vanity-neoforge-1.21.1-5.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kEcg2xYc/versions/QAqYAkRv/vanity-neoforge-1.21.1-5.0.3.jar"
+hash-format = "sha512"
+hash = "1210e2e72e6f1c2663c129ff65b78dba5d9512da44e51b89302b7fa29c201873ce552f010291f02cc565e047d1d17da4018e7d0b2e9cd6a6125eb42552b96b6d"
+
+[update]
+[update.modrinth]
+mod-id = "kEcg2xYc"
+version = "QAqYAkRv"

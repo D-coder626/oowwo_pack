@@ -1,0 +1,62 @@
+{
+	"type": "nomansland:multispread_patch",
+	"config": {
+		"try_density": 2.5,
+		"xz_spread": {
+			"type": "minecraft:uniform",
+			"min_inclusive": 4,
+			"max_inclusive": 8
+		  },
+		"y_spread": 3,
+		"sparseness": 2,
+		"features": [
+		
+			{
+				"feature": {
+					"type": "minecraft:simple_block",
+					"config": {
+						"to_place": {
+							"type": "minecraft:simple_state_provider",
+							"state": {
+								"Name": "farmersdelight:wild_rice"
+							}
+						}
+					}
+				},
+				"placement": [
+					{
+					  "type": "minecraft:block_predicate_filter",
+					  "predicate": {
+						"type": "minecraft:matching_blocks",
+						"blocks": "minecraft:air"
+					  }
+					}
+				]
+			},
+			
+			{
+				"feature": {
+					"type": "minecraft:simple_block",
+					"config": {
+						"to_place": {
+							"type": "minecraft:simple_state_provider",
+							"state": {
+								"Name": "nomansland:reeds"
+							}
+						}
+					}
+				},
+				"placement": [
+					{
+					  "type": "minecraft:block_predicate_filter",
+					  "predicate": {
+						"type": "minecraft:matching_blocks",
+						"blocks": "minecraft:air"
+					  }
+					}
+				]
+			}
+			
+    ]
+	}
+}

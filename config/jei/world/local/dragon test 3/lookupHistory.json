@@ -1,0 +1,19 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"createdeco:maroon_shipping_container"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"dye_depot:maroon_concrete"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"productivebees:advanced_quark_blossom_beehive"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"productivebees:advanced_acacia_beehive"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"productivebees:teal_petrified_honey"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"productivebees:maroon_petrified_honey"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"productivebees:verdant_petrified_honey"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"comforts:hammock_ginger"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"comforts:hammock_slate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"comforts:hammock_olive"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"comforts:hammock_amber"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"comforts:sleeping_bag_verdant"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"comforts:sleeping_bag_purple"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"comforts:sleeping_bag_light_gray"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"comforts:sleeping_bag_maroon"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"comforts:sleeping_bag_black"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

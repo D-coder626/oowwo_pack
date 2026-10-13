@@ -1,0 +1,6 @@
+{
+  "type": "wayfarer_core:crucible_melting",
+  "ingredient": { "item": "bronze:raw_tin" },
+  "duration": 600,
+  "result": { "id": "wayfarer_core:molten_tin", "amount": 250 }
+}

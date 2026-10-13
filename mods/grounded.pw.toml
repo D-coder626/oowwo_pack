@@ -1,0 +1,13 @@
+name = "Grounded"
+filename = "grounded-neoforge-1.21.1-0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/65WUS6p6/versions/rMOW6kM5/grounded-neoforge-1.21.1-0.2.0.jar"
+hash-format = "sha512"
+hash = "5f2b4389826ee4d2a3a83478c886338666ca321e18f66a0e7c22a04906714907684ffe5f4f8173217e7fdd33104ddd6e7e4c4d193eec52a0c63da438a4d558fa"
+
+[update]
+[update.modrinth]
+mod-id = "65WUS6p6"
+version = "rMOW6kM5"

@@ -1,0 +1,34 @@
+filename = 'cheaper-maps-1.2.jar'
+name = 'Cheaper Maps'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11',
+    '26.1',
+    '26.1.1',
+    '26.1.2'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2+mod'
+
+[download]
+hash = 'bda3c9eb56358fa3a2471c14fde5aec28e06517d2da0eab28d9fa11e8ccd0fb80901efca9a79711ad418cd2fe8af545137517a88b858e1f6c4be7c32c70e8217'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZLppFg51/versions/DMV9aGIr/cheaper-maps-1.2.jar'
+
+[update.modrinth]
+mod-id = 'ZLppFg51'
+version = 'DMV9aGIr'

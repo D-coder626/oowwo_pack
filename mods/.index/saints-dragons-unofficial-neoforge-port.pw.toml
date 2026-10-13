@@ -1,0 +1,18 @@
+filename = 'saintsdragons-neoforge-1.21.1-port.4-test.jar'
+name = "Saint's Dragons [Unofficial NeoForge Port]"
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'saintsdragons-neoforge-1.21.1-port.4-test.jar'
+
+[download]
+hash = '235ad8117102db997911cf317f2b13c5084f590e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9002587
+project-id = 1716699

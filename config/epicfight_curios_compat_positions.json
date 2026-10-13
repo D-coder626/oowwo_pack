@@ -1,0 +1,32 @@
+{
+  "overrides": {
+    "lantern|0|minecraft:lantern": {
+      "x": -0.07500005,
+      "y": -0.47500002,
+      "z": 0.0,
+      "rotX": -193.5,
+      "rotY": 0.0,
+      "rotZ": 0.0,
+      "scale": 1.0
+    },
+    "crafting_on_a_stick|0|crafting_on_a_stick:crafting_table": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "rotX": 0.0,
+      "rotY": 0.0,
+      "rotZ": 0.0,
+      "scale": 0.1
+    },
+    "back|0|yyzsbackpack:iron_backpack": {
+      "x": 0.025000095,
+      "y": 0.0,
+      "z": 0.0,
+      "rotX": 0.0,
+      "rotY": 0.0,
+      "rotZ": 0.0,
+      "scale": 0.1
+    }
+  },
+  "sittingOverrides": {}
+}

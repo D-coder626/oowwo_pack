@@ -1,0 +1,13 @@
+name = "oowwo"
+author = "Derek"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e384cf02ade9bdc05b0d7a1a95b11fb8fe1e8cc4112fcb1df35aaf458cceda8c"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.248"

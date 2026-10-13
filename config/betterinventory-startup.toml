@@ -1,0 +1,34 @@
+[general]
+	#Allow placing backpacks as blocks (sneak + right click on a block).
+	#Turn off if backpacks should only work equipped in the inventory.
+	backpackPlaceable = true
+	#Allow opening a held or placed backpack with right click (the standalone backpack
+	#screen). Turn off if backpacks should only be usable through the inventory tabs.
+	backpackOpenable = true
+
+[stacks]
+	#VANILLA: normal stacks stay 64 and stack upgrades grant 96/128/192/256/384/512/1024.
+	#HUNDRED: normal 64-stack items stack to 100 and stack upgrades grant 200/300/400/500/750/999.
+	#Stack upgrades only apply inside BetterInventory storage (the gather hub and backpack tabs).
+	#Allowed Values: VANILLA, HUNDRED
+	stackMode = "VANILLA"
+
+[upgrades]
+	#Radius in blocks of the LEVEL V Magnet upgrade. Lower levels scale down from this
+	#(level I pulls from about a third of it).
+	# Default: 12
+	# Range: 2 ~ 24
+	magnetRadius = 12
+	#Multiplier for how strongly the Magnet upgrade pulls items toward you.
+	# Default: 1.0
+	# Range: 0.25 ~ 3.0
+	magnetPullStrength = 1.0
+	#How often (in ticks) the Magnet upgrade pulls nearby items. Lower is smoother and stronger.
+	# Default: 2
+	# Range: 1 ~ 20
+	magnetInterval = 2
+	#The LEVEL V Feeding upgrade eats when your hunger is at or below this many points
+	#(out of 20). Each lower level triggers 3 points later.
+	# Default: 14
+	# Range: 1 ~ 19
+	feedingThreshold = 14

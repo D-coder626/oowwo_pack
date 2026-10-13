@@ -1,0 +1,13 @@
+name = "toucanLib"
+filename = "toucanlib-neoforge-1.21.1-0.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dXwOQg6L/versions/P94uBT4o/toucanlib-neoforge-1.21.1-0.4.0.jar"
+hash-format = "sha512"
+hash = "a8d0c72ccb09ac0eceda88370c410ae127d10092d32f548311a6b595d27c0c6c86e6a95344ee2ddb06879bea65117df8eb1f6d0560c5c7eb1b4b4d326e2c0f0e"
+
+[update]
+[update.modrinth]
+mod-id = "dXwOQg6L"
+version = "P94uBT4o"

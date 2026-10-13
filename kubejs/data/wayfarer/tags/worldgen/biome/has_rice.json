@@ -1,0 +1,9 @@
+{
+  "values": [
+    "#c:is_wet"
+  ],
+  "remove":[
+    "#minecraft:is_river",
+    "#minecraft:is_beach"
+  ]
+}

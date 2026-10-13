@@ -1,0 +1,13 @@
+["vanilla overrides"]
+	#Changes plants so they are placeable on more block types, like mossy blocks & packed mud. These use a new block tag - abundant_atmosphere:plant_placeable
+	plant_placement_changes = true
+	#Changes bamboo recipes so bamboo blocks work as storage blocks & planks can be crafted from regular bamboo. These changes apply to Bamboo & Red Bamboo
+	bamboo_recipe_rework = true
+
+["biome generation"]
+	#Determines if custom biomes are enabled
+	biomes = true
+	#Determines if Eroded Basalt Jungles are enabled & generate
+	eroded_basalt_jungle = true
+	#Determines if Geothermal Gardens are enabled & generate
+	geothermal_garden = true

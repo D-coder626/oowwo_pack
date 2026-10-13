@@ -1,0 +1,13 @@
+name = "Blocks Abound"
+filename = "blocksabound-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iIQCWW5p/versions/FA7fiSfl/blocksabound-0.3.0.jar"
+hash-format = "sha512"
+hash = "9e6756e9fe4b6c7992876a0de2f7a6aaf7482fa76f9624a2fbf078c7ea0693497446337e009c88ee8e21afc4512b17b9e547bcc3c4b8debe4725d6b2263b5009"
+
+[update]
+[update.modrinth]
+mod-id = "iIQCWW5p"
+version = "FA7fiSfl"

@@ -1,0 +1,13 @@
+name = "Peaceful Harvest and Blue Moons"
+filename = "Safe-Moons-Replace-1.21.1-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dyeNMs9F/versions/RxTz7Y0F/Safe-Moons-Replace-1.21.1-1.0.4.jar"
+hash-format = "sha512"
+hash = "c509e92dfd5238c766cc2813b80124066f77217c783696cde9fa748cd13ddc9cca79afa2a9f762d61811ad5228b4febac80edc659a5873222fe8742660ddbfad"
+
+[update]
+[update.modrinth]
+mod-id = "dyeNMs9F"
+version = "RxTz7Y0F"

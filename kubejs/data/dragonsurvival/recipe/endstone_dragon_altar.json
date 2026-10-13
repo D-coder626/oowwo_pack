@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "eHe",
+    "eCe",
+    "eBe"
+  ],
+  "key": {
+    "e": {
+      "item": "minecraft:end_stone"
+    },
+    "H": {
+      "item": "minecraft:dragon_head"
+    },
+    "C": {
+      "item": "dragonsurvival:elder_dragon_heart"
+    },
+    "B": {
+      "item": "minecraft:dragon_breath"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "dragonsurvival:endstone_dragon_altar"
+  }
+}

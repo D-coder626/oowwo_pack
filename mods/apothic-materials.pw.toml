@@ -1,0 +1,13 @@
+name = "Apothic Materials"
+filename = "apothic_materials-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a5a1eda2fb9e7bec717d568be00838ab558e1f7f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6120381
+project-id = 1186188

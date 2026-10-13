@@ -1,0 +1,13 @@
+name = "Dimensional Dungeons"
+filename = "dimdungeons-209-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "36949ca181603b0a9379f6a440d3718737b1f845"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8140047
+project-id = 352222

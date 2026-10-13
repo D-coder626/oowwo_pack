@@ -1,0 +1,18 @@
+{
+  "title": "Wayfarer",
+  "icon": {
+    "type": "item",
+    "data": {
+      "item": "minecraft:compass"
+    }
+  },
+  "background": {
+    "texture": "minecraft:textures/block/spruce_planks.png",
+    "width": 16,
+    "height": 16,
+    "position": "tile"
+  },
+  "description": "Life on the road: taming, farming, fishing, cooking, delving and travel. Spend 5 points in this tree to open the Callings. Pick any two Callings; Seasoned Traveler opens at 20 points.",
+  "unlocked_by_default": true,
+  "starting_points": 0
+}

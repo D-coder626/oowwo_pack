@@ -1,0 +1,4 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"minecraft:golden_chestplate","components":"{\"apotheosis:affix_name\":{color:\"#808080\",italic:0b,translate:\"misc.apotheosis.affix_name.three\",with:[{translate:\"affix.apotheosis:armor/attribute/gravitational\"},{\"\":\"\"},{translate:\"affix.apotheosis:armor/attribute/ironforged.suffix\"}]},\"apotheosis:affixes\":{\"apotheosis:armor/attribute/gravitational\":0.10058522f,\"apotheosis:armor/attribute/ironforged\":0.2963022f},\"apotheosis:from_chest\":1b,\"apotheosis:rarity\":\"apotheosis:common\",\"minecraft:damage\":1}"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

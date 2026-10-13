@@ -1,0 +1,8 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"epicfight:stone_spear","components":"{\"minecraft:damage\":3,\"simplyswords:weapon_implicit\":{implicit_id:\"simplyswords:spear_armor_pierce\",value:20,weapon_type:\"simplyswords:spear\"}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cnc:field_guide"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ars_nouveau:archwood_planks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:andesite"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"quark:tweaks/crafting/utility/better_stone_tools/pickaxe","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"}
+]

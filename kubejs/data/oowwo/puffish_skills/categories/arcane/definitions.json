@@ -1,0 +1,4231 @@
+{
+  "initiate": {
+    "title": "Initiate",
+    "description": "+10 Max Mana\nSpend 5 points in this tree to open the Schools. Pick any two Schools. Archmage opens at 20 points spent.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:mana_upgrade_orb"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:max_mana",
+          "value": 10,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 0
+  },
+  "mana_well_1": {
+    "title": "Mana Well I",
+    "description": "+15 Max Mana",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:mana_ring"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:max_mana",
+          "value": 15,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "mana_well_2": {
+    "title": "Mana Well II",
+    "description": "+15 Max Mana",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:mana_ring"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:max_mana",
+          "value": 15,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "meditation": {
+    "title": "Meditation",
+    "description": "Crouch still for 2 seconds to double your mana regeneration.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:mana_upgrade_orb"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_meditation"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "focus": {
+    "title": "Focus",
+    "description": "+3% Cast Time Reduction",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:cast_time_ring"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:cast_time_reduction",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "flow": {
+    "title": "Flow",
+    "description": "+5% Mana Regeneration",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:mana_upgrade_orb"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:mana_regen",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "glyph_economy": {
+    "title": "Glyph Economy",
+    "description": "Ars Nouveau spells cost 10% less mana.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "ars_nouveau:novice_spell_book"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_glyph_economy"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "warding_1": {
+    "title": "Warding I",
+    "description": "+3% Spell Resistance",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:protection_upgrade_orb"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:spell_resist",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "warding_2": {
+    "title": "Warding II",
+    "description": "+3% Spell Resistance",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:protection_upgrade_orb"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:spell_resist",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "witchsight": {
+    "title": "Witchsight",
+    "description": "While holding a spellbook or staff, invisible creatures within 16 blocks glow.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:ender_eye"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_witchsight"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "alchemists_patience": {
+    "title": "Alchemist's Patience",
+    "description": "+20% potion effect duration",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:potion"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:ars_nouveau.perk.wixie",
+          "value": 0.2,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "featherfall": {
+    "title": "Featherfall Training",
+    "description": "-25% fall damage",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:feather"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:ars_nouveau.perk.feather",
+          "value": 0.25,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "spellbound_scavenger": {
+    "title": "Spellbound Scavenger",
+    "description": "Creatures slain by your spells have a 5% chance to drop Arcane Essence.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:arcane_essence"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_spellbound_scavenger"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "technomancer": {
+    "title": "Technomancer",
+    "description": "Ars spells that contain any Ars Technica glyph (Press, Polish, Whirl, Carve, Fuse...) cost 25% less mana.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "ars_technica:runic_spanner"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_technomancer"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "pyromancy_attunement": {
+    "title": "Pyromancy: Attunement",
+    "description": "Requires 5 points spent in this tree. Pick any two Schools; the rest lock.\n+8% Fire Spell Power\n+1 Ars Fire power (Ars Fire glyphs deal +1 damage)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:fire_upgrade_orb"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:fire_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:sauce.perk.fire_power",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1,
+    "required_spent_points": 5,
+    "required_exclusions": 2
+  },
+  "pyromancy_resilience": {
+    "title": "Pyromancy: Resilience",
+    "description": "+5% Fire Magic Resistance\n-5% damage from Ars Fire spells",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:fire_rune"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:fire_magic_resist",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:sauce.perk.fire_resistance",
+          "value": 7,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "pyromancy_efficiency": {
+    "title": "Pyromancy: Efficiency",
+    "description": "Ars Fire glyphs cost 5% less mana.\nFocus Resonance: while an Ars Elemental Focus of Fire is equipped, +10% Fire Spell Power and +10% Mana Regeneration.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "ars_nouveau:source_gem"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:sauce.perk.mana_discount.fire",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_resonance_pyromancy"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "pyromancy_unique": {
+    "title": "Pyromancy: Ember Heart",
+    "description": "Requires both nodes below it.\n-50% fire damage taken; creatures you kill with fire drop cooked food.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:blaze_powder"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_ember_heart"
+        }
+      }
+    ],
+    "cost": 2,
+    "required_skills": 2
+  },
+  "pyromancy_power": {
+    "title": "Pyromancy: Power",
+    "description": "+5% Fire Spell Power",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:fire_upgrade_orb"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:fire_spell_power",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "pyromancy_a2": {
+    "title": "Pyromancy: Searing Touch",
+    "description": "+1 fire damage on hit",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:flint_and_steel"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "apothic_attributes:fire_damage",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "pyromancy_mastery": {
+    "title": "Pyromancy: Mastery",
+    "description": "+7% Fire Spell Power, +5% Fire Magic Resistance\n+1 Ars Fire power",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:fire_rune"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:fire_spell_power",
+          "value": 0.07,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:fire_magic_resist",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:sauce.perk.fire_power",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "pyromancy_b1": {
+    "title": "Pyromancy: Cinderborn",
+    "description": "Ember Heart: fire damage taken is reduced by 75% instead of 50%.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:magma_cream"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_cinderborn"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "pyromancy_b2": {
+    "title": "Pyromancy: Kindled Soul",
+    "description": "While you are on fire, +10% Fire Spell Power.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:campfire"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_kindled_soul"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "pyromancy_b3": {
+    "title": "Pyromancy: Magma Skin",
+    "description": "Ember Heart also halves lava damage.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:magma_block"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_magma_skin"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "pyromancy_capstone": {
+    "title": "Pyromancy: Inferno",
+    "description": "Requires either branch below it.\nCreatures you kill with fire burst into flame, setting enemies within 6 blocks on fire for 8 seconds. Enemies it sets on fire spread it again when they die.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:fire_charge"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_inferno"
+        }
+      }
+    ],
+    "cost": 3
+  },
+  "stormcalling_attunement": {
+    "title": "Stormcalling: Attunement",
+    "description": "Requires 5 points spent in this tree. Pick any two Schools; the rest lock.\n+8% Lightning Spell Power\n+1 Ars Air power (Ars Air glyphs deal +1 damage)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:lightning_upgrade_orb"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:lightning_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:sauce.perk.air_power",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1,
+    "required_spent_points": 5,
+    "required_exclusions": 2
+  },
+  "stormcalling_resilience": {
+    "title": "Stormcalling: Resilience",
+    "description": "+5% Lightning Magic Resistance\n-5% damage from Ars Air spells",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:lightning_rune"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:lightning_magic_resist",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:sauce.perk.air_resistance",
+          "value": 7,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "stormcalling_efficiency": {
+    "title": "Stormcalling: Efficiency",
+    "description": "Ars Air glyphs cost 5% less mana.\nFocus Resonance: while an Ars Elemental Focus of Air is equipped, +10% Lightning Spell Power and +10% Mana Regeneration.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "ars_nouveau:source_gem"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:sauce.perk.mana_discount.air",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_resonance_stormcalling"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "stormcalling_unique": {
+    "title": "Stormcalling: Stormborn",
+    "description": "Requires both nodes below it.\nImmune to lightning; Speed I while it rains.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:lightning_rod"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_stormborn"
+        }
+      }
+    ],
+    "cost": 2,
+    "required_skills": 2
+  },
+  "stormcalling_power": {
+    "title": "Stormcalling: Power",
+    "description": "+5% Lightning Spell Power",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:lightning_upgrade_orb"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:lightning_spell_power",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "stormcalling_a2": {
+    "title": "Stormcalling: Quickcast",
+    "description": "+15% movement speed while casting",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:feather"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:casting_movespeed",
+          "value": 0.15,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "stormcalling_mastery": {
+    "title": "Stormcalling: Mastery",
+    "description": "+7% Lightning Spell Power, +5% Lightning Magic Resistance\n+1 Ars Air power",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:lightning_rune"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:lightning_spell_power",
+          "value": 0.07,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:lightning_magic_resist",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:sauce.perk.air_power",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "stormcalling_b1": {
+    "title": "Stormcalling: Static Build-up",
+    "description": "+10% Lightning Spell Power while it rains or thunders.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:copper_ingot"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_static_buildup"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "stormcalling_b2": {
+    "title": "Stormcalling: Conductor",
+    "description": "In the rain, your melee hits arc a 2-damage shock to one nearby enemy (every 10 seconds).",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:copper_block"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_conductor"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "stormcalling_b3": {
+    "title": "Stormcalling: Wet Wired",
+    "description": "Stormborn also works while you stand in water.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:water_bucket"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_wet_wired"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "stormcalling_capstone": {
+    "title": "Stormcalling: Thunderlord",
+    "description": "Requires either branch below it.\nIn the rain, lightning strikes whatever hits you and whatever you hit in melee (10 second cooldown).",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:trident"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_thunderlord"
+        }
+      }
+    ],
+    "cost": 3
+  },
+  "cryomancy_attunement": {
+    "title": "Cryomancy: Attunement",
+    "description": "Requires 5 points spent in this tree. Pick any two Schools; the rest lock.\n+8% Ice Spell Power\n+1 Ars Water power (Ars Water glyphs deal +1 damage)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:ice_upgrade_orb"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:ice_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:sauce.perk.water_power",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1,
+    "required_spent_points": 5,
+    "required_exclusions": 2
+  },
+  "cryomancy_resilience": {
+    "title": "Cryomancy: Resilience",
+    "description": "+5% Ice Magic Resistance\n-5% damage from Ars Water spells",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:ice_rune"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:ice_magic_resist",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:sauce.perk.water_resistance",
+          "value": 7,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "cryomancy_efficiency": {
+    "title": "Cryomancy: Efficiency",
+    "description": "Ars Water glyphs cost 5% less mana.\nFocus Resonance: while an Ars Elemental Focus of Water is equipped, +10% Ice Spell Power and +10% Mana Regeneration.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "ars_nouveau:source_gem"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:sauce.perk.mana_discount.water",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_resonance_cryomancy"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "cryomancy_unique": {
+    "title": "Cryomancy: Winter's Child",
+    "description": "Requires both nodes below it.\nWalk on powder snow; immune to freezing.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:powder_snow_bucket"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "walk_on_powder_snow"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_winters_child"
+        }
+      }
+    ],
+    "cost": 2,
+    "required_skills": 2
+  },
+  "cryomancy_power": {
+    "title": "Cryomancy: Power",
+    "description": "+5% Ice Spell Power",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:ice_upgrade_orb"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:ice_spell_power",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "cryomancy_a2": {
+    "title": "Cryomancy: Rime",
+    "description": "+1 cold damage on hit; +25% movement speed on snow",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:snowball"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "apothic_attributes:cold_damage",
+          "value": 1,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "artifacts:generic.movement_speed_on_snow",
+          "value": 0.25,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "cryomancy_mastery": {
+    "title": "Cryomancy: Mastery",
+    "description": "+7% Ice Spell Power, +5% Ice Magic Resistance\n+1 Ars Water power",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:ice_rune"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:ice_spell_power",
+          "value": 0.07,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:ice_magic_resist",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:sauce.perk.water_power",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "cryomancy_b1": {
+    "title": "Cryomancy: Frost Aura",
+    "description": "Enemies that hit you are Chilled for 2 seconds.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:packed_ice"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_frost_aura"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "cryomancy_b2": {
+    "title": "Cryomancy: Hoarfrost",
+    "description": "Chilled or freezing enemies take 10% more damage from you.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:ice"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_hoarfrost"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "cryomancy_b3": {
+    "title": "Cryomancy: Glacial Skin",
+    "description": "While standing on snow or ice, +2 Armor Toughness.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:snow_block"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_glacial_skin"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "cryomancy_capstone": {
+    "title": "Cryomancy: Shatter",
+    "description": "Requires either branch below it.\nYour hit on a Chilled or Frozen enemy deals +50% damage and shatters the frost, Chilling enemies within 4 blocks.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:blue_ice"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_shatter"
+        }
+      }
+    ],
+    "cost": 3
+  },
+  "geomancy_attunement": {
+    "title": "Geomancy: Attunement",
+    "description": "Requires 5 points spent in this tree. Pick any two Schools; the rest lock.\n+8% Geo Spell Power\n+1 Ars Earth power (Ars Earth glyphs deal +1 damage)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "gtbcs_geomancy_plus:geo_upgrade_orb"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "gtbcs_geomancy_plus:geo_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:sauce.perk.earth_power",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1,
+    "required_spent_points": 5,
+    "required_exclusions": 2
+  },
+  "geomancy_resilience": {
+    "title": "Geomancy: Resilience",
+    "description": "+5% Geo Magic Resistance\n-5% damage from Ars Earth spells",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "gtbcs_geomancy_plus:geo_rune"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "gtbcs_geomancy_plus:geo_magic_resist",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:sauce.perk.earth_resistance",
+          "value": 7,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "geomancy_efficiency": {
+    "title": "Geomancy: Efficiency",
+    "description": "Ars Earth glyphs cost 5% less mana.\nFocus Resonance: while an Ars Elemental Focus of Earth is equipped, +10% Geo Spell Power and +10% Mana Regeneration.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "ars_nouveau:source_gem"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:sauce.perk.mana_discount.earth",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_resonance_geomancy"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "geomancy_unique": {
+    "title": "Geomancy: Rooted",
+    "description": "Requires both nodes below it.\n+10% Knockback Resistance; no knockback while sneaking.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:dripstone_block"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.knockback_resistance",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_rooted"
+        }
+      }
+    ],
+    "cost": 2,
+    "required_skills": 2
+  },
+  "geomancy_power": {
+    "title": "Geomancy: Power",
+    "description": "+5% Geo Spell Power",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "gtbcs_geomancy_plus:geo_upgrade_orb"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "gtbcs_geomancy_plus:geo_spell_power",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "geomancy_a2": {
+    "title": "Geomancy: Stoneskin",
+    "description": "+1 Armor Toughness",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:stone"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.armor_toughness",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "geomancy_mastery": {
+    "title": "Geomancy: Mastery",
+    "description": "+7% Geo Spell Power, +5% Geo Magic Resistance\n+1 Ars Earth power",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "gtbcs_geomancy_plus:geo_rune"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "gtbcs_geomancy_plus:geo_spell_power",
+          "value": 0.07,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "gtbcs_geomancy_plus:geo_magic_resist",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:sauce.perk.earth_power",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "geomancy_b1": {
+    "title": "Geomancy: Bedrock Stance",
+    "description": "Take 10% less damage while sneaking.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:deepslate"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_bedrock_stance"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "geomancy_b2": {
+    "title": "Geomancy: Tremor",
+    "description": "Landing from more than 4 blocks slows enemies within 4 blocks.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:pointed_dripstone"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_tremor"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "geomancy_b3": {
+    "title": "Geomancy: Mountain's Patience",
+    "description": "+50% Explosion Knockback Resistance",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:obsidian"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.explosion_knockback_resistance",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "geomancy_capstone": {
+    "title": "Geomancy: Earthen Bulwark",
+    "description": "Requires either branch below it.\nDropping below half health gives Resistance II for 8 seconds and slows enemies within 5 blocks (30 second cooldown).",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:crying_obsidian"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_earthen_bulwark"
+        }
+      }
+    ],
+    "cost": 3
+  },
+  "divinity_attunement": {
+    "title": "Divinity: Attunement",
+    "description": "Requires 5 points spent in this tree. Pick any two Schools; the rest lock.\n+8% Holy Spell Power\n+1 Ars Abjuration power (Ars Abjuration glyphs deal +1 damage)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:holy_upgrade_orb"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:holy_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:sauce.perk.abjuration_power",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1,
+    "required_spent_points": 5,
+    "required_exclusions": 2
+  },
+  "divinity_resilience": {
+    "title": "Divinity: Resilience",
+    "description": "+5% Holy Magic Resistance\n-5% damage from Ars Abjuration spells",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:holy_rune"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:holy_magic_resist",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:sauce.perk.abjuration_resistance",
+          "value": 7,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "divinity_efficiency": {
+    "title": "Divinity: Efficiency",
+    "description": "Ars Abjuration glyphs cost 5% less mana.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "ars_nouveau:source_gem"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:sauce.perk.mana_discount.abjuration",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "divinity_unique": {
+    "title": "Divinity: Sanctified",
+    "description": "Requires both nodes below it.\n+10% Healing Received; undead deal 15% less damage to you.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_apple"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "apothic_attributes:healing_received",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_sanctified"
+        }
+      }
+    ],
+    "cost": 2,
+    "required_skills": 2
+  },
+  "divinity_power": {
+    "title": "Divinity: Power",
+    "description": "+5% Holy Spell Power",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:holy_upgrade_orb"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:holy_spell_power",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "divinity_a2": {
+    "title": "Divinity: Blessed Ward",
+    "description": "+3% Spell Resistance",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:spell_resist",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "divinity_mastery": {
+    "title": "Divinity: Mastery",
+    "description": "+7% Holy Spell Power, +5% Holy Magic Resistance\n+1 Ars Abjuration power",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:holy_rune"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:holy_spell_power",
+          "value": 0.07,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:holy_magic_resist",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:sauce.perk.abjuration_power",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "divinity_b1": {
+    "title": "Divinity: Consecrated Strikes",
+    "description": "Undead take 10% more damage from you.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_sword"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_consecrated"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "divinity_b2": {
+    "title": "Divinity: Radiance",
+    "description": "Undead within 8 blocks of you glow.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:glowstone_dust"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_radiance"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "divinity_b3": {
+    "title": "Divinity: Absolution",
+    "description": "Sanctified: undead deal 25% less damage instead of 15%.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:enchanted_golden_apple"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_absolution"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "divinity_capstone": {
+    "title": "Divinity: Guardian Angel",
+    "description": "Requires either branch below it.\nOnce every 2 minutes, a killing blow leaves you at 1 health with Regeneration III and Absorption II for 8 seconds.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:totem_of_undying"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_guardian_angel"
+        }
+      }
+    ],
+    "cost": 3
+  },
+  "druidism_attunement": {
+    "title": "Druidism: Attunement",
+    "description": "Requires 5 points spent in this tree. Pick any two Schools; the rest lock.\n+8% Nature Spell Power",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:nature_upgrade_orb"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:nature_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1,
+    "required_spent_points": 5,
+    "required_exclusions": 2
+  },
+  "druidism_resilience": {
+    "title": "Druidism: Resilience",
+    "description": "+5% Nature Magic Resistance",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:nature_rune"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:nature_magic_resist",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "druidism_bark": {
+    "title": "Druidism: Bark",
+    "description": "+1 Armor Toughness",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:oak_log"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.armor_toughness",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "druidism_unique": {
+    "title": "Druidism: Thornskin",
+    "description": "Requires both nodes below it.\nMelee attackers take 1 damage.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:sweet_berries"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_thornskin"
+        }
+      }
+    ],
+    "cost": 2,
+    "required_skills": 2
+  },
+  "druidism_power": {
+    "title": "Druidism: Power",
+    "description": "+5% Nature Spell Power",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:nature_upgrade_orb"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:nature_spell_power",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "druidism_a2": {
+    "title": "Druidism: Verdance",
+    "description": "+10% Healing Received",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:glow_berries"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "apothic_attributes:healing_received",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "druidism_mastery": {
+    "title": "Druidism: Mastery",
+    "description": "+7% Nature Spell Power, +5% Nature Magic Resistance",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:nature_rune"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:nature_spell_power",
+          "value": 0.07,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:nature_magic_resist",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "druidism_b1": {
+    "title": "Druidism: Barbed",
+    "description": "Thornskin deals 2 damage instead of 1.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cactus"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_barbed"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "druidism_b2": {
+    "title": "Druidism: Entangle",
+    "description": "Thornskin also slows the attacker for 2 seconds.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:vine"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_entangle"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "druidism_b3": {
+    "title": "Druidism: Briar Venom",
+    "description": "Thornskin also poisons the attacker for 2 seconds.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wither_rose"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_briar_venom"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "druidism_capstone": {
+    "title": "Druidism: Verdant Renewal",
+    "description": "Requires either branch below it.\nWhile standing on grass, moss or leaves, a Regeneration II pulse every 5 seconds.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:moss_block"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_verdant_renewal"
+        }
+      }
+    ],
+    "cost": 3
+  },
+  "voidwalking_attunement": {
+    "title": "Voidwalking: Attunement",
+    "description": "Requires 5 points spent in this tree. Pick any two Schools; the rest lock.\n+8% Ender Spell Power\n+1 Ars Manipulation power (Ars Manipulation glyphs deal +1 damage)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:ender_upgrade_orb"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:ender_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:sauce.perk.manipulation_power",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1,
+    "required_spent_points": 5,
+    "required_exclusions": 2
+  },
+  "voidwalking_resilience": {
+    "title": "Voidwalking: Resilience",
+    "description": "+5% Ender Magic Resistance\n-5% damage from Ars Manipulation spells",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:ender_rune"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:ender_magic_resist",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:sauce.perk.manipulation_resistance",
+          "value": 7,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "voidwalking_efficiency": {
+    "title": "Voidwalking: Efficiency",
+    "description": "Ars Manipulation glyphs cost 5% less mana.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "ars_nouveau:source_gem"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:sauce.perk.mana_discount.manipulation",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "voidwalking_unique": {
+    "title": "Voidwalking: Void-Touched",
+    "description": "Requires both nodes below it.\nEndermen ignore your gaze; ender pearls don't hurt you.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:ender_pearl"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_void_touched"
+        }
+      }
+    ],
+    "cost": 2,
+    "required_skills": 2
+  },
+  "voidwalking_power": {
+    "title": "Voidwalking: Power",
+    "description": "+5% Ender Spell Power",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:ender_upgrade_orb"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:ender_spell_power",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "voidwalking_a2": {
+    "title": "Voidwalking: Rift Sense",
+    "description": "+5% Cooldown Reduction",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:clock"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:cooldown_reduction",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "voidwalking_mastery": {
+    "title": "Voidwalking: Mastery",
+    "description": "+7% Ender Spell Power, +5% Ender Magic Resistance\n+1 Ars Manipulation power",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:ender_rune"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:ender_spell_power",
+          "value": 0.07,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:ender_magic_resist",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:sauce.perk.manipulation_power",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "voidwalking_b1": {
+    "title": "Voidwalking: Pearl Recall",
+    "description": "Thrown ender pearls have a 25% chance to come back to you.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:ender_eye"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_pearl_recall"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "voidwalking_b2": {
+    "title": "Voidwalking: Phase Step",
+    "description": "After an ender pearl teleport, Resistance I for 2 seconds.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:chorus_fruit"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_phase_step"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "voidwalking_b3": {
+    "title": "Voidwalking: Void Kin",
+    "description": "Endermen, endermites and shulkers deal 25% less damage to you.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shulker_shell"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_void_kin"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "voidwalking_capstone": {
+    "title": "Voidwalking: Blink",
+    "description": "Requires either branch below it.\nGetting hit while sneaking teleports you up to 6 blocks away (20 second cooldown).",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:end_crystal"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_blink"
+        }
+      }
+    ],
+    "cost": 3
+  },
+  "hemomancy_attunement": {
+    "title": "Hemomancy: Attunement",
+    "description": "Requires 5 points spent in this tree. Pick any two Schools; the rest lock.\n+8% Blood Spell Power\n+1 Ars Necromancy power (Ars Necromancy glyphs deal +1 damage)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:blood_upgrade_orb"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:blood_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:sauce.perk.necromancy_power",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1,
+    "required_spent_points": 5,
+    "required_exclusions": 2
+  },
+  "hemomancy_resilience": {
+    "title": "Hemomancy: Resilience",
+    "description": "+5% Blood Magic Resistance\n-5% damage from Ars Necromancy spells",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:blood_rune"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:blood_magic_resist",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:sauce.perk.necromancy_resistance",
+          "value": 7,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "hemomancy_efficiency": {
+    "title": "Hemomancy: Efficiency",
+    "description": "Ars Necromancy glyphs cost 5% less mana.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "ars_nouveau:source_gem"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:sauce.perk.mana_discount.necromancy",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "hemomancy_unique": {
+    "title": "Hemomancy: Bloodhound",
+    "description": "Requires both nodes below it.\n+3% Life Steal; creatures under half health glow within 16 blocks.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:redstone"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "apothic_attributes:life_steal",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_bloodhound"
+        }
+      }
+    ],
+    "cost": 2,
+    "required_skills": 2
+  },
+  "hemomancy_power": {
+    "title": "Hemomancy: Power",
+    "description": "+5% Blood Spell Power",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:blood_upgrade_orb"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:blood_spell_power",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "hemomancy_a2": {
+    "title": "Hemomancy: Sanguine",
+    "description": "+2% Life Steal",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_dye"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "apothic_attributes:life_steal",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "hemomancy_mastery": {
+    "title": "Hemomancy: Mastery",
+    "description": "+7% Blood Spell Power, +5% Blood Magic Resistance\n+1 Ars Necromancy power",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:blood_rune"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:blood_spell_power",
+          "value": 0.07,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:blood_magic_resist",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:sauce.perk.necromancy_power",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "hemomancy_b1": {
+    "title": "Hemomancy: Scent of Blood",
+    "description": "Bloodhound: range 32 blocks, and creatures under 65% health glow.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spider_eye"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_scent_of_blood"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "hemomancy_b2": {
+    "title": "Hemomancy: Frenzy",
+    "description": "+10% damage to glowing (wounded) creatures.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_frenzy"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "hemomancy_b3": {
+    "title": "Hemomancy: Exsanguinate",
+    "description": "Killing a wounded creature restores 5 mana.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:fermented_spider_eye"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_exsanguinate"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "hemomancy_capstone": {
+    "title": "Hemomancy: Crimson Pact",
+    "description": "Requires either branch below it.\nBelow half health, your life steal is tripled and you gain +30% Blood Spell Power.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:redstone_block"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_crimson_pact"
+        }
+      }
+    ],
+    "cost": 3
+  },
+  "evocation_attunement": {
+    "title": "Evocation: Attunement",
+    "description": "Requires 5 points spent in this tree. Pick any two Schools; the rest lock.\n+8% Evocation Spell Power\n+1 Ars Conjuration power (Ars Conjuration glyphs deal +1 damage)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:evocation_upgrade_orb"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:evocation_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:sauce.perk.summon_power",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1,
+    "required_spent_points": 5,
+    "required_exclusions": 2
+  },
+  "evocation_resilience": {
+    "title": "Evocation: Resilience",
+    "description": "+5% Evocation Magic Resistance",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:evocation_rune"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:evocation_magic_resist",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "evocation_efficiency": {
+    "title": "Evocation: Efficiency",
+    "description": "Ars Conjuration glyphs cost 5% less mana.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "ars_nouveau:source_gem"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:sauce.perk.mana_discount.conjuration",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "evocation_unique": {
+    "title": "Evocation: Conjurer",
+    "description": "Requires both nodes below it.\n+10% Summon Damage; +20% damage against illagers.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:totem_of_undying"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:summon_damage",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_conjurer"
+        }
+      }
+    ],
+    "cost": 2,
+    "required_skills": 2
+  },
+  "evocation_power": {
+    "title": "Evocation: Power",
+    "description": "+5% Evocation Spell Power",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:evocation_upgrade_orb"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:evocation_spell_power",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "evocation_a2": {
+    "title": "Evocation: Summoner's Bond",
+    "description": "+10% Summon Damage",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bone"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:summon_damage",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "evocation_mastery": {
+    "title": "Evocation: Mastery",
+    "description": "+7% Evocation Spell Power, +5% Evocation Magic Resistance\n+1 Ars Conjuration power",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:evocation_rune"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:evocation_spell_power",
+          "value": 0.07,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:evocation_magic_resist",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:sauce.perk.summon_power",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "evocation_b1": {
+    "title": "Evocation: Arbiter",
+    "description": "Illagers deal 15% less damage to you; Conjurer: +35% damage against illagers instead of +20%.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:crossbow"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_arbiter"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "evocation_b2": {
+    "title": "Evocation: Commander",
+    "description": "Your summons take 15% less damage.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_chestplate"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_commander"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "evocation_b3": {
+    "title": "Evocation: Necromancer's Pact",
+    "description": "While the Ars Elemental Focus of Necromancy is equipped, summons deal +15% damage.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "ars_elemental:necrotic_focus"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_necromancers_pact"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "evocation_capstone": {
+    "title": "Evocation: Warlord",
+    "description": "Requires either branch below it.\nEach of your summons within 16 blocks gives +5% Spell Power (up to +30%).",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_sword"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_warlord"
+        }
+      }
+    ],
+    "cost": 3
+  },
+  "alchemy_attunement": {
+    "title": "Alchemy: Attunement",
+    "description": "Requires 5 points spent in this tree. Pick any two Schools; the rest lock.\n+25% potion effect duration",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:brewing_stand"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:ars_nouveau.perk.wixie",
+          "value": 0.25,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1,
+    "required_spent_points": 5,
+    "required_exclusions": 2
+  },
+  "alchemy_s1": {
+    "title": "Alchemy: Bubbling Retorts",
+    "description": "Brewing stands within 4 blocks of you brew twice as fast.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:blaze_powder"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_al_brewing"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "alchemy_s2": {
+    "title": "Alchemy: Antivenom",
+    "description": "Immune to Poison.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:milk_bucket"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_al_antivenom"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "alchemy_unique": {
+    "title": "Alchemy: Mithridatism",
+    "description": "Requires both nodes below it.\nImmune to Toxony's Toxin and Acid; harmful effects on you last half as long.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "toxony:toxin"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_al_mithridatism"
+        }
+      }
+    ],
+    "cost": 2,
+    "required_skills": 2
+  },
+  "alchemy_a1": {
+    "title": "Alchemy: Steeped",
+    "description": "+25% potion effect duration",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:potion"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ars_nouveau:ars_nouveau.perk.wixie",
+          "value": 0.25,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "alchemy_a2": {
+    "title": "Alchemy: Tonic",
+    "description": "+10% Healing Received",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:glistering_melon_slice"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "apothic_attributes:healing_received",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "alchemy_a3": {
+    "title": "Alchemy: Bottoms Up",
+    "description": "+10% drinking speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:glass_bottle"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "artifacts:generic.drinking_speed",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "alchemy_b1": {
+    "title": "Alchemy: Volatile Mixtures",
+    "description": "Effects from your splash and lingering potions last 50% longer on whatever they hit.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:splash_potion"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_al_volatile"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "alchemy_b2": {
+    "title": "Alchemy: Purging Draught",
+    "description": "Drinking a potion also clears one harmful effect you already had.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:honey_bottle"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_al_purge"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "alchemy_b3": {
+    "title": "Alchemy: Slow-Curing Oils",
+    "description": "Toxony oils on your weapon have a 50% chance not to use up a charge when you hit.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "toxony:oil_base"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_al_oils"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "alchemy_capstone": {
+    "title": "Alchemy: Philosopher's Draught",
+    "description": "Requires either branch below it.\nBeneficial potions you drink are one level stronger and last twice as long.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:dragon_breath"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_al_philosopher"
+        }
+      }
+    ],
+    "cost": 3
+  },
+  "fusion_cinder_pyromancy": {
+    "title": "Cinder Fusion",
+    "description": "Requires the Pyromancy capstone. Your two Schools must be Pyromancy and Stormcalling; taking this locks your other School to Stormcalling. Only one Cinder Fusion can be taken.\n+8% to both Schools' Spell Power\nBurning is put out instantly; -50% fall damage.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "ars_elemancy:cinder_focus"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:fire_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:lightning_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_fusion_cinder"
+        }
+      }
+    ],
+    "cost": 2
+  },
+  "fusion_lava_pyromancy": {
+    "title": "Lava Fusion",
+    "description": "Requires the Pyromancy capstone. Your two Schools must be Pyromancy and Geomancy; taking this locks your other School to Geomancy. Only one Lava Fusion can be taken.\n+8% to both Schools' Spell Power\nBurning is put out instantly; food appears when you are starving deep underground.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "ars_elemancy:lava_focus"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:fire_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "gtbcs_geomancy_plus:geo_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_fusion_lava"
+        }
+      }
+    ],
+    "cost": 2
+  },
+  "fusion_vapor_pyromancy": {
+    "title": "Vapor Fusion",
+    "description": "Requires the Pyromancy capstone. Your two Schools must be Pyromancy and Cryomancy; taking this locks your other School to Cryomancy. Only one Vapor Fusion can be taken.\n+8% to both Schools' Spell Power\nAir refills when you are about to drown; burning is put out instantly.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "ars_elemancy:vapor_focus"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:fire_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:ice_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_fusion_vapor"
+        }
+      }
+    ],
+    "cost": 2
+  },
+  "fusion_cinder_stormcalling": {
+    "title": "Cinder Fusion",
+    "description": "Requires the Stormcalling capstone. Your two Schools must be Pyromancy and Stormcalling; taking this locks your other School to Pyromancy. Only one Cinder Fusion can be taken.\n+8% to both Schools' Spell Power\nBurning is put out instantly; -50% fall damage.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "ars_elemancy:cinder_focus"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:fire_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:lightning_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_fusion_cinder"
+        }
+      }
+    ],
+    "cost": 2
+  },
+  "fusion_silt_stormcalling": {
+    "title": "Silt Fusion",
+    "description": "Requires the Stormcalling capstone. Your two Schools must be Stormcalling and Geomancy; taking this locks your other School to Geomancy. Only one Silt Fusion can be taken.\n+8% to both Schools' Spell Power\n-50% fall damage; food appears when you are starving deep underground.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "ars_elemancy:silt_focus"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:lightning_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "gtbcs_geomancy_plus:geo_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_fusion_silt"
+        }
+      }
+    ],
+    "cost": 2
+  },
+  "fusion_tempest_stormcalling": {
+    "title": "Tempest Fusion",
+    "description": "Requires the Stormcalling capstone. Your two Schools must be Stormcalling and Cryomancy; taking this locks your other School to Cryomancy. Only one Tempest Fusion can be taken.\n+8% to both Schools' Spell Power\nAir refills when you are about to drown; -50% fall damage.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "ars_elemancy:tempest_focus"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:lightning_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:ice_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_fusion_tempest"
+        }
+      }
+    ],
+    "cost": 2
+  },
+  "fusion_mire_cryomancy": {
+    "title": "Mire Fusion",
+    "description": "Requires the Cryomancy capstone. Your two Schools must be Cryomancy and Geomancy; taking this locks your other School to Geomancy. Only one Mire Fusion can be taken.\n+8% to both Schools' Spell Power\nAir refills when you are about to drown; food appears when you are starving deep underground.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "ars_elemancy:mire_focus"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:ice_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "gtbcs_geomancy_plus:geo_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_fusion_mire"
+        }
+      }
+    ],
+    "cost": 2
+  },
+  "fusion_tempest_cryomancy": {
+    "title": "Tempest Fusion",
+    "description": "Requires the Cryomancy capstone. Your two Schools must be Stormcalling and Cryomancy; taking this locks your other School to Stormcalling. Only one Tempest Fusion can be taken.\n+8% to both Schools' Spell Power\nAir refills when you are about to drown; -50% fall damage.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "ars_elemancy:tempest_focus"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:lightning_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:ice_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_fusion_tempest"
+        }
+      }
+    ],
+    "cost": 2
+  },
+  "fusion_vapor_cryomancy": {
+    "title": "Vapor Fusion",
+    "description": "Requires the Cryomancy capstone. Your two Schools must be Pyromancy and Cryomancy; taking this locks your other School to Pyromancy. Only one Vapor Fusion can be taken.\n+8% to both Schools' Spell Power\nAir refills when you are about to drown; burning is put out instantly.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "ars_elemancy:vapor_focus"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:fire_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:ice_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_fusion_vapor"
+        }
+      }
+    ],
+    "cost": 2
+  },
+  "fusion_lava_geomancy": {
+    "title": "Lava Fusion",
+    "description": "Requires the Geomancy capstone. Your two Schools must be Pyromancy and Geomancy; taking this locks your other School to Pyromancy. Only one Lava Fusion can be taken.\n+8% to both Schools' Spell Power\nBurning is put out instantly; food appears when you are starving deep underground.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "ars_elemancy:lava_focus"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:fire_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "gtbcs_geomancy_plus:geo_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_fusion_lava"
+        }
+      }
+    ],
+    "cost": 2
+  },
+  "fusion_mire_geomancy": {
+    "title": "Mire Fusion",
+    "description": "Requires the Geomancy capstone. Your two Schools must be Cryomancy and Geomancy; taking this locks your other School to Cryomancy. Only one Mire Fusion can be taken.\n+8% to both Schools' Spell Power\nAir refills when you are about to drown; food appears when you are starving deep underground.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "ars_elemancy:mire_focus"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:ice_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "gtbcs_geomancy_plus:geo_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_fusion_mire"
+        }
+      }
+    ],
+    "cost": 2
+  },
+  "fusion_silt_geomancy": {
+    "title": "Silt Fusion",
+    "description": "Requires the Geomancy capstone. Your two Schools must be Stormcalling and Geomancy; taking this locks your other School to Stormcalling. Only one Silt Fusion can be taken.\n+8% to both Schools' Spell Power\n-50% fall damage; food appears when you are starving deep underground.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "ars_elemancy:silt_focus"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:lightning_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "gtbcs_geomancy_plus:geo_spell_power",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_fusion_silt"
+        }
+      }
+    ],
+    "cost": 2
+  },
+  "archmage": {
+    "title": "Archmage",
+    "description": "Requires 20 points spent in this tree.\n+5% Spell Power (all schools)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:arcane_rune"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:spell_power",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1,
+    "required_spent_points": 20
+  },
+  "cooldown_1": {
+    "title": "Cooldown I",
+    "description": "+4% Cooldown Reduction; Ars spells cost 3% less mana.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:cooldown_ring"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:cooldown_reduction",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_archmage_cd1"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "cooldown_2": {
+    "title": "Cooldown II",
+    "description": "+4% Cooldown Reduction; Ars spells cost 3% less mana.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:cooldown_rune"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:cooldown_reduction",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "oowwo_archmage_cd2"
+        }
+      }
+    ],
+    "cost": 1
+  },
+  "eldritch_insight": {
+    "title": "Eldritch Insight",
+    "description": "+25% Eldritch Spell Power, +15% Spell Power (all schools), +100 Max Mana, +10% Cooldown Reduction",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "irons_spellbooks:ancient_knowledge_fragment"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:eldritch_spell_power",
+          "value": 0.25,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:spell_power",
+          "value": 0.15,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:max_mana",
+          "value": 100,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "irons_spellbooks:cooldown_reduction",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 3
+  }
+}

@@ -1,0 +1,400 @@
+{
+  "skillLocks": {
+    "minecraft:iron_sword": [
+      "attack:5"
+    ],
+    "minecraft:iron_shovel": [
+      "gathering:5"
+    ],
+    "minecraft:iron_pickaxe": [
+      "mining:5"
+    ],
+    "minecraft:iron_axe": [
+      "gathering:5"
+    ],
+    "minecraft:iron_hoe": [
+      "farming:5"
+    ],
+    "minecraft:iron_helmet": [
+      "defense:5"
+    ],
+    "minecraft:iron_chestplate": [
+      "defense:5"
+    ],
+    "minecraft:iron_leggings": [
+      "defense:5"
+    ],
+    "minecraft:iron_boots": [
+      "defense:5"
+    ],
+    "minecraft:diamond_sword": [
+      "attack:15"
+    ],
+    "minecraft:diamond_shovel": [
+      "gathering:15"
+    ],
+    "minecraft:diamond_pickaxe": [
+      "mining:15"
+    ],
+    "minecraft:diamond_axe": [
+      "gathering:15"
+    ],
+    "minecraft:diamond_hoe": [
+      "farming:15"
+    ],
+    "minecraft:diamond_helmet": [
+      "defense:15"
+    ],
+    "minecraft:diamond_chestplate": [
+      "defense:15"
+    ],
+    "minecraft:diamond_leggings": [
+      "defense:15"
+    ],
+    "minecraft:diamond_boots": [
+      "defense:15"
+    ],
+    "minecraft:netherite_sword": [
+      "attack:30"
+    ],
+    "minecraft:netherite_shovel": [
+      "gathering:30"
+    ],
+    "minecraft:netherite_pickaxe": [
+      "mining:30"
+    ],
+    "minecraft:netherite_axe": [
+      "gathering:30"
+    ],
+    "minecraft:netherite_hoe": [
+      "farming:30"
+    ],
+    "minecraft:netherite_helmet": [
+      "defense:30"
+    ],
+    "minecraft:netherite_chestplate": [
+      "defense:30"
+    ],
+    "minecraft:netherite_leggings": [
+      "defense:30"
+    ],
+    "minecraft:netherite_boots": [
+      "defense:30"
+    ],
+    "bronze:bronze_pickaxe": [
+      "mining:5"
+    ],
+    "alloyed:steel_pickaxe": [
+      "mining:5"
+    ],
+    "caverns_and_chasms:silver_pickaxe": [
+      "mining:5"
+    ],
+    "create_sa:copper_pickaxe": [
+      "mining:5"
+    ],
+    "create_sa:zinc_pickaxe": [
+      "mining:5"
+    ],
+    "create_sa:experience_pickaxe": [
+      "mining:5"
+    ],
+    "create_sa:portable_drill": [
+      "mining:5"
+    ],
+    "hexalia:rootshaper": [
+      "mining:5"
+    ],
+    "vital_herbs:razor_leaf_pickaxe": [
+      "mining:5"
+    ],
+    "evilcraft:spikey_claws": [
+      "mining:5"
+    ],
+    "undergarden:cloggrum_pickaxe": [
+      "mining:5"
+    ],
+    "undergarden:froststeel_pickaxe": [
+      "mining:5"
+    ],
+    "aether:zanite_pickaxe": [
+      "mining:5"
+    ],
+    "twilightforest:ironwood_pickaxe": [
+      "mining:5"
+    ],
+    "create_sa:brass_pickaxe": [
+      "mining:15"
+    ],
+    "create_sa:rose_quartz_pickaxe": [
+      "mining:15"
+    ],
+    "create_sa:blazing_pickaxe": [
+      "mining:15"
+    ],
+    "vital_herbs:precision_bloom": [
+      "mining:15"
+    ],
+    "evilcraft:vengeance_pickaxe": [
+      "mining:15"
+    ],
+    "undergarden:utherium_pickaxe": [
+      "mining:15"
+    ],
+    "aether:gravitite_pickaxe": [
+      "mining:15"
+    ],
+    "aether:valkyrie_pickaxe": [
+      "mining:15"
+    ],
+    "twilightforest:steeleaf_pickaxe": [
+      "mining:15"
+    ],
+    "twilightforest:knightmetal_pickaxe": [
+      "mining:15"
+    ],
+    "twilightforest:mazebreaker_pickaxe": [
+      "mining:15"
+    ],
+    "caverns_and_chasms:necromium_pickaxe": [
+      "mining:30"
+    ],
+    "seadwellers:depth_pickaxe": [
+      "mining:30"
+    ],
+    "twilightforest:fiery_pickaxe": [
+      "mining:30"
+    ],
+    "undergarden:forgotten_pickaxe": [
+      "mining:30"
+    ],
+    "caverns_and_chasms:silver_helmet": [
+      "defense:5"
+    ],
+    "caverns_and_chasms:silver_chestplate": [
+      "defense:5"
+    ],
+    "caverns_and_chasms:silver_leggings": [
+      "defense:5"
+    ],
+    "caverns_and_chasms:silver_boots": [
+      "defense:5"
+    ],
+    "bronze:bronze_helmet": [
+      "defense:5"
+    ],
+    "bronze:bronze_chestplate": [
+      "defense:5"
+    ],
+    "bronze:bronze_leggings": [
+      "defense:5"
+    ],
+    "bronze:bronze_boots": [
+      "defense:5"
+    ],
+    "alloyed:steel_helmet": [
+      "defense:5"
+    ],
+    "alloyed:steel_chestplate": [
+      "defense:5"
+    ],
+    "alloyed:steel_leggings": [
+      "defense:5"
+    ],
+    "alloyed:steel_boots": [
+      "defense:5"
+    ],
+    "undergarden:cloggrum_helmet": [
+      "defense:5"
+    ],
+    "undergarden:cloggrum_chestplate": [
+      "defense:5"
+    ],
+    "undergarden:cloggrum_leggings": [
+      "defense:5"
+    ],
+    "undergarden:cloggrum_boots": [
+      "defense:5"
+    ],
+    "undergarden:froststeel_helmet": [
+      "defense:5"
+    ],
+    "undergarden:froststeel_chestplate": [
+      "defense:5"
+    ],
+    "undergarden:froststeel_leggings": [
+      "defense:5"
+    ],
+    "undergarden:froststeel_boots": [
+      "defense:5"
+    ],
+    "aether:zanite_helmet": [
+      "defense:5"
+    ],
+    "aether:zanite_chestplate": [
+      "defense:5"
+    ],
+    "aether:zanite_leggings": [
+      "defense:5"
+    ],
+    "aether:zanite_boots": [
+      "defense:5"
+    ],
+    "twilightforest:ironwood_helmet": [
+      "defense:5"
+    ],
+    "twilightforest:ironwood_chestplate": [
+      "defense:5"
+    ],
+    "twilightforest:ironwood_leggings": [
+      "defense:5"
+    ],
+    "twilightforest:ironwood_boots": [
+      "defense:5"
+    ],
+    "create_sa:copper_helmet": [
+      "defense:5"
+    ],
+    "create_sa:copper_chestplate": [
+      "defense:5"
+    ],
+    "create_sa:copper_leggings": [
+      "defense:5"
+    ],
+    "create_sa:copper_boots": [
+      "defense:5"
+    ],
+    "create_sa:zinc_helmet": [
+      "defense:5"
+    ],
+    "create_sa:zinc_chestplate": [
+      "defense:5"
+    ],
+    "create_sa:zinc_leggings": [
+      "defense:5"
+    ],
+    "create_sa:zinc_boots": [
+      "defense:5"
+    ],
+    "undergarden:utherium_helmet": [
+      "defense:15"
+    ],
+    "undergarden:utherium_chestplate": [
+      "defense:15"
+    ],
+    "undergarden:utherium_leggings": [
+      "defense:15"
+    ],
+    "undergarden:utherium_boots": [
+      "defense:15"
+    ],
+    "aether:gravitite_helmet": [
+      "defense:15"
+    ],
+    "aether:gravitite_chestplate": [
+      "defense:15"
+    ],
+    "aether:gravitite_leggings": [
+      "defense:15"
+    ],
+    "aether:gravitite_boots": [
+      "defense:15"
+    ],
+    "aether:valkyrie_helmet": [
+      "defense:15"
+    ],
+    "aether:valkyrie_chestplate": [
+      "defense:15"
+    ],
+    "aether:valkyrie_leggings": [
+      "defense:15"
+    ],
+    "aether:valkyrie_boots": [
+      "defense:15"
+    ],
+    "twilightforest:steeleaf_helmet": [
+      "defense:15"
+    ],
+    "twilightforest:steeleaf_chestplate": [
+      "defense:15"
+    ],
+    "twilightforest:steeleaf_leggings": [
+      "defense:15"
+    ],
+    "twilightforest:steeleaf_boots": [
+      "defense:15"
+    ],
+    "twilightforest:knightmetal_helmet": [
+      "defense:15"
+    ],
+    "twilightforest:knightmetal_chestplate": [
+      "defense:15"
+    ],
+    "twilightforest:knightmetal_leggings": [
+      "defense:15"
+    ],
+    "twilightforest:knightmetal_boots": [
+      "defense:15"
+    ],
+    "create_sa:brass_helmet": [
+      "defense:15"
+    ],
+    "create_sa:brass_chestplate": [
+      "defense:15"
+    ],
+    "create_sa:brass_leggings": [
+      "defense:15"
+    ],
+    "create_sa:brass_boots": [
+      "defense:15"
+    ],
+    "create_deep_dark:echo_armor_helmet": [
+      "defense:15"
+    ],
+    "create_deep_dark:echo_armor_chestplate": [
+      "defense:15"
+    ],
+    "create_deep_dark:echo_armor_leggings": [
+      "defense:15"
+    ],
+    "create_deep_dark:echo_armor_boots": [
+      "defense:15"
+    ],
+    "caverns_and_chasms:necromium_helmet": [
+      "defense:30"
+    ],
+    "caverns_and_chasms:necromium_chestplate": [
+      "defense:30"
+    ],
+    "caverns_and_chasms:necromium_leggings": [
+      "defense:30"
+    ],
+    "caverns_and_chasms:necromium_boots": [
+      "defense:30"
+    ],
+    "twilightforest:fiery_helmet": [
+      "defense:30"
+    ],
+    "twilightforest:fiery_chestplate": [
+      "defense:30"
+    ],
+    "twilightforest:fiery_leggings": [
+      "defense:30"
+    ],
+    "twilightforest:fiery_boots": [
+      "defense:30"
+    ],
+    "seadwellers:depth_helmet": [
+      "defense:30"
+    ],
+    "seadwellers:depth_chestplate": [
+      "defense:30"
+    ],
+    "seadwellers:depth_leggings": [
+      "defense:30"
+    ],
+    "seadwellers:depth_boots": [
+      "defense:30"
+    ]
+  }
+}

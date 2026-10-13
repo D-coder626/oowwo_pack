@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "plains",
+    "sunflower_plains"
+  ],
+  "spawners": {
+    "type": "born_in_chaos_v1:seared_spirit",
+    "weight": 1,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

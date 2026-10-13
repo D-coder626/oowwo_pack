@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"backpacked:backpack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"overpacked:giant_backpack"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

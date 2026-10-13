@@ -1,0 +1,216 @@
+{
+  "spacing": 64,
+  "separation": 32,
+  "probability": 0.75,
+  "generation_order": 30,
+  "biomes": "#minecraft:is_nether",
+  "radius": {
+    "type": "uniform",
+    "min_inclusive": 8,
+    "max_inclusive": 32
+  },
+  "target_condition": {
+    "type": "minecraft:all_of",
+    "predicates": [
+      {
+        "type": "minecraft:matching_block_tag",
+        "tag": "minecraft:base_stone_nether"
+      },
+      {
+        "type": "minecraft:not",
+        "predicate": {
+          "type": "minecraft:matching_blocks",
+          "blocks": "netherdescent:blue_netherrack"
+        }
+      }
+    ]
+  },
+  "min_height": {
+    "type": "constant",
+    "value": {
+      "above_bottom": 80
+    }
+  },
+  "max_height": {
+    "type": "constant",
+    "value": {
+      "above_bottom": 127
+    }
+  },
+  "vein_radius": {
+    "type": "constant",
+    "value": 120.0
+  },
+  "inverted": true,
+  "filler": {
+    "state_provider": {
+      "type": "nomansland:strata_state_provider",
+      "layers": [
+        {
+          "data": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "caverns_and_chasms:cylindrite"
+            }
+          },
+          "height": 2
+        },
+        {
+          "data": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "minecraft:netherrack"
+            }
+          },
+          "height": 2
+        },
+        {
+          "data": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "caverns_and_chasms:cylindrite"
+            }
+          },
+          "height": 2
+        },
+        {
+          "data": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "minecraft:netherrack"
+            }
+          },
+          "height": 2
+        },
+        {
+          "data": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "caverns_and_chasms:cylindrite"
+            }
+          },
+          "height": 1
+        },
+        {
+          "data": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "minecraft:netherrack"
+            }
+          },
+          "height": 1
+        },
+        {
+          "data": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "caverns_and_chasms:cylindrite"
+            }
+          },
+          "height": 2
+        },
+        {
+          "data": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "minecraft:netherrack"
+            }
+          },
+          "height": 1
+        },
+        {
+          "data": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "caverns_and_chasms:cylindrite"
+            }
+          },
+          "height": 2
+        },
+        {
+          "data": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "minecraft:netherrack"
+            }
+          },
+          "height": 2
+        },
+        {
+          "data": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "caverns_and_chasms:cylindrite"
+            }
+          },
+          "height": 2
+        },
+        {
+          "data": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "minecraft:netherrack"
+            }
+          },
+          "height": 2
+        },
+        {
+          "data": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "caverns_and_chasms:cylindrite"
+            }
+          },
+          "height": 2
+        },
+        {
+          "data": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "minecraft:netherrack"
+            }
+          },
+          "height": 1
+        },
+        {
+          "data": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "caverns_and_chasms:cylindrite"
+            }
+          },
+          "height": 1
+        },
+        {
+          "data": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "minecraft:netherrack"
+            }
+          },
+          "height": 3
+        },
+        {
+          "data": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "caverns_and_chasms:cylindrite"
+            }
+          },
+          "height": 2
+        },
+        {
+          "data": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "minecraft:netherrack"
+            }
+          },
+          "height": 2
+        }
+      ],
+      "noise_intensity": 2.0,
+      "randomize": false
+    }
+  }
+}

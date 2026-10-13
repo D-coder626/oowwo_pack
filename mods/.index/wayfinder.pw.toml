@@ -1,0 +1,25 @@
+filename = 'Wayfinder-NeoForge-1.2.0-mc1.21.1.jar'
+name = 'Wayfinder'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.0-NeoForge-mc1.21.1'
+
+[download]
+hash = 'deaedaf2adae74e248db11d296422c3fc5dc28c2540f7aa1afd435dcd1a2ce9363da8df16d53bd35dda5c2d16613600d785d2ce3d13707568ec01dc41b8b1687'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/909sOSOR/versions/fCIYaJhQ/Wayfinder-NeoForge-1.2.0-mc1.21.1.jar'
+
+[update.modrinth]
+mod-id = '909sOSOR'
+version = 'fCIYaJhQ'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'NTi7d3Xc'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8BmcQJ2H'
+type = 'REQUIRED'

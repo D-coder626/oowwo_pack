@@ -1,0 +1,13 @@
+name = "Cheaper Maps"
+filename = "cheaper-maps-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZLppFg51/versions/DMV9aGIr/cheaper-maps-1.2.jar"
+hash-format = "sha512"
+hash = "bda3c9eb56358fa3a2471c14fde5aec28e06517d2da0eab28d9fa11e8ccd0fb80901efca9a79711ad418cd2fe8af545137517a88b858e1f6c4be7c32c70e8217"
+
+[update]
+[update.modrinth]
+mod-id = "ZLppFg51"
+version = "DMV9aGIr"

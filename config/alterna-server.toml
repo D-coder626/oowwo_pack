@@ -1,0 +1,17 @@
+#Toggles armor stands having arms when placed
+armor_stand_arms = false
+#Whether to announce when a player uses a conch shell to change the weather
+#Allowed Values: ANNOUNCE_WITH_CAUSE, ANNOUNCE_WITHOUT_CAUSE, OFF
+conch_shell_message = "ANNOUNCE_WITH_CAUSE"
+#Toggles if the sleep timer won't reset unless the player skips the night or dies
+insomnia_fix = true
+#Toggles a fix to the kelp feature that prevents it from breaking immediately upon generation
+kelp_fix = true
+#Toggles if phantoms should only attack players at or below half of their max health
+opportunistic_phantoms = true
+#Sets the player's inertia while using a riptide trident in water
+# Default: 0.96
+# Range: 0.0 ~ 1.0
+riptide_water_inertia = 0.96
+#Toggles a fix to fish randomly stopping
+schooling_fix = true

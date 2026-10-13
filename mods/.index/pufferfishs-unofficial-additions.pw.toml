@@ -1,0 +1,25 @@
+filename = 'pufferfish_unofficial_additions-1.21.1-2.2.8.jar'
+name = "Pufferfish's Unofficial Additions"
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.2.8'
+
+[download]
+hash = 'ca2dc10f2b8751948e5fa5d8d8e02581cb15e20a6ca6b446bfe4422ff1e76d2ab10f00536272f97c5e54cfa0334161e9a4d4f14c094263c1be2bee04ca925ce3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/IAao6ECB/versions/Gg8lwHYR/pufferfish_unofficial_additions-1.21.1-2.2.8.jar'
+
+[update.modrinth]
+mod-id = 'IAao6ECB'
+version = 'Gg8lwHYR'
+
+[[x-prismlauncher-dependencies]]
+addonId = 's4OWxYQQ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'hqQqvaa4'
+type = 'REQUIRED'

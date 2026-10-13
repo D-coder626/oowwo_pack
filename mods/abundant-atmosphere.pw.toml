@@ -1,0 +1,13 @@
+name = "Abundant Atmosphere"
+filename = "abundant_atmosphere-1.21.1-2.0.0-beta2-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/N8ZATCCG/versions/f4RDisga/abundant_atmosphere-1.21.1-2.0.0-beta2-neoforge.jar"
+hash-format = "sha512"
+hash = "970df4f925af4b01f06d12a38a9a45a32585001f9e0feace450507a52c1c201d0dc3dc186ff44e6a0edaa1869979b76a225de6be36956e459a9b81351a7aec41"
+
+[update]
+[update.modrinth]
+mod-id = "N8ZATCCG"
+version = "f4RDisga"

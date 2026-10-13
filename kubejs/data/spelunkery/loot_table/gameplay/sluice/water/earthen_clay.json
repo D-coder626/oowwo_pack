@@ -1,0 +1,91 @@
+{
+ "pools": [
+  {
+   "rolls": 1,
+   "bonus_rolls": 0,
+   "entries": [
+    {
+     "type": "minecraft:loot_table",
+     "weight": 250,
+     "value": {
+      "pools": [
+       {
+        "rolls": 1,
+        "entries": [
+         {
+          "type": "minecraft:item",
+          "name": "minecraft:wheat_seeds",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "brewinandchewin:corn_kernels",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "brewinandchewin:red_grape_seeds",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "brewinandchewin:white_grape_seeds",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "farmersdelight:tomato_seeds",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "hexalia:sunfire_tomato_seeds",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "hexalia:saltsprout",
+          "weight": 1
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "type": "minecraft:loot_table",
+     "weight": 750,
+     "value": {
+      "pools": [
+       {
+        "rolls": 1,
+        "entries": [
+         {
+          "type": "minecraft:item",
+          "name": "minecraft:clay_ball",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "spelunkery:stone_pebble",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "minecraft:stick",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "minecraft:bone",
+          "weight": 1
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}

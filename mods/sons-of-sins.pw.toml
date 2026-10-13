@@ -1,0 +1,13 @@
+name = "Sons of Sins"
+filename = "sons_of_sins-2.2.1c-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/l7YxzukZ/versions/Ht6dwOOn/sons_of_sins-2.2.1c-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "146869a529872fa2afb389f3624ee756810b5518b6b4ca308ae286b4b3d30e0ccacbb7354143edfc02655aae01b67668f19850201943a1be73d95bcf12b46547"
+
+[update]
+[update.modrinth]
+mod-id = "l7YxzukZ"
+version = "Ht6dwOOn"

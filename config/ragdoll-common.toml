@@ -1,0 +1,161 @@
+#Ragdoll behavior
+[general]
+	#Safemode prevents entities from ragdolling
+	safeMode = false
+	#Prevents new ragdolls and corpses from being created for entities tracked by a sub-level
+	safeSublevelMode = false
+	#Renders Figura avatars on ragdolls and corpses.
+	figuraCompat = false
+	#Time in ticks to wait for a ragdoll before it doesn't get created. Do not change this unless you know what you're doing.
+	# Default: 10000
+	# Range: > 0
+	ragdollTimeout = 10000
+	#The range in which limbs are considered part of a ragdoll. Do not change this unless you know what you're doing.
+	# Default: 5.0
+	# Range: 0.0 ~ 100.0
+	limbExclusionDistance = 5.0
+	#How much ragdoll collision boxes are shrunk compared to the model. Do not change this unless you know what you're doing.
+	# Default: 0.25
+	# Range: 0.0 ~ 2.147483647E9
+	ragdollBoxShrink = 0.25
+	#The max range a ragdoll can be dragged from
+	# Default: 5.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	maxDragRange = 5.0
+	#Time in ticks for an entity to stand up after being ragdolled
+	# Default: 17
+	# Range: > 0
+	timeToStandUp = 17
+	#Time in ticks for the stand up prompt to be sent to the player
+	# Default: 40
+	# Range: > 0
+	standUpNotificationTime = 40
+	#The damage an entity will take from acceleration while ragdolled
+	# Default: 0.7
+	# Range: 0.0 ~ 1.7976931348623157E308
+	ragdollHitDamage = 0.7
+	#The velocity an entity has to be hit by a ragdoll to ragdoll themselves
+	# Default: 6.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	ragdollHitVelocityThreshold = 6.0
+
+#What causes entities to ragdoll
+[triggers]
+	#If players can ragdoll while alive
+	playerRagdolls = true
+	#If entities ragdoll while sleeping
+	sleepRagdoll = true
+	#If entities ragdoll when their flight is interrupted, such as an elytra breaking
+	flightRagdoll = true
+	#If entities ragdoll when falling from fallRagdollDistance blocks or more
+	fallRagdoll = true
+	#The downwards fall distance in blocks that ragdolls a falling entity
+	# Default: 40.0
+	# Range: 1.0 ~ 1.7976931348623157E308
+	fallRagdollDistance = 40.0
+	#If entities ragdoll from high knockback
+	knockbackRagdoll = true
+	#The knockback strength that ragdolls an airborne entity, a knockback 1 sword hit is 0.9
+	# Default: 0.9
+	# Range: 0.0 ~ 1.7976931348623157E308
+	knockbackRagdollThreshold = 0.9
+	#The acceleration threshold where an entity will ragdoll
+	# Default: 3.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	ragdollAccelerationThreshold = 3.0
+	#The acceleration threshold where an entity will ragdoll while flying
+	# Default: 4.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	ragdollFlightAccelerationThreshold = 4.0
+
+#Corpses of dead entities
+[corpses]
+	#If mobs leave corpses when they die
+	entityCorpses = false
+	#Time in ticks for an entity corpse to rot, -1 disables rotting and destroying
+	# Default: 3000
+	# Range: > -1
+	timeToRot = 3000
+	#Time in ticks after an entity corpse rots for it to be destroyed, -1 disables destroying
+	# Default: 3000
+	# Range: > -1
+	timeToDestroy = 3000
+	#Percentage of max mob health that the corpse will have
+	# Default: 0.05
+	# Range: 0.0 ~ 2.147483647E9
+	corpseHealthPreservationPercentage = 0.05
+	#The minimum amount of health an entity corpse can have
+	# Default: 1
+	# Range: > 1
+	minimumCorpseHealth = 1
+	#The maximum amount of health an entity corpse can have
+	# Default: 30
+	# Range: > 0
+	maximumCorpseHealth = 30
+	#Ticks after death where the corpse is immune
+	# Default: 0
+	# Range: > 0
+	corpseImmunityTicks = 0
+	#If items can be put in a corpse's inventory
+	canPutItemsInCorpse = false
+	#If items can be taken from a corpse's inventory
+	canTakeItemsFromCorpse = true
+	#The percentage of the current durability damage that will be applied to an item with curse of binding when taken from a corpse, -1 prevents taking them entirely
+	# Default: 0.33
+	# Range: -1.0 ~ 2.147483647E9
+	bindingCurseDamagePercentage = 0.33
+	#If deaths in the void spawn corpses, which float at voidCorpseY
+	voidCorpses = true
+	#The y level void corpses float at
+	# Default: 0
+	# Range: -20000 ~ 20000
+	voidCorpseY = 0
+
+#Corpses of dead players
+[player_corpses]
+	#If players leave corpses when they die
+	playerCorpses = true
+	#Time in ticks for a player corpse to rot, -1 disables rotting and destroying
+	# Default: 120000
+	# Range: > -1
+	playerTimeToRot = 120000
+	#Time in ticks after a player corpse rots for it to be destroyed, -1 disables destroying
+	# Default: 60000
+	# Range: > -1
+	playerTimeToDestroy = 60000
+	#Time in ticks it takes for the player corpse to heal 1hp, -1 disables healing
+	# Default: 600
+	# Range: > -1
+	timeToHeal = 600
+
+#Offline ragdolls - the bodies of offline players
+[offline]
+	#If players leave an offline body behind when they disconnect
+	offlineRagdoll = false
+	#Range in blocks that hostile mobs detect and attack offline bodies, -1 disables mobs ever targeting them
+	# Default: 5.0
+	# Range: -1.0 ~ 1024.0
+	offlineDetectionRange = 5.0
+	#Ticks after an offline body is created during which it can be damaged and killed. 0 makes it never damageable, -1 makes it always damageable
+	# Default: -1
+	# Range: > -1
+	offlineDamageableTicks = -1
+	#If offline bodies' inventories can be opened
+	offlineLootable = true
+
+#Camera and visuals
+[camera]
+	#Time it takes the camera to move into the ragdoll
+	# Default: 10
+	# Range: > 0
+	cameraTimeIntoRagdoll = 10
+	#Time it takes the camera to move out of the ragdoll
+	# Default: 20
+	# Range: > 0
+	cameraTimeOutOfRagdoll = 20
+	#Time in ticks for 1st person effects to transition
+	# Default: 10
+	# Range: > 0
+	firstPersonTransferTicks = 10
+	#Enable the fade transition, does not support sorting
+	fadeTransition = false

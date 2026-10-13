@@ -1,0 +1,86 @@
+{
+ "pools": [
+  {
+   "rolls": 1,
+   "bonus_rolls": 0,
+   "entries": [
+    {
+     "type": "minecraft:loot_table",
+     "weight": 300,
+     "value": {
+      "pools": [
+       {
+        "rolls": 1,
+        "entries": [
+         {
+          "type": "minecraft:item",
+          "name": "minecraft:nether_wart",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "toxony:bloodroot",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "toxony:warproot",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "vital_herbs:burst_bud",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "vital_herbs:mourning_bloom",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "ars_nouveau:bastion_pod",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "dungeonsdelight:rotbulb_crop",
+          "weight": 1
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "type": "minecraft:loot_table",
+     "weight": 700,
+     "value": {
+      "pools": [
+       {
+        "rolls": 1,
+        "entries": [
+         {
+          "type": "minecraft:item",
+          "name": "spelunkery:netherrack_pebble",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "minecraft:quartz",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "spelunkery:sulfur",
+          "weight": 1
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}

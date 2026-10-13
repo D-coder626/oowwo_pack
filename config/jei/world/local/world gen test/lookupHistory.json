@@ -1,0 +1,17 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"bronze:raw_tin"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bronze:bronze_blend"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bronze:bronze_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:copper_nugget"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:copper_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"caverns_and_chasms:exposed_copper_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"caverns_and_chasms:oxidized_copper_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"caverns_and_chasms:waxed_copper_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:birch_log"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"quark:hollow_oak_log"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:oak_log"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:crushed_raw_tin"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bronze:tin_nugget"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bronze:tin_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

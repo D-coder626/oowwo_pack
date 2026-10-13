@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:sheep",
+    "minecraft:cow",
+    "minecraft:mooshroom",
+    "minecraft:pig",
+    "minecraft:chicken",
+    "minecraft:rabbit",
+    "minecraft:squid",
+    "minecraft:glow_squid",
+    { "id": "buzzier_bees:moobloom", "required": false }
+  ]
+}

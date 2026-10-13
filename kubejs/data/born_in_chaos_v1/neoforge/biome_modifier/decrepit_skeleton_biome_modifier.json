@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#oowwo:bic_ow_soul",
+  "spawners": {
+    "type": "born_in_chaos_v1:decrepit_skeleton",
+    "weight": 4,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

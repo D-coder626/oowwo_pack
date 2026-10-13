@@ -1,0 +1,11 @@
+{
+  "values": [
+    "#c:is_hot"
+  ],
+  "remove":[
+    "#c:is_dry",
+    "#c:is_desert",
+    "#minecraft:is_mountain",
+    "#c:is_wasteland"
+  ]
+}

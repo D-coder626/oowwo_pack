@@ -1,0 +1,13 @@
+name = "Better /back"
+filename = "betterback-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3cb2b3d0597490cf55e80c2bc0c3d643e7bac276"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8159715
+project-id = 1513015

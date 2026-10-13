@@ -1,0 +1,13 @@
+name = "Iron's Spells' Recipe Additions (Discontinued)"
+filename = "irons_recipe_additions-1.7-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "238d9f9a06108c95c499e4bfbc3bb83595840199"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7186128
+project-id = 911386

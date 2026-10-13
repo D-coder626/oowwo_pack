@@ -1,0 +1,35 @@
+[spawning]
+	#Whether owls come in species. Off, every owl that spawns is a great horned owl
+	owl_variants = true
+	#Whether moon owls spawn at night under a full moon
+	moon_owls = false
+
+[chicks]
+	#Chicks cannot fly: they walk everywhere until they grow up
+	chicks_stay_grounded = true
+
+[delivery]
+	#If the recipient logs out, the owl takes the parcel to its hollow instead of waiting
+	stranded_parcel_goes_home = false
+	#Tell the recipient when an owl sets off and when it arrives
+	announce_deliveries = true
+	#How much of its cruising speed an owl averages on a delivery it flies out of sight. Under 1 because a real flight goes around things
+	# Default: 0.8
+	# Range: 0.1 ~ 2.0
+	puff_speed_fraction = 0.8
+	#Time those deliveries in a straight line at that speed, so twice as far takes twice as long. Off, each doubling of the distance costs a third of the first 64 blocks
+	linear_puff_time = false
+
+[hunting]
+	#Mobs in the fears_owls tag run from any owl that is not a chick
+	prey_flees_owls = true
+
+[worldgen]
+	#Chance for a tree to grow with a hollow in its trunk. Needs a rejoin
+	# Default: 0.0025
+	# Range: 0.0 ~ 1.0
+	tree_hollow_chance = 0.006
+	#Chance for a generated hollow to already have an owl in it
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	hollow_owl_chance = 0.5

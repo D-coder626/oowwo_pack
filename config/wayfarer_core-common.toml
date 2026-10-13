@@ -1,0 +1,65 @@
+#The maximum number of item entities that can be loaded at once before the oldest start despawning
+# Default: 500
+# Range: 1 ~ 10000
+maxItemEntities = 500
+#The range at which entities start spawning from players
+# Default: 128.0
+# Range: 1.0 ~ 1000.0
+spawnRange = 128.0
+
+[mobCaps]
+	# Default: -1
+	# Range: -1 ~ 100000
+	monster = -1
+	# Default: -1
+	# Range: -1 ~ 100000
+	creature = -1
+	# Default: -1
+	# Range: -1 ~ 100000
+	ambient = -1
+	# Default: -1
+	# Range: -1 ~ 100000
+	axolotls = -1
+	# Default: -1
+	# Range: -1 ~ 100000
+	underground_water_creature = -1
+	# Default: -1
+	# Range: -1 ~ 100000
+	water_creature = -1
+	# Default: -1
+	# Range: -1 ~ 100000
+	water_ambient = -1
+	# Default: -1
+	# Range: -1 ~ 100000
+	"aether:aether_aerwhale" = -1
+	# Default: -1
+	# Range: -1 ~ 100000
+	"aether:aether_darkness_monster" = -1
+	# Default: -1
+	# Range: -1 ~ 100000
+	"aether:aether_sky_monster" = -1
+	# Default: -1
+	# Range: -1 ~ 100000
+	"aether:aether_surface_monster" = -1
+	# Default: -1
+	# Range: -1 ~ 100000
+	"caverns_and_chasms:lost_goat" = -1
+	# Default: -1
+	# Range: -1 ~ 100000
+	"caverns_and_chasms:underground_ambient" = -1
+	# Default: -1
+	# Range: -1 ~ 100000
+	"caverns_and_chasms:underground_water_ambient" = -1
+	# Default: -1
+	# Range: -1 ~ 100000
+	"dragonsurvival:hunter_faction" = -1
+	# Default: -1
+	# Range: -1 ~ 100000
+	spawn_water_decoration = -1
+	# Default: -1
+	# Range: -1 ~ 100000
+	spawn_flukeshrooms = -1
+	# Default: -1
+	# Range: -1 ~ 100000
+	wild_creature = -1
+	blocked = []

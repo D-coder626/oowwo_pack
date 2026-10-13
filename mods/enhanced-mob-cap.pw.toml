@@ -1,0 +1,13 @@
+name = "Enhanced Mob Cap"
+filename = "enhancedmobcap-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b7c27f6e6bd19494a00d71ec0a0c96bd1dab0339"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6944133
+project-id = 1337732

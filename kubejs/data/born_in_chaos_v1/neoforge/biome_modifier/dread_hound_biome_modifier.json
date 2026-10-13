@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#minecraft:is_overworld",
+  "spawners": {
+    "type": "born_in_chaos_v1:dread_hound",
+    "weight": 3,
+    "minCount": 3,
+    "maxCount": 5
+  }
+}

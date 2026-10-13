@@ -1,0 +1,146 @@
+{
+ "pools": [
+  {
+   "rolls": 1,
+   "bonus_rolls": 0,
+   "entries": [
+    {
+     "type": "minecraft:loot_table",
+     "weight": 400,
+     "value": {
+      "pools": [
+       {
+        "rolls": 1,
+        "entries": [
+         {
+          "type": "minecraft:item",
+          "name": "minecraft:melon_seeds",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "minecraft:pumpkin_seeds",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "minecraft:sweet_berries",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "farmersdelight:tomato_seeds",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "minecraft:cocoa_beans",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "windswept:ginger_root",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "toxony:ocelot_mint_seeds",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "toxony:nightshade_seeds",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "vital_herbs:needle_heart_seeds",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "vital_herbs:razor_leaf",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "vital_herbs:snap_pepper_seeds",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "vital_herbs:glow_leaf",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "vital_herbs:crimson_lily_seeds",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "ars_nouveau:magebloom_crop",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "ars_nouveau:sourceberry_bush",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "ars_nouveau:mendosteen_pod",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "ars_nouveau:bombegranate_pod",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "ars_elemental:flashpine_pod",
+          "weight": 1
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "type": "minecraft:loot_table",
+     "weight": 600,
+     "value": {
+      "pools": [
+       {
+        "rolls": 1,
+        "entries": [
+         {
+          "type": "minecraft:item",
+          "name": "minecraft:stick",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "minecraft:string",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "minecraft:bone_meal",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "spelunkery:stone_pebble",
+          "weight": 1
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}

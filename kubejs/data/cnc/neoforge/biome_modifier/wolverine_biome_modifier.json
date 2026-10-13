@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#cnc:wolverine_spawning",
+  "spawners": {
+    "type": "cnc:wolverine",
+    "weight": 14,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

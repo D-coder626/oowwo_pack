@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#oowwo:cnc_pit_viper",
+  "spawners": {
+    "type": "cnc:pit_viper",
+    "weight": 12,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

@@ -1,0 +1,13 @@
+name = "Chemistry Stand"
+filename = "chemistrystand-1.0-NeoForge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Zc0LQ5JH/versions/AqvVZq7k/chemistrystand-1.0-NeoForge-1.21.1.jar"
+hash-format = "sha512"
+hash = "20806488b940c61b7c9f9f3af9f05ccd2777d0d3b945cb6ce45630504f2375830aab964a4d37df1d11958e6d19ca254e2ef04312e7d385fa60cf3b614e4cf969"
+
+[update]
+[update.modrinth]
+mod-id = "Zc0LQ5JH"
+version = "AqvVZq7k"

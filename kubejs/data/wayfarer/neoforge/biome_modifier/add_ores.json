@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#c:is_overworld",
+  "features": ["wayfarer:ore_silver", "wayfarer:ore_gold", "wayfarer:ore_gold_lower"],
+  "step": "underground_ores"
+}

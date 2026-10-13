@@ -1,0 +1,21 @@
+filename = 'abundant_atmosphere-1.21.1-2.0.0-beta2-neoforge.jar'
+name = 'Abundant Atmosphere'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.21.1-2.0.0-beta2.1'
+
+[download]
+hash = '970df4f925af4b01f06d12a38a9a45a32585001f9e0feace450507a52c1c201d0dc3dc186ff44e6a0edaa1869979b76a225de6be36956e459a9b81351a7aec41'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/N8ZATCCG/versions/f4RDisga/abundant_atmosphere-1.21.1-2.0.0-beta2-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'N8ZATCCG'
+version = 'f4RDisga'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'iGEl6Crx'
+type = 'REQUIRED'

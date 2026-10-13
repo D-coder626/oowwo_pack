@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#oowwo:bic_phantom_creeper",
+  "spawners": {
+    "type": "born_in_chaos_v1:phantom_creeper",
+    "weight": 2,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

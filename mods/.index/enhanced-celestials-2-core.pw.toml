@@ -1,0 +1,25 @@
+filename = 'Enhanced-Celestials-2-Core-NeoForge-1.21.1-2.0.3.3.jar'
+name = 'Enhanced Celestials 2: Core'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0.3.3-neoforge'
+
+[download]
+hash = 'e23e093260ae2fca326ab102325d4a2273da9c5f4d15b00c9e42b3a9d47b3b655920cc3e012350ed1e500284762ed8ca99b840fd2a88f254f9c74f62e96c2a64'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ugCWUHV9/versions/CWaaEX5L/Enhanced-Celestials-2-Core-NeoForge-1.21.1-2.0.3.3.jar'
+
+[update.modrinth]
+mod-id = 'ugCWUHV9'
+version = 'CWaaEX5L'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ziOp6EO8'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'z2XEADmE'
+type = 'REQUIRED'

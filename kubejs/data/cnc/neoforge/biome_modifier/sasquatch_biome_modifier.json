@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#cnc:sasquatch_spawning",
+  "spawners": {
+    "type": "cnc:sasquatch",
+    "weight": 26,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

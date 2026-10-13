@@ -1,0 +1,13 @@
+name = "Mebahel's Elder Scrolls Core"
+filename = "mebahel-elder-scrolls-core-1.4.0-fabric-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HZwC68Ys/versions/TC61b7s1/mebahel-elder-scrolls-core-1.4.0-fabric-1.21.1.jar"
+hash-format = "sha512"
+hash = "51663a79ba700aceb328b5401712e98df843969af98bda8e0b333928ac8ddf9f803091d9f6124825bd6dd3fd170f8972167a2662f6554f48659e8d4107648835"
+
+[update]
+[update.modrinth]
+mod-id = "HZwC68Ys"
+version = "TC61b7s1"

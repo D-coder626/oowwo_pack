@@ -1,0 +1,2 @@
+#If enabled, Vanilla potions will be obtainable from the Chemistry Stand
+allow_potions = false

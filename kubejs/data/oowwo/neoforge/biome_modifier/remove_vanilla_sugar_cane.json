@@ -1,0 +1,11 @@
+{
+  "type": "neoforge:remove_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "minecraft:patch_sugar_cane",
+    "minecraft:patch_sugar_cane_badlands",
+    "minecraft:patch_sugar_cane_desert",
+    "minecraft:patch_sugar_cane_swamp"
+  ],
+  "steps": "vegetal_decoration"
+}

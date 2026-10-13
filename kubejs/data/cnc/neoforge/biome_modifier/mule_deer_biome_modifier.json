@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#cnc:mule_deer_spawning",
+  "spawners": {
+    "type": "cnc:mule_deer",
+    "weight": 20,
+    "minCount": 1,
+    "maxCount": 5
+  }
+}

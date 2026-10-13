@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"ars_nouveau:creative_spell_book"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:stripped_spruce_log"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

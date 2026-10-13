@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#wayfarer:has_rice",
+  "features": "wayfarer:wild_rice",
+  "step": "vegetal_decoration"
+}

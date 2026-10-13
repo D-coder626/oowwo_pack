@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#cnc:wechuge_spawning",
+  "spawners": {
+    "type": "cnc:wechuge",
+    "weight": 3,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

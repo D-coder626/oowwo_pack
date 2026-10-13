@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#cnc:whitetail_spawning",
+  "spawners": {
+    "type": "cnc:white_tailed_deer",
+    "weight": 20,
+    "minCount": 1,
+    "maxCount": 5
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#oowwo:bic_dry",
+  "spawners": {
+    "type": "born_in_chaos_v1:spirit_guide_assistant",
+    "weight": 2,
+    "minCount": 2,
+    "maxCount": 2
+  }
+}

@@ -1,0 +1,13 @@
+name = "Curios Backpacks"
+filename = "curios_backpacks-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EwclbBit/versions/7fqwGRIG/curios_backpacks-1.0.0.jar"
+hash-format = "sha512"
+hash = "fffcb3552b55241e6c1d178d19d50eee0c4083368092c33e3ccaef378b73b23907a276d752ab1594160100247e6ec9b604921d7ec24232b55ffc47d47f755f60"
+
+[update]
+[update.modrinth]
+mod-id = "EwclbBit"
+version = "7fqwGRIG"

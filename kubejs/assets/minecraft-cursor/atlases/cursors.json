@@ -1,0 +1,28 @@
+{
+  "settings": {
+    "default": {
+      "xhot": 6,
+      "yhot": 3
+    },
+    "pointer": {
+      "xhot": 6,
+      "yhot": 3
+    },
+    "text": {
+      "xhot": 6,
+      "yhot": 3
+    },
+    "grabbing": {
+      "xhot": 10,
+      "yhot": 17
+    },
+    "busy": {
+      "xhot": 6,
+      "yhot": 5
+    },
+    "shift": {
+      "xhot": 6,
+      "yhot": 3
+    }
+  }
+}

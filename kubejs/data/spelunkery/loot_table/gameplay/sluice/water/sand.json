@@ -1,0 +1,336 @@
+{
+ "pools": [
+  {
+   "rolls": 1,
+   "bonus_rolls": 0,
+   "entries": [
+    {
+     "type": "minecraft:loot_table",
+     "weight": 200,
+     "value": {
+      "pools": [
+       {
+        "rolls": 1,
+        "entries": [
+         {
+          "type": "minecraft:item",
+          "name": "minecraft:beetroot_seeds",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "vital_herbs:fizz_fruit_seeds",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "vital_herbs:blue_spar_seeds",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "spawn:date_seed",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "minecraft:sugar_cane",
+          "weight": 1
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "type": "minecraft:loot_table",
+     "weight": 800,
+     "value": {
+      "pools": [
+       {
+        "rolls": 1,
+        "entries": [
+         {
+          "type": "minecraft:item",
+          "weight": 20,
+          "name": "minecraft:kelp",
+          "conditions": [
+           {
+            "condition": "minecraft:location_check",
+            "predicate": {
+             "biomes": "#c:is_ocean"
+            }
+           }
+          ]
+         },
+         {
+          "type": "minecraft:item",
+          "weight": 15,
+          "name": "minecraft:seagrass",
+          "conditions": [
+           {
+            "condition": "minecraft:location_check",
+            "predicate": {
+             "biomes": "#c:is_ocean"
+            }
+           }
+          ]
+         },
+         {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "spelunkery:raw_gold_nugget",
+          "conditions": [
+           {
+            "condition": "minecraft:location_check",
+            "predicate": {
+             "biomes": "#c:is_badlands"
+            }
+           }
+          ]
+         },
+         {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "spelunkery:rough_lazurite_shard",
+          "conditions": [
+           {
+            "condition": "minecraft:location_check",
+            "predicate": {
+             "biomes": "minecraft:desert"
+            }
+           }
+          ]
+         },
+         {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:dead_bush",
+          "conditions": [
+           {
+            "condition": "minecraft:location_check",
+            "predicate": {
+             "biomes": "minecraft:desert"
+            }
+           }
+          ]
+         },
+         {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "spelunkery:rough_cinnabar_shard",
+          "conditions": [
+           {
+            "condition": "minecraft:location_check",
+            "predicate": {
+             "biomes": "minecraft:desert"
+            }
+           }
+          ]
+         },
+         {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:nautilus_shell",
+          "conditions": [
+           {
+            "condition": "minecraft:location_check",
+            "predicate": {
+             "biomes": "minecraft:beach"
+            }
+           }
+          ]
+         },
+         {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:turtle_scute",
+          "conditions": [
+           {
+            "condition": "minecraft:location_check",
+            "predicate": {
+             "biomes": "minecraft:beach"
+            }
+           }
+          ]
+         },
+         {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:silverfish_spawn_egg",
+          "conditions": [
+           {
+            "condition": "minecraft:location_check",
+            "predicate": {
+             "biomes": "minecraft:beach"
+            }
+           }
+          ]
+         },
+         {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:stick",
+          "conditions": [
+           {
+            "condition": "minecraft:location_check",
+            "predicate": {
+             "biomes": "minecraft:beach"
+            }
+           }
+          ]
+         },
+         {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:green_stained_glass_pane",
+          "conditions": [
+           {
+            "condition": "minecraft:location_check",
+            "predicate": {
+             "biomes": "minecraft:beach"
+            }
+           }
+          ]
+         },
+         {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:blue_stained_glass_pane",
+          "conditions": [
+           {
+            "condition": "minecraft:location_check",
+            "predicate": {
+             "biomes": "minecraft:beach"
+            }
+           }
+          ]
+         },
+         {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:brown_stained_glass_pane",
+          "conditions": [
+           {
+            "condition": "minecraft:location_check",
+            "predicate": {
+             "biomes": "minecraft:beach"
+            }
+           }
+          ]
+         },
+         {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:sea_pickle",
+          "conditions": [
+           {
+            "condition": "minecraft:location_check",
+            "predicate": {
+             "biomes": "minecraft:warm_ocean"
+            }
+           }
+          ]
+         },
+         {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:sniffer_egg",
+          "conditions": [
+           {
+            "condition": "minecraft:location_check",
+            "predicate": {
+             "biomes": "minecraft:warm_ocean"
+            }
+           }
+          ]
+         },
+         {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:tube_coral",
+          "conditions": [
+           {
+            "condition": "minecraft:location_check",
+            "predicate": {
+             "biomes": "minecraft:warm_ocean"
+            }
+           }
+          ]
+         },
+         {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:fire_coral",
+          "conditions": [
+           {
+            "condition": "minecraft:location_check",
+            "predicate": {
+             "biomes": "minecraft:warm_ocean"
+            }
+           }
+          ]
+         },
+         {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:bubble_coral",
+          "conditions": [
+           {
+            "condition": "minecraft:location_check",
+            "predicate": {
+             "biomes": "minecraft:warm_ocean"
+            }
+           }
+          ]
+         },
+         {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:brain_coral",
+          "conditions": [
+           {
+            "condition": "minecraft:location_check",
+            "predicate": {
+             "biomes": "minecraft:warm_ocean"
+            }
+           }
+          ]
+         },
+         {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:horn_coral",
+          "conditions": [
+           {
+            "condition": "minecraft:location_check",
+            "predicate": {
+             "biomes": "minecraft:warm_ocean"
+            }
+           }
+          ]
+         },
+         {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:quartz"
+         },
+         {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "spelunkery:stone_pebble"
+         },
+         {
+          "type": "minecraft:item",
+          "weight": 20,
+          "name": "minecraft:sand"
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}

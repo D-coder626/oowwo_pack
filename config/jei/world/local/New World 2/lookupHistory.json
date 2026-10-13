@@ -1,0 +1,17 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"dragonsurvival:mudbrick_dragon_altar"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"dragonsurvival:prismarine_dragon_altar"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"dragonsurvival:red_nether_brick_dragon_altar"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"dragonsurvival:endstone_dragon_altar"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"dragonsurvival:elder_dragon_heart"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"dragonsurvival:stone_dragon_altar"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"dragonsurvival:sandstone_dragon_altar"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"dragonsurvival:birch_dragon_altar"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"dragonsurvival:oak_dragon_altar"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"dragonsurvival:purpur_dragon_altar"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"dragonsurvival:red_sandstone_dragon_altar"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"dragonsurvival:quartz_dragon_altar"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"dragonsurvival:small_skyrim_dragon_door"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"dragonsurvival:obsidian_dragon_altar"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

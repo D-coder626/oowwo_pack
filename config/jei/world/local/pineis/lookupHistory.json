@@ -1,0 +1,11 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"apotheosis:simple_reforging_table"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apotheosis:sigil_of_socketing"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:stripped_spruce_log"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"epicfight:wooden_spear"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"undergarden:spear"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:enchanted_book","components":{"minecraft:stored_enchantments":{"levels":{"apothic_enchanting:shield_bash":7}}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:enchanted_book","components":{"minecraft:stored_enchantments":{"levels":{"apothic_spawners:capturing":7}}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:enchanted_book","components":{"minecraft:stored_enchantments":{"levels":{"apothic_enchanting:boon_of_the_earth":5}}}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

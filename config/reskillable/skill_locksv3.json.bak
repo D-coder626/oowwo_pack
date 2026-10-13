@@ -1,0 +1,1068 @@
+{
+  "skillLocks": {
+    "minecraft:iron_sword": [
+      "attack:5"
+    ],
+    "minecraft:iron_shovel": [
+      "gathering:5"
+    ],
+    "minecraft:iron_pickaxe": [
+      "mining:5"
+    ],
+    "minecraft:iron_axe": [
+      "attack:5",
+      "gathering:5"
+    ],
+    "minecraft:iron_hoe": [
+      "farming:5"
+    ],
+    "minecraft:iron_helmet": [
+      "defense:5"
+    ],
+    "minecraft:iron_chestplate": [
+      "defense:5"
+    ],
+    "minecraft:iron_leggings": [
+      "defense:5"
+    ],
+    "minecraft:iron_boots": [
+      "defense:5"
+    ],
+    "minecraft:diamond_sword": [
+      "attack:15"
+    ],
+    "minecraft:diamond_shovel": [
+      "gathering:15"
+    ],
+    "minecraft:diamond_pickaxe": [
+      "mining:15"
+    ],
+    "minecraft:diamond_axe": [
+      "attack:15",
+      "gathering:15"
+    ],
+    "minecraft:diamond_hoe": [
+      "farming:15"
+    ],
+    "minecraft:diamond_helmet": [
+      "defense:15"
+    ],
+    "minecraft:diamond_chestplate": [
+      "defense:15"
+    ],
+    "minecraft:diamond_leggings": [
+      "defense:15"
+    ],
+    "minecraft:diamond_boots": [
+      "defense:15"
+    ],
+    "minecraft:netherite_sword": [
+      "attack:30"
+    ],
+    "minecraft:netherite_shovel": [
+      "gathering:30"
+    ],
+    "minecraft:netherite_pickaxe": [
+      "mining:30"
+    ],
+    "minecraft:netherite_axe": [
+      "attack:30",
+      "gathering:30"
+    ],
+    "minecraft:netherite_hoe": [
+      "farming:30"
+    ],
+    "minecraft:netherite_helmet": [
+      "defense:30"
+    ],
+    "minecraft:netherite_chestplate": [
+      "defense:30"
+    ],
+    "minecraft:netherite_leggings": [
+      "defense:30"
+    ],
+    "minecraft:netherite_boots": [
+      "defense:30"
+    ],
+    "bronze:bronze_pickaxe": [
+      "mining:5"
+    ],
+    "alloyed:steel_pickaxe": [
+      "mining:5"
+    ],
+    "caverns_and_chasms:silver_pickaxe": [
+      "mining:5"
+    ],
+    "create_sa:copper_pickaxe": [
+      "mining:5"
+    ],
+    "create_sa:zinc_pickaxe": [
+      "mining:5"
+    ],
+    "create_sa:experience_pickaxe": [
+      "mining:5"
+    ],
+    "create_sa:portable_drill": [
+      "mining:5"
+    ],
+    "hexalia:rootshaper": [
+      "mining:5"
+    ],
+    "vital_herbs:razor_leaf_pickaxe": [
+      "mining:5"
+    ],
+    "evilcraft:spikey_claws": [
+      "mining:5"
+    ],
+    "undergarden:cloggrum_pickaxe": [
+      "mining:5"
+    ],
+    "undergarden:froststeel_pickaxe": [
+      "mining:5"
+    ],
+    "aether:zanite_pickaxe": [
+      "mining:5"
+    ],
+    "twilightforest:ironwood_pickaxe": [
+      "mining:5"
+    ],
+    "create_sa:brass_pickaxe": [
+      "mining:15"
+    ],
+    "create_sa:rose_quartz_pickaxe": [
+      "mining:15"
+    ],
+    "create_sa:blazing_pickaxe": [
+      "mining:15"
+    ],
+    "vital_herbs:precision_bloom": [
+      "mining:15"
+    ],
+    "evilcraft:vengeance_pickaxe": [
+      "mining:15"
+    ],
+    "undergarden:utherium_pickaxe": [
+      "mining:15"
+    ],
+    "aether:gravitite_pickaxe": [
+      "mining:15"
+    ],
+    "aether:valkyrie_pickaxe": [
+      "mining:15"
+    ],
+    "twilightforest:steeleaf_pickaxe": [
+      "mining:15"
+    ],
+    "twilightforest:knightmetal_pickaxe": [
+      "mining:15"
+    ],
+    "twilightforest:mazebreaker_pickaxe": [
+      "mining:15"
+    ],
+    "caverns_and_chasms:necromium_pickaxe": [
+      "mining:30"
+    ],
+    "seadwellers:depth_pickaxe": [
+      "mining:30"
+    ],
+    "twilightforest:fiery_pickaxe": [
+      "mining:30"
+    ],
+    "undergarden:forgotten_pickaxe": [
+      "mining:30"
+    ],
+    "caverns_and_chasms:silver_helmet": [
+      "defense:5"
+    ],
+    "caverns_and_chasms:silver_chestplate": [
+      "defense:5"
+    ],
+    "caverns_and_chasms:silver_leggings": [
+      "defense:5"
+    ],
+    "caverns_and_chasms:silver_boots": [
+      "defense:5"
+    ],
+    "bronze:bronze_helmet": [
+      "defense:5"
+    ],
+    "bronze:bronze_chestplate": [
+      "defense:5"
+    ],
+    "bronze:bronze_leggings": [
+      "defense:5"
+    ],
+    "bronze:bronze_boots": [
+      "defense:5"
+    ],
+    "alloyed:steel_helmet": [
+      "defense:5"
+    ],
+    "alloyed:steel_chestplate": [
+      "defense:5"
+    ],
+    "alloyed:steel_leggings": [
+      "defense:5"
+    ],
+    "alloyed:steel_boots": [
+      "defense:5"
+    ],
+    "undergarden:cloggrum_helmet": [
+      "defense:5"
+    ],
+    "undergarden:cloggrum_chestplate": [
+      "defense:5"
+    ],
+    "undergarden:cloggrum_leggings": [
+      "defense:5"
+    ],
+    "undergarden:cloggrum_boots": [
+      "defense:5"
+    ],
+    "undergarden:froststeel_helmet": [
+      "defense:5"
+    ],
+    "undergarden:froststeel_chestplate": [
+      "defense:5"
+    ],
+    "undergarden:froststeel_leggings": [
+      "defense:5"
+    ],
+    "undergarden:froststeel_boots": [
+      "defense:5"
+    ],
+    "aether:zanite_helmet": [
+      "defense:5"
+    ],
+    "aether:zanite_chestplate": [
+      "defense:5"
+    ],
+    "aether:zanite_leggings": [
+      "defense:5"
+    ],
+    "aether:zanite_boots": [
+      "defense:5"
+    ],
+    "twilightforest:ironwood_helmet": [
+      "defense:5"
+    ],
+    "twilightforest:ironwood_chestplate": [
+      "defense:5"
+    ],
+    "twilightforest:ironwood_leggings": [
+      "defense:5"
+    ],
+    "twilightforest:ironwood_boots": [
+      "defense:5"
+    ],
+    "create_sa:copper_helmet": [
+      "defense:5"
+    ],
+    "create_sa:copper_chestplate": [
+      "defense:5"
+    ],
+    "create_sa:copper_leggings": [
+      "defense:5"
+    ],
+    "create_sa:copper_boots": [
+      "defense:5"
+    ],
+    "create_sa:zinc_helmet": [
+      "defense:5"
+    ],
+    "create_sa:zinc_chestplate": [
+      "defense:5"
+    ],
+    "create_sa:zinc_leggings": [
+      "defense:5"
+    ],
+    "create_sa:zinc_boots": [
+      "defense:5"
+    ],
+    "undergarden:utherium_helmet": [
+      "defense:15"
+    ],
+    "undergarden:utherium_chestplate": [
+      "defense:15"
+    ],
+    "undergarden:utherium_leggings": [
+      "defense:15"
+    ],
+    "undergarden:utherium_boots": [
+      "defense:15"
+    ],
+    "aether:gravitite_helmet": [
+      "defense:15"
+    ],
+    "aether:gravitite_chestplate": [
+      "defense:15"
+    ],
+    "aether:gravitite_leggings": [
+      "defense:15"
+    ],
+    "aether:gravitite_boots": [
+      "defense:15"
+    ],
+    "aether:valkyrie_helmet": [
+      "defense:15"
+    ],
+    "aether:valkyrie_chestplate": [
+      "defense:15"
+    ],
+    "aether:valkyrie_leggings": [
+      "defense:15"
+    ],
+    "aether:valkyrie_boots": [
+      "defense:15"
+    ],
+    "twilightforest:steeleaf_helmet": [
+      "defense:15"
+    ],
+    "twilightforest:steeleaf_chestplate": [
+      "defense:15"
+    ],
+    "twilightforest:steeleaf_leggings": [
+      "defense:15"
+    ],
+    "twilightforest:steeleaf_boots": [
+      "defense:15"
+    ],
+    "twilightforest:knightmetal_helmet": [
+      "defense:15"
+    ],
+    "twilightforest:knightmetal_chestplate": [
+      "defense:15"
+    ],
+    "twilightforest:knightmetal_leggings": [
+      "defense:15"
+    ],
+    "twilightforest:knightmetal_boots": [
+      "defense:15"
+    ],
+    "create_sa:brass_helmet": [
+      "defense:15"
+    ],
+    "create_sa:brass_chestplate": [
+      "defense:15"
+    ],
+    "create_sa:brass_leggings": [
+      "defense:15"
+    ],
+    "create_sa:brass_boots": [
+      "defense:15"
+    ],
+    "create_deep_dark:echo_armor_helmet": [
+      "defense:15"
+    ],
+    "create_deep_dark:echo_armor_chestplate": [
+      "defense:15"
+    ],
+    "create_deep_dark:echo_armor_leggings": [
+      "defense:15"
+    ],
+    "create_deep_dark:echo_armor_boots": [
+      "defense:15"
+    ],
+    "caverns_and_chasms:necromium_helmet": [
+      "defense:30"
+    ],
+    "caverns_and_chasms:necromium_chestplate": [
+      "defense:30"
+    ],
+    "caverns_and_chasms:necromium_leggings": [
+      "defense:30"
+    ],
+    "caverns_and_chasms:necromium_boots": [
+      "defense:30"
+    ],
+    "twilightforest:fiery_helmet": [
+      "defense:30"
+    ],
+    "twilightforest:fiery_chestplate": [
+      "defense:30"
+    ],
+    "twilightforest:fiery_leggings": [
+      "defense:30"
+    ],
+    "twilightforest:fiery_boots": [
+      "defense:30"
+    ],
+    "seadwellers:depth_helmet": [
+      "defense:30"
+    ],
+    "seadwellers:depth_chestplate": [
+      "defense:30"
+    ],
+    "seadwellers:depth_leggings": [
+      "defense:30"
+    ],
+    "seadwellers:depth_boots": [
+      "defense:30"
+    ],
+    "born_in_chaos_v1:supreme_measure": [
+      "attack:30"
+    ],
+    "born_in_chaos_v1:soulbane": [
+      "attack:30"
+    ],
+    "irons_spellbooks:amethyst_rapier": [
+      "attack:15"
+    ],
+    "irons_spellbooks:hellrazor": [
+      "attack:30"
+    ],
+    "irons_spellbooks:twilight_gale": [
+      "attack:30"
+    ],
+    "irons_spellbooks:spellbreaker": [
+      "attack:15"
+    ],
+    "vital_herbs:verdant_scourge": [
+      "attack:5"
+    ],
+    "irons_spellbooks:legionnaire_flamberge": [
+      "attack:30"
+    ],
+    "born_in_chaos_v1:darkwarblade": [
+      "attack:30"
+    ],
+    "netherdescent:bone_shiv": [
+      "attack:5"
+    ],
+    "simplyswords:netherite_cutlass": [
+      "attack:30"
+    ],
+    "simplyswords:netherite_katana": [
+      "attack:30"
+    ],
+    "simplyswords:netherite_twinblade": [
+      "attack:30"
+    ],
+    "irons_spellbooks:decrepit_scythe": [
+      "attack:30"
+    ],
+    "simplyswords:netherite_rapier": [
+      "attack:30"
+    ],
+    "epicfight:netherite_greatsword": [
+      "attack:30"
+    ],
+    "irons_spellbooks:misery": [
+      "attack:15"
+    ],
+    "epicfight:diamond_greatsword": [
+      "attack:15"
+    ],
+    "epicfight:iron_greatsword": [
+      "attack:5"
+    ],
+    "simplymore:netherite_deer_horns": [
+      "attack:30"
+    ],
+    "epicfight:netherite_dagger": [
+      "attack:30"
+    ],
+    "irons_spellbooks:boreal_blade": [
+      "attack:30"
+    ],
+    "simplyswords:netherite_warglaive": [
+      "attack:30"
+    ],
+    "irons_spellbooks:keeper_flamberge": [
+      "attack:30"
+    ],
+    "hexalia:kelpweave_blade": [
+      "attack:5"
+    ],
+    "simplyswords:diamond_cutlass": [
+      "attack:15"
+    ],
+    "simplyswords:diamond_katana": [
+      "attack:15"
+    ],
+    "simplyswords:diamond_twinblade": [
+      "attack:15"
+    ],
+    "simplymore:netherite_backhand_blade": [
+      "attack:30"
+    ],
+    "simplymore:netherite_khopesh": [
+      "attack:30"
+    ],
+    "simplymore:netherite_dagger": [
+      "attack:30"
+    ],
+    "simplyswords:diamond_rapier": [
+      "attack:15"
+    ],
+    "simplyswords:netherite_halberd": [
+      "attack:30"
+    ],
+    "irons_spellbooks:claymore": [
+      "attack:5"
+    ],
+    "ars_nouveau:enchanters_sword": [
+      "attack:30"
+    ],
+    "bhc:blade_of_vitality": [
+      "attack:30"
+    ],
+    "seadwellers:depth_sword": [
+      "attack:30"
+    ],
+    "simplyswords:netherite_longsword": [
+      "attack:30"
+    ],
+    "sons_of_sins:flesh_sword": [
+      "attack:5"
+    ],
+    "dragonsurvival:hunter_partisan_netherite": [
+      "attack:30"
+    ],
+    "simplymore:diamond_deer_horns": [
+      "attack:15"
+    ],
+    "simplymore:netherite_great_katana": [
+      "attack:30"
+    ],
+    "simplyswords:diamond_warglaive": [
+      "attack:15"
+    ],
+    "simplyswords:netherite_sai": [
+      "attack:30"
+    ],
+    "born_in_chaos_v1:dark_ritual_dagger": [
+      "attack:30"
+    ],
+    "born_in_chaos_v1:intoxicating_dagger": [
+      "attack:30"
+    ],
+    "epicfight:diamond_dagger": [
+      "attack:15"
+    ],
+    "simplymore:netherite_quarterstaff": [
+      "attack:30"
+    ],
+    "simplyswords:diamond_halberd": [
+      "attack:15"
+    ],
+    "simplyswords:iron_cutlass": [
+      "attack:5"
+    ],
+    "simplyswords:iron_katana": [
+      "attack:5"
+    ],
+    "simplyswords:iron_twinblade": [
+      "attack:5"
+    ],
+    "simplyswords:netherite_claymore": [
+      "attack:30"
+    ],
+    "undergarden:utherium_sword": [
+      "attack:15"
+    ],
+    "vital_herbs:razor_leaf_sword": [
+      "attack:5"
+    ],
+    "born_in_chaos_v1:sharpened_dark_metal_sword": [
+      "attack:30"
+    ],
+    "simplymore:netherite_pernach": [
+      "attack:30"
+    ],
+    "simplyswords:netherite_scythe": [
+      "attack:30"
+    ],
+    "simplymore:diamond_backhand_blade": [
+      "attack:15"
+    ],
+    "simplymore:diamond_khopesh": [
+      "attack:15"
+    ],
+    "aether:flaming_sword": [
+      "attack:15"
+    ],
+    "aether:gravitite_sword": [
+      "attack:15"
+    ],
+    "aether:holy_sword": [
+      "attack:15"
+    ],
+    "aether:lightning_sword": [
+      "attack:15"
+    ],
+    "aether:vampire_blade": [
+      "attack:15"
+    ],
+    "alloyed:steel_sword": [
+      "attack:5"
+    ],
+    "born_in_chaos_v1:shell_mace": [
+      "attack:30"
+    ],
+    "dragonsurvival:hunter_partisan_diamond": [
+      "attack:15"
+    ],
+    "fangs_n_claws:netherite_dagger": [
+      "attack:30"
+    ],
+    "irons_spellbooks:magehunter": [
+      "attack:15"
+    ],
+    "simplymore:diamond_great_katana": [
+      "attack:15"
+    ],
+    "simplyswords:diamond_longsword": [
+      "attack:15"
+    ],
+    "simplyswords:netherite_glaive": [
+      "attack:30"
+    ],
+    "undergarden:cloggrum_sword": [
+      "attack:5"
+    ],
+    "dungeonsdelight:fiery_knife": [
+      "attack:30"
+    ],
+    "farmersdelight:netherite_knife": [
+      "attack:30"
+    ],
+    "simplymore:diamond_dagger": [
+      "attack:15"
+    ],
+    "simplymore:netherite_great_spear": [
+      "attack:30"
+    ],
+    "simplyswords:iron_rapier": [
+      "attack:5"
+    ],
+    "born_in_chaos_v1:soul_cutlass": [
+      "attack:30"
+    ],
+    "create_sa:rose_quartz_sword": [
+      "attack:15"
+    ],
+    "create_sa:zinc_axe": [
+      "attack:5",
+      "gathering:5"
+    ],
+    "dragonsurvival:dragon_hunter_sword": [
+      "attack:30"
+    ],
+    "epicfight:netherite_longsword": [
+      "attack:30"
+    ],
+    "epicfight:netherite_tachi": [
+      "attack:30"
+    ],
+    "simplyswords:diamond_claymore": [
+      "attack:15"
+    ],
+    "simplyswords:iron_halberd": [
+      "attack:5"
+    ],
+    "simplyswords:iron_warglaive": [
+      "attack:5"
+    ],
+    "create_sa:experience_axe": [
+      "attack:5",
+      "gathering:5"
+    ],
+    "simplymore:iron_deer_horns": [
+      "attack:5"
+    ],
+    "born_in_chaos_v1:carrot_sword": [
+      "attack:15"
+    ],
+    "born_in_chaos_v1:sweet_sword": [
+      "attack:15"
+    ],
+    "bronze:bronze_sword": [
+      "attack:5"
+    ],
+    "simplymore:diamond_pernach": [
+      "attack:15"
+    ],
+    "simplyswords:diamond_scythe": [
+      "attack:15"
+    ],
+    "simplyswords:netherite_spear": [
+      "attack:30"
+    ],
+    "born_in_chaos_v1:great_reaper_axe": [
+      "attack:30",
+      "gathering:30"
+    ],
+    "born_in_chaos_v1:wood_splitter_axe": [
+      "attack:15",
+      "gathering:15"
+    ],
+    "dungeonsdelight:stained_knife": [
+      "attack:30"
+    ],
+    "seadwellers:depth_axe": [
+      "attack:30",
+      "gathering:30"
+    ],
+    "simplymore:diamond_great_spear": [
+      "attack:15"
+    ],
+    "simplymore:diamond_quarterstaff": [
+      "attack:15"
+    ],
+    "simplyswords:diamond_sai": [
+      "attack:15"
+    ],
+    "sons_of_sins:flesh_axe": [
+      "attack:5",
+      "gathering:5"
+    ],
+    "toxony:netherite_scalpel": [
+      "attack:30"
+    ],
+    "born_in_chaos_v1:nightmare_scythe": [
+      "attack:30"
+    ],
+    "born_in_chaos_v1:skullbreaker_hammer": [
+      "attack:30"
+    ],
+    "create_sa:rose_quartz_axe": [
+      "attack:15",
+      "gathering:15"
+    ],
+    "simplyswords:netherite_greataxe": [
+      "attack:30",
+      "gathering:30"
+    ],
+    "dragonsurvival:hunter_partisan": [
+      "attack:5"
+    ],
+    "simplymore:iron_great_katana": [
+      "attack:5"
+    ],
+    "simplyswords:diamond_glaive": [
+      "attack:15"
+    ],
+    "aether:hammer_of_kingbdogz": [
+      "attack:5"
+    ],
+    "aether:pig_slayer": [
+      "attack:5"
+    ],
+    "aether:zanite_sword": [
+      "attack:5"
+    ],
+    "born_in_chaos_v1:spider_bite_sword": [
+      "attack:30"
+    ],
+    "epicfight:diamond_longsword": [
+      "attack:15"
+    ],
+    "epicfight:diamond_tachi": [
+      "attack:15"
+    ],
+    "epicfight:iron_dagger": [
+      "attack:5"
+    ],
+    "epicfight:netherite_spear": [
+      "attack:30"
+    ],
+    "simplyswords:iron_claymore": [
+      "attack:5"
+    ],
+    "simplyswords:iron_longsword": [
+      "attack:5"
+    ],
+    "simplyswords:netherite_greathammer": [
+      "attack:30"
+    ],
+    "undergarden:froststeel_sword": [
+      "attack:5"
+    ],
+    "undergardendelight:utherium_knife": [
+      "attack:30"
+    ],
+    "vital_herbs:aegis_grove": [
+      "attack:5"
+    ],
+    "simplymore:iron_khopesh": [
+      "attack:5"
+    ],
+    "undergarden:utherium_axe": [
+      "attack:15",
+      "gathering:15"
+    ],
+    "undergardendelight:forgotten_knife": [
+      "attack:30"
+    ],
+    "simplymore:iron_backhand_blade": [
+      "attack:5"
+    ],
+    "aether:valkyrie_lance": [
+      "attack:15"
+    ],
+    "simplymore:iron_pernach": [
+      "attack:5"
+    ],
+    "simplyswords:diamond_spear": [
+      "attack:15"
+    ],
+    "simplyswords:iron_scythe": [
+      "attack:5"
+    ],
+    "aether:gravitite_axe": [
+      "attack:15",
+      "gathering:15"
+    ],
+    "alloyed:steel_axe": [
+      "attack:5",
+      "gathering:5"
+    ],
+    "alloyed:steel_knife": [
+      "attack:5"
+    ],
+    "born_in_chaos_v1:spiritual_sword": [
+      "attack:15"
+    ],
+    "create_sa:brass_axe": [
+      "attack:15",
+      "gathering:15"
+    ],
+    "dungeonsdelight:knightmetal_knife": [
+      "attack:15"
+    ],
+    "dungeonsdelight:steeleaf_knife": [
+      "attack:15"
+    ],
+    "farmersdelight:diamond_knife": [
+      "attack:15"
+    ],
+    "mowziesmobs:wrought_axe": [
+      "attack:5",
+      "gathering:5"
+    ],
+    "simplymore:iron_great_spear": [
+      "attack:5"
+    ],
+    "simplyswords:diamond_greataxe": [
+      "attack:15",
+      "gathering:15"
+    ],
+    "sons_of_sins:sinful_axe": [
+      "attack:30",
+      "gathering:30"
+    ],
+    "undergarden:froststeel_axe": [
+      "attack:5",
+      "gathering:5"
+    ],
+    "undergardendelight:cloggrum_knife": [
+      "attack:5"
+    ],
+    "simplymore:iron_dagger": [
+      "attack:5"
+    ],
+    "simplyswords:diamond_greathammer": [
+      "attack:15"
+    ],
+    "create_sa:blazing_axe": [
+      "attack:15",
+      "gathering:15"
+    ],
+    "born_in_chaos_v1:frostbitten_blade": [
+      "attack:30"
+    ],
+    "born_in_chaos_v1:icy_sweetness": [
+      "attack:30"
+    ],
+    "epicfight:diamond_spear": [
+      "attack:15"
+    ],
+    "epicfight:iron_longsword": [
+      "attack:5"
+    ],
+    "epicfight:iron_tachi": [
+      "attack:5"
+    ],
+    "simplymore:netherite_grandsword": [
+      "attack:30"
+    ],
+    "simplyswords:iron_glaive": [
+      "attack:5"
+    ],
+    "tide:blazing_swordfish": [
+      "attack:5"
+    ],
+    "vital_herbs:razor_leaf_axe": [
+      "attack:5",
+      "gathering:5"
+    ],
+    "aether:zanite_axe": [
+      "attack:5",
+      "gathering:5"
+    ],
+    "bronze:bronze_axe": [
+      "attack:5",
+      "gathering:5"
+    ],
+    "simplyswords:iron_greataxe": [
+      "attack:5",
+      "gathering:5"
+    ],
+    "undergarden:cloggrum_axe": [
+      "attack:5",
+      "gathering:5"
+    ],
+    "bronze:bronze_knife": [
+      "attack:5"
+    ],
+    "create_sa:brass_sword": [
+      "attack:15"
+    ],
+    "simplymore:iron_quarterstaff": [
+      "attack:5"
+    ],
+    "simplymore:netherite_lance": [
+      "attack:30"
+    ],
+    "simplyswords:iron_greathammer": [
+      "attack:5"
+    ],
+    "sons_of_sins:sinful_sword": [
+      "attack:30"
+    ],
+    "twilightforest:diamond_minotaur_axe": [
+      "attack:15",
+      "gathering:15"
+    ],
+    "simplymore:diamond_grandsword": [
+      "attack:15"
+    ],
+    "simplyswords:iron_spear": [
+      "attack:5"
+    ],
+    "simplyswords:iron_sai": [
+      "attack:5"
+    ],
+    "create_sa:blazing_cleaver": [
+      "attack:15"
+    ],
+    "create_sa:zinc_sword": [
+      "attack:5"
+    ],
+    "epicfight:iron_spear": [
+      "attack:5"
+    ],
+    "fangs_n_claws:tomahawk": [
+      "attack:5"
+    ],
+    "simplymore:iron_grandsword": [
+      "attack:5"
+    ],
+    "tide:swordfish": [
+      "attack:5"
+    ],
+    "undergardendelight:frosteel_knife": [
+      "attack:15"
+    ],
+    "create_sa:experience_sword": [
+      "attack:5"
+    ],
+    "dungeonsdelight:fiery_cleaver": [
+      "attack:30"
+    ],
+    "dungeonsdelight:gravitite_knife": [
+      "attack:15"
+    ],
+    "dungeonsdelight:ironwood_knife": [
+      "attack:5"
+    ],
+    "dungeonsdelight:zanite_knife": [
+      "attack:5"
+    ],
+    "farmersdelight:iron_knife": [
+      "attack:5"
+    ],
+    "simplymore:diamond_lance": [
+      "attack:15"
+    ],
+    "simplyswords:netherite_chakram": [
+      "attack:30"
+    ],
+    "undergardendelight:rogdorium_knife": [
+      "attack:15"
+    ],
+    "undergardendelight:regalium_knife": [
+      "attack:15"
+    ],
+    "dungeonsdelight:netherite_cleaver": [
+      "attack:30"
+    ],
+    "undergarden:cloggrum_battleaxe": [
+      "attack:5",
+      "gathering:5"
+    ],
+    "create_sa:copper_sword": [
+      "attack:5"
+    ],
+    "fangs_n_claws:silver_sword": [
+      "attack:5"
+    ],
+    "hexerei:warhammer": [
+      "attack:30"
+    ],
+    "aether:valkyrie_axe": [
+      "attack:15",
+      "gathering:15"
+    ],
+    "create_sa:copper_axe": [
+      "attack:5",
+      "gathering:5"
+    ],
+    "dungeonsdelight:gravitite_cleaver": [
+      "attack:15"
+    ],
+    "dungeonsdelight:knightmetal_cleaver": [
+      "attack:15"
+    ],
+    "dungeonsdelight:steel_cleaver": [
+      "attack:5"
+    ],
+    "dungeonsdelight:steeleaf_cleaver": [
+      "attack:15"
+    ],
+    "simplymore:iron_lance": [
+      "attack:5"
+    ],
+    "simplyswords:diamond_chakram": [
+      "attack:15"
+    ],
+    "toxony:copper_scalpel": [
+      "attack:5"
+    ],
+    "dungeonsdelight:diamond_cleaver": [
+      "attack:15"
+    ],
+    "dungeonsdelight:stained_cleaver": [
+      "attack:30"
+    ],
+    "dungeonsdelight:ironwood_cleaver": [
+      "attack:5"
+    ],
+    "dungeonsdelight:zanite_cleaver": [
+      "attack:5"
+    ],
+    "simplyswords:iron_chakram": [
+      "attack:5"
+    ],
+    "tide:sailfish": [
+      "attack:5"
+    ],
+    "dungeonsdelight:iron_cleaver": [
+      "attack:5"
+    ],
+    "sons_of_sins:shape_shifting_tool": [
+      "attack:15"
+    ]
+  }
+}
