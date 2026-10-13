@@ -1,22 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/inspectionProfiles/profiles_settings.xml"
-hash = "6172c5997eeb3cd19c9ca2b5b97d6e2983cdd1fa60b2460d7bbb74055edcaa46"
-
-[[files]]
-file = ".idea/modules.xml"
-hash = "4dd3ffd35854629aa6d1de654bb379ba76b4a2270c4bf42aafb111d61de57aa9"
-
-[[files]]
-file = ".idea/oowwo_pack.iml"
-hash = "a334fc692d753db149a3f77168c46441b57f33e1b6ad97aa7f1b3baf2f015823"
-
-[[files]]
-file = ".idea/workspace.xml"
-hash = "2bf1b89c029479ca0336ecea89c236dfcceed8edece950ad44d1c0322c760495"
-
-[[files]]
 file = "config/EndRemastered-NeoForge/Eyes/black_eye.json"
 hash = "0ce694b7842011f30705cbadc1140a105e15eabe5983dd62605d82e57fefd201"
 
@@ -7009,11 +6993,6 @@ hash = "8530019c2c393a921d50207929cc1daf07de5c1df4a82e15f4df58827bb7f531"
 metafile = true
 
 [[files]]
-file = "mods/better-back.pw.toml"
-hash = "6cfab944bafd0217c509ceac528a8c81c3827d51a7155a8c11c5cbafbc283cd5"
-metafile = true
-
-[[files]]
 file = "mods/better-clouds.pw.toml"
 hash = "2ad084939b743d04f99ed625d42ad0d4fea3873c57a60ec634e1968a6c3a4404"
 metafile = true
@@ -7032,6 +7011,10 @@ metafile = true
 file = "mods/better-third-person.pw.toml"
 hash = "5074f183a549d5b4252a5b269e54ae0371f5d8618e3102e5df18e767b818485f"
 metafile = true
+
+[[files]]
+file = "mods/betterback-neoforge-1.21.1.jar"
+hash = "5bf84b038654dfc55cab0c63122ab63cad8b051cb2a1b177eced255838c38836"
 
 [[files]]
 file = "mods/betterdays.pw.toml"
@@ -7223,9 +7206,8 @@ hash = "c76ebe5be9cd38a693a2447e324f7eff5c0a55f9a05cafe19b7f7abf76c66607"
 metafile = true
 
 [[files]]
-file = "mods/courier-owls.pw.toml"
-hash = "f17fa55f92a72ba0551bf91d93d4846321364ecbba7af224dbcc448b709d6a68"
-metafile = true
+file = "mods/courier_owls-1.21.1-1.0.1-neoforge.jar"
+hash = "274aa030bcad206690081f17a44aad6a04b5ae091ee34a8e0c20af98304c3ded"
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
@@ -7971,11 +7953,6 @@ hash = "121520e2a994086e3d9cd4da38d97192ae25bbcc31836ad357bf39d10cbb6266"
 metafile = true
 
 [[files]]
-file = "mods/realistic-waves.pw.toml"
-hash = "f4a2c94b741424825849ff299e32ac2eff969911b071d563af1a33ee4495a8ca"
-metafile = true
-
-[[files]]
 file = "mods/realm-rpg-fallen-adventurers.pw.toml"
 hash = "e5582892b6502dfe18d07b026135fb71444a89d0226a974232b582615b64bc7a"
 metafile = true
@@ -8031,9 +8008,8 @@ hash = "961b22a942e44a665f1434c8db311acd2bdd24b60802ef7ed01974c837ebf442"
 metafile = true
 
 [[files]]
-file = "mods/saints-dragons-unofficial-neoforge-port.pw.toml"
-hash = "3ed6ecbe6b37ec8ceb22190adec82b37a840f0bd9514c28f3e4607e1b45eceb8"
-metafile = true
+file = "mods/saintsdragons-neoforge-1.21.1-port.4-test.jar"
+hash = "e16c2f57433910d54557ea24b1232c73d5c0c7021b4893d61f3b3ad63361945a"
 
 [[files]]
 file = "mods/searchables.pw.toml"
@@ -8390,13 +8366,16 @@ hash = "a14d64ea45279906e87e692054ee75ba46c3c3a356a476edf825d62c774726e3"
 metafile = true
 
 [[files]]
+file = "mods/whitecap-1.3.0-neoforge-1.21.1.jar"
+hash = "be51daa6330e8934fe5a1952cd76011babae09bb85a3e553eeeb6502ec24378e"
+
+[[files]]
 file = "mods/windswept-1.21.1-4.0.0.jar"
 hash = "f29675999057591fae43ad86a7f33e7e87fdb6dc15dce950284d69d00f51f7fe"
 
 [[files]]
-file = "mods/wooden-armor-pluse-10.pw.toml"
-hash = "6a3909a811c4c541a8dd5d5d669cd56d88ebcd126cb07ba6bbc5d61aab3f621b"
-metafile = true
+file = "mods/wooden_armorpluse10-1.2.0-neoforge-1.21.1.jar"
+hash = "6baaffe51bb345cd64e84f47294012711e2bc1ef4093faadc95377ef5e56dbaa"
 
 [[files]]
 file = "mods/yacl.pw.toml"
