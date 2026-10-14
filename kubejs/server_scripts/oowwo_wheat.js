@@ -21,7 +21,7 @@
 // To revert: delete this file.
 
 ServerEvents.tags('item', event => {
-  event.add('wayfarer:water_crafting', 'minecraft:water_bucket');
+  event.add('wayfarer:water_crafting', ['minecraft:water_bucket', 'windswept:wooden_water_bucket']);
 });
 
 ServerEvents.recipes(event => {

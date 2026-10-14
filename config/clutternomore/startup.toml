@@ -9,7 +9,7 @@ vertical_slabs = false
 steps = false
 # If recipes should have their shapes replaced by the parent block
 # default: true
-recipe_fixes = true
+recipe_fixes = false
 # If shapes should inherit their parent block's loot table
 # default: true
 inherit_loot_tables = true

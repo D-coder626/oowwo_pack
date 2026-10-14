@@ -8,3 +8,4 @@ config/forgeendertech/cached.dat
 config/upgraded_chests-client.properties
 *.toml.bak
 .idea/
+.gitattributes
