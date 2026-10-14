@@ -26,7 +26,12 @@ EntityEvents.beforeHurt(event => {
   var source = event.source
   try {
     // KubeJS remaps entity.getType() to the id STRING, so look the EntityType up in the registry
-    var etype = $BowBuiltInRegistries.ENTITY_TYPE.get($BowResourceLocation.parse(String(victim.type)))
+    var tid = String(victim.type)
+    // 2026-10-14: some modded mobs (Creeper Overhaul creepers) report a type string like
+    // 'minecraft:CreeperType[texture=...]', which is not a valid id and threw ~330 errors a day. Those are
+    // monsters, not passive animals, so skip anything that is not a plain 'namespace:path' id.
+    if (!/^[a-z0-9_.-]+:[a-z0-9\/._-]+$/.test(tid)) return
+    var etype = $BowBuiltInRegistries.ENTITY_TYPE.get($BowResourceLocation.parse(tid))
     if (String(etype.getCategory().getName()) !== 'creature') return
     // KubeJS renames DamageSource methods for JS (DamageSourceMixin @RemapForJS):
     //   getMsgId() -> getType(), getEntity() -> getActual(), getDirectEntity() -> getImmediate()
