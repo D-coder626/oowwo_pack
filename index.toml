@@ -7939,3 +7939,96 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "a457149c4d4d89ec7e47c24e00b15f0bcd2e45ed7069872544293e67b3b406ac"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "dc3dfb832b3cacf8fa0ad433462f4ea612444cdc1e3deb25d32da7541d202709"
+preserve = true
+
+[[files]]
+file = "resourcepacks/Authentic_Shadows_1.21_.zip"
+hash = "304eddd463b6745449ebc74de184d48f26a1a04ae38ec6ec35a27095a5952352"
+
+[[files]]
+file = "resourcepacks/Better-Leaves-9.6.zip"
+hash = "cbeeccd774f910ed270dbe9651d789a8f785d055499f846e466d86f9cae91e90"
+
+[[files]]
+file = "resourcepacks/Bronze_-_Armor_Retexture.zip"
+hash = "21cf8f0c84d6dd45fb11cd5ff4831123017332cce3751e25dce328272edf6520"
+
+[[files]]
+file = "resourcepacks/Detail-Brush-1.8-1.20.2_.zip"
+hash = "9efaf665e610cd621d512dda985bb0acd88ae8d0a5165b9d29d7a7352f3559ca"
+
+[[files]]
+file = "resourcepacks/Farcr_s_Better_Dirt_V1.2.zip"
+hash = "1187a0999bf92062c07f76847ae5c54514f31d3cca235b1c25fdd56335d8e6d1"
+
+[[files]]
+file = "resourcepacks/Farcr_s_Re-Crafted_V2.28.1.zip"
+hash = "94ed88d2f46cfeb0eee82cef8189349b29c9e1d5000e30a13ec61aff3c066843"
+
+[[files]]
+file = "resourcepacks/Farcr_s_Re-Create_1.6.zip"
+hash = "983b18a774874914b1875cd6538abd8fe5dd0c33496101625a8e40d2e3606115"
+
+[[files]]
+file = "resourcepacks/Hatson_s_Pigeons.zip"
+hash = "91d9226492925a455f616fc927601498e9a820716d29130ffe7e0447fcb6d9d4"
+
+[[files]]
+file = "resourcepacks/ModdedGalleryCompat1.21.1-1.6.zip"
+hash = "7f6a74c3013810eb1e8a896f946f5274e11cb350147b71d1df251c4d61ff5092"
+
+[[files]]
+file = "resourcepacks/Neutral_Sea_Grass_and_Kelp.zip"
+hash = "b240a26d9ea737e6d4dc8b2b766394b4c69f63d8a27152ff39cb2c9e4e13c917"
+
+[[files]]
+file = "resourcepacks/Probleyes_Creatures.zip"
+hash = "a2c14545aae561d45408a578c9f47854760a0f389ca24e646cc317dc6903c52f"
+
+[[files]]
+file = "resourcepacks/Refurbished.zip"
+hash = "5563e0b64649fece8b04fcac206c647dc0f458d2e025b5e4df04cc4a5ba03555"
+
+[[files]]
+file = "resourcepacks/Serified_Font_v1.2.zip"
+hash = "289f8ca25a02e4f01d1014de35c85fe0e73f4cc9a83133cbc12dc249bbf953c5"
+
+[[files]]
+file = "resourcepacks/Soft-Weather-1.0-Universal.zip"
+hash = "3f47ccac79c0c9ff2f723e4d8061f5881ca5323931be29f9009d42682cdcc1dd"
+
+[[files]]
+file = "resourcepacks/Supplementaries_Rope_Redone_v2.0.zip"
+hash = "aee3765c166ab6eecff59a8c7d2c46df828924c89019fefac5ec959d7302060e"
+
+[[files]]
+file = "resourcepacks/Supplementaries_Touch-Ups_v0.2.zip"
+hash = "a0914da9d3765df6bb2036a4a1770c4c00a34aa7a29534489ad0e166cf13cf68"
+
+[[files]]
+file = "resourcepacks/Wayfarer_Retextures__oowwo_.zip"
+hash = "e45807c7ab792510d2474e506664fda98d3f620fe7503ab872ed214bad0aee52"
+
+[[files]]
+file = "resourcepacks/oowwo_archwood.zip"
+hash = "5a17023ad86d3f408d03db8675a3d921eee1340b94d16097ea125b2029f9a9d7"
+
+[[files]]
+file = "resourcepacks/oowwo_steel_retexture.zip"
+hash = "56c26c3c96677b986a69796aa0aee5d1f8ada63df3f720b969f69f8b7df3eb0a"
+
+[[files]]
+file = "resourcepacks/probleyes_produce_1.6.zip"
+hash = "f816e99a6f9a347bb9ca234b195739b4e8a0ce76cee7ff21c34848ea41116f86"
+
+[[files]]
+file = "resourcepacks/sunbathing-v1.10.zip"
+hash = "af8980d92f426ec3e5cc428c6b84813e59fec37870eb8fa5e03c5207b44a8f6b"
+
+[[files]]
+file = "resourcepacks/vertical_fences_0.2.zip"
+hash = "170bd797317316137ee2bfc819083a348f60501ae024b9fe7791cd8dd7aca6bd"

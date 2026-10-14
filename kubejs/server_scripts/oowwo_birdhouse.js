@@ -6,13 +6,13 @@
 // <mod>:stripped_<wood>_log | _stem | _block. Woods whose items can't be found are listed in the server log.
 // Recipe ids: oowwo:birdhouse_stripped/<mod>_<wood>. To revert: delete this file.
 
-const $BuiltInRegistries = Java.loadClass('net.minecraft.core.registries.BuiltInRegistries')
-const $ResourceLocation = Java.loadClass('net.minecraft.resources.ResourceLocation')
+const $BH_REG = Java.loadClass('net.minecraft.core.registries.BuiltInRegistries')
+const $BH_RL = Java.loadClass('net.minecraft.resources.ResourceLocation')
 
 ServerEvents.recipes(event => {
-  var has = id => { try { return $BuiltInRegistries.ITEM.containsKey($ResourceLocation.parse(id)) } catch (e) { return false } }
+  var has = id => { try { return $BH_REG.ITEM.containsKey($BH_RL.parse(id)) } catch (e) { return false } }
   var made = [], skipped = []
-  var keys = $BuiltInRegistries.ITEM.keySet().toArray()
+  var keys = $BH_REG.ITEM.keySet().toArray()
   for (var i = 0; i < keys.length; i++) {
     var rl = String(keys[i].toString())
     if (rl.indexOf('courier_owls:') !== 0) continue
