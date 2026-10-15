@@ -3493,30 +3493,6 @@ file = "config/sage_brush-common.toml"
 hash = "de881976ab08f520f31b466a1f2bb28a7b21de89af261826ccde12c0bef9dd04"
 
 [[files]]
-file = "config/saintsdragons/client/clientcommon.toml"
-hash = "01b2df9733cefadd837a9c5b2eae9526baeeee955be22c7a35cc79d4e276733b"
-
-[[files]]
-file = "config/saintsdragons/client/dragon_rider_camera/camera_tuning.json"
-hash = "7ff3114bf5ff6ef98b287370434a56781969bed1dc44ccd6872bf07b3c78d867"
-
-[[files]]
-file = "config/saintsdragons/server/attributes.toml"
-hash = "2f2fc1524978f02cf8fd3787f854e171a565d7d211a4c574b8f14371ed3a0e4d"
-
-[[files]]
-file = "config/saintsdragons/server/servercommon.toml"
-hash = "3c50d3a02887682bef3fbacc59cbc2bf819f09724f715f3dadbbfc5bb0cceae8"
-
-[[files]]
-file = "config/saintsdragons/server/spawning.toml"
-hash = "54b6e1c0396dc66698d058691932b63c874aec080555a06589c5196782611479"
-
-[[files]]
-file = "config/saintsdragons/server/tools_and_armor.toml"
-hash = "2581a74677a137c84fc3e006288a95bf0472029ded4f6d4b2f8d2cb87efaa46d"
-
-[[files]]
 file = "config/sauce-server.toml"
 hash = "230fb11ff516749c8b60ebc9e8db79810e501d3cd48e8a2656c2f87ac5bfd79c"
 
@@ -5673,10 +5649,6 @@ file = "kubejs/data/reanimal/neoforge/biome_modifier/spawn_vulture_desert.json"
 hash = "4554fa3acf53917e5e9ad659ae7c6ef020e22a31b43b28eefc4c5215706f26d8"
 
 [[files]]
-file = "kubejs/data/saintsdragons/worldgen/structure_set/varasuchus_roost.json"
-hash = "1958a8bedc080f75b8cb94d5efe83eba1a20ef68ef1a1d7798ef423a1f26238e"
-
-[[files]]
 file = "kubejs/data/spelunkery/loot_table/gameplay/sluice/water/clay.json"
 hash = "f64d0213c99e58d416cc2dca74d02c640eaf3e8d8403d4557b4b32069c10bb52"
 
@@ -6183,14 +6155,6 @@ hash = "d6c072b1adc845b6eaa70e558f09bd9420065d11f11e06c6fd0d327c75718655"
 [[files]]
 file = "kubejs/server_scripts/oowwo_ring_loot.js"
 hash = "aa15f2efe8946a2fdd49ff02f3004c91f67501f7eeeea3470e2c3fae6e37b309"
-
-[[files]]
-file = "kubejs/server_scripts/oowwo_saintsdragons_binders.js"
-hash = "29dc8b80ec7f9a6467c7078e34bf90e61d566c4caa49d7a5237664389c9a5f1e"
-
-[[files]]
-file = "kubejs/server_scripts/oowwo_saintsdragons_tiers.js"
-hash = "63c466e314deee6b929cee26a0e5e4039d82c2107602e294de05c3be68e874bb"
 
 [[files]]
 file = "kubejs/server_scripts/oowwo_seed_pots.js"
