@@ -23,11 +23,16 @@
 
 ServerEvents.recipes(event => {
   const R = fn => { try { fn(); } catch (e) { console.warn('[dyes] skipped: ' + e); } };
-  const G = (input, dye, count) => R(() => event.custom({
-    type: 'toxony:mortar_pestle',
-    ingredients: [{ item: input }],
-    result: { id: 'minecraft:' + dye, count: count }
-  }).id('oowwo:dyes/' + input.split(':')[1] + '_to_' + dye));
+  // Wayfarer-mortar twin of a Toxony grind (Derek 2026-10-17): same output + 25% chance of 1 extra, one input item, 60 ticks. Helper inlined (global cannot be assigned in server scripts).
+  const WF = (ing, result, key) => event.custom({ type: 'wayfarer_core:grinding', ingredient: ing, input_count: 1, result: { id: result.id || result.item, count: result.count || 1 }, duration: 60, bonus_chance: 0.25, bonus_count: 1 }).id('oowwo:wf_grinding/' + String(key).toLowerCase().replace(/[^a-z0-9_.\/-]/g, '/'));
+  const G = (input, dye, count) => {
+    R(() => WF({ item: input }, { id: 'minecraft:' + dye, count: count }, 'dyes/' + input.split(':')[1] + '_to_' + dye));
+    return R(() => event.custom({
+      type: 'toxony:mortar_pestle',
+      ingredients: [{ item: input }],
+      result: { id: 'minecraft:' + dye, count: count }
+    }).id('oowwo:dyes/' + input.split(':')[1] + '_to_' + dye));
+  };
 
   var WF_REMOVED = [
     'nomansland:light_gray_dye_from_white_tulip',
@@ -208,6 +213,7 @@ ServerEvents.recipes(event => {
   toConvert.forEach(c => R(() => {
     event.custom({ type: 'toxony:mortar_pestle', ingredients: [c.ing], result: c.result })
       .id('oowwo:dyes/auto/' + c.id.replace(':', '/'));
+    WF(c.ing, c.result, 'dyes/auto/' + c.id);
     event.remove({ id: c.id });
     console.info('[dyes] converted ' + c.id + ' -> mortar');
   }));

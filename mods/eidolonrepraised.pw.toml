@@ -1,0 +1,13 @@
+name = "Eidolon:Repraised"
+filename = "eidolon_repraised-1.21.1-0.5.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eWX2m1eM/versions/32LnHpri/eidolon_repraised-1.21.1-0.5.0.7.jar"
+hash-format = "sha512"
+hash = "cceaf1c9e6f4e2107e06fddae41449f75bd672ef8424a779986cdf03c5839250b2efd252930ee68ff9b03a4311e8df54ad3865f5b5373058e1f16f36d042e953"
+
+[update]
+[update.modrinth]
+mod-id = "eWX2m1eM"
+version = "32LnHpri"

@@ -36,8 +36,10 @@ function oalRingResult(ringId, bonus) {
 var OAL_TINCTURE_RECIPES = {
   sol: { grind: ['#c:ingots/gold', 'minecraft:blaze_powder', 'jewelry:topaz', 'minecraft:glowstone_dust'],
     pot: 'farmersdelight:cooking', extra: ['minecraft:blaze_powder', 'minecraft:glowstone_dust'] },
-  luna: { grind: ['#c:ingots/silver', 'hexerei:selenite_shard', 'hexerei:moon_dust', 'minecraft:amethyst_shard'],
-    pot: 'farmersdelight:cooking', extra: ['hexerei:moon_dust', 'minecraft:phantom_membrane'] },
+  // 2026-10-17: Hexerei removed - selenite shard + moon dust (x2) replaced with amethyst shards. PLACEHOLDER until
+  // the Eidolon / Enchanted entry point decides where moonlight comes from.
+  luna: { grind: ['#c:ingots/silver', 'minecraft:amethyst_shard', 'minecraft:amethyst_shard', 'minecraft:phantom_membrane'],
+    pot: 'farmersdelight:cooking', extra: ['minecraft:amethyst_shard', 'minecraft:phantom_membrane'] },
   sulfur: { grind: ['nomansland:sulfur', 'nomansland:sulfur', 'jewelry:ruby', 'irons_spellbooks:cinder_essence'],
     pot: 'farmersdelight:cooking', extra: ['minecraft:blaze_powder', 'nomansland:sulfur'] },
   mercury: { grind: ['wayfarer_core:mercury_droplet', 'wayfarer_core:mercury_droplet', 'irons_spellbooks:ice_venom_vial', 'minecraft:ender_pearl'],

@@ -27,6 +27,8 @@
 
 ServerEvents.recipes(event => {
   const R = fn => { try { fn(); } catch (e) { console.warn('[misc] skipped: ' + e); } };
+  // Wayfarer-mortar twin of a Toxony grind (Derek 2026-10-17): same output + 25% chance of 1 extra, one input item, 60 ticks. Helper inlined (global cannot be assigned in server scripts).
+  const WF = (ing, result, key) => event.custom({ type: 'wayfarer_core:grinding', ingredient: ing, input_count: 1, result: { id: result.id || result.item, count: result.count || 1 }, duration: 60, bonus_chance: 0.25, bonus_count: 1 }).id('oowwo:wf_grinding/' + String(key).toLowerCase().replace(/[^a-z0-9_.\/-]/g, '/'));
   const RM = id => event.remove({ id: id });
 
   // ---------- A. metals and materials ----------
@@ -79,6 +81,7 @@ ServerEvents.recipes(event => {
     type: 'toxony:mortar_pestle', ingredients: [{ item: 'minecraft:blaze_rod' }],
     result: { id: 'minecraft:blaze_powder', count: 2 }
   }).id('oowwo:misc/grinding/blaze_powder'));
+  R(() => WF({ item: 'minecraft:blaze_rod' }, { id: 'minecraft:blaze_powder', count: 2 }, 'blaze_powder'));
   R(() => event.replaceInput({ id: 'amendments:dragon_charge' }, 'minecraft:obsidian', 'wayfarer_core:rift_sediment'));
 
   // ---------- D. farming and food ----------

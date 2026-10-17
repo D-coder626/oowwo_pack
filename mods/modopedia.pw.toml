@@ -1,0 +1,13 @@
+name = "Modopedia"
+filename = "modopedia-neoforge-1.21.1-1.1.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SYrakyVL/versions/XsBY25fn/modopedia-neoforge-1.21.1-1.1.10.jar"
+hash-format = "sha512"
+hash = "04ec9f36f201cb23f63091255298280ae4eae2c732fa2676195eba49b7a35c4a24aa26914f99fce839d80f2d26a4579cf50ba438939bfb8fdb41189cb07ad4d0"
+
+[update]
+[update.modrinth]
+mod-id = "SYrakyVL"
+version = "XsBY25fn"

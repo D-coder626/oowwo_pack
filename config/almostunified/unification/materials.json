@@ -22,7 +22,12 @@
     "c:nuggets/silver": "wayfarer_core",
     "c:raw_materials/silver": "wayfarer_core",
     "c:storage_blocks/silver": "wayfarer_core",
-    "c:storage_blocks/raw_silver": "wayfarer_core"
+    "c:storage_blocks/raw_silver": "wayfarer_core",
+    "c:ingots/lead": "wayfarer_core",
+    "c:nuggets/lead": "wayfarer_core",
+    "c:raw_materials/lead": "wayfarer_core",
+    "c:storage_blocks/lead": "wayfarer_core",
+    "c:storage_blocks/raw_lead": "wayfarer_core"
   },
   "stone_variants": [
     "stone",

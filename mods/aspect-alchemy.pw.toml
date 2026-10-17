@@ -1,0 +1,13 @@
+name = "Aspect Alchemy"
+filename = "aspectalchemy-neoforge-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VIEeuGIh/versions/MVAFcYOT/aspectalchemy-neoforge-2.0.0.jar"
+hash-format = "sha512"
+hash = "ebd1f8f1dc35c5c41d215e88b2e80ba599f3ce04a3387dd5c6cc1be367f0683d5e7780c2e96c842cadb86ae79dc9ce29e3c3f043cde29311aac96ef2fd1a5feb"
+
+[update]
+[update.modrinth]
+mod-id = "VIEeuGIh"
+version = "MVAFcYOT"

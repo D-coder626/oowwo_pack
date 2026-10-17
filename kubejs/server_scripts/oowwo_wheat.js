@@ -26,6 +26,8 @@ ServerEvents.tags('item', event => {
 
 ServerEvents.recipes(event => {
   const R = fn => { try { fn(); } catch (e) { console.warn('[wheat] skipped: ' + e); } };
+  // Wayfarer-mortar twin of a Toxony grind (Derek 2026-10-17): same output + 25% chance of 1 extra, one input item, 60 ticks. Helper inlined (global cannot be assigned in server scripts).
+  const WF = (ing, result, key) => event.custom({ type: 'wayfarer_core:grinding', ingredient: ing, input_count: 1, result: { id: result.id || result.item, count: result.count || 1 }, duration: 60, bonus_chance: 0.25, bonus_count: 1 }).id('oowwo:wf_grinding/' + String(key).toLowerCase().replace(/[^a-z0-9_.\/-]/g, '/'));
   const ing = id => id.charAt(0) === '#' ? { tag: id.substring(1) } : { item: id };
 
   // wheat -> 50% flour + 50% straw on the cutting board (knife)
@@ -51,10 +53,12 @@ ServerEvents.recipes(event => {
     type: 'toxony:mortar_pestle', ingredients: [ing('minecraft:wheat')],
     result: { id: 'create:wheat_flour', count: 2 }
   }).id('oowwo:grinding/wheat_flour'));
+  R(() => WF(ing('minecraft:wheat'), { id: 'create:wheat_flour', count: 2 }, 'wheat_flour'));
   R(() => event.custom({
     type: 'toxony:mortar_pestle', ingredients: [ing('brewinandchewin:corn_kernels')],
     result: { id: 'brewinandchewin:cornmeal', count: 2 }
   }).id('oowwo:grinding/cornmeal'));
+  R(() => WF(ing('brewinandchewin:corn_kernels'), { id: 'brewinandchewin:cornmeal', count: 2 }, 'cornmeal'));
 
   // dough
   event.remove({ id: 'farmersdelight:wheat_dough_from_egg' });

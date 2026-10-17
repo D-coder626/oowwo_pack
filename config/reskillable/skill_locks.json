@@ -901,18 +901,6 @@
     "farmersdelight:netherite_knife": [
       "attack:30"
     ],
-    "hexalia:kelpweave_blade": [
-      "attack:5",
-      "magic:5"
-    ],
-    "hexalia:rootshaper": [
-      "magic:5",
-      "mining:5"
-    ],
-    "hexerei:warhammer": [
-      "attack:30",
-      "magic:15"
-    ],
     "irons_spellbooks:amethyst_rapier": [
       "attack:15",
       "magic:5"

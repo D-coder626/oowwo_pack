@@ -56,11 +56,6 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "saintsdragons": {
-    "egg_timer": true,
-    "draconic_crucible_timer": true,
-    "dragon_info": true
-  },
   "apothic_spawners": {
     "spawner": true
   },
@@ -85,6 +80,9 @@
   "apotheosis": {
     "adventure": true
   },
+  "aspectalchemy": {
+    "cauldron": true
+  },
   "balm": {
     "jade": true
   },
@@ -102,6 +100,9 @@
   },
   "spawn": {
     "stickbug_as_item": true
+  },
+  "eidolon_repraised": {
+    "enthrall_tooltip": true
   },
   "toms_storage": {
     "inventory_hopper": true,

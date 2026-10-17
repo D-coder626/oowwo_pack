@@ -29,6 +29,8 @@ ServerEvents.recipes(event => {
   // A recipe that names an item that does not exist is logged and skipped instead of aborting the
   // whole script (that is what happened on the first launch).
   const R = fn => { try { fn(); } catch (e) { console.warn('[wayfarer_port] skipped: ' + e); } };
+  // Wayfarer-mortar twin of a Toxony grind (Derek 2026-10-17): same output + 25% chance of 1 extra, one input item, 60 ticks. Helper inlined (global cannot be assigned in server scripts).
+  const WF = (ing, result, key) => event.custom({ type: 'wayfarer_core:grinding', ingredient: ing, input_count: 1, result: { id: result.id || result.item, count: result.count || 1 }, duration: 60, bonus_chance: 0.25, bonus_count: 1 }).id('oowwo:wf_grinding/' + String(key).toLowerCase().replace(/[^a-z0-9_.\/-]/g, '/'));
 
   // ---------------- building/blast_furnace.js ----------------
   R(() => event.shaped('wayfarer_core:bloomery', ["MMM", "MFM", "AAA"], {A: "wayfarer_core:bone_ash", M: ["minecraft:packed_mud", "minecraft:mud_bricks"], F: "minecraft:furnace"}).id('oowwo_port:bloomery'));
@@ -88,6 +90,8 @@ ServerEvents.recipes(event => {
   // whose recipe now uses Wayfarer's materials (see oowwo_mortars.js). Pestle/mortar recipes removed.
   R(() => event.custom({"type": "toxony:mortar_pestle", "ingredients": [{"item": "minecraft:ender_pearl"}], "result": {"id": "wayfarer_core:rift_sediment", "count": 3}}).id('oowwo_port:rift_sediment')); // was wayfarer grinding 3 +30% 1
   R(() => event.custom({"type": "toxony:mortar_pestle", "ingredients": [{"item": "wayfarer_core:lifegem"}], "result": {"id": "wayfarer_core:lifesalt", "count": 3}}).id('oowwo_port:lifesalt'));
+  R(() => WF({ item: 'minecraft:ender_pearl' }, { id: 'wayfarer_core:rift_sediment', count: 3 }, 'rift_sediment'));
+  R(() => WF({ item: 'wayfarer_core:lifegem' }, { id: 'wayfarer_core:lifesalt', count: 3 }, 'lifesalt'));
 
   // ---------------- materials/rubber.js ----------------
   R(() => event.smelting('wayfarer_core:rubber', "minecraft:nether_wart").id('oowwo_port:rubber'));

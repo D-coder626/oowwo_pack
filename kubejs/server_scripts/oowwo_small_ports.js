@@ -24,14 +24,16 @@
 
 ServerEvents.recipes(event => {
   const R = fn => { try { fn(); } catch (e) { console.warn('[small_ports] skipped: ' + e); } };
+  // Wayfarer-mortar twin of a Toxony grind (Derek 2026-10-17): same output + 25% chance of 1 extra, one input item, 60 ticks. Helper inlined (global cannot be assigned in server scripts).
+  const WF = (ing, result, key) => event.custom({ type: 'wayfarer_core:grinding', ingredient: ing, input_count: 1, result: { id: result.id || result.item, count: result.count || 1 }, duration: 60, bonus_chance: 0.25, bonus_count: 1 }).id('oowwo:wf_grinding/' + String(key).toLowerCase().replace(/[^a-z0-9_.\/-]/g, '/'));
   const RM = id => event.remove({ id: id });
   // Grinding runs on Toxony's mortar since 2026-09-27 (Derek). Toxony has no bonus roll, so the
   // output is Wayfarer's expected value rounded: count + chance*bonus (e.g. bone 3 +60% -> 4).
-  const GRIND = (input, out, count, chance, bonus, id) => R(() => event.custom({
+  const GRIND = (input, out, count, chance, bonus, id) => { R(() => WF(input.charAt(0) === '#' ? { tag: input.substring(1) } : { item: input }, { id: out, count: Math.round(count + chance * bonus) }, 'small/' + id)); return R(() => event.custom({
     type: 'toxony:mortar_pestle',
     ingredients: [input.charAt(0) === '#' ? { tag: input.substring(1) } : { item: input }],
     result: { id: out, count: Math.round(count + chance * bonus) }
-  }).id('oowwo:small/grinding/' + id));
+  }).id('oowwo:small/grinding/' + id)); };
 
   // ---------- 1. rubber ----------
   R(() => event.shaped('create:cardboard_sword', ['RRR', ' S ', ' S '], { S: 'minecraft:stick', R: 'wayfarer_core:rubber' }).id('oowwo:small/cardboard_sword'));
