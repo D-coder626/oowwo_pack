@@ -21,7 +21,7 @@ ServerEvents.recipes(event => {
     ['minecraft:book', 'ars_nouveau:worn_notebook'],
     '#c:ingots/silver', '#c:ingots/silver',
     'wayfarer_core:mercury_droplet',
-    '#c:gems/lapis'
+    'enchanted:tear_of_the_goddess'   // 2026-10-17: was lapis; Enchanted distillery (breath of the goddess + lapis)
   ]).id('oowwo:magic/ars_novice_spell_book'))
 
   // ---------------------------------------------------------------- 2. IRON'S SPELLBOOKS — inscription table
@@ -29,8 +29,8 @@ ServerEvents.recipes(event => {
   // Jar recipe (3.16.2): "  B" / "TTT" / "L L" (B book, T wooden slab, L wooden fence). No other recipe makes it.
   // Now: silver either side of the book, a mercury droplet between the legs.
   event.remove({ id: 'irons_spellbooks:inscription_table' })
-  R(() => event.shaped('irons_spellbooks:inscription_table', ['SBS', 'TTT', 'LML'], {
-    S: '#c:ingots/silver', B: 'minecraft:book', M: 'wayfarer_core:mercury_droplet',
+  R(() => event.shaped('irons_spellbooks:inscription_table', ['SBI', 'TTT', 'LML'], {
+    S: '#c:ingots/silver', I: 'eidolon_repraised:magic_ink', B: 'minecraft:book', M: 'wayfarer_core:mercury_droplet',
     T: '#minecraft:wooden_slabs', L: '#minecraft:wooden_fences'
   }).id('oowwo:magic/irons_inscription_table'))
 
@@ -38,8 +38,8 @@ ServerEvents.recipes(event => {
   // The cheapest Iron's book. Jar recipe (3.16.2): "CPP" / "SPP" / "CPP" (C copper ingot, S string, P paper).
   // Now silver (the moon metal) in place of copper; same shape. The item keeps its name and texture.
   event.remove({ id: 'irons_spellbooks:copper_spell_book' })
-  R(() => event.shaped('irons_spellbooks:copper_spell_book', ['CPP', 'SPP', 'CPP'], {
-    C: '#c:ingots/silver', S: 'minecraft:string', P: 'minecraft:paper'
+  R(() => event.shaped('irons_spellbooks:copper_spell_book', ['CPP', 'SPP', 'CPA'], {
+    C: '#c:ingots/silver', S: 'minecraft:string', P: 'minecraft:paper', A: 'eidolon_repraised:parchment'
   }).id('oowwo:magic/irons_copper_spell_book'))
 
   // ---------------------------------------------------------------- 4. IRON'S SPELLBOOKS — scroll forge
@@ -52,6 +52,6 @@ ServerEvents.recipes(event => {
   event.remove({ id: 'irons_recipe_additions:scroll_forge_recipe' })
   R(() => event.shaped('irons_spellbooks:scroll_forge', ['DMD', ' O ', 'OSO'], {
     D: 'minecraft:polished_deepslate', M: 'wayfarer_core:mercury_ingot', O: 'minecraft:crying_obsidian',
-    S: 'irons_spellbooks:shriving_stone'
+    S: 'eidolon_repraised:lesser_soul_gem'   // 2026-10-17: was shriving stone
   }).id('oowwo:magic/irons_scroll_forge'))
 })

@@ -34,23 +34,22 @@ function oalRingResult(ringId, bonus) {
 
 // key -> grind (Toxony mortar, up to 4), pot type, pot extras (with the calx)
 var OAL_TINCTURE_RECIPES = {
-  sol: { grind: ['#c:ingots/gold', 'minecraft:blaze_powder', 'jewelry:topaz', 'minecraft:glowstone_dust'],
+  sol: { grind: ['eidolon_repraised:arcane_gold_ingot', 'minecraft:blaze_powder', 'jewelry:topaz', 'minecraft:glowstone_dust'],
     pot: 'farmersdelight:cooking', extra: ['minecraft:blaze_powder', 'minecraft:glowstone_dust'] },
-  // 2026-10-17: Hexerei removed - selenite shard + moon dust (x2) replaced with amethyst shards. PLACEHOLDER until
-  // the Eidolon / Enchanted entry point decides where moonlight comes from.
-  luna: { grind: ['#c:ingots/silver', 'minecraft:amethyst_shard', 'minecraft:amethyst_shard', 'minecraft:phantom_membrane'],
-    pot: 'farmersdelight:cooking', extra: ['minecraft:amethyst_shard', 'minecraft:phantom_membrane'] },
+  // 2026-10-17: Hexerei removed; Luna now draws moonlight from Enchanted's tear of the goddess + Eidolon enchanted ash.
+  luna: { grind: ['#c:ingots/silver', 'enchanted:tear_of_the_goddess', 'minecraft:phantom_membrane', 'eidolon_repraised:enchanted_ash'],
+    pot: 'farmersdelight:cooking', extra: ['enchanted:tear_of_the_goddess', 'minecraft:phantom_membrane'] },
   sulfur: { grind: ['nomansland:sulfur', 'nomansland:sulfur', 'jewelry:ruby', 'irons_spellbooks:cinder_essence'],
     pot: 'farmersdelight:cooking', extra: ['minecraft:blaze_powder', 'nomansland:sulfur'] },
-  mercury: { grind: ['wayfarer_core:mercury_droplet', 'wayfarer_core:mercury_droplet', 'irons_spellbooks:ice_venom_vial', 'minecraft:ender_pearl'],
+  mercury: { grind: ['wayfarer_core:mercury_droplet', 'wayfarer_core:mercury_droplet', 'irons_spellbooks:ice_venom_vial', 'enchanted:ender_dew'],
     pot: 'farmersdelight:cooking', extra: ['wayfarer_core:mercury_droplet', 'minecraft:ghast_tear'] },
-  salt: { grind: ['spelunkery:rock_salt', 'spelunkery:rock_salt', 'caverns_and_chasms:turquoise', 'minecraft:bone_meal'],
+  salt: { grind: ['spelunkery:rock_salt', 'spelunkery:rock_salt', 'caverns_and_chasms:turquoise', 'enchanted:quicklime'],
     pot: 'farmersdelight:cooking', extra: ['#c:salt', 'minecraft:quartz'] },
-  arcane: { grind: ['irons_spellbooks:arcane_essence', 'irons_spellbooks:arcane_essence', 'irons_spellbooks:mithril_scrap', 'jewelry:tanzanite'],
+  arcane: { grind: ['irons_spellbooks:arcane_essence', 'irons_spellbooks:arcane_essence', 'irons_spellbooks:mithril_scrap', 'eidolon_repraised:lesser_soul_gem'],
     pot: 'farmersdelight:cooking', extra: ['irons_spellbooks:arcane_essence', '#c:gems/lapis'] },
-  ether: { grind: ['sons_of_sins:ether_ashes', 'sons_of_sins:ether_ashes', 'sons_of_sins:crystallized_ether', 'minecraft:soul_sand'],
-    pot: 'dungeonsdelight:monster_cooking', extra: ['sons_of_sins:ether_ashes', 'minecraft:ghast_tear'] },
-  flesh: { grind: ['evilcraft:flesh_humanoid', 'sons_of_sins:heart', 'minecraft:rotten_flesh', 'minecraft:bone_meal'],
+  ether: { grind: ['sons_of_sins:ether_ashes', 'sons_of_sins:ether_ashes', 'sons_of_sins:crystallized_ether', 'eidolon_repraised:soul_shard'],
+    pot: 'dungeonsdelight:monster_cooking', extra: ['sons_of_sins:ether_ashes', 'eidolon_repraised:death_essence'] },
+  flesh: { grind: ['evilcraft:flesh_humanoid', 'sons_of_sins:heart', 'eidolon_repraised:zombie_heart', 'minecraft:bone_meal'],
     pot: 'dungeonsdelight:monster_cooking', extra: ['irons_spellbooks:blood_vial', 'minecraft:rotten_flesh'] }
 }
 var OAL_TINCTURE_KEYS = Object.keys(OAL_TINCTURE_RECIPES)

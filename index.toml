@@ -6174,7 +6174,7 @@ hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
 
 [[files]]
 file = "kubejs/server_scripts/oowwo_alchemy.js"
-hash = "310b9f556934afc8a7261fb1386f279018d22212ab05ddc96981c3023d86d3b2"
+hash = "6a44ea2125b7e1c8c458c476b82bde80aefc0a243dfebf190e3a8b58c31ae36d"
 
 [[files]]
 file = "kubejs/server_scripts/oowwo_alchemy_anvil.js"
@@ -6265,6 +6265,10 @@ file = "kubejs/server_scripts/oowwo_finder_early.js"
 hash = "e69a5d02b80bf315b5b42e4a4ddc3385019e944a3c4ed1c30f15b0fe53949203"
 
 [[files]]
+file = "kubejs/server_scripts/oowwo_furnace_limits.js"
+hash = "c1230e9aabe6728ebf35b9f0b093dcf1b7a681fefdfa27ca20480f6cfb17024e"
+
+[[files]]
 file = "kubejs/server_scripts/oowwo_lead_tier.js"
 hash = "eb899dcd71aa630743190218c675ff6ef35fa99bc560acd2c5cde94851979a26"
 
@@ -6290,7 +6294,7 @@ hash = "a814c1b906c75565403226765448567eb2e7f452e4b925705e668faa0bbfa400"
 
 [[files]]
 file = "kubejs/server_scripts/oowwo_magic_gates.js"
-hash = "2706a388993d1a0d8ebf39c23851e4d2ee227c15745ee04c020b265ebd888ec9"
+hash = "52e49391ad2351bace08a1eaae3844a46cbc71814efc5fc6b949681a09d6c41b"
 
 [[files]]
 file = "kubejs/server_scripts/oowwo_magic_tier2.js"
@@ -6475,6 +6479,10 @@ hash = "e7e52b590b8b1b5a547876ce58534cb5fae147dd6bb703e2f17c1d96efeecaa3"
 [[files]]
 file = "kubejs/startup_scripts/oowwo_items.js"
 hash = "aad264594bfae022df6b7897766596391f10c2b654078cfaaf0a9e97a59384b8"
+
+[[files]]
+file = "kubejs/startup_scripts/oowwo_molten_pewter.js"
+hash = "fe83fbf6d63a8400eee3968cebb0a2b73db7e08732dfc12f801bcec7ea2b0130"
 
 [[files]]
 file = "kubejs/startup_scripts/oowwo_spear_speed.js"
