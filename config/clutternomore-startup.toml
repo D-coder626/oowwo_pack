@@ -1,6 +1,6 @@
 [shapes]
 	#Ensure these values are the same as the servers you're joining or issues may arise
 	#If vertical slabs should be added to all existing slabs
-	verticalSlabs = false
+	verticalSlabs = true
 	#If steps should be added to all existing stairs
-	steps = false
+	steps = true

@@ -3,10 +3,10 @@
 shape_maps = true
 # If vertical slabs should be added to all existing slabs
 # default: true
-vertical_slabs = false
+vertical_slabs = true
 # If steps should be added to all existing stairs
 # default: true
-steps = false
+steps = true
 # If recipes should have their shapes replaced by the parent block
 # default: true
 recipe_fixes = false
