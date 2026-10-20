@@ -6670,11 +6670,6 @@ hash = "2dedbdaea212fc6b7327eb46b9d6ced3597aa0920ba1df19950a79ed408c5178"
 metafile = true
 
 [[files]]
-file = "mods/ars-n-spells.pw.toml"
-hash = "f256bfbde113c95065cbce6054beb006b7af1b731f609d2eaf3ea3668834815f"
-metafile = true
-
-[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "96dbcaee2c4ea251eb6106a31138c5aed081be24b9900f22e3380fa35b314c70"
 metafile = true
@@ -6683,6 +6678,10 @@ metafile = true
 file = "mods/ars-technica.pw.toml"
 hash = "130e60104ba3741895272ba1a2ccbddb0bec7476f5184a16eb36ad96dd9fc0cf"
 metafile = true
+
+[[files]]
+file = "mods/ars_n_spells-3.0.2.jar"
+hash = "4866a1c654466ee4cb127f58e1d103fe114f76ea08b7d527a89dd2163bd9409d"
 
 [[files]]
 file = "mods/artifacts.pw.toml"
@@ -6700,9 +6699,8 @@ hash = "65c5be356afd9d71abc23f2274c54b72e4afb70fc7f156a66b6f1315bd02c129"
 metafile = true
 
 [[files]]
-file = "mods/atmospherics.pw.toml"
-hash = "95b3943d881a38056cdfd59f208584f96f9de8cab9dc1412daa5edaa3db35071"
-metafile = true
+file = "mods/atmospherics-2.6.5-mc-1.21.1.jar"
+hash = "60d420dbdefd81894d509270d7577e865b49aa917eab5ad0a4806c80c215fe27"
 
 [[files]]
 file = "mods/aures-sea-dwellers.pw.toml"
@@ -7883,11 +7881,6 @@ hash = "52d8c58f0c47b58571981c69a08c2f2d11186b463c121755b4c064013ebc4da0"
 metafile = true
 
 [[files]]
-file = "mods/some-spooky-cave-additions.pw.toml"
-hash = "9ac542cde2241da324996eb33c96dbcb380b68c7716def5d03ec51401c28bd4e"
-metafile = true
-
-[[files]]
 file = "mods/sons-of-sins.pw.toml"
 hash = "d8f163f560c044c94e2216f7bcd24c0b3cfb356c61352cd7d47a407eabc77470"
 metafile = true
@@ -7946,6 +7939,10 @@ metafile = true
 file = "mods/srdp.pw.toml"
 hash = "a4443c00679e351c2054b652b8f613c4da65eefca23354c61a7a60654968c4d3"
 metafile = true
+
+[[files]]
+file = "mods/sscarekindled-1.1.0-1.21.1.jar"
+hash = "1e20cd72b565fa46833c614c674d06c6860b2275efb3a28aa1c8fb3fbccfc7ee"
 
 [[files]]
 file = "mods/stateobserver.pw.toml"
@@ -8108,14 +8105,12 @@ hash = "abff4870996b0fefe627ab2141ba3941fff968899d3a28baa7188b632dc5d6ea"
 metafile = true
 
 [[files]]
-file = "mods/vital-delight.pw.toml"
-hash = "0e0aa785d421cd4fe7885ac7e321a35507ad14b00651261ad2ef3af7a59d4f54"
-metafile = true
+file = "mods/vital_delight-4.0.0-neoforge-1.21.1.jar"
+hash = "fbab8fb714a2107680c0a7dd561fef19877607e12a915a31da34d0a2967a3203"
 
 [[files]]
-file = "mods/vital-herbs.pw.toml"
-hash = "05c381de60965719a672f3ecdb06fb572f76bca9405f26605762584ca6116cd7"
-metafile = true
+file = "mods/vital_herbs-7.0.0-neoforge-1.21.1.jar"
+hash = "d79e8397dc09d76d1080ebd3950c6f54883490998606c1dfb6980d3da8e22020"
 
 [[files]]
 file = "mods/wakes-reforged.pw.toml"
