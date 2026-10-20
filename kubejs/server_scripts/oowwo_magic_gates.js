@@ -37,9 +37,10 @@ ServerEvents.recipes(event => {
   // ---------------------------------------------------------------- 3. IRON'S SPELLBOOKS — copper spell book
   // The cheapest Iron's book. Jar recipe (3.16.2): "CPP" / "SPP" / "CPP" (C copper ingot, S string, P paper).
   // Now silver (the moon metal) in place of copper; same shape. The item keeps its name and texture.
+  // 2026-10-19 (Derek): all six paper become Eidolon parchment (crucible: leather, 2 stirs, 3 paper + enchanted ash -> 4).
   event.remove({ id: 'irons_spellbooks:copper_spell_book' })
-  R(() => event.shaped('irons_spellbooks:copper_spell_book', ['CPP', 'SPP', 'CPA'], {
-    C: '#c:ingots/silver', S: 'minecraft:string', P: 'minecraft:paper', A: 'eidolon_repraised:parchment'
+  R(() => event.shaped('irons_spellbooks:copper_spell_book', ['CPP', 'SPP', 'CPP'], {
+    C: '#c:ingots/silver', S: 'minecraft:string', P: 'eidolon_repraised:parchment'
   }).id('oowwo:magic/irons_copper_spell_book'))
 
   // ---------------------------------------------------------------- 4. IRON'S SPELLBOOKS — scroll forge

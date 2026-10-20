@@ -30,10 +30,10 @@ ServerEvents.recipes(event => {
 
   // ---------------------------------------------------------------- 6. ARS — imbuement chamber
   // Jar: "xyx" / "x x" / "xyx" (x archwood planks, y gold ingot). Makes source gems, which nearly all of Ars
-  // needs, so it stays pre-Nether: only a lifesalt (lifegems also grow in overworld flesh geodes) in the centre.
+  // needs, so it stays pre-Nether. 2026-10-20 (Derek): centre is a charged attuned stone (Enchanted), was lifesalt.
   event.remove({ id: 'ars_nouveau:imbuement_chamber' })
   R(() => event.shaped('ars_nouveau:imbuement_chamber', ['xyx', 'xLx', 'xyx'], {
-    x: 'ars_nouveau:archwood_planks', y: '#c:ingots/gold', L: 'wayfarer_core:lifesalt'
+    x: 'ars_nouveau:archwood_planks', y: '#c:ingots/gold', L: 'enchanted:attuned_stone_charged'
   }).id('oowwo:magic/ars_imbuement_chamber'))
 
   // ---------------------------------------------------------------- 7. IRON'S — alchemist cauldron (+ vanilla cauldron)

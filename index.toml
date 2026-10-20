@@ -2022,7 +2022,7 @@ hash = "36b0d118a1924aa3f2436fa16cc46a366c9a7f138765ae86caec05977be98bd5"
 
 [[files]]
 file = "config/enhancedcelestials2core/translations-cache/en_us.json"
-hash = "13a98139c2ffebcefed5d7bd0cc834e80f5406c8d48ceb758a8f7f7fedab5dbb"
+hash = "e040a257978efc76a4c0d852049dfe7e6ee1b93b736598cd1327ad66349ba462"
 
 [[files]]
 file = "config/enhancedcelestials2core/translations.json"
@@ -2030,7 +2030,7 @@ hash = "24c34c89632454822eb2acc91d2b38b1a72fd370925c544c796396b2b174a205"
 
 [[files]]
 file = "config/enhancedcelestials2defaultlunarevents/translations-cache/en_us.json"
-hash = "f4a837732d176d03152133793cc46ef616cf67a3c88ad3e05fe5340eb0e999ad"
+hash = "f9215b99f8720acff2723c9849894b2cb372af5214bc635ea1746dbc25a360da"
 
 [[files]]
 file = "config/enhancedmobcap-common.toml"
@@ -6233,6 +6233,10 @@ file = "kubejs/server_scripts/oowwo_availability.js"
 hash = "d52b6998226998d0b55d2defca018ffbfdc2c0659af557787ea806c3a9c31f19"
 
 [[files]]
+file = "kubejs/server_scripts/oowwo_bees.js"
+hash = "95fde6449be4b196e7c3eea012db40f7e85675deffcddcfb5c75bb8ed2fdc838"
+
+[[files]]
 file = "kubejs/server_scripts/oowwo_birdhouse.js"
 hash = "2e93d121dfd156f15d92cfa2ede0f788eb0849a37d171735932e17f1c72913b0"
 
@@ -6321,16 +6325,20 @@ file = "kubejs/server_scripts/oowwo_lost_heart.js"
 hash = "b694f73a18ed34271edf243e5c4144ad4855654e9d61b219ad69af1d3dc9f907"
 
 [[files]]
+file = "kubejs/server_scripts/oowwo_magic_ars.js"
+hash = "83ec5689087aa25db3a0a57961a2416c2a21cf64fc1dba0bb95bc52519d098f3"
+
+[[files]]
 file = "kubejs/server_scripts/oowwo_magic_books.js"
 hash = "a814c1b906c75565403226765448567eb2e7f452e4b925705e668faa0bbfa400"
 
 [[files]]
 file = "kubejs/server_scripts/oowwo_magic_gates.js"
-hash = "52e49391ad2351bace08a1eaae3844a46cbc71814efc5fc6b949681a09d6c41b"
+hash = "59f1a024bf168b873e7d63d6ecd9f128ae3b4e2de27485cc6f6a2fded43e3ba1"
 
 [[files]]
 file = "kubejs/server_scripts/oowwo_magic_tier2.js"
-hash = "f78ed8ecda9b79eae198225c21fc4db5c53ae31ddc21a3b123cfbb82999ca6f7"
+hash = "c97b59c1abb5dbe27cf0796f3570beb6731a4866281632d61f6c4a637a8cd4bf"
 
 [[files]]
 file = "kubejs/server_scripts/oowwo_magnetite.js"
