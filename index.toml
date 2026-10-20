@@ -7054,6 +7054,11 @@ hash = "a4def180d00c451f3186fa83974e1e5301ab6be6fa08952914b1717361d9b269"
 metafile = true
 
 [[files]]
+file = "mods/egg-delight.pw.toml"
+hash = "86f0804c55968255919be2b8de15e9335af756c5f10eff0a968ab7a318baadc6"
+metafile = true
+
+[[files]]
 file = "mods/eidolonrepraised.pw.toml"
 hash = "289a472c1fa8a8dcb737183a18a814330972377dd6e5e348248a9ca3400e2f0e"
 metafile = true
@@ -7720,6 +7725,11 @@ metafile = true
 [[files]]
 file = "mods/runiclib.pw.toml"
 hash = "b5d9dc8d38edcab7229def0dd3d5bf049dc28556421dc05a08eccff861eadf2f"
+metafile = true
+
+[[files]]
+file = "mods/rustic-delight.pw.toml"
+hash = "b9de1649cc97b10b0b26086572d8bd71b5a64146f87f0c526c7bd564429c03e0"
 metafile = true
 
 [[files]]

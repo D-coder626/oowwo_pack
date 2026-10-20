@@ -1,0 +1,13 @@
+name = "Egg Delight"
+filename = "EggDelight-v1.2-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gNPz4Cy4/versions/OTVXXEah/EggDelight-v1.2-1.21.1.jar"
+hash-format = "sha512"
+hash = "37e2d6548532617987a29c68891d4cd0a986c69f952fbf831377d33764ab094b4d10c2d97d18eb6791551626a24e8356ebc65825fe970f9dddd7011fa2336964"
+
+[update]
+[update.modrinth]
+mod-id = "gNPz4Cy4"
+version = "OTVXXEah"
