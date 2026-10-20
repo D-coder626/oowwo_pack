@@ -15,16 +15,21 @@
          {
           "type": "minecraft:item",
           "name": "minecraft:sweet_berries",
-          "weight": 1
+          "weight": 4
          },
          {
           "type": "minecraft:item",
           "name": "toxony:false_berries",
-          "weight": 1
+          "weight": 4
          },
          {
           "type": "minecraft:item",
           "name": "windswept:wild_berry_pips",
+          "weight": 4
+         },
+         {
+          "type": "minecraft:item",
+          "name": "enchanted:wolfsbane_seeds",
           "weight": 1
          }
         ]

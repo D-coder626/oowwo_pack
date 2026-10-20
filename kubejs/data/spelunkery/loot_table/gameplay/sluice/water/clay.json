@@ -6,24 +6,6 @@
    "entries": [
     {
      "type": "minecraft:loot_table",
-     "weight": 30,
-     "value": {
-      "pools": [
-       {
-        "rolls": 1,
-        "entries": [
-         {
-          "type": "minecraft:item",
-          "name": "hexalia:ancient_seed",
-          "weight": 1
-         }
-        ]
-       }
-      ]
-     }
-    },
-    {
-     "type": "minecraft:loot_table",
      "weight": 970,
      "value": {
       "pools": [

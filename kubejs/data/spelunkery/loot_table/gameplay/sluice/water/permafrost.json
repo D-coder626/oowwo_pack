@@ -39,11 +39,6 @@
          },
          {
           "type": "minecraft:item",
-          "name": "hexalia:chillberries",
-          "weight": 24
-         },
-         {
-          "type": "minecraft:item",
           "name": "windswept:wild_berry_pips",
           "weight": 24
          },
@@ -71,6 +66,21 @@
           "type": "minecraft:item",
           "name": "caverns_and_chasms:false_hope",
           "weight": 10
+         },
+         {
+          "type": "minecraft:item",
+          "name": "rusticdelight:pale_bell_pepper_seeds",
+          "weight": 24
+         },
+         {
+          "type": "minecraft:item",
+          "name": "enchanted:wolfsbane_seeds",
+          "weight": 6
+         },
+         {
+          "type": "minecraft:item",
+          "name": "enchanted:snowbell_seeds",
+          "weight": 6
          }
         ]
        }

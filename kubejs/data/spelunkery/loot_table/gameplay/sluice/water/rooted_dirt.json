@@ -15,26 +15,26 @@
          {
           "type": "minecraft:item",
           "name": "minecraft:potato",
-          "weight": 1
+          "weight": 4
          },
          {
           "type": "minecraft:item",
           "name": "minecraft:carrot",
-          "weight": 1
+          "weight": 4
          },
          {
           "type": "minecraft:item",
           "name": "minecraft:beetroot_seeds",
-          "weight": 1
+          "weight": 4
          },
          {
           "type": "minecraft:item",
           "name": "minecraft:glow_berries",
-          "weight": 1
+          "weight": 4
          },
          {
           "type": "minecraft:item",
-          "name": "hexerei:mandrake_plant",
+          "name": "enchanted:mandrake_seeds",
           "weight": 1
          }
         ]

@@ -9,6 +9,37 @@
     "minecraft:rabbit",
     "minecraft:squid",
     "minecraft:glow_squid",
-    { "id": "buzzier_bees:moobloom", "required": false }
+    {
+      "id": "buzzier_bees:moobloom",
+      "required": false
+    },
+    {
+      "id": "ghosts:ghost",
+      "required": false
+    },
+    {
+      "id": "ghosts:small_ghost",
+      "required": false
+    },
+    {
+      "id": "ghosts:kodama",
+      "required": false
+    },
+    {
+      "id": "fangs_n_claws:evil_bat",
+      "required": false
+    },
+    {
+      "id": "fangs_n_claws:horse_bat",
+      "required": false
+    },
+    "minecraft:magma_cube",
+    "minecraft:slime",
+    "minecraft:villager",
+    "minecraft:wandering_trader",
+    {
+      "id": "farmingforblockheads:merchant",
+      "required": false
+    }
   ]
 }

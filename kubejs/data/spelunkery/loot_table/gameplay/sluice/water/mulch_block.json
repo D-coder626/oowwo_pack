@@ -74,7 +74,12 @@
          },
          {
           "type": "minecraft:item",
-          "name": "hexalia:rabbage_seeds",
+          "name": "rusticdelight:cotton_seeds",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "nirvana:hemp_seeds",
           "weight": 1
          }
         ]

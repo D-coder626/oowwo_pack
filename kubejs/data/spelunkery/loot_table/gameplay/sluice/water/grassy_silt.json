@@ -15,56 +15,66 @@
          {
           "type": "minecraft:item",
           "name": "farmersdelight:rice",
-          "weight": 1
+          "weight": 4
          },
          {
           "type": "minecraft:item",
           "name": "minecraft:wheat_seeds",
-          "weight": 1
+          "weight": 4
          },
          {
           "type": "minecraft:item",
           "name": "minecraft:potato",
-          "weight": 1
+          "weight": 4
          },
          {
           "type": "minecraft:item",
           "name": "farmersdelight:onion",
-          "weight": 1
+          "weight": 4
          },
          {
           "type": "minecraft:item",
           "name": "supplementaries:flax_seeds",
-          "weight": 1
+          "weight": 4
          },
          {
           "type": "minecraft:item",
           "name": "farmersdelight:cabbage_seeds",
-          "weight": 1
+          "weight": 4
          },
          {
           "type": "minecraft:item",
           "name": "toxony:water_hemlock_seeds",
-          "weight": 1
+          "weight": 4
          },
          {
           "type": "minecraft:item",
           "name": "toxony:moonlight_hemlock_seeds",
-          "weight": 1
-         },
-         {
-          "type": "minecraft:item",
-          "name": "hexalia:rabbage_seeds",
-          "weight": 1
+          "weight": 4
          },
          {
           "type": "minecraft:item",
           "name": "cropcritters:strangle_fern",
-          "weight": 1
+          "weight": 4
          },
          {
           "type": "minecraft:item",
           "name": "minecraft:sugar_cane",
+          "weight": 4
+         },
+         {
+          "type": "minecraft:item",
+          "name": "rusticdelight:cotton_seeds",
+          "weight": 4
+         },
+         {
+          "type": "minecraft:item",
+          "name": "enchanted:belladonna_seeds",
+          "weight": 1
+         },
+         {
+          "type": "minecraft:item",
+          "name": "enchanted:water_artichoke_seeds",
           "weight": 1
          }
         ]

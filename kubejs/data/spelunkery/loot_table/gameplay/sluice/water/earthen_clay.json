@@ -39,12 +39,7 @@
          },
          {
           "type": "minecraft:item",
-          "name": "hexalia:sunfire_tomato_seeds",
-          "weight": 1
-         },
-         {
-          "type": "minecraft:item",
-          "name": "hexalia:saltsprout",
+          "name": "rusticdelight:cotton_seeds",
           "weight": 1
          }
         ]
