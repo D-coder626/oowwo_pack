@@ -1,5 +1,29 @@
 {
   "skillLocks": {
+    "aeronautics:adjustable_burner": [
+      "building:20"
+    ],
+    "aeronautics:andesite_propeller": [
+      "building:20"
+    ],
+    "aeronautics:gyroscopic_propeller_bearing": [
+      "building:20"
+    ],
+    "aeronautics:mounted_potato_cannon": [
+      "building:20"
+    ],
+    "aeronautics:propeller_bearing": [
+      "building:20"
+    ],
+    "aeronautics:smart_propeller": [
+      "building:20"
+    ],
+    "aeronautics:steam_vent": [
+      "building:20"
+    ],
+    "aeronautics:wooden_propeller": [
+      "building:20"
+    ],
     "aether:flaming_sword": [
       "attack:15"
     ],
@@ -698,6 +722,174 @@
     "caverns_and_chasms:silver_pickaxe": [
       "mining:5"
     ],
+    "create:brass_funnel": [
+      "building:10"
+    ],
+    "create:brass_tunnel": [
+      "building:10"
+    ],
+    "create:cart_assembler": [
+      "building:10"
+    ],
+    "create:clockwork_bearing": [
+      "building:10"
+    ],
+    "create:crushing_wheel": [
+      "building:15"
+    ],
+    "create:deployer": [
+      "building:10"
+    ],
+    "create:elevator_pulley": [
+      "building:10"
+    ],
+    "create:encased_fan": [
+      "building:5"
+    ],
+    "create:factory_gauge": [
+      "building:15"
+    ],
+    "create:fluid_pipe": [
+      "building:10"
+    ],
+    "create:fluid_tank": [
+      "building:10"
+    ],
+    "create:fluid_valve": [
+      "building:10"
+    ],
+    "create:gantry_carriage": [
+      "building:10"
+    ],
+    "create:gantry_shaft": [
+      "building:10"
+    ],
+    "create:hose_pulley": [
+      "building:10"
+    ],
+    "create:item_drain": [
+      "building:5"
+    ],
+    "create:item_vault": [
+      "building:15"
+    ],
+    "create:linear_chassis": [
+      "building:10"
+    ],
+    "create:mechanical_arm": [
+      "building:10"
+    ],
+    "create:mechanical_bearing": [
+      "building:5"
+    ],
+    "create:mechanical_crafter": [
+      "building:10"
+    ],
+    "create:mechanical_drill": [
+      "building:5"
+    ],
+    "create:mechanical_harvester": [
+      "building:5"
+    ],
+    "create:mechanical_mixer": [
+      "building:5"
+    ],
+    "create:mechanical_piston": [
+      "building:5"
+    ],
+    "create:mechanical_plough": [
+      "building:5"
+    ],
+    "create:mechanical_press": [
+      "building:5"
+    ],
+    "create:mechanical_pump": [
+      "building:10"
+    ],
+    "create:mechanical_roller": [
+      "building:5"
+    ],
+    "create:mechanical_saw": [
+      "building:5"
+    ],
+    "create:package_frogport": [
+      "building:15"
+    ],
+    "create:packager": [
+      "building:15"
+    ],
+    "create:portable_fluid_interface": [
+      "building:10"
+    ],
+    "create:portable_storage_interface": [
+      "building:10"
+    ],
+    "create:radial_chassis": [
+      "building:10"
+    ],
+    "create:redstone_requester": [
+      "building:15"
+    ],
+    "create:repackager": [
+      "building:15"
+    ],
+    "create:rope_pulley": [
+      "building:10"
+    ],
+    "create:rotation_speed_controller": [
+      "building:10"
+    ],
+    "create:schematic_table": [
+      "building:10"
+    ],
+    "create:schematicannon": [
+      "building:15"
+    ],
+    "create:secondary_linear_chassis": [
+      "building:10"
+    ],
+    "create:smart_chute": [
+      "building:10"
+    ],
+    "create:smart_fluid_pipe": [
+      "building:10"
+    ],
+    "create:spout": [
+      "building:5"
+    ],
+    "create:steam_engine": [
+      "building:10"
+    ],
+    "create:steam_whistle": [
+      "building:10"
+    ],
+    "create:sticker": [
+      "building:10"
+    ],
+    "create:sticky_mechanical_piston": [
+      "building:5"
+    ],
+    "create:stock_link": [
+      "building:15"
+    ],
+    "create:stock_ticker": [
+      "building:15"
+    ],
+    "create:track_observer": [
+      "building:15"
+    ],
+    "create:track_signal": [
+      "building:15"
+    ],
+    "create:track_station": [
+      "building:15"
+    ],
+    "create:whisk": [
+      "building:5"
+    ],
+    "create:windmill_bearing": [
+      "building:5"
+    ],
     "create_deep_dark:echo_armor_boots": [
       "defense:15"
     ],
@@ -709,6 +901,18 @@
     ],
     "create_deep_dark:echo_armor_leggings": [
       "defense:15"
+    ],
+    "create_high_seas:anchor": [
+      "building:20"
+    ],
+    "create_high_seas:boat_engine": [
+      "building:20"
+    ],
+    "create_high_seas:rudder": [
+      "building:20"
+    ],
+    "create_high_seas:wind_vane": [
+      "building:20"
     ],
     "create_sa:blazing_axe": [
       "attack:15",
@@ -808,6 +1012,81 @@
     ],
     "create_sa:zinc_sword": [
       "attack:5"
+    ],
+    "create_submarine:arresting_hook": [
+      "building:20"
+    ],
+    "create_submarine:ballast_tank": [
+      "building:20"
+    ],
+    "create_submarine:ballast_vent": [
+      "building:20"
+    ],
+    "create_submarine:barometer": [
+      "building:20"
+    ],
+    "create_submarine:command_sub": [
+      "building:20"
+    ],
+    "create_submarine:decompression_chamber": [
+      "building:20"
+    ],
+    "create_submarine:electrolyzer": [
+      "building:20"
+    ],
+    "create_submarine:industrial_alarm": [
+      "building:20"
+    ],
+    "create_submarine:oxygene_diffuser": [
+      "building:20"
+    ],
+    "create_submarine:pulley": [
+      "building:20"
+    ],
+    "create_submarine:pump_controller": [
+      "building:20"
+    ],
+    "create_submarine:sonar": [
+      "building:20"
+    ],
+    "create_submarine:steel_cable": [
+      "building:20"
+    ],
+    "create_submarine:submarine_propeller": [
+      "building:20"
+    ],
+    "create_submarine:underwater_mine": [
+      "building:20"
+    ],
+    "create_submarine:water_thruster": [
+      "building:20"
+    ],
+    "createaddition:alternator": [
+      "building:15"
+    ],
+    "createaddition:digital_adapter": [
+      "building:15"
+    ],
+    "createaddition:electric_motor": [
+      "building:15"
+    ],
+    "createaddition:electric_pump": [
+      "building:15"
+    ],
+    "createaddition:modular_accumulator": [
+      "building:15"
+    ],
+    "createaddition:portable_energy_interface": [
+      "building:15"
+    ],
+    "createaddition:rolling_mill": [
+      "building:15"
+    ],
+    "createaddition:servo_motor": [
+      "building:15"
+    ],
+    "createaddition:tesla_coil": [
+      "building:15"
     ],
     "dragonsurvival:dragon_hunter_sword": [
       "attack:30"
@@ -1266,6 +1545,27 @@
     "netherdescent:bone_shiv": [
       "attack:5"
     ],
+    "offroad:borehead_bearing": [
+      "building:20"
+    ],
+    "offroad:large_tire": [
+      "building:20"
+    ],
+    "offroad:monstrous_tire": [
+      "building:20"
+    ],
+    "offroad:rockcutting_wheel": [
+      "building:20"
+    ],
+    "offroad:small_tire": [
+      "building:20"
+    ],
+    "offroad:tire": [
+      "building:20"
+    ],
+    "offroad:wheel_mount": [
+      "building:20"
+    ],
     "oowwo:bronze_cleaver": [
       "attack:5"
     ],
@@ -1458,6 +1758,90 @@
     ],
     "simplyswords:netherite_warglaive": [
       "attack:30"
+    ],
+    "simulated:altitude_sensor": [
+      "building:15"
+    ],
+    "simulated:analog_transmission": [
+      "building:20"
+    ],
+    "simulated:auger_cog": [
+      "building:20"
+    ],
+    "simulated:auger_shaft": [
+      "building:20"
+    ],
+    "simulated:directional_gearshift": [
+      "building:20"
+    ],
+    "simulated:directional_linked_receiver": [
+      "building:15"
+    ],
+    "simulated:docking_connector": [
+      "building:20"
+    ],
+    "simulated:engine_assembly": [
+      "building:20"
+    ],
+    "simulated:gimbal_sensor": [
+      "building:15"
+    ],
+    "simulated:laser_pointer": [
+      "building:15"
+    ],
+    "simulated:laser_sensor": [
+      "building:15"
+    ],
+    "simulated:linked_typewriter": [
+      "building:20"
+    ],
+    "simulated:modulating_linked_receiver": [
+      "building:15"
+    ],
+    "simulated:navigation_table": [
+      "building:20"
+    ],
+    "simulated:optical_sensor": [
+      "building:15"
+    ],
+    "simulated:physics_assembler": [
+      "building:20"
+    ],
+    "simulated:plunger_launcher": [
+      "building:20"
+    ],
+    "simulated:red_portable_engine": [
+      "building:20"
+    ],
+    "simulated:redstone_accumulator": [
+      "building:15"
+    ],
+    "simulated:redstone_inductor": [
+      "building:15"
+    ],
+    "simulated:redstone_magnet": [
+      "building:15"
+    ],
+    "simulated:rope_connector": [
+      "building:20"
+    ],
+    "simulated:rope_winch": [
+      "building:20"
+    ],
+    "simulated:steering_wheel": [
+      "building:20"
+    ],
+    "simulated:swivel_bearing": [
+      "building:20"
+    ],
+    "simulated:throttle_lever": [
+      "building:20"
+    ],
+    "simulated:torsion_spring": [
+      "building:20"
+    ],
+    "simulated:velocity_sensor": [
+      "building:15"
     ],
     "sons_of_sins:flesh_axe": [
       "attack:5",
