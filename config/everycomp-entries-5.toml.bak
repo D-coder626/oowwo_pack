@@ -107,6 +107,13 @@
 			chestnut = true
 			pine = true
 
+		[types.wood_type.wetland_whimsy]
+			bald_cypress = true
+
+		[types.wood_type.domum_ornamentum]
+			cactus = true
+			cactus_extra = true
+
 		[types.leaves_type.abundant_atmosphere]
 			ashroot = true
 			gourdrot = true
@@ -184,6 +191,9 @@
 			chestnut = true
 			pine = true
 			flowering_acacia = true
+
+		[types.leaves_type.wetland_whimsy]
+			bald_cypress = true
 
 		[entries.wood_type.boatload]
 			large_boat = true

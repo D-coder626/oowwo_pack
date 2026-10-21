@@ -714,7 +714,7 @@ hash = "206fc318e63605c7d40517d6036fc61d4cfc71c731504410682a0a92b7c967d0"
 
 [[files]]
 file = "config/apotheosis/name_generation.cfg"
-hash = "446175cfaffc3d2a809d7422d06c164554df409b91ade3ff36793bcb7aa929fa"
+hash = "092346d214495b6177cda73447f2038872e57cff6c5bc4f6d4b3537f2582b6b1"
 
 [[files]]
 file = "config/apothic_compat-common.toml"
@@ -1753,6 +1753,10 @@ file = "config/create_submarine-vortex.toml"
 hash = "18fba69a742cbdcc0b2fc56f7a5450550a5d3a3b853aae7423c56ae57a229d82"
 
 [[files]]
+file = "config/create_submarine_client_state.json"
+hash = "ed4ac1a0d823839c176b28023a3a133870fe3cb93a09b68ca8d50dbea4466c13"
+
+[[files]]
 file = "config/createaddition-common.toml"
 hash = "85e4609662ef31a8ef6208ae5cb0f384ae98f5700cd7ba9405dbb6a1143497a4"
 
@@ -2014,7 +2018,7 @@ hash = "36b0d118a1924aa3f2436fa16cc46a366c9a7f138765ae86caec05977be98bd5"
 
 [[files]]
 file = "config/enhancedcelestials2core/translations-cache/en_us.json"
-hash = "6b0be22066994cc123b195895c314478cf02e6cc58f64f7628dfd1da053e0ebd"
+hash = "e72b0f53f5eec88e5be08ffba848714764fc0b6180981ed2c4a1004a8d5b6608"
 
 [[files]]
 file = "config/enhancedcelestials2core/translations.json"
@@ -2022,7 +2026,7 @@ hash = "24c34c89632454822eb2acc91d2b38b1a72fd370925c544c796396b2b174a205"
 
 [[files]]
 file = "config/enhancedcelestials2defaultlunarevents/translations-cache/en_us.json"
-hash = "8d646f0fde22990fed9f67bfcb8a4787755cd6d4f1ac92086ff356903cb53fc2"
+hash = "2c236a986eada5520bf99dc828a8e37be327c16023654cdbc77b8786c4e84ed1"
 
 [[files]]
 file = "config/enhancedmobcap-common.toml"
@@ -2086,7 +2090,7 @@ hash = "6bccd9a5af80821fe4b83ea397da43adac0b8511bfb7d3b297c038f2b69da8f1"
 
 [[files]]
 file = "config/everycomp-entries.toml"
-hash = "224f5fcdaa35c7bda524d645bd57eb9e87ba197fdaf1bd5b830b11f959bf24d3"
+hash = "bc9e2983684c1ef4541e5a425be6b374544807eb084686565e7e448e6a638e41"
 
 [[files]]
 file = "config/everycomp-hazardous.toml"
@@ -2767,10 +2771,6 @@ hash = "d17cd4af4a3ad34d26f95d77414c40e7bfed0414d17565bf5441789e1abe6aad"
 [[files]]
 file = "config/immediatelyfast.json"
 hash = "a6c9d147a51c9e432c5c74c00285cfc5ba8b6fa4a0c6686051a7168b158d0d7a"
-
-[[files]]
-file = "config/immersivewind.json"
-hash = "36dec22e5741d74c61a66d1ac5fb6be493463bd6e49e0469b56f1193f9b00ca2"
 
 [[files]]
 file = "config/integrated_villages-neoforge-1_21.toml"
@@ -3746,7 +3746,7 @@ hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "0a6bbca035ee1d14e07ed1819f48bc3a91a220260fb562a61950523244f8222f"
+hash = "2733b9ce2e42f28f5a0bb6fdce87a59fe42133d1e094fa2f2f805f2b53eeb8e3"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -4043,6 +4043,10 @@ hash = "52289b88d7f9891b47ac21551fef6481345d5e695ddbf348f0a9f3304bf136cc"
 [[files]]
 file = "config/stylisheffects-client.toml"
 hash = "1e02077599b5ea195d74cd07e3f1cd731f15536318bc2a96824a7ec03097e33f"
+
+[[files]]
+file = "config/submarine_hull.json"
+hash = "82bf653ed8d3089ec5468ffa414b93b4f23e7553e4d5df2057b840cc34216630"
 
 [[files]]
 file = "config/subtle_effects/blocks.toml"
@@ -4359,6 +4363,10 @@ hash = "c6a5d0fbf1fe2ae54794828b9989d03ba3933bcc795ac18ed81e6a1d618d030a"
 [[files]]
 file = "config/whitecap.json"
 hash = "44b4ae0540d0a8b1adf78b08f6f8a6f7eb0caaccf13146a320c86ce0aa56f972"
+
+[[files]]
+file = "config/whitenoise-client.toml"
+hash = "00c6e34f0adbb41db954d296fd7c55dc3412463a38038dc836626433dd7f6d92"
 
 [[files]]
 file = "config/windswept-client.toml"
@@ -7306,11 +7314,6 @@ hash = "b51fe2e7983ae6097a37226302838d1cf253e561168bd68ed77d1f85a03fc6fe"
 metafile = true
 
 [[files]]
-file = "mods/immersive-winds.pw.toml"
-hash = "4581cf9d506028f87a5161a2bf57857715f564aa2b295aed2572d5fed06ec994"
-metafile = true
-
-[[files]]
 file = "mods/infernos-otter-taming.pw.toml"
 hash = "47cbec375898d30eedd14c142946e05151daac1c648d4211bee35dae1e2194d5"
 metafile = true
@@ -7618,6 +7621,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "a1023789d8b9594bec03c5f34eae6626b79884cccf09d07df05e9e9fbd00b477"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "e7d5432e23d16e62b23931c539e621e586c77cb85f389fbe8e23c417b6a53a35"
 metafile = true
 
 [[files]]

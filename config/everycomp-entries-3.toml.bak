@@ -24,9 +24,6 @@
 		[types.lantern.fangs_n_claws]
 			vile_lantern = true
 
-		[types.lantern.hexalia]
-			salt_lamp = true
-
 		[types.lantern.netherdescent]
 			pendorite_lantern = true
 
@@ -64,15 +61,6 @@
 
 		[types.wood_type.ghosts]
 			haunted = true
-
-		[types.wood_type.hexalia]
-			cottonwood = true
-			willow = true
-
-		[types.wood_type.hexerei]
-			mahogany = true
-			willow = true
-			witch_hazel = true
 
 		[types.wood_type.netherdescent]
 			wailing = true
@@ -114,6 +102,9 @@
 			cactus = true
 			cactus_extra = true
 
+		[types.wood_type.eidolon_repraised]
+			illwood = true
+
 		[types.leaves_type.abundant_atmosphere]
 			ashroot = true
 			gourdrot = true
@@ -143,15 +134,6 @@
 
 		[types.leaves_type.ghosts]
 			haunted = true
-
-		[types.leaves_type.hexalia]
-			cottonwood = true
-			willow = true
-
-		[types.leaves_type.hexerei]
-			mahogany = true
-			willow = true
-			witch_hazel = true
 
 		[types.leaves_type.netherdescent]
 			arisian = true
@@ -194,6 +176,9 @@
 
 		[types.leaves_type.wetland_whimsy]
 			bald_cypress = true
+
+		[types.leaves_type.eidolon_repraised]
+			illwood = true
 
 		[entries.wood_type.boatload]
 			large_boat = true
