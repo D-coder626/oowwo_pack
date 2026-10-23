@@ -92,5 +92,5 @@ ServerEvents.recipes(event => {
 
   // ---------------- Via Romana ----------------
   RM('via_romana:charting_map');
-  R(() => event.shapeless('via_romana:charting_map', ['minecraft:map', 'minecraft:ink_sac', 'wayfarer_core:scribing_tools', 'minecraft:string']).id('oowwo:create_extras/charting_map'));
+  R(() => event.shapeless('via_romana:charting_map', ['minecraft:map', 'wayfarer_core:scribing_tools', 'minecraft:string']).id('oowwo:create_extras/charting_map'));
 });

@@ -70,7 +70,6 @@ ServerEvents.recipes(event => {
   event.remove({ output: 'create:basin' });
   R(() => event.shaped('create:basin', [
     'L L',
-    'L L',
     'LLL'
   ], { L: LEAD }).id('oowwo:lead_basin'));
 

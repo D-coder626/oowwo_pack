@@ -55,6 +55,10 @@
 	# Default: 100
 	# Range: 0 ~ 200
 	sunlight = 100
+	#Every block that gives off light casts coloured light, vanilla blocks and blocks from
+	#other mods included (torches, lanterns, Sea Lanterns...), in the colour of its own texture.
+	#Off: only the blocks of Create Deep Seas, Create High Seas and Create Abyss do.
+	allBlocks = false
 
 [mist]
 	#Drifting mist and smoke volumes, lit by the world and by coloured lights.
@@ -102,10 +106,3 @@
 	#Needs the FLOOD or VANILLA light style.
 	#Allowed Values: NONE, PLANKTON, SNOW
 	motesStyle = "PLANKTON"
-	#Bioluminescent wakes.
-	#GLOW: the water lights up blue behind anything swimming through it, other players,
-	#mobs and fish, and the plankton around them glows.
-	#Your own wake stays dark so it never hides the scene.
-	#Needs the FLOOD, VANILLA or HYBRID light style.
-	#Allowed Values: NONE, GLOW
-	wakeStyle = "GLOW"
