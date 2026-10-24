@@ -2018,7 +2018,7 @@ hash = "36b0d118a1924aa3f2436fa16cc46a366c9a7f138765ae86caec05977be98bd5"
 
 [[files]]
 file = "config/enhancedcelestials2core/translations-cache/en_us.json"
-hash = "97779675e7843b69216b53a296f918199654e8d2372a22f4cd9d8fec927ce330"
+hash = "31a21e6dcb58846f8db9634378ab93555eb2e74e7394093d3e7bee2fc68aa327"
 
 [[files]]
 file = "config/enhancedcelestials2core/translations.json"
@@ -2026,7 +2026,7 @@ hash = "24c34c89632454822eb2acc91d2b38b1a72fd370925c544c796396b2b174a205"
 
 [[files]]
 file = "config/enhancedcelestials2defaultlunarevents/translations-cache/en_us.json"
-hash = "40d1507de777e1118e3519c13a87136eb50bae0c4fc3265bb928dc182342c63f"
+hash = "6be492cdf38e5d201d92724a1191098c67e6df74b70a578b4f12c02060fd6645"
 
 [[files]]
 file = "config/enhancedmobcap-common.toml"
@@ -3669,6 +3669,10 @@ file = "config/simulated-server.toml"
 hash = "073a0336e6b320caf07055a21a54522506ba3508c50a8b56e8ff9598cbbfd295"
 
 [[files]]
+file = "config/skinlayers.json"
+hash = "45162f45aa2db525a0edc483959f35b6d958ba2e54066a4f87e7f3c3f0f99166"
+
+[[files]]
 file = "config/sl_data_driven-common.toml"
 hash = "d5586dadc7f366e0818b18e6d852139b714328ed5ccac25bafe0875dfa3ece92"
 
@@ -4050,7 +4054,7 @@ hash = "1e02077599b5ea195d74cd07e3f1cd731f15536318bc2a96824a7ec03097e33f"
 
 [[files]]
 file = "config/submarine_hull.json"
-hash = "82bf653ed8d3089ec5468ffa414b93b4f23e7553e4d5df2057b840cc34216630"
+hash = "884d70e85e9094a6f1e53a85d4324df9a8ecaca7ac2e5e03ef9a90eb1eea83b9"
 
 [[files]]
 file = "config/subtle_effects/blocks.toml"
@@ -4123,6 +4127,10 @@ hash = "83e0d650511b8a3780c26bf5bc158d0e7378fbb79c4acb247cfefa07ff5dbd89"
 [[files]]
 file = "config/tmrv_plugins.json5"
 hash = "35ea0f6185a1a2abbd16a256d6a1b9072efcfe06d2e8f79bdee099bd3eb3852c"
+
+[[files]]
+file = "config/tolerable_creepers.json"
+hash = "44b47b7cff805ae255fefb1526883d49d7be9e944e0946dd59269d84b7d2011f"
 
 [[files]]
 file = "config/tombstone-client.toml"
@@ -4350,7 +4358,7 @@ hash = "12297c4993ba920401ec7246f7b563abed47f1f37ff2e6ff7c329b36a6f67e02"
 
 [[files]]
 file = "config/wayfarer_core-common.toml"
-hash = "0cfcf469a118175aaab8039790d0c7b120565a268d0d3dbd78f4226a0688334c"
+hash = "e993b4e2b9d6433a3be44de48c8bb0be1cf929469cb218f22bf00791b497bca3"
 
 [[files]]
 file = "config/wayfinder/wayfinder.json"
@@ -6302,7 +6310,7 @@ hash = "58fca89dcd8f8a1ade94bc8c8661295d905c610f07a2b5d8b8b446e3d666083d"
 
 [[files]]
 file = "kubejs/server_scripts/oowwo_charcoal_map.js"
-hash = "60906783bc27c4da308db37131f1d679a39bece4525cc1db2685e52c0ad79f93"
+hash = "9b27bff010dd21884724763a45bad9d87b3fc3ec5358b3138e7d1cc090e92b77"
 
 [[files]]
 file = "kubejs/server_scripts/oowwo_circuits.js"
@@ -6339,6 +6347,10 @@ hash = "0700a9aab679dad6e7ea6b8849f45c5375c96f01f5349d84056e549d3e46ee55"
 [[files]]
 file = "kubejs/server_scripts/oowwo_dyes.js"
 hash = "ce180cef8de8fc6b2b6b2fcbdaa26e234758d1dd8c522efd38366173fc0ca5aa"
+
+[[files]]
+file = "kubejs/server_scripts/oowwo_eggdelight.js"
+hash = "d27ba661eeb329dc6be37ee1d6333e3151b3b38d42e3fdb033f90209f133fbde"
 
 [[files]]
 file = "kubejs/server_scripts/oowwo_finder_early.js"
@@ -6489,6 +6501,10 @@ file = "kubejs/server_scripts/oowwo_titanium.js"
 hash = "d780a24c967cfb7e568778d406a83393d246cd5ceda32b37d977961022bd7b19"
 
 [[files]]
+file = "kubejs/server_scripts/oowwo_tolerable_creepers.js"
+hash = "dd9df02315b8ed19c185c6c986847b687d4828edc90fe5b68a2bc58b12546e9e"
+
+[[files]]
 file = "kubejs/server_scripts/oowwo_toxony_wax.js"
 hash = "89550c078bdee4e17e5fb09012bf9f39ce57ee06811b334cb089396d83a5b958"
 
@@ -6579,6 +6595,11 @@ hash = "25d6252cc1d3e6fc6521e9fd194b70208e71188c0811c82b809bcf94a1480e6a"
 [[files]]
 file = "kubejs/startup_scripts/oowwo_tier_rebalance.js"
 hash = "cd145ed7fbc848bacadbdbdc94b8c93620a14a9837fc11d7f4d2bfc0c39fd24c"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "7e8e6b697b33c4fd1514ee7d39e0483a339827474463b5dc06241d497cc96087"
+metafile = true
 
 [[files]]
 file = "mods/BrewinAndChewin-neoforge-5.0.0+1.21.1.jar"
@@ -8099,6 +8120,11 @@ metafile = true
 [[files]]
 file = "mods/tmrv.pw.toml"
 hash = "7c9c8ed7477a0b526a86dda12aaffb12cbe5f2bab7e9143f9e16899e31447dba"
+metafile = true
+
+[[files]]
+file = "mods/tolerable-creepers.pw.toml"
+hash = "42492e878f157722a1e763cdc798f81fa4b234d190b4ca8fe259fd32d1366c86"
 metafile = true
 
 [[files]]

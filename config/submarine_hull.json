@@ -48929,6 +48929,14 @@
     "maxWaterDepth": 45,
     "implosionChance": 0.3497237
   },
+  "tolerable_creepers:potted_creeper_spores": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "tolerable_creepers:spore_barrel": {
+    "maxWaterDepth": 45,
+    "implosionChance": 0.3497237
+  },
   "toms_storage:basic_inventory_hopper": {
     "maxWaterDepth": 49,
     "implosionChance": 0.31137055

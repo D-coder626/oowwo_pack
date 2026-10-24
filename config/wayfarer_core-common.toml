@@ -1,7 +1,7 @@
 #The maximum number of item entities that can be loaded at once before the oldest start despawning
 # Default: 500
 # Range: 1 ~ 10000
-maxItemEntities = 500
+maxItemEntities = 200
 #The range at which entities start spawning from players
 # Default: 128.0
 # Range: 1.0 ~ 1000.0
