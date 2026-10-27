@@ -56,6 +56,9 @@
 	liquidDensities = ["#minecraft:lava=3.0"]
 	#Flammable hull blocks (wood, wool...) touching lava catch fire.
 	lavaBurnsHull = true
+	#Deep water hurts and finally crushes players swimming past their depth limit
+	#(120 m, or 280 m in the full Copper Diving Suit).
+	diverPressure = true
 
 [gameplay]
 	#Disable all hull implosion damage from pressure.

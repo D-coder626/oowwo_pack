@@ -6017,6 +6017,10 @@
     "maxWaterDepth": 15,
     "implosionChance": 0.6
   },
+  "brewinandchewin:distillery": {
+    "maxWaterDepth": 77,
+    "implosionChance": 0.27459225
+  },
   "brewinandchewin:fiery_fondue_pot": {
     "maxWaterDepth": 59,
     "implosionChance": 0.39013878
@@ -6164,6 +6168,2302 @@
   "bronze:tin_tiles": {
     "maxWaterDepth": 81,
     "implosionChance": 0.28040898
+  },
+  "burnt:black_flag": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "burnt:black_ice": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:black_ice_active": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:blast_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "burnt:blaze_barrel": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:blaze_barrel_active": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:blaze_barrel_blast_block": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:blazing_fence": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:blazing_fence_gate": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:blazing_hollow_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:blazing_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:blazing_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:blazing_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:blazing_soul_log": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:blazing_stairs": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:blazing_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:blue_flag": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "burnt:broken_blazing_log": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.5
+  },
+  "burnt:broken_blazing_log_2": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.5
+  },
+  "burnt:broken_burnt_log": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.55
+  },
+  "burnt:brown_flag": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "burnt:burning_cave_vines_plant": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:burnt_acacia_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:burnt_acacia_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:burnt_azalea": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:burnt_bamboo_block": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "burnt:burnt_bamboo_button": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.5344535
+  },
+  "burnt:burnt_bamboo_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:burnt_bamboo_fence": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "burnt:burnt_bamboo_fencegate": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "burnt:burnt_bamboo_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:burnt_bamboo_mosaic_planks": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "burnt:burnt_bamboo_mosaic_slab": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "burnt:burnt_bamboo_mosaic_stairs": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "burnt:burnt_bamboo_planks": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "burnt:burnt_bamboo_pressure_plate": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.5344535
+  },
+  "burnt:burnt_bamboo_slab": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "burnt:burnt_bamboo_stairs": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "burnt:burnt_bamboo_stalk": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "burnt:burnt_bamboo_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:burnt_barrel": {
+    "maxWaterDepth": 45,
+    "implosionChance": 0.3497237
+  },
+  "burnt:burnt_birch_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:burnt_birch_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:burnt_bookshelf": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.43337092
+  },
+  "burnt:burnt_button": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.5344535
+  },
+  "burnt:burnt_cactus": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.5463528
+  },
+  "burnt:burnt_campfire": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:burnt_carpet": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "burnt:burnt_carved_pumpkin": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "burnt:burnt_cave_vines": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:burnt_cave_vines_plant": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:burnt_cherry_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:burnt_cherry_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:burnt_crops": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:burnt_dark_oak_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:burnt_dark_oak_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:burnt_dirt": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "burnt:burnt_dirt_slab": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "burnt:burnt_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:burnt_envelope": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "burnt:burnt_farmland": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "burnt:burnt_farmland_moist": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "burnt:burnt_fence": {
+    "maxWaterDepth": 38,
+    "implosionChance": 0.41513878
+  },
+  "burnt:burnt_fencegate": {
+    "maxWaterDepth": 38,
+    "implosionChance": 0.41513878
+  },
+  "burnt:burnt_fern": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:burnt_flesh_block": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "burnt:burnt_forest": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:burnt_forest_block": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:burnt_grass": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "burnt:burnt_grass_slab": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "burnt:burnt_grassy_earthen_clay": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "burnt:burnt_grassy_sandy_d_irt": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "burnt:burnt_hay": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "burnt:burnt_high_grass": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:burnt_hollow_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:burnt_ivy": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:burnt_jack_o_lantern": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "burnt:burnt_jungle_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:burnt_jungle_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:burnt_ladder": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.58176786
+  },
+  "burnt:burnt_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "burnt:burnt_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:burnt_mangrove_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:burnt_mangrove_roots": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "burnt:burnt_mangrove_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:burnt_melon": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "burnt:burnt_moss": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:burnt_moss_carpet": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:burnt_moss_slab": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:burnt_oak_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:burnt_oak_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:burnt_pale_oak_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:burnt_pale_oak_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:burnt_path": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.43137056
+  },
+  "burnt:burnt_planks": {
+    "maxWaterDepth": 38,
+    "implosionChance": 0.41513878
+  },
+  "burnt:burnt_pressure_plate": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.5344535
+  },
+  "burnt:burnt_pumpkin": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "burnt:burnt_sail": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "burnt:burnt_scaffolding": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:burnt_slab": {
+    "maxWaterDepth": 38,
+    "implosionChance": 0.41513878
+  },
+  "burnt:burnt_soul_fence": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:burnt_soul_fence_gate": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:burnt_soul_leaves": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:burnt_soul_log": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:burnt_soul_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:burnt_soul_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:burnt_soul_stairs": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:burnt_spruce_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:burnt_spruce_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:burnt_stairs": {
+    "maxWaterDepth": 38,
+    "implosionChance": 0.41513878
+  },
+  "burnt:burnt_sugar_cane": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:burnt_symmetric_sail": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "burnt:burnt_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:burnt_vertical_slab": {
+    "maxWaterDepth": 38,
+    "implosionChance": 0.41513878
+  },
+  "burnt:burnt_vine": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.585469
+  },
+  "burnt:burnt_wall": {
+    "maxWaterDepth": 38,
+    "implosionChance": 0.41513878
+  },
+  "burnt:burnt_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:burnt_wool": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "burnt:charred_mycelium": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.52299964
+  },
+  "burnt:cooked_brown_mushroom_block": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.53176785
+  },
+  "burnt:cooked_mushroom_stem": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.53176785
+  },
+  "burnt:cooked_red_mushroom_block": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.53176785
+  },
+  "burnt:copper_fire": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:copper_fire_2": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:copper_fire_3": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:copper_fire_4": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:copper_fire_5": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:copper_fire_6": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:copper_fire_7": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:cracked_black_terracotta": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.41137058
+  },
+  "burnt:cracked_blue_terracotta": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.41137058
+  },
+  "burnt:cracked_brown_terracotta": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.41137058
+  },
+  "burnt:cracked_cyan_terracotta": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.41137058
+  },
+  "burnt:cracked_green_terracotta": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.41137058
+  },
+  "burnt:cracked_grey_terracotta": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.41137058
+  },
+  "burnt:cracked_light_blue_terracotta": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.41137058
+  },
+  "burnt:cracked_light_grey_terracotta": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.41137058
+  },
+  "burnt:cracked_lime_terracotta": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.41137058
+  },
+  "burnt:cracked_magenta_terracotta": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.41137058
+  },
+  "burnt:cracked_orange_terracotta": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.41137058
+  },
+  "burnt:cracked_pink_terracotta": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.41137058
+  },
+  "burnt:cracked_purple_terracotta": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.41137058
+  },
+  "burnt:cracked_red_terracotta": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.41137058
+  },
+  "burnt:cracked_terracotta": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.41137058
+  },
+  "burnt:cracked_white_terracotta": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.41137058
+  },
+  "burnt:cracked_yellow_terracotta": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.41137058
+  },
+  "burnt:cracket_magenta_terracotta": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.41137058
+  },
+  "burnt:creeking_burnt_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:creeper_flag": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "burnt:cyan_flag": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "burnt:devil_flames": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:devil_grass_fire": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:double_fallen_burnt_slab": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt:double_tall_grass_fire": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:ember_campfire": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:ember_fence": {
+    "maxWaterDepth": 38,
+    "implosionChance": 0.41513878
+  },
+  "burnt:ember_fence_gate": {
+    "maxWaterDepth": 38,
+    "implosionChance": 0.41513878
+  },
+  "burnt:ember_hollow_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:ember_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:ember_planks": {
+    "maxWaterDepth": 38,
+    "implosionChance": 0.41513878
+  },
+  "burnt:ember_slab": {
+    "maxWaterDepth": 38,
+    "implosionChance": 0.41513878
+  },
+  "burnt:ember_stairs": {
+    "maxWaterDepth": 38,
+    "implosionChance": 0.41513878
+  },
+  "burnt:ember_vertical_slab": {
+    "maxWaterDepth": 38,
+    "implosionChance": 0.41513878
+  },
+  "burnt:ember_wall": {
+    "maxWaterDepth": 38,
+    "implosionChance": 0.41513878
+  },
+  "burnt:ember_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:eruption_block": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:fallen_burnt_slab": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt:falling_burnt_slab": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt:fire_barrel": {
+    "maxWaterDepth": 53,
+    "implosionChance": 0.27021047
+  },
+  "burnt:fire_barrel_active": {
+    "maxWaterDepth": 53,
+    "implosionChance": 0.27021047
+  },
+  "burnt:fire_barrel_blast_block": {
+    "maxWaterDepth": 75,
+    "implosionChance": 0.1
+  },
+  "burnt:fire_flag": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "burnt:fire_set_block": {
+    "maxWaterDepth": 75,
+    "implosionChance": 0.1
+  },
+  "burnt:firestarter": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:flaming_tar": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:fragile_magma": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.31021047
+  },
+  "burnt:geyser_water": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:glass_furnace": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:grass_flames": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:green_flag": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "burnt:grey_flag": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "burnt:light_blue_flag": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "burnt:light_grey_flag": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "burnt:lime_flag": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "burnt:liquid_magma": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:magenta_flag": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "burnt:nether_weave": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:orange_flag": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "burnt:pink_flag": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "burnt:pirate_flag": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "burnt:pitch": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:purple_flag": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "burnt:rainbow_flag": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "burnt:recovering_grass": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "burnt:recovering_grass_slab": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "burnt:red_flag": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "burnt:semi_burnt_dirt": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "burnt:small_burnt_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:small_smoldering_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:smoke_detector": {
+    "maxWaterDepth": 51,
+    "implosionChance": 0.43637055
+  },
+  "burnt:smoldering_acacia_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:smoldering_acacia_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "burnt:smoldering_acacia_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:smoldering_azalea": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:smoldering_bamboo_block": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "burnt:smoldering_bamboo_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:smoldering_bamboo_fence": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "burnt:smoldering_bamboo_fencegate": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "burnt:smoldering_bamboo_mosaic_planks": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "burnt:smoldering_bamboo_mosaic_slab": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "burnt:smoldering_bamboo_mosaic_stairs": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "burnt:smoldering_bamboo_planks": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "burnt:smoldering_bamboo_slab": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "burnt:smoldering_bamboo_stairs": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "burnt:smoldering_bamboo_stalk": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "burnt:smoldering_bamboo_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:smoldering_beetroot": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:smoldering_birch_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:smoldering_birch_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "burnt:smoldering_birch_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:smoldering_cactus": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.5463528
+  },
+  "burnt:smoldering_campfire": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:smoldering_carpet": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "burnt:smoldering_carrots": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:smoldering_cave_vines": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:smoldering_cave_vines_plant": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:smoldering_cherry_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:smoldering_cherry_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "burnt:smoldering_cherry_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:smoldering_coal": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15540898
+  },
+  "burnt:smoldering_cobweb": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:smoldering_crimson_stem": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:smoldering_crops": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:smoldering_dark_oak_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:smoldering_dark_oak_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "burnt:smoldering_dark_oak_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:smoldering_dark_oak_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:smoldering_dark_oak_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:smoldering_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:smoldering_envelope": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "burnt:smoldering_fence": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:smoldering_fencegate": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:smoldering_fern": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:smoldering_grass": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "burnt:smoldering_grass_slab": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "burnt:smoldering_grass_start": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "burnt:smoldering_hay": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "burnt:smoldering_high_grass": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:smoldering_hollow_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:smoldering_jungle_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:smoldering_jungle_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "burnt:smoldering_jungle_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:smoldering_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "burnt:smoldering_leaves_2": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "burnt:smoldering_leaves_3": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "burnt:smoldering_leaves_4": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "burnt:smoldering_leaves_5": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "burnt:smoldering_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:smoldering_log_2": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:smoldering_log_3": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:smoldering_mangrove_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:smoldering_mangrove_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "burnt:smoldering_mangrove_roots": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "burnt:smoldering_mangrove_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:smoldering_moss": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:smoldering_moss_carpet": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:smoldering_moss_slab": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:smoldering_nether_wart": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:smoldering_oak_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:smoldering_oak_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "burnt:smoldering_oak_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:smoldering_pale_oak_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:smoldering_pale_oak_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "burnt:smoldering_pale_oak_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:smoldering_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:smoldering_planks_2": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:smoldering_planks_3": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:smoldering_planks_4": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:smoldering_potatoes": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:smoldering_sail": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "burnt:smoldering_sail_frame": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "burnt:smoldering_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:smoldering_soul_log": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:smoldering_soul_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:smoldering_soul_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:smoldering_soul_stairs": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:smoldering_soul_wart": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:smoldering_spruce_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:smoldering_spruce_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "burnt:smoldering_spruce_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:smoldering_stairs": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:smoldering_stripped_log": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.355409
+  },
+  "burnt:smoldering_stripped_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:smoldering_symmetric_sail": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "burnt:smoldering_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "burnt:smoldering_vertical_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:smoldering_wall": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:smoldering_warped_stem": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:smoldering_warped_wart": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:smoldering_wheat": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:smoldering_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:smoldering_wool": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "burnt:soot_block": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:sooty_acacia_fence": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_acacia_fence_gate": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_acacia_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_acacia_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_acacia_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_acacia_stairs": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_acacia_stripped_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_acacia_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_andesite": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "burnt:sooty_andesite_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "burnt:sooty_andesite_stairs": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "burnt:sooty_andesite_wall": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "burnt:sooty_birch_fence": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_birch_fence_gate": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_birch_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_birch_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_birch_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_birch_stairs": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_birch_stripped_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_birch_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_bookshelf": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.43337092
+  },
+  "burnt:sooty_brick_slab": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "burnt:sooty_brick_stairs": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "burnt:sooty_brick_wall": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "burnt:sooty_bricks": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "burnt:sooty_cherry_fence": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_cherry_fence_gate": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_cherry_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_cherry_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_cherry_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_cherry_stairs": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_cherry_stripped_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_cherry_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_chiseled_stone_bricks": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "burnt:sooty_cobblestone": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "burnt:sooty_cobblestone_slab": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "burnt:sooty_cobblestone_stairs": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "burnt:sooty_cobblestone_wall": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "burnt:sooty_dark_oak_fence": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_dark_oak_fence_gate": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_dark_oak_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_dark_oak_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_dark_oak_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_dark_oak_stairs": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_dark_oak_stripped_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_dark_oak_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_diorite": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "burnt:sooty_diorite_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "burnt:sooty_diorite_stairs": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "burnt:sooty_diorite_wall": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "burnt:sooty_granite": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "burnt:sooty_granite_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "burnt:sooty_granite_stairs": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "burnt:sooty_granite_wall": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "burnt:sooty_jungle_fence": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_jungle_fence_gate": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_jungle_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_jungle_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_jungle_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_jungle_stairs": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_jungle_stripped_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_jungle_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_mangrove_fence": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_mangrove_fence_gate": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_mangrove_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_mangrove_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_mangrove_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_mangrove_stairs": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_mangrove_stripped_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_mangrove_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_mossy_cobblestone": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "burnt:sooty_mossy_cobblestone_slab": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "burnt:sooty_mossy_cobblestone_stairs": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "burnt:sooty_mossy_cobblestone_wall": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "burnt:sooty_mossy_stone_brick_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "burnt:sooty_mossy_stone_brick_stairs": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "burnt:sooty_mossy_stone_brick_wall": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "burnt:sooty_mossy_stone_bricks": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "burnt:sooty_mud_brick_slab": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.38637057
+  },
+  "burnt:sooty_mud_brick_stairs": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.38637057
+  },
+  "burnt:sooty_mud_brick_wall": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.38637057
+  },
+  "burnt:sooty_mud_bricks": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.38637057
+  },
+  "burnt:sooty_oak_fence": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_oak_fence_gate": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_oak_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_oak_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_oak_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_oak_stairs": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_oak_stripped_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_oak_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_pale_oak_fence": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_pale_oak_fence_gate": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_pale_oak_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_pale_oak_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_pale_oak_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_pale_oak_stairs": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_pale_oak_stripped_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_pale_oak_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_small_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_spruce_fence": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_spruce_fence_gate": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_spruce_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_spruce_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_spruce_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_spruce_stairs": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "burnt:sooty_spruce_stripped_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_spruce_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_stone": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "burnt:sooty_stone_brick_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "burnt:sooty_stone_brick_stairs": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "burnt:sooty_stone_brick_wall": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "burnt:sooty_stone_bricks": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "burnt:sooty_stone_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "burnt:sooty_stone_stairs": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "burnt:sooty_stripped_acacia_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_stripped_birch_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_stripped_cherry_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_stripped_dark_oak_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_stripped_jungle_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_stripped_mangrove_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_stripped_oak_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_stripped_pale_oak_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:sooty_stripped_spruce_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt:soul_acacia_leaves": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:soul_birch_leaves": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:soul_cherry_leaves": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:soul_fire_1": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:soul_fire_2": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:soul_fire_3": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:soul_fire_4": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:soul_fire_5": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:soul_fire_6": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:soul_fire_7": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:soul_fire_8": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:soul_fire_set_block": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:soul_flames_ground": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:soul_jungle_leaves": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:soul_mangrove_leaves": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:soul_oak_leaves": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:soul_spruce_leaves": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:soul_wart": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:splash": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:stairs_fire": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:stairs_fire_2": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:stairs_fire_3": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:stairs_fire_4": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:stairs_fire_5": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:stripped_broken_burnt_log": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.55
+  },
+  "burnt:stripped_broken_burnt_log_2": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.55
+  },
+  "burnt:stripped_burnt_log": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.41137058
+  },
+  "burnt:stripped_burnt_wood": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.41137058
+  },
+  "burnt:stripped_ember_log": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.41137058
+  },
+  "burnt:sulphur_block": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:sulphur_trail": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:tall_flames": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:tall_grass_burnt": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:tall_grass_fire": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:tar": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:tar_barrel": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:tar_block": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:tar_cauldron": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:tempered_glass": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:tempered_glass_pane": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt:white_flag": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "burnt:wilderness_flag": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "burnt:wind_flag": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "burnt:wood_fire": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:wood_fire_2": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:wood_fire_3": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:wood_fire_4": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:wood_fire_5": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:wood_fire_6": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:wood_fire_7": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:wood_fire_8": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:wood_fire_9": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt:yellow_flag": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "burnt_additions:black_ice": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt_additions:black_ice_active": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "burnt_additions:blaze_barrel": {
+    "maxWaterDepth": 53,
+    "implosionChance": 0.27021047
+  },
+  "burnt_additions:blaze_barrel_active": {
+    "maxWaterDepth": 53,
+    "implosionChance": 0.27021047
+  },
+  "burnt_additions:blaze_barrel_blast_block": {
+    "maxWaterDepth": 400,
+    "implosionChance": 0.05
+  },
+  "burnt_additions:burnt_soul_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "burnt_additions:devil_flames": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:devil_grass_fire": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:eruption_block": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:flaming_tar_fluid": {
+    "maxWaterDepth": 400,
+    "implosionChance": 0.05
+  },
+  "burnt_additions:fragile_magma": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.31021047
+  },
+  "burnt_additions:geyser_water": {
+    "maxWaterDepth": 400,
+    "implosionChance": 0.05
+  },
+  "burnt_additions:hand_flare_amber": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hand_flare_aqua": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hand_flare_beige": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hand_flare_black": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hand_flare_blue": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hand_flare_brown": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hand_flare_coral": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hand_flare_cyan": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hand_flare_forest": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hand_flare_ginger": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hand_flare_gray": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hand_flare_green": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hand_flare_indigo": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hand_flare_light_blue": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hand_flare_light_gray": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hand_flare_lime": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hand_flare_magenta": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hand_flare_maroon": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hand_flare_mint": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hand_flare_navy": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hand_flare_olive": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hand_flare_orange": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hand_flare_pink": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hand_flare_purple": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hand_flare_red": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hand_flare_rose": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hand_flare_slate": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hand_flare_tan": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hand_flare_teal": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hand_flare_verdant": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hand_flare_white": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hand_flare_yellow": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:hot_basalt": {
+    "maxWaterDepth": 42,
+    "implosionChance": 0.37263414
+  },
+  "burnt_additions:liquid_magma": {
+    "maxWaterDepth": 400,
+    "implosionChance": 0.05
+  },
+  "burnt_additions:nether_weave": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.3202105
+  },
+  "burnt_additions:pitch_block": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "burnt_additions:smoldering_soul_crimson_stem": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt_additions:smoldering_soul_fence": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt_additions:smoldering_soul_fence_gate": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt_additions:smoldering_soul_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt_additions:smoldering_soul_planks": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt_additions:smoldering_soul_slab": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt_additions:smoldering_soul_stairs": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt_additions:smoldering_soul_warped_stem": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt_additions:smoldering_soul_warped_wart": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "burnt_additions:smoldering_soul_wart": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "burnt_additions:soul_acacia_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "burnt_additions:soul_azalea_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "burnt_additions:soul_birch_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "burnt_additions:soul_cherry_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "burnt_additions:soul_fire_1": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:soul_fire_2": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:soul_fire_3": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:soul_fire_4": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:soul_fire_5": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:soul_fire_6": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:soul_fire_7": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:soul_fire_8": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:soul_fire_set_block": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:soul_flames_ground": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:soul_ice": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.05
+  },
+  "burnt_additions:soul_ice_active": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.05
+  },
+  "burnt_additions:soul_jungle_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "burnt_additions:soul_mangrove_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "burnt_additions:soul_oak_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "burnt_additions:soul_spruce_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "burnt_additions:soul_tempered_button": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.5344535
+  },
+  "burnt_additions:soul_tempered_crimson_stem": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt_additions:soul_tempered_fence": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt_additions:soul_tempered_fence_gate": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt_additions:soul_tempered_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt_additions:soul_tempered_planks": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt_additions:soul_tempered_planks_slab": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt_additions:soul_tempered_planks_stairs": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt_additions:soul_tempered_pressure_plate": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.5344535
+  },
+  "burnt_additions:soul_tempered_warped_stem": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "burnt_additions:soul_wart": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "burnt_additions:splash": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:sulphur_ore": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.52299964
+  },
+  "burnt_additions:sulphur_trail": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "burnt_additions:tar_barrel": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "burnt_additions:tar_cauldron": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
+  },
+  "burnt_additions:tar_fluid": {
+    "maxWaterDepth": 400,
+    "implosionChance": 0.05
   },
   "caverns_and_chasms:ambient_bubble_column": {
     "maxWaterDepth": 15,
@@ -10048,6 +12348,134 @@
   "clutternomore:bronze/vertical_cut_tin_slab": {
     "maxWaterDepth": 81,
     "implosionChance": 0.28040898
+  },
+  "clutternomore:burnt/burnt_bamboo_mosaic_step": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "clutternomore:burnt/burnt_bamboo_step": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "clutternomore:burnt/burnt_step": {
+    "maxWaterDepth": 38,
+    "implosionChance": 0.41513878
+  },
+  "clutternomore:burnt/sooty_andesite_step": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:burnt/sooty_brick_step": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "clutternomore:burnt/sooty_cobblestone_step": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "clutternomore:burnt/sooty_diorite_step": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:burnt/sooty_granite_step": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:burnt/sooty_mossy_cobblestone_step": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "clutternomore:burnt/sooty_mossy_stone_brick_step": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:burnt/sooty_mud_brick_step": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.38637057
+  },
+  "clutternomore:burnt/sooty_stone_brick_step": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:burnt/sooty_stone_step": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:burnt/vertical_burnt_bamboo_mosaic_slab": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "clutternomore:burnt/vertical_burnt_bamboo_slab": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "clutternomore:burnt/vertical_burnt_dirt_slab": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "clutternomore:burnt/vertical_burnt_moss_slab": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "clutternomore:burnt/vertical_burnt_slab": {
+    "maxWaterDepth": 38,
+    "implosionChance": 0.41513878
+  },
+  "clutternomore:burnt/vertical_falling_burnt_slab": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "clutternomore:burnt/vertical_recovering_grass_slab": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "clutternomore:burnt/vertical_sooty_andesite_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:burnt/vertical_sooty_brick_slab": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "clutternomore:burnt/vertical_sooty_cobblestone_slab": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "clutternomore:burnt/vertical_sooty_diorite_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:burnt/vertical_sooty_granite_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:burnt/vertical_sooty_mossy_cobblestone_slab": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "clutternomore:burnt/vertical_sooty_mossy_stone_brick_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:burnt/vertical_sooty_mud_brick_slab": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.38637057
+  },
+  "clutternomore:burnt/vertical_sooty_stone_brick_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:burnt/vertical_sooty_stone_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:burnt_additions/soul_tempered_planks_step": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "clutternomore:burnt_additions/vertical_soul_tempered_planks_slab": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
   },
   "clutternomore:caverns_and_chasms/andesite_brick_step": {
     "maxWaterDepth": 68,
@@ -20449,6 +22877,10 @@
     "maxWaterDepth": 28,
     "implosionChance": 0.55876356
   },
+  "createlowheated:basic_burner": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.330409
+  },
   "creeperoverhaul:potted_tiny_cactus": {
     "maxWaterDepth": 25,
     "implosionChance": 0.6
@@ -20570,6 +23002,18 @@
     "implosionChance": 0.36137056
   },
   "diagonalfences:born_in_chaos_v1/scorched_planks_fence": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "diagonalfences:burnt/burnt_bamboo_fence": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "diagonalfences:burnt/burnt_fence": {
+    "maxWaterDepth": 38,
+    "implosionChance": 0.41513878
+  },
+  "diagonalfences:burnt_additions/soul_tempered_fence": {
     "maxWaterDepth": 41,
     "implosionChance": 0.39013878
   },
@@ -25757,6 +28201,18 @@
     "maxWaterDepth": 41,
     "implosionChance": 0.39013878
   },
+  "envelope:env/burnt/smoldering_bamboo_pigeonhole": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "envelope:env/burnt_additions/smoldering_soul_pigeonhole": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "envelope:env/burnt_additions/soul_tempered_pigeonhole": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
   "envelope:env/caverns_and_chasms/azalea_pigeonhole": {
     "maxWaterDepth": 41,
     "implosionChance": 0.39013878
@@ -26069,6 +28525,30 @@
     "maxWaterDepth": 28,
     "implosionChance": 0.55876356
   },
+  "everycomp:c/burnt/smoldering_bamboo_window": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.55876356
+  },
+  "everycomp:c/burnt/smoldering_bamboo_window_pane": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.55876356
+  },
+  "everycomp:c/burnt_additions/smoldering_soul_window": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.55876356
+  },
+  "everycomp:c/burnt_additions/smoldering_soul_window_pane": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.55876356
+  },
+  "everycomp:c/burnt_additions/soul_tempered_window": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.55876356
+  },
+  "everycomp:c/burnt_additions/soul_tempered_window_pane": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.55876356
+  },
   "everycomp:c/caverns_and_chasms/azalea_window": {
     "maxWaterDepth": 28,
     "implosionChance": 0.55876356
@@ -26324,6 +28804,10 @@
   "everycomp:fd/born_in_chaos_v1/scorched_cabinet": {
     "maxWaterDepth": 41,
     "implosionChance": 0.39013878
+  },
+  "everycomp:fd/burnt/smoldering_bamboo_cabinet": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
   },
   "everycomp:fd/caverns_and_chasms/azalea_cabinet": {
     "maxWaterDepth": 44,
@@ -26806,6 +29290,186 @@
     "implosionChance": 0.39013878
   },
   "everycomp:hc/born_in_chaos_v1/scorched_table": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:hc/burnt/smoldering_bamboo_bench": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "everycomp:hc/burnt/smoldering_bamboo_chair": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "everycomp:hc/burnt/smoldering_bamboo_corner_trim": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "everycomp:hc/burnt/smoldering_bamboo_couch": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "everycomp:hc/burnt/smoldering_bamboo_counter": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "everycomp:hc/burnt/smoldering_bamboo_cupboard": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "everycomp:hc/burnt/smoldering_bamboo_desk": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "everycomp:hc/burnt/smoldering_bamboo_dining_bench": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "everycomp:hc/burnt/smoldering_bamboo_drawer": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "everycomp:hc/burnt/smoldering_bamboo_fancy_bed": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.57176787
+  },
+  "everycomp:hc/burnt/smoldering_bamboo_nightstand": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "everycomp:hc/burnt/smoldering_bamboo_pillar_trim": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "everycomp:hc/burnt/smoldering_bamboo_shelf": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "everycomp:hc/burnt/smoldering_bamboo_side_table": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "everycomp:hc/burnt/smoldering_bamboo_table": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "everycomp:hc/burnt_additions/smoldering_soul_bench": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:hc/burnt_additions/smoldering_soul_chair": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:hc/burnt_additions/smoldering_soul_corner_trim": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:hc/burnt_additions/smoldering_soul_couch": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:hc/burnt_additions/smoldering_soul_counter": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:hc/burnt_additions/smoldering_soul_cupboard": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:hc/burnt_additions/smoldering_soul_desk": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:hc/burnt_additions/smoldering_soul_dining_bench": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:hc/burnt_additions/smoldering_soul_drawer": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:hc/burnt_additions/smoldering_soul_fancy_bed": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.57176787
+  },
+  "everycomp:hc/burnt_additions/smoldering_soul_nightstand": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:hc/burnt_additions/smoldering_soul_pillar_trim": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:hc/burnt_additions/smoldering_soul_shelf": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:hc/burnt_additions/smoldering_soul_side_table": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:hc/burnt_additions/smoldering_soul_table": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:hc/burnt_additions/soul_tempered_bench": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:hc/burnt_additions/soul_tempered_chair": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:hc/burnt_additions/soul_tempered_corner_trim": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:hc/burnt_additions/soul_tempered_couch": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:hc/burnt_additions/soul_tempered_counter": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:hc/burnt_additions/soul_tempered_cupboard": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:hc/burnt_additions/soul_tempered_desk": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:hc/burnt_additions/soul_tempered_dining_bench": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:hc/burnt_additions/soul_tempered_drawer": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:hc/burnt_additions/soul_tempered_fancy_bed": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.57176787
+  },
+  "everycomp:hc/burnt_additions/soul_tempered_nightstand": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:hc/burnt_additions/soul_tempered_pillar_trim": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:hc/burnt_additions/soul_tempered_shelf": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:hc/burnt_additions/soul_tempered_side_table": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:hc/burnt_additions/soul_tempered_table": {
     "maxWaterDepth": 41,
     "implosionChance": 0.39013878
   },
@@ -28637,6 +31301,30 @@
     "maxWaterDepth": 41,
     "implosionChance": 0.39013878
   },
+  "everycomp:nml/burnt/smoldering_bamboo_bookshelf": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.43337092
+  },
+  "everycomp:nml/burnt/trimmed_smoldering_bamboo_planks": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "everycomp:nml/burnt_additions/smoldering_soul_bookshelf": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.43337092
+  },
+  "everycomp:nml/burnt_additions/soul_tempered_bookshelf": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.43337092
+  },
+  "everycomp:nml/burnt_additions/trimmed_smoldering_soul_planks": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:nml/burnt_additions/trimmed_soul_tempered_planks": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
   "everycomp:nml/caverns_and_chasms/trimmed_azalea_planks": {
     "maxWaterDepth": 44,
     "implosionChance": 0.36137056
@@ -29090,6 +31778,78 @@
     "implosionChance": 0.3497237
   },
   "everycomp:q/born_in_chaos_v1/vertical_scorched_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:q/burnt/smoldering_bamboo_bookshelf": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.43337092
+  },
+  "everycomp:q/burnt/smoldering_bamboo_chest": {
+    "maxWaterDepth": 45,
+    "implosionChance": 0.3497237
+  },
+  "everycomp:q/burnt/smoldering_bamboo_ladder": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.5463528
+  },
+  "everycomp:q/burnt/smoldering_bamboo_vertical_slab": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "everycomp:q/burnt/trapped_smoldering_bamboo_chest": {
+    "maxWaterDepth": 45,
+    "implosionChance": 0.3497237
+  },
+  "everycomp:q/burnt/vertical_smoldering_bamboo_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:q/burnt_additions/smoldering_soul_bookshelf": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.43337092
+  },
+  "everycomp:q/burnt_additions/smoldering_soul_chest": {
+    "maxWaterDepth": 45,
+    "implosionChance": 0.3497237
+  },
+  "everycomp:q/burnt_additions/smoldering_soul_ladder": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.5463528
+  },
+  "everycomp:q/burnt_additions/smoldering_soul_vertical_slab": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:q/burnt_additions/soul_tempered_bookshelf": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.43337092
+  },
+  "everycomp:q/burnt_additions/soul_tempered_chest": {
+    "maxWaterDepth": 45,
+    "implosionChance": 0.3497237
+  },
+  "everycomp:q/burnt_additions/soul_tempered_ladder": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.5463528
+  },
+  "everycomp:q/burnt_additions/soul_tempered_vertical_slab": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:q/burnt_additions/trapped_smoldering_soul_chest": {
+    "maxWaterDepth": 45,
+    "implosionChance": 0.3497237
+  },
+  "everycomp:q/burnt_additions/trapped_soul_tempered_chest": {
+    "maxWaterDepth": 45,
+    "implosionChance": 0.3497237
+  },
+  "everycomp:q/burnt_additions/vertical_smoldering_soul_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:q/burnt_additions/vertical_soul_tempered_planks": {
     "maxWaterDepth": 44,
     "implosionChance": 0.36137056
   },

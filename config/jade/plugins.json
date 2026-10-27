@@ -95,6 +95,9 @@
     "canvas_beehive": true,
     "bee_attributes": true
   },
+  "createlowheated": {
+    "basic_burner_info": true
+  },
   "ars_nouveau": {
     "mob_jar": true
   },

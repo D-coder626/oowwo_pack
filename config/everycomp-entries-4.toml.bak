@@ -102,6 +102,9 @@
 			cactus = true
 			cactus_extra = true
 
+		[types.wood_type.eidolon_repraised]
+			illwood = true
+
 		[types.leaves_type.abundant_atmosphere]
 			ashroot = true
 			gourdrot = true
@@ -173,6 +176,9 @@
 
 		[types.leaves_type.wetland_whimsy]
 			bald_cypress = true
+
+		[types.leaves_type.eidolon_repraised]
+			illwood = true
 
 		[entries.wood_type.boatload]
 			large_boat = true

@@ -1,0 +1,41 @@
+{
+ "replace": false,
+ "values": [
+  {
+   "id": "burnt_additions:soul_acacia_leaves",
+   "required": false
+  },
+  {
+   "id": "burnt_additions:soul_azalea_leaves",
+   "required": false
+  },
+  {
+   "id": "burnt_additions:soul_birch_leaves",
+   "required": false
+  },
+  {
+   "id": "burnt_additions:soul_cherry_leaves",
+   "required": false
+  },
+  {
+   "id": "burnt_additions:soul_jungle_leaves",
+   "required": false
+  },
+  {
+   "id": "burnt_additions:soul_mangrove_leaves",
+   "required": false
+  },
+  {
+   "id": "burnt_additions:soul_oak_leaves",
+   "required": false
+  },
+  {
+   "id": "burnt_additions:soul_spruce_leaves",
+   "required": false
+  },
+  {
+   "id": "burnt_additions:burnt_soul_leaves",
+   "required": false
+  }
+ ]
+}

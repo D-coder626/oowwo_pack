@@ -114,6 +114,13 @@
 			hawthorn = true
 			rowan = true
 
+		[types.wood_type.burnt]
+			smoldering_bamboo = true
+
+		[types.wood_type.burnt_additions]
+			smoldering_soul = true
+			soul_tempered = true
+
 		[types.leaves_type.abundant_atmosphere]
 			ashroot = true
 			gourdrot = true

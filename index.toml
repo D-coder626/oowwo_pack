@@ -710,11 +710,11 @@ hash = "2150a9e5f1bf77a33843d3a9d290efad799e7aaf338b1f6d0bedfae190864aa8"
 
 [[files]]
 file = "config/apotheosis/enchantments.cfg"
-hash = "206fc318e63605c7d40517d6036fc61d4cfc71c731504410682a0a92b7c967d0"
+hash = "29ae4a2cad1d945512a37e96b6d6efda019d4e0857e9c1eb88ef65be94ded9c5"
 
 [[files]]
 file = "config/apotheosis/name_generation.cfg"
-hash = "092346d214495b6177cda73447f2038872e57cff6c5bc4f6d4b3537f2582b6b1"
+hash = "517a02b76d811c785dd40781aaf7cb9195f975cd6958b9d00ea220eaea30cd58"
 
 [[files]]
 file = "config/apothic_compat-common.toml"
@@ -1466,7 +1466,7 @@ hash = "3308812ac04a345a093f7fdaf3891bfa21b633e9f50f586972e957417d3454c9"
 
 [[files]]
 file = "config/betterback/last_deaths.properties"
-hash = "a8e1fbfc4eb59cd91a2e036576c5f8a33b8e1d02f9beff27a50400c8f354f08b"
+hash = "e93d3f9eba6f98d9de0f4b3fd6e58ff92a003a2cdd825a7313722f00f95eb61c"
 
 [[files]]
 file = "config/betterback/settings.properties"
@@ -1559,6 +1559,206 @@ hash = "cf65d061fa19295b534d680450ad9b7b2e4e56d95797e8bea9c9c4b0348c139c"
 [[files]]
 file = "config/bronze.toml"
 hash = "235b4b0e57b6ae772c32c475df7045e191c45688756c10dc53bcfef78f190be4"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/.burnt_seed"
+hash = "7f1a1e5a3451a01221732b7d4f71c246bf07877501a16a7a2f95a5aeaf4f7433"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/README.txt"
+hash = "4994830bc8e3e0e1579cb765c007a9d83f7f1f001de8eaae7634cf3e669c1818"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/burn_mappings/overrides.json"
+hash = "160d4dfa8a6a06ddb38e898148550ebc8e6135b9240f951d1dbac90abf28aef5"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/bamboo_blocks.json"
+hash = "f4ac7f51f53eb78f9d0c51f7e59ab771b90932f94716dc4f6c7a6e9baf84d2fd"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_burnt_dirt.json"
+hash = "97424b45a8937bc9d5857c55bd14c18b96ad001eab3663f8a427f48567d36e3b"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_burnt_farmland.json"
+hash = "d8472fa6b320a0bb60fb708f69521c87aed252bdcb358da8e378a9be3c36aefa"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_fine_leaves.json"
+hash = "18c1787add69d27bcc71addc67e6bbd35ecea634fe63b7f704334c75246aa2fe"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_hollow_log.json"
+hash = "f557c2e7bb2f506e7172a3517b544cb0e0652d6bfef355319e07628963aa197a"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_large_leaves.json"
+hash = "bee59cc882f268ff7accce9adef1fbb3d428b39be81c72333a2751114044ca42"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_medium_leaves.json"
+hash = "2ee5174be1949e355406e32b5064cc1c0dbbb19f241c3d388f3d71c683984911"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_small_log.json"
+hash = "73097d7f27691c4a73ccaa001fc7c32a1385fb589848ad6e7f1d9f626ea99c76"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_branch.json"
+hash = "6cb703aafc8652c3eb81020d6e7e21793cc83c87d3f44d653951d964da7f310b"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_button.json"
+hash = "70995c62d0f2f32ff0aa2f4d278cceb74c97ae1e198c4e059131baa8f43c5471"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_carpet.json"
+hash = "6c4d20f7b53e02f7107eb29db2c14306a68d7a17a989800377a704be44419421"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_crops.json"
+hash = "1989a772722853ab51c5f7462a957d2477cd04268951464990058cc34e37871e"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_door.json"
+hash = "0fdca74deb36adef2b8b6b6f6860777acd052eb5ff9352f3d9a4abdde0d2a995"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_envelope.json"
+hash = "7341681dc6d99e00e3246fcf932679c86c50dbd72a011f831361bb675b9ffec7"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_fence_gates.json"
+hash = "63ecc408c943535ec21ab1f6052f316cf856b812e1855d8236323f3919f149f0"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_fences.json"
+hash = "b84c4cc4b57cf1d9686230181c23beef5791ce0351637232bda1360fc7c503fa"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_fern.json"
+hash = "165582e82c7a586fae04b567f279ac9d4ff504320af5bfe3c1b83f09df9e3124"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_grass.json"
+hash = "d846f87863d4cf098d55c003d6c2f64788daa085d585f6058536e503c7fdc652"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_log.json"
+hash = "0431168e07821efced3ec60e9ad503dc31693622487a728fe8efbbbfc4d4d05a"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_log_slow.json"
+hash = "351d76bd71bd793ecaea0c147a5242b0f04e4d630295e1834138a2220ddf1ae4"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_moss.json"
+hash = "1757d0626592d0bc91623e10de87bd1d236d2db39e80705fd2efd216b1afa793"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_moss_carpet.json"
+hash = "9c5ddbe1cf20abb98bf0d399f5c07d164c109b4952afe32f81c0d5355cbd5d59"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_planks.json"
+hash = "69d64d323952e03588f9e2749346c2a3003e73ed34ec49a53f568d99224f3498"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_pressure_plate.json"
+hash = "99b67b3aee6e5ff2bc07e179fccde7088a46d362f60e1dc846f03eace6a0de07"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_root.json"
+hash = "0b173f2210d396c68c52b693bcab4c2f274c67a794bfe0e8bbe1bdf1a5563bf2"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_sail.json"
+hash = "d1ab419d9608bd67c96dec1d25cefa93f5d70d625dae49877c4961861c7a59d5"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_sail_frame.json"
+hash = "1443cfdd6acd4fae60aaef3f53779f4b70e013b0502febbdb612da4c9e170f60"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_slabs.json"
+hash = "7146d98826277fae4ded4d5df186ac5d6396dc3dcefb0c2f5be6cc43e002c5c0"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_stairs.json"
+hash = "699c5f2082e7c4f1f1939f94794c0c45d7bea1080c7a37815d541a4076d7b834"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_stripped_log.json"
+hash = "c9cb1fd44f03a394076d2150f67a5b22bb1ef66dc4808f7bf26adda797a45d33"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_stripped_wood.json"
+hash = "1e999aebcaa5f7e408a17b7d356ce9fdd7b33122b6505c71a781abe5a656821c"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_symmetric_sail.json"
+hash = "8770eac25da5cb2ef700ecd861ad38d1e5c0047a6fc3df27f08dbd71b171e61e"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_tall_grass.json"
+hash = "8a7a6820c3c01793c3cfa2c2d0165c203af8e00b9e35a48290d59fe5f11f1822"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_trapdoor.json"
+hash = "6460e7f7392f340dccc2629ccdbe105a09f6c6a582f86827b6fda9f067021cf0"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_wood.json"
+hash = "c31d162389764a37eee05568f5f4fce3936835e6e172dc8a01cbe452a49c7207"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_wool.json"
+hash = "8a353cc8813cdab7ed67dbef43250a83d5a30b93c8d3f78c2f334c246a77ce10"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_vertical_slab.json"
+hash = "2b67194ea232d6f455a705ec50d9161a7638539538514c7905554e81042665cd"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_wall.json"
+hash = "786335ad2b32e559834ddbcfe5cc452c5df94ffe7b7bec3aacef41b012cd8815"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/destroy_in_burn.json"
+hash = "c094c76a7f1b17efa6f9c90dd75ad627e15856ae2d4f3b8ddc83bd6037e90ff2"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/fire_resistant.json"
+hash = "6e0539cf90977cb21137b78e2d5f70144e0a56bcfe6105b19616ab7c463af7ab"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/vanilla_fire_burns_on.json"
+hash = "f29d956b35af617a72f995334cb11286ff2dc02309ac52faa82bf6899852dbbb"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/will_not_burn.json"
+hash = "9cc2863d8185c3a17933820238f5cb1b760b405d02798cf6f981d6c1c0334ea8"
+
+[[files]]
+file = "config/burnt/mappings/Burnt Block Mappings 1.21/pack.mcmeta"
+hash = "998c6e1a0a388d86755e79d27615290f5929a85a52a85eb4e9cbcdeb219aa0ed"
+
+[[files]]
+file = "config/burnt/mappings/README.txt"
+hash = "e93ca02a90694848e0804522b0429e2b87addb44d22a403a14557f8d09754b09"
+
+[[files]]
+file = "config/burnt_additions.json"
+hash = "46b235fb9775c7b4dba2013148cdd0ddf401b7fdfcd37da88ce68926d5a3d4c4"
+
+[[files]]
+file = "config/burnt_basic.json"
+hash = "9023366bfdc29702ab05b2b1d4520157eaf44de8b43d39b884ac24b7cfb2d0c1"
+
+[[files]]
+file = "config/burnt_basic.json.bak"
+hash = "9023366bfdc29702ab05b2b1d4520157eaf44de8b43d39b884ac24b7cfb2d0c1"
 
 [[files]]
 file = "config/campfirespawnandtweaks.json5"
@@ -1694,7 +1894,7 @@ hash = "2e77b1d93b40ce3f381ad7eb2a9e6d7148de917518be5c2616939a4369c4b140"
 
 [[files]]
 file = "config/create-server.toml"
-hash = "36216a05f3ed63106ba587c8c24ed6315385829e7f3dae695dcf545aba41a270"
+hash = "ce0cc68c767ce60d965b37a16106d0f5ed3ffdadf8b99fc1e5037fb1284a13c9"
 
 [[files]]
 file = "config/create-stuff-additions.toml"
@@ -1746,7 +1946,7 @@ hash = "f556b7ed137e1cc0e454363827a7a14f68cdaa68920347a388bc7f2c0c89b011"
 
 [[files]]
 file = "config/create_submarine-server.toml"
-hash = "c6de7a428d2d12359dd5ddee37a846774ab245cedc3e2a7febf7ee6544344ae8"
+hash = "eaf608acc6661ec35f74b1729d3107bdae3ace6146434c6470110786b7406632"
 
 [[files]]
 file = "config/create_submarine-vortex.toml"
@@ -1763,6 +1963,14 @@ hash = "85e4609662ef31a8ef6208ae5cb0f384ae98f5700cd7ba9405dbb6a1143497a4"
 [[files]]
 file = "config/createcasing-common.toml"
 hash = "05d1d2839d84e315cededf3e2af98fcddc9f61f8e9591e1ec44184d3cc025a56"
+
+[[files]]
+file = "config/createlowheated-common.toml"
+hash = "3a659eef2d4391bad37885013a2cca42c0604b08c0e2c01f0d99b5720d80fab6"
+
+[[files]]
+file = "config/createpickywheels-common.toml"
+hash = "96862fcc7536dfbbcf373d6b464bf561f9c049f73c8f5dbcceaa2f94601f5277"
 
 [[files]]
 file = "config/creativecore-client.json"
@@ -1839,6 +2047,10 @@ hash = "f7ab2b424b77733f74500eb6e5ee4d894eade0c36fcca20f50dcb6ae6001fe50"
 [[files]]
 file = "config/deepdarkdimdungeons-common.toml"
 hash = "5935a7272eea7b9d8896c05e79db0961f2a45ebdecd0dfb356c0e93fc133321a"
+
+[[files]]
+file = "config/deeper_oceans.json"
+hash = "f1a9f25c3682c16302bdb40049b2319941c5dffdb8325e62065558a54e66b2e9"
 
 [[files]]
 file = "config/dimdungeons-client.toml"
@@ -2018,7 +2230,7 @@ hash = "36b0d118a1924aa3f2436fa16cc46a366c9a7f138765ae86caec05977be98bd5"
 
 [[files]]
 file = "config/enhancedcelestials2core/translations-cache/en_us.json"
-hash = "31a21e6dcb58846f8db9634378ab93555eb2e74e7394093d3e7bee2fc68aa327"
+hash = "f59521fbbc3f2958988117206f237f80c2bbc7d40f0ee71b51b2446a34e45776"
 
 [[files]]
 file = "config/enhancedcelestials2core/translations.json"
@@ -2026,7 +2238,7 @@ hash = "24c34c89632454822eb2acc91d2b38b1a72fd370925c544c796396b2b174a205"
 
 [[files]]
 file = "config/enhancedcelestials2defaultlunarevents/translations-cache/en_us.json"
-hash = "6be492cdf38e5d201d92724a1191098c67e6df74b70a578b4f12c02060fd6645"
+hash = "df68c51634532d4dee71d84f2aadd28cb0edc6868abff76f5b98b6df64c66cbe"
 
 [[files]]
 file = "config/enhancedmobcap-common.toml"
@@ -2090,7 +2302,7 @@ hash = "6bccd9a5af80821fe4b83ea397da43adac0b8511bfb7d3b297c038f2b69da8f1"
 
 [[files]]
 file = "config/everycomp-entries.toml"
-hash = "bc9e2983684c1ef4541e5a425be6b374544807eb084686565e7e448e6a638e41"
+hash = "11333d8daad231c7b36e56fd9c6953bbcd16c79b1fac4a7189f23b8ba743ff24"
 
 [[files]]
 file = "config/everycomp-hazardous.toml"
@@ -2107,6 +2319,10 @@ hash = "7d005b7e0bbbff0724725b6d801d6d6155b6c76720d14a08ababf6244b9c5661"
 [[files]]
 file = "config/explorerscompass-common.toml"
 hash = "4067e50c6833df6619e511f2bc09630f16fa22e61cf250a8abbf3354afbe14f0"
+
+[[files]]
+file = "config/explosiveenhancement.toml"
+hash = "59a8f784524a4d3e7d972c9979e314a94df9e9a3fde8ed6aded6c951cea18d65"
 
 [[files]]
 file = "config/fangs_n_claws-common.toml"
@@ -2934,11 +3150,11 @@ hash = "7c6e30107b3633c8688b64d34767899ade7dcd1951d31840510207be2a2b49c9"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "91191ada0d67a867f98d19d965c9f79f96a5829a8fbe4ee4111e0d47c36b4644"
+hash = "0d6fb0709ab61ae6c353e9ee946fc72c9b92fe509fd084fa50d8db28df1de6b7"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "b1d11c3d6b073a99e384fea228e2302e661344b25aff79f0888018bfa14a6e35"
+hash = "eb151e733fcd6020e1d923a8d5e297f6cf8c08f1b0d9d4612617f3c5cbfa9f7c"
 
 [[files]]
 file = "config/jei-server.toml"
@@ -3686,7 +3902,7 @@ hash = "3a5b0f383352483c0afb34cad7800ab7757b70d0028e6edbdb4c67b1762b829d"
 
 [[files]]
 file = "config/sliceanddice-common.toml"
-hash = "8c17330d9f9804cd1540b0f442c7f7b7d1dbd3ccb3e22f6c4af222753ffd49ac"
+hash = "2ec67c447940d90b84bd7ddc0bdcc443f47e8787999b29883ff290e1fcce95b9"
 
 [[files]]
 file = "config/slm_elements/SLM_Elements-Client.toml"
@@ -3754,7 +3970,7 @@ hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "2733b9ce2e42f28f5a0bb6fdce87a59fe42133d1e094fa2f2f805f2b53eeb8e3"
+hash = "a0210990ac52848ca78255f1b1060f1e18bb8dddb6feef739982167ed9185e43"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -3782,7 +3998,7 @@ hash = "f8f1818ba5c8887bd01973839f9a413c1232cc1a1c4be7e5c72250ff2af042e7"
 
 [[files]]
 file = "config/spark/activity.json"
-hash = "8b06662d6a303b30788c92ec268a783bba1c090ea298442ee2f3d8940e422bee"
+hash = "dcdbaa62f3ddeabe24c498ffba501c4edae2e61eb27cb6fb92ef69f123cdcb1c"
 
 [[files]]
 file = "config/spark/config.json"
@@ -4054,7 +4270,7 @@ hash = "1e02077599b5ea195d74cd07e3f1cd731f15536318bc2a96824a7ec03097e33f"
 
 [[files]]
 file = "config/submarine_hull.json"
-hash = "884d70e85e9094a6f1e53a85d4324df9a8ecaca7ac2e5e03ef9a90eb1eea83b9"
+hash = "df8a96896ae6e26f39c9238495ff3c093e68f44e8ccaf9f5d9c9f14d1cba6ef7"
 
 [[files]]
 file = "config/subtle_effects/blocks.toml"
@@ -5470,7 +5686,7 @@ hash = "2b925da45ae9ccc37f6f5ae1fd1f62fb64d9155a6df14a5d44e9d3ab6538cf9d"
 
 [[files]]
 file = "kubejs/data/enchanted/loot_table/extensions/grass_seeds.json"
-hash = "479ad811294393311d114f60c2189a2c4b9051b262857953839df3a9d4b04311"
+hash = "076beae29d41d99a23d4805864eee183f3fde135e8b7c5e540f04af56a3049e7"
 
 [[files]]
 file = "kubejs/data/farmersdelight/market_presets/seeds.json"
@@ -6017,6 +6233,22 @@ file = "kubejs/data/supplementaries/neoforge/biome_modifier/wild_flax.json"
 hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
 
 [[files]]
+file = "kubejs/data/treephysics/tags/block/leaves.json"
+hash = "62ae1cdbfea14d7feaa67de0bcd0c5c0dbd75147ff8fb184c67a33431d8b9916"
+
+[[files]]
+file = "kubejs/data/treephysics/tags/block/logs.json"
+hash = "021831d7a47c01a82489bd93ee847defb2e789406476a1a0bd26c8336dd252da"
+
+[[files]]
+file = "kubejs/data/treephysics/treephysics/grouping/leaves.json"
+hash = "d16a6868ed89549e3d515e54d892682976909781db6531d817759a1b5c44b6d7"
+
+[[files]]
+file = "kubejs/data/treephysics/treephysics/grouping/logs.json"
+hash = "30d77e7d10c56fe583ab472fe8c4c2223f5217e02a77b4d8703d60d92ad91370"
+
+[[files]]
 file = "kubejs/data/wayfarer/neoforge/biome_modifier/add_ores.json"
 hash = "056adad7817193515c24b31afa0f37be0db71a2142362585102396f3b0a69581"
 
@@ -6297,6 +6529,10 @@ file = "kubejs/server_scripts/oowwo_brass.js"
 hash = "8ee282713d5da9be6967bdf0063c0265e6904df0a1340f42a469a6b0cd346df6"
 
 [[files]]
+file = "kubejs/server_scripts/oowwo_brewinandchewin.js"
+hash = "8574370cca092a46a5ce12d7d3ae9b1060e617d1ac66e1bcec4ce3f169afb582"
+
+[[files]]
 file = "kubejs/server_scripts/oowwo_bronze_weapons.js"
 hash = "e914093cd912672e508f77e73440dbe2daa6530943d164e918974a6e91fe5f8e"
 
@@ -6337,8 +6573,16 @@ file = "kubejs/server_scripts/oowwo_create.js"
 hash = "ad990fdf28ff53b7bebb0ea85d71973ac26ddefeea930822039ff083d42309b1"
 
 [[files]]
+file = "kubejs/server_scripts/oowwo_create_cut.js"
+hash = "10fa72f860c9d35f26e03de4819db22bf58ea4917b4449c5c9a7a82254622d56"
+
+[[files]]
 file = "kubejs/server_scripts/oowwo_create_extras.js"
 hash = "8f2492a37c4f594da5645ccde7a5cd9ccec93e32ee1bb42653457604bd0551b4"
+
+[[files]]
+file = "kubejs/server_scripts/oowwo_create_pass.js"
+hash = "d3720e30b4ac9f5a6c634c0b62471a41ace6d8f8305188819e4d955ff2e2b34a"
 
 [[files]]
 file = "kubejs/server_scripts/oowwo_draugr_loot.js"
@@ -6379,6 +6623,10 @@ hash = "efd0b24a6e26295f81102e0f0a621be81dbac3cc06b8949e2f84b0422f6629f4"
 [[files]]
 file = "kubejs/server_scripts/oowwo_lost_heart.js"
 hash = "b694f73a18ed34271edf243e5c4144ad4855654e9d61b219ad69af1d3dc9f907"
+
+[[files]]
+file = "kubejs/server_scripts/oowwo_lowheated.js"
+hash = "5f0333b6777ac0607538dea2d6ca4287fe5bcee56eb138f3a010a10e4ddcee49"
 
 [[files]]
 file = "kubejs/server_scripts/oowwo_magic_ars.js"
@@ -6603,7 +6851,7 @@ metafile = true
 
 [[files]]
 file = "mods/BrewinAndChewin-neoforge-5.0.0+1.21.1.jar"
-hash = "1b6731d23f69db401468a89121d3a218d6b3d9f6c8f4d4c11480d4c904f3430d"
+hash = "89e1fbb6acb5b8971ce42ddc376e8b32200e5d3c5273b61784386606ff62ef07"
 
 [[files]]
 file = "mods/DragonSurvival-1.21.1-v2.0.68-30.08.2026-all.jar"
@@ -6895,6 +7143,11 @@ hash = "efd07a10d0372b0711b3aac29bedc503085619b0e988798445a3bd9bf201e11d"
 metafile = true
 
 [[files]]
+file = "mods/burnt.pw.toml"
+hash = "0f0f5513b3e5612dcd190dbbf8d2263a4c63c4bdcc49e3731904435913939c3b"
+metafile = true
+
+[[files]]
 file = "mods/campfire-spawn-and-tweaks.pw.toml"
 hash = "5fdbfff434bdfbb8442322e1751d403e2314bf0f6ebc8dd35747d6f1f708fdfd"
 metafile = true
@@ -7065,6 +7318,16 @@ hash = "ca66c261acc61d994776c17623a32f0fcd16b7eebec4692c78a5a998af63ccb1"
 metafile = true
 
 [[files]]
+file = "mods/create-low-heated.pw.toml"
+hash = "78237eb6d40380140b4af46c8ccb7307c318c7b99d7e12225ed8c731ac01a194"
+metafile = true
+
+[[files]]
+file = "mods/create-picky-wheels.pw.toml"
+hash = "3f67e2ed7db7c40175da3b12b4f5c3eb02841bbe6b82090e4d0182d2bd9c480b"
+metafile = true
+
+[[files]]
 file = "mods/create-stuff-additions.pw.toml"
 hash = "ed0f29fe70d34e7c237cc0d4cfa1b756454d751b5228c0c388220b5281ea9f07"
 metafile = true
@@ -7142,6 +7405,11 @@ metafile = true
 [[files]]
 file = "mods/deep-dark-dimensional-dungeons.pw.toml"
 hash = "e32ed42f8a59a96e9ea0005a678dd66ca77791b8574c1bea82d9f85d6e81b577"
+metafile = true
+
+[[files]]
+file = "mods/deeper-oceans.pw.toml"
+hash = "9a6eb9fa5a2b619dc6cbc7d14571eec4bf49ebee0957b340df921c3c6d8b0876"
 metafile = true
 
 [[files]]
@@ -7292,6 +7560,11 @@ metafile = true
 [[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "2210c9cc27cbe51aece72a71612541e8e380a583f6cecf6e6c8c176e211e514b"
+metafile = true
+
+[[files]]
+file = "mods/explosive-enhancement-forge.pw.toml"
+hash = "b2c85958c3b76dd5ae4e5fc2a7c4e97170c4719e6f730cb091b037fa6a58fecd"
 metafile = true
 
 [[files]]
@@ -7710,6 +7983,10 @@ file = "mods/oowwo_sable_guard-1.0.0.jar"
 hash = "7285f9c0e13dee04a8819f3de379a729fe8196990b5552c59664b961962f3a80"
 
 [[files]]
+file = "mods/oowwo_swimov_btp-1.1.0.jar"
+hash = "a71f580c6c7f5a57f9287911405105c34496754d796bd29bde986aab15da41df"
+
+[[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "74403bab0733564c48c3a9875c26c3b07d513a3cffa3b1ccff58ce51ad65c8b3"
 metafile = true
@@ -7752,6 +8029,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "11462f4687332f7e48b31df15ab2684742fd099e3f67574b2d240c4279104de5"
+metafile = true
+
+[[files]]
+file = "mods/player-animation-library.pw.toml"
+hash = "2a1c66262d6a0712f70b4872ad48a317689997a4cf5b3465cdde117dabfcb66f"
 metafile = true
 
 [[files]]
@@ -7970,7 +8252,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "52d8c58f0c47b58571981c69a08c2f2d11186b463c121755b4c064013ebc4da0"
+hash = "26e5785754427bf6edd54cc0fbba24f2f4c9ecf177f22658af3b505f7563bcb4"
 metafile = true
 
 [[files]]
@@ -8086,6 +8368,10 @@ metafile = true
 file = "mods/supplementaries.pw.toml"
 hash = "247b8a745886ca6662f32c703bcd281788ea149df0d6108f74b4e1f8c521bf5b"
 metafile = true
+
+[[files]]
+file = "mods/swimov-1.0.5.jar"
+hash = "9d83109357cd47ab079dbd8370fa18a817e3661af007cb38d7d6460545030eaf"
 
 [[files]]
 file = "mods/teallib.pw.toml"

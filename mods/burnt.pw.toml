@@ -1,0 +1,13 @@
+name = "Burnt + Additions"
+filename = "burnt-1.10.5.3-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tsc9D2wh/versions/5383JfW8/burnt-1.10.5.3-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "c4b02b234cf20186b954980eabcd088b083eb035cb27d77769b8a17851fda4d3e4fa76e77fb128c3c2eee846f97e207a1a971c66077a8a1e3361b54bf92d2c2c"
+
+[update]
+[update.modrinth]
+mod-id = "tsc9D2wh"
+version = "5383JfW8"

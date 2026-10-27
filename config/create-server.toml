@@ -21,16 +21,16 @@
 	bulkCutting = false
 	#.
 	#Allow supported potions to be brewed by a Mechanical Mixer + Basin.
-	allowBrewingInMixer = true
+	allowBrewingInMixer = false
 	#.
 	#Allow any shapeless crafting recipes to be processed by a Mechanical Mixer + Basin.
-	allowShapelessInMixer = true
+	allowShapelessInMixer = false
 	#.
 	#Allow any single-ingredient 2x2 or 3x3 crafting recipes to be processed by a Mechanical Press + Basin.
-	allowShapedSquareInPress = true
+	allowShapedSquareInPress = false
 	#.
 	#Allow any standard crafting recipes to be processed by Mechanical Crafters.
-	allowRegularCraftingInCrafter = true
+	allowRegularCraftingInCrafter = false
 	#.
 	#The Maximum amount of ingredients that can be used to craft Firework Rockets using Mechanical Crafters.
 	# Default: 9
@@ -38,13 +38,13 @@
 	maxFireworkIngredientsInCrafter = 9
 	#.
 	#Allow any stonecutting recipes to be processed by a Mechanical Saw.
-	allowStonecuttingOnSaw = true
+	allowStonecuttingOnSaw = false
 	#.
 	#Allow Spouts to interact with Casting Tables and Basins from Tinkers' Construct.
 	allowCastingBySpout = true
 	#.
 	#Display vanilla Log-stripping interactions in JEI.
-	displayLogStrippingRecipes = true
+	displayLogStrippingRecipes = false
 	#.
 	#The amount of Light sources destroyed before Chromatic Compound turns into Refined Radiance.
 	# Default: 10
@@ -89,7 +89,7 @@
 	#Maximum allowed rotation speed for any Kinetic Block.
 	# Default: 256
 	# Range: > 64
-	maxRotationSpeed = 256
+	maxRotationSpeed = 128
 	#.
 	#Select what mobs should ignore Deployers when attacked by them.
 	#Allowed Values: ALL, CREEPERS, NONE
@@ -285,9 +285,9 @@
 				clutch = 0.0
 				mechanical_mixer = 4.0
 				gearbox = 0.0
-				mechanical_bearing = 4.0
+				mechanical_bearing = 6.0
 				copper_backtank = 4.0
-				hose_pulley = 4.0
+				hose_pulley = 6.0
 				display_board = 0.0
 				crushing_wheel = 8.0
 				adjustable_chain_gearshift = 0.0
@@ -311,7 +311,7 @@
 				brass_encased_cogwheel = 0.0
 				clockwork_bearing = 4.0
 				mechanical_press = 8.0
-				mechanical_drill = 4.0
+				mechanical_drill = 12.0
 				andesite_encased_shaft = 0.0
 				netherite_backtank = 4.0
 				mechanical_arm = 2.0
@@ -323,7 +323,7 @@
 				rope_pulley = 4.0
 				andesite_encased_cogwheel = 0.0
 				large_cogwheel = 0.0
-				encased_fan = 2.0
+				encased_fan = 4.0
 				mysterious_cuckoo_clock = 1.0
 				gantry_shaft = 0.0
 				mechanical_pump = 4.0

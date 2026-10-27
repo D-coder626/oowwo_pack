@@ -76,18 +76,5 @@
       "type": "url",
       "value": "https://spark.lucko.me/XOrgmWYpdM"
     }
-  },
-  {
-    "user": {
-      "type": "player",
-      "name": "DrunkenTanuki21",
-      "uniqueId": "38ff2d03-8cb4-458d-84ba-6f8d8b412b29"
-    },
-    "time": 1787769777842,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/y4MKHwPahZ"
-    }
   }
 ]

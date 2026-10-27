@@ -1,0 +1,149 @@
+{
+ "replace": false,
+ "values": [
+  {
+   "id": "burnt:blazing_hollow_log",
+   "required": false
+  },
+  {
+   "id": "burnt:blazing_wood",
+   "required": false
+  },
+  {
+   "id": "burnt:burnt_hollow_log",
+   "required": false
+  },
+  {
+   "id": "burnt:burnt_wood",
+   "required": false
+  },
+  {
+   "id": "burnt:ember_hollow_log",
+   "required": false
+  },
+  {
+   "id": "burnt:ember_wood",
+   "required": false
+  },
+  {
+   "id": "burnt:small_burnt_log",
+   "required": false
+  },
+  {
+   "id": "burnt:small_smoldering_log",
+   "required": false
+  },
+  {
+   "id": "burnt:smoldering_dark_oak_log",
+   "required": false
+  },
+  {
+   "id": "burnt:smoldering_dark_oak_wood",
+   "required": false
+  },
+  {
+   "id": "burnt:smoldering_hollow_log",
+   "required": false
+  },
+  {
+   "id": "burnt:smoldering_stripped_wood",
+   "required": false
+  },
+  {
+   "id": "burnt:smoldering_wood",
+   "required": false
+  },
+  {
+   "id": "burnt:sooty_acacia_stripped_wood",
+   "required": false
+  },
+  {
+   "id": "burnt:sooty_acacia_wood",
+   "required": false
+  },
+  {
+   "id": "burnt:sooty_birch_stripped_wood",
+   "required": false
+  },
+  {
+   "id": "burnt:sooty_birch_wood",
+   "required": false
+  },
+  {
+   "id": "burnt:sooty_cherry_stripped_wood",
+   "required": false
+  },
+  {
+   "id": "burnt:sooty_cherry_wood",
+   "required": false
+  },
+  {
+   "id": "burnt:sooty_dark_oak_stripped_wood",
+   "required": false
+  },
+  {
+   "id": "burnt:sooty_dark_oak_wood",
+   "required": false
+  },
+  {
+   "id": "burnt:sooty_jungle_stripped_wood",
+   "required": false
+  },
+  {
+   "id": "burnt:sooty_jungle_wood",
+   "required": false
+  },
+  {
+   "id": "burnt:sooty_mangrove_stripped_wood",
+   "required": false
+  },
+  {
+   "id": "burnt:sooty_mangrove_wood",
+   "required": false
+  },
+  {
+   "id": "burnt:sooty_oak_stripped_wood",
+   "required": false
+  },
+  {
+   "id": "burnt:sooty_oak_wood",
+   "required": false
+  },
+  {
+   "id": "burnt:sooty_pale_oak_stripped_wood",
+   "required": false
+  },
+  {
+   "id": "burnt:sooty_pale_oak_wood",
+   "required": false
+  },
+  {
+   "id": "burnt:sooty_small_log",
+   "required": false
+  },
+  {
+   "id": "burnt:sooty_spruce_stripped_wood",
+   "required": false
+  },
+  {
+   "id": "burnt:sooty_spruce_wood",
+   "required": false
+  },
+  {
+   "id": "burnt:stripped_burnt_wood",
+   "required": false
+  },
+  {
+   "id": "burnt:stripped_ember_log",
+   "required": false
+  },
+  {
+   "id": "burnt_additions:smoldering_soul_log",
+   "required": false
+  },
+  {
+   "id": "burnt_additions:soul_tempered_log",
+   "required": false
+  }
+ ]
+}
