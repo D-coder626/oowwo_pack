@@ -17,7 +17,9 @@
     "failPerSecLimit": 5,
     "failBehavior": "RAISE_CRASH",
     "suppressCME": false,
-    "syncParticleClasses": []
+    "syncParticleClasses": [
+      "net.magister.liberanimalium.render.gpu.GpuParticles$Anchor"
+    ]
   },
   "rendering": {
     "particleCulling": "SPHERE",

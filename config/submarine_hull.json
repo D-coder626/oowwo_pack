@@ -2989,6 +2989,10 @@
     "maxWaterDepth": 63,
     "implosionChance": 0.36137056
   },
+  "azurelib:lightblock": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
   "backpacks:backpack": {
     "maxWaterDepth": 27,
     "implosionChance": 0.50122136
@@ -4248,6 +4252,50 @@
   "blocksabound:yellow_reinforced_glass_slab": {
     "maxWaterDepth": 30,
     "implosionChance": 0.355409
+  },
+  "bookofdragons:placeable_gronckle_scales": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "bookofdragons:placeable_nadder_scales": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "bookofdragons:placeable_nightfury_scales": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "bookofdragons:placeable_nightmare_scales": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "bookofdragons:placeable_skrill_scales": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "bookofdragons:placeable_speedstinger_scales": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "bookofdragons:placeable_terribleterror_scales": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "bookofdragons:placeable_whisperingdeath_scales": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "bookofdragons:placeable_zippleback_scales": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "bookofdragons:roost_controller": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.43337092
+  },
+  "bookofdragons:viking_anvil": {
+    "maxWaterDepth": 130,
+    "implosionChance": 0.05
   },
   "born_in_chaos_v1:argillite_lamp": {
     "maxWaterDepth": 23,

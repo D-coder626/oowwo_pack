@@ -1446,7 +1446,11 @@ hash = "4ad2b5325a9ddd32792b0cca532ab88914ae0c85aef8f5f56db8f5e75609bc28"
 
 [[files]]
 file = "config/asyncparticles/asyncparticles.json"
-hash = "5d4ebd509995f82b398dd0751aa40f65ac6e7aed7a0d5fa13b07d1e5c73ed621"
+hash = "12d9efd2f82c5997248a186be3f6c9a18d9ea45fb62c9597d23b78d727b2c857"
+
+[[files]]
+file = "config/azurelib.json"
+hash = "9f136b36f13fb0f7d0de277ecf6d933914c7dcc3f646136cd09a68e904659109"
 
 [[files]]
 file = "config/badoptimizations.txt"
@@ -1543,6 +1547,14 @@ hash = "2459dd80f64e56da7a6259b6a68e29f00130ada136c28c834ba01ecd3485f012"
 [[files]]
 file = "config/blueprint-common.toml"
 hash = "251f732f07620eab2bb5e56eb068e39e6d651d26aaa7094f59d090d9ce82ede7"
+
+[[files]]
+file = "config/bookofdragons-client.toml"
+hash = "ac1b33c74bfe6804dd260e55af82f7ef6a320df5545edd9cb3e68bc5cc97f04b"
+
+[[files]]
+file = "config/bookofdragons-common.toml"
+hash = "ccfa42ffd6deb95f228ff9fe1ff45f1de505b1b670a93532b1b0f97b7e1a6d4d"
 
 [[files]]
 file = "config/botanypots.json"
@@ -2230,7 +2242,7 @@ hash = "36b0d118a1924aa3f2436fa16cc46a366c9a7f138765ae86caec05977be98bd5"
 
 [[files]]
 file = "config/enhancedcelestials2core/translations-cache/en_us.json"
-hash = "f59521fbbc3f2958988117206f237f80c2bbc7d40f0ee71b51b2446a34e45776"
+hash = "4e5bf140b9885a62d772a715108817b47357740d71055560242c9abfbeda34bf"
 
 [[files]]
 file = "config/enhancedcelestials2core/translations.json"
@@ -2238,7 +2250,7 @@ hash = "24c34c89632454822eb2acc91d2b38b1a72fd370925c544c796396b2b174a205"
 
 [[files]]
 file = "config/enhancedcelestials2defaultlunarevents/translations-cache/en_us.json"
-hash = "df68c51634532d4dee71d84f2aadd28cb0edc6868abff76f5b98b6df64c66cbe"
+hash = "43dd783854a65ce52306da10615a206022dd2f990e04fa31566217348b9f622e"
 
 [[files]]
 file = "config/enhancedmobcap-common.toml"
@@ -2775,6 +2787,10 @@ hash = "44af1664a8a4a7ff8663a1ce862ae5cce2a27403520b19a00383b8ca0dfe0d43"
 [[files]]
 file = "config/forgeendertech/Biomes/the_beyond$peer_lands.cfg"
 hash = "69e15dfec82871df85751f25f0f47344f4ed97fbe543ac4a16ea8ea8a110f94b"
+
+[[files]]
+file = "config/forgeendertech/Biomes/the_beyond$true_void.cfg"
+hash = "fd5bb68900a5aef8b267147f10c18826896076806987c26fea45f5f56ef09122"
 
 [[files]]
 file = "config/forgeendertech/Biomes/twilightforest$clearing.cfg"
@@ -3970,7 +3986,7 @@ hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "a0210990ac52848ca78255f1b1060f1e18bb8dddb6feef739982167ed9185e43"
+hash = "7812b03f7c74d6acc6ed66a42d6b8d7a92479bb98502e2ecf3e87e7f6f1a50ae"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -3998,7 +4014,7 @@ hash = "f8f1818ba5c8887bd01973839f9a413c1232cc1a1c4be7e5c72250ff2af042e7"
 
 [[files]]
 file = "config/spark/activity.json"
-hash = "dcdbaa62f3ddeabe24c498ffba501c4edae2e61eb27cb6fb92ef69f123cdcb1c"
+hash = "eca88e1c1373ab8945efe611c44aac7ccb3900bbb35a47f6100ee7bce36949c2"
 
 [[files]]
 file = "config/spark/config.json"
@@ -4270,7 +4286,7 @@ hash = "1e02077599b5ea195d74cd07e3f1cd731f15536318bc2a96824a7ec03097e33f"
 
 [[files]]
 file = "config/submarine_hull.json"
-hash = "df8a96896ae6e26f39c9238495ff3c093e68f44e8ccaf9f5d9c9f14d1cba6ef7"
+hash = "92c49401049f40e69ee9e65fb77f9b4cd9b77abdd13cc5465d867fe14272213e"
 
 [[files]]
 file = "config/subtle_effects/blocks.toml"
@@ -4987,6 +5003,10 @@ hash = "1a3ccb2f6d5cc1df290e95f905ecfdbed8ffa29a35f176de523c46779874f25f"
 [[files]]
 file = "kubejs/data/ars_nouveau/worldgen/biome/archwood_forest.json"
 hash = "b80b1237539ac6dcd499ad9bc35b022247e40c088c1f34fd0044940e5ef342dd"
+
+[[files]]
+file = "kubejs/data/bookofdragons/spawn_settings.json"
+hash = "b5456f707eda3eb7f4aa1fe68624d174b2197b3d5ee0571b8488d0f247886e58"
 
 [[files]]
 file = "kubejs/data/born_in_chaos_v1/neoforge/biome_modifier/baby_skeleton_biome_modifier.json"
@@ -6681,6 +6701,10 @@ file = "kubejs/server_scripts/oowwo_productivebees_nests.js"
 hash = "4b5480db4ef89aa5a77c0320e5e955012289827234c3dba0cc4b023ab1d25cdc"
 
 [[files]]
+file = "kubejs/server_scripts/oowwo_ragdoll_no_mobs.js"
+hash = "59f10d87c9638d8cf0dfe1f4add4cee489f6356dea7b0149db52d69ba0d650ab"
+
+[[files]]
 file = "kubejs/server_scripts/oowwo_raw_tin_nugget.js"
 hash = "77d78148e860284e3a4103f694349bb3d1d36f8873a72ce5b86033e5c7e016ef"
 
@@ -6722,7 +6746,7 @@ hash = "8177d2c08d206b2fed003d17f9fa532608d1a9d861d14c4f1bc67044ca5396a3"
 
 [[files]]
 file = "kubejs/server_scripts/oowwo_skills_wayfarer.js"
-hash = "7dbff200e9f817ae6a60aff9429b5caa07536c40e2107b26b39c365b05d6595b"
+hash = "5bb3afdd5dd0f0223ac66f3767cf31fe9c902743c849666efaeb68a73b8c1378"
 
 [[files]]
 file = "kubejs/server_scripts/oowwo_small_ports.js"
@@ -7029,6 +7053,11 @@ hash = "dbd6366580abda514ed40e4e7c208390c7850879f90bf4d2ba53893407276267"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "bf61a0e1481c71f4ffec197638a2f177798ffd3814387359d9fbf242c491cc28"
+metafile = true
+
+[[files]]
 file = "mods/backpacks-for-dummies.pw.toml"
 hash = "f0994ba50e22ce7765ac2af8a767778944470c96ae9f168507551309d3e619f6"
 metafile = true
@@ -7110,6 +7139,11 @@ hash = "41aa319adfcc48b0c1c03de9413e42893c6210601e958c40ab1e019587a0cdfa"
 [[files]]
 file = "mods/boatload.pw.toml"
 hash = "42edd4634b99b00e56f6baf323e2c8bf6317f5df74596bdbf32be9a06bc9320d"
+metafile = true
+
+[[files]]
+file = "mods/book-of-dragons.pw.toml"
+hash = "23dda2e3950507ccc1883ea1c3ee796cbcf600ceb41b5e03cfc5732296ff7948"
 metafile = true
 
 [[files]]
@@ -7580,6 +7614,11 @@ metafile = true
 [[files]]
 file = "mods/farming-for-blockheads.pw.toml"
 hash = "7f9bb6a078c209f9cb7ea8a41f5110358bc57f77f8ec9ad4cc28ca876b65be2d"
+metafile = true
+
+[[files]]
+file = "mods/fauna-engine.pw.toml"
+hash = "979c1b364930e9a0226381b1860d4ad5eebba1a9ff94d7b42996e46500c4aaa6"
 metafile = true
 
 [[files]]

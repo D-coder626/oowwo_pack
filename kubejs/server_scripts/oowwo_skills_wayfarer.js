@@ -696,7 +696,7 @@ NativeEvents.onEvent(LivingDrops, safe('foragers_knife', function (e) {
   var victim = e.getEntity(), p = e.getSource().getActual()
   if (!isPlayer(p) || !hasTag(p, 'oowwo_foragers_knife') || !(victim instanceof Animal)) return
   var tool = p.getMainHandItem()
-  if (tool.isEmpty() || !(tool.is(KNIVES) || itemId(tool).indexOf('knife') >= 0)) return
+  if (tool.isEmpty() || !(tool['is(net.minecraft.tags.TagKey)'](KNIVES) || itemId(tool).indexOf('knife') >= 0)) return
   var drops = e.getDrops(), it = drops.iterator(), pick = null
   while (it.hasNext()) {
     var ie = it.next()
