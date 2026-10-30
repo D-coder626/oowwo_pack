@@ -7,7 +7,8 @@
 //   - BASE drops (any weapon) are Wayfarer's hide drops, kept; a KNIFE (#c:tools/knife — Farmer's
 //     Delight + wayfarer_core knives) adds more on top.
 //   - Hide = minecraft:rabbit_hide (Wayfarer's hide; 4 hide + 1 wax -> 4 leather).
-//     Deer, elk, caribou, moose give Critters n' Crawlers BUCKSKIN instead; wolves give Fangs & Claws FUR.
+//     Deer, elk, caribou, moose give Critters n' Crawlers BUCKSKIN instead.
+//     2026-10-29: Fangs & Claws removed — wolves give rabbit hide again (was F&C fur); owlbear dropped.
 //   - Size tiers for the knife bonus:
 //       LARGE   bones 2-3 (always), hide 2-3 (always)
 //       MEDIUM  bones 1-2 (80%),    hide 1-2 (60%)
@@ -24,7 +25,7 @@
 
 LootJS.modifiers(event => {
   const KNIFE = '#c:tools/knife'
-  const HIDE = 'minecraft:rabbit_hide', BUCKSKIN = 'cnc:buckskin', FUR = 'fangs_n_claws:fur', BONE = 'minecraft:bone'
+  const HIDE = 'minecraft:rabbit_hide', BUCKSKIN = 'cnc:buckskin', BONE = 'minecraft:bone'
   const E = (id, min, max) => LootEntry.of(id).setCount([min, max])
 
   // ------------------------------------------------------------------ BASE (no knife needed)
@@ -34,7 +35,7 @@ LootJS.modifiers(event => {
   event.addEntityModifier(['minecraft:fox', 'minecraft:panda']).randomChance(0.2).addLoot(E(HIDE, 1, 1))
   event.addEntityModifier(['minecraft:cow', 'minecraft:camel']).addLoot(E(HIDE, 1, 4))
   event.addEntityModifier('nomansland:deer').randomChance(0.5).addLoot(E(BUCKSKIN, 1, 2))   // was rabbit hide
-  event.addEntityModifier('minecraft:wolf').randomChance(0.5).addLoot(E(FUR, 1, 2))          // was rabbit hide
+  event.addEntityModifier('minecraft:wolf').randomChance(0.5).addLoot(E(HIDE, 1, 2))
   event.addEntityModifier(['minecraft:cow', 'minecraft:horse', 'minecraft:mule', 'minecraft:donkey',
     'minecraft:mooshroom', 'minecraft:llama', 'minecraft:trader_llama']).removeLoot('minecraft:leather')
 
@@ -42,14 +43,14 @@ LootJS.modifiers(event => {
   const LARGE_HIDE = ['minecraft:cow', 'minecraft:mooshroom', 'minecraft:horse', 'minecraft:donkey', 'minecraft:mule',
     'minecraft:camel', 'minecraft:llama', 'minecraft:trader_llama', 'minecraft:polar_bear', 'minecraft:hoglin',
     'cnc:black_bear', 'cnc:giant_boar', 'reanimal:giraffe', 'reanimal:hippopotamus', 'reanimal:crocodile',
-    'fangs_n_claws:owlbear', 'aether:flying_cow', 'spawn:sea_cow']
+    'aether:flying_cow', 'spawn:sea_cow']
   const LARGE_BUCKSKIN = ['nomansland:moose', 'cnc:elk', 'cnc:caribou']
 
   const MEDIUM_HIDE = ['minecraft:sheep', 'minecraft:goat', 'minecraft:pig', 'minecraft:panda',
     'cnc:cougar', 'cnc:coyote', 'cnc:wolverine', 'reanimal:capybara', 'reanimal:seal',
     'aether:phyg', 'aether:sheepuff']
   const MEDIUM_BUCKSKIN = ['nomansland:deer', 'cnc:mule_deer', 'cnc:white_tailed_deer']
-  const MEDIUM_FUR = ['minecraft:wolf', 'cnc:timber_wolf', 'fangs_n_claws:wild_wolf']
+  const MEDIUM_FUR = ['minecraft:wolf', 'cnc:timber_wolf']   // hide since 2026-10-29 (F&C fur removed)
   const MEDIUM_BONES_ONLY = ['reanimal:ostrich']
 
   const SMALL_FURRED = ['minecraft:fox', 'minecraft:rabbit', 'cnc:beaver']
@@ -66,7 +67,7 @@ LootJS.modifiers(event => {
     .matchMainHand(KNIFE).randomChance(0.8).addLoot(E(BONE, 1, 2))
   event.addEntityModifier(MEDIUM_HIDE).matchMainHand(KNIFE).randomChance(0.6).addLoot(E(HIDE, 1, 2))
   event.addEntityModifier(MEDIUM_BUCKSKIN).matchMainHand(KNIFE).randomChance(0.6).addLoot(E(BUCKSKIN, 1, 2))
-  event.addEntityModifier(MEDIUM_FUR).matchMainHand(KNIFE).randomChance(0.6).addLoot(E(FUR, 1, 2))
+  event.addEntityModifier(MEDIUM_FUR).matchMainHand(KNIFE).randomChance(0.6).addLoot(E(HIDE, 1, 2))
 
   // small
   event.addEntityModifier(SMALL_FURRED.concat(SMALL_BIRDS)).matchMainHand(KNIFE).randomChance(0.3).addLoot(E(BONE, 1, 1))

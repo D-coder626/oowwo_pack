@@ -1,7 +1,7 @@
 #The maximum number of item entities that can be loaded at once before the oldest start despawning
 # Default: 500
 # Range: 1 ~ 10000
-maxItemEntities = 500
+maxItemEntities = 200
 #The range at which entities start spawning from players
 # Default: 128.0
 # Range: 1.0 ~ 1000.0
@@ -53,9 +53,6 @@ spawnRange = 128.0
 	# Default: -1
 	# Range: -1 ~ 100000
 	"dragonsurvival:hunter_faction" = -1
-	# Default: -1
-	# Range: -1 ~ 100000
-	"undergarden:stupid" = -1
 	# Default: -1
 	# Range: -1 ~ 100000
 	spawn_water_decoration = -1

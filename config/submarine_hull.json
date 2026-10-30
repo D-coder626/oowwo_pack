@@ -5,6 +5,10 @@
     "maxWaterDepth": 37,
     "implosionChance": 0.43337092
   },
+  "abundant_atmosphere:ashroot_bookshelf_door": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.43337092
+  },
   "abundant_atmosphere:ashroot_button": {
     "maxWaterDepth": 27,
     "implosionChance": 0.5344535
@@ -29,6 +33,10 @@
     "maxWaterDepth": 29,
     "implosionChance": 0.4806853
   },
+  "abundant_atmosphere:ashroot_indiscrete_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
   "abundant_atmosphere:ashroot_leaves": {
     "maxWaterDepth": 18,
     "implosionChance": 0.57176787
@@ -37,9 +45,17 @@
     "maxWaterDepth": 41,
     "implosionChance": 0.39013878
   },
+  "abundant_atmosphere:ashroot_normal_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
   "abundant_atmosphere:ashroot_palisade": {
     "maxWaterDepth": 41,
     "implosionChance": 0.39013878
+  },
+  "abundant_atmosphere:ashroot_pet_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
   },
   "abundant_atmosphere:ashroot_planks": {
     "maxWaterDepth": 44,
@@ -68,6 +84,10 @@
   "abundant_atmosphere:ashroot_stairs": {
     "maxWaterDepth": 44,
     "implosionChance": 0.36137056
+  },
+  "abundant_atmosphere:ashroot_transit_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
   },
   "abundant_atmosphere:ashroot_trapdoor": {
     "maxWaterDepth": 49,
@@ -209,6 +229,10 @@
     "maxWaterDepth": 37,
     "implosionChance": 0.43337092
   },
+  "abundant_atmosphere:gourdrot_bookshelf_door": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.43337092
+  },
   "abundant_atmosphere:gourdrot_button": {
     "maxWaterDepth": 27,
     "implosionChance": 0.5344535
@@ -233,6 +257,10 @@
     "maxWaterDepth": 29,
     "implosionChance": 0.4806853
   },
+  "abundant_atmosphere:gourdrot_indiscrete_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
   "abundant_atmosphere:gourdrot_leaves": {
     "maxWaterDepth": 18,
     "implosionChance": 0.57176787
@@ -241,9 +269,17 @@
     "maxWaterDepth": 41,
     "implosionChance": 0.39013878
   },
+  "abundant_atmosphere:gourdrot_normal_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
   "abundant_atmosphere:gourdrot_palisade": {
     "maxWaterDepth": 41,
     "implosionChance": 0.39013878
+  },
+  "abundant_atmosphere:gourdrot_pet_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
   },
   "abundant_atmosphere:gourdrot_planks": {
     "maxWaterDepth": 44,
@@ -268,6 +304,10 @@
   "abundant_atmosphere:gourdrot_stairs": {
     "maxWaterDepth": 44,
     "implosionChance": 0.36137056
+  },
+  "abundant_atmosphere:gourdrot_transit_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
   },
   "abundant_atmosphere:gourdrot_trapdoor": {
     "maxWaterDepth": 49,
@@ -541,6 +581,10 @@
     "maxWaterDepth": 35,
     "implosionChance": 0.43337092
   },
+  "abundant_atmosphere:red_bamboo_bookshelf_door": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.43337092
+  },
   "abundant_atmosphere:red_bamboo_button": {
     "maxWaterDepth": 27,
     "implosionChance": 0.5344535
@@ -548,6 +592,10 @@
   "abundant_atmosphere:red_bamboo_cabinet": {
     "maxWaterDepth": 45,
     "implosionChance": 0.3497237
+  },
+  "abundant_atmosphere:red_bamboo_discrete_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
   },
   "abundant_atmosphere:red_bamboo_door": {
     "maxWaterDepth": 49,
@@ -565,6 +613,10 @@
     "maxWaterDepth": 29,
     "implosionChance": 0.4806853
   },
+  "abundant_atmosphere:red_bamboo_indiscrete_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
   "abundant_atmosphere:red_bamboo_mosaic": {
     "maxWaterDepth": 44,
     "implosionChance": 0.36137056
@@ -576,6 +628,10 @@
   "abundant_atmosphere:red_bamboo_mosaic_stairs": {
     "maxWaterDepth": 44,
     "implosionChance": 0.36137056
+  },
+  "abundant_atmosphere:red_bamboo_pet_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
   },
   "abundant_atmosphere:red_bamboo_planks": {
     "maxWaterDepth": 44,
@@ -604,6 +660,10 @@
   "abundant_atmosphere:red_bamboo_stairs": {
     "maxWaterDepth": 44,
     "implosionChance": 0.36137056
+  },
+  "abundant_atmosphere:red_bamboo_transit_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
   },
   "abundant_atmosphere:red_bamboo_trapdoor": {
     "maxWaterDepth": 49,
@@ -1844,10 +1904,6 @@
   "amendments:dye_cauldron": {
     "maxWaterDepth": 59,
     "implosionChance": 0.39013878
-  },
-  "amendments:fangs_n_claws/wall_vile_lantern": {
-    "maxWaterDepth": 54,
-    "implosionChance": 0.27459225
   },
   "amendments:hanging_flower_pot": {
     "maxWaterDepth": 25,
@@ -3277,6 +3333,10 @@
     "maxWaterDepth": 56,
     "implosionChance": 0.25540897
   },
+  "blockbox:copper_bars_sliding_door": {
+    "maxWaterDepth": 85,
+    "implosionChance": 0.25540897
+  },
   "blockbox:copper_pillar": {
     "maxWaterDepth": 85,
     "implosionChance": 0.25540897
@@ -3345,6 +3405,10 @@
     "maxWaterDepth": 56,
     "implosionChance": 0.25540897
   },
+  "blockbox:exposed_copper_bars_sliding_door": {
+    "maxWaterDepth": 85,
+    "implosionChance": 0.25540897
+  },
   "blockbox:exposed_copper_pillar": {
     "maxWaterDepth": 85,
     "implosionChance": 0.25540897
@@ -3352,6 +3416,10 @@
   "blockbox:golden_bars": {
     "maxWaterDepth": 85,
     "implosionChance": 0.25540897
+  },
+  "blockbox:golden_bars_sliding_door": {
+    "maxWaterDepth": 99,
+    "implosionChance": 0.17082405
   },
   "blockbox:golden_brick_slab": {
     "maxWaterDepth": 85,
@@ -3503,6 +3571,10 @@
   },
   "blockbox:oxidized_copper_bars": {
     "maxWaterDepth": 56,
+    "implosionChance": 0.25540897
+  },
+  "blockbox:oxidized_copper_bars_sliding_door": {
+    "maxWaterDepth": 85,
     "implosionChance": 0.25540897
   },
   "blockbox:oxidized_copper_pillar": {
@@ -3757,12 +3829,20 @@
     "maxWaterDepth": 56,
     "implosionChance": 0.25540897
   },
+  "blockbox:waxed_copper_bars_sliding_door": {
+    "maxWaterDepth": 85,
+    "implosionChance": 0.25540897
+  },
   "blockbox:waxed_copper_pillar": {
     "maxWaterDepth": 85,
     "implosionChance": 0.25540897
   },
   "blockbox:waxed_exposed_copper_bars": {
     "maxWaterDepth": 56,
+    "implosionChance": 0.25540897
+  },
+  "blockbox:waxed_exposed_copper_bars_sliding_door": {
+    "maxWaterDepth": 85,
     "implosionChance": 0.25540897
   },
   "blockbox:waxed_exposed_copper_pillar": {
@@ -3773,6 +3853,10 @@
     "maxWaterDepth": 56,
     "implosionChance": 0.25540897
   },
+  "blockbox:waxed_oxidized_copper_bars_sliding_door": {
+    "maxWaterDepth": 85,
+    "implosionChance": 0.25540897
+  },
   "blockbox:waxed_oxidized_copper_pillar": {
     "maxWaterDepth": 85,
     "implosionChance": 0.25540897
@@ -3781,12 +3865,20 @@
     "maxWaterDepth": 56,
     "implosionChance": 0.25540897
   },
+  "blockbox:waxed_weathered_copper_bars_sliding_door": {
+    "maxWaterDepth": 85,
+    "implosionChance": 0.25540897
+  },
   "blockbox:waxed_weathered_copper_pillar": {
     "maxWaterDepth": 85,
     "implosionChance": 0.25540897
   },
   "blockbox:weathered_copper_bars": {
     "maxWaterDepth": 56,
+    "implosionChance": 0.25540897
+  },
+  "blockbox:weathered_copper_bars_sliding_door": {
+    "maxWaterDepth": 85,
     "implosionChance": 0.25540897
   },
   "blockbox:weathered_copper_pillar": {
@@ -8601,6 +8693,10 @@
     "maxWaterDepth": 29,
     "implosionChance": 0.4806853
   },
+  "caverns_and_chasms:azalea_indiscrete_door": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
   "caverns_and_chasms:azalea_ladder": {
     "maxWaterDepth": 21,
     "implosionChance": 0.5463528
@@ -8608,6 +8704,14 @@
   "caverns_and_chasms:azalea_log": {
     "maxWaterDepth": 41,
     "implosionChance": 0.39013878
+  },
+  "caverns_and_chasms:azalea_normal_door": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "caverns_and_chasms:azalea_pet_door": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
   },
   "caverns_and_chasms:azalea_planks": {
     "maxWaterDepth": 44,
@@ -8626,6 +8730,10 @@
     "implosionChance": 0.36137056
   },
   "caverns_and_chasms:azalea_stairs": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "caverns_and_chasms:azalea_transit_door": {
     "maxWaterDepth": 44,
     "implosionChance": 0.36137056
   },
@@ -8957,6 +9065,10 @@
     "maxWaterDepth": 101,
     "implosionChance": 0.15540898
   },
+  "caverns_and_chasms:copper_bars_sliding_door": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
   "caverns_and_chasms:copper_brick_slab": {
     "maxWaterDepth": 85,
     "implosionChance": 0.25540897
@@ -9245,6 +9357,10 @@
     "maxWaterDepth": 101,
     "implosionChance": 0.15540898
   },
+  "caverns_and_chasms:exposed_copper_bars_sliding_door": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
   "caverns_and_chasms:exposed_copper_brick_slab": {
     "maxWaterDepth": 85,
     "implosionChance": 0.25540897
@@ -9374,6 +9490,10 @@
     "implosionChance": 0.25540897
   },
   "caverns_and_chasms:golden_bars": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "caverns_and_chasms:golden_bars_sliding_door": {
     "maxWaterDepth": 101,
     "implosionChance": 0.15540898
   },
@@ -9666,6 +9786,10 @@
     "implosionChance": 0.25540897
   },
   "caverns_and_chasms:oxidized_copper_bars": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "caverns_and_chasms:oxidized_copper_bars_sliding_door": {
     "maxWaterDepth": 101,
     "implosionChance": 0.15540898
   },
@@ -10045,6 +10169,10 @@
     "maxWaterDepth": 68,
     "implosionChance": 0.15540898
   },
+  "caverns_and_chasms:silver_bars_sliding_door": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
   "caverns_and_chasms:silver_block": {
     "maxWaterDepth": 56,
     "implosionChance": 0.25540897
@@ -10285,6 +10413,10 @@
     "maxWaterDepth": 68,
     "implosionChance": 0.15540898
   },
+  "caverns_and_chasms:tin_bars_sliding_door": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
   "caverns_and_chasms:tin_block": {
     "maxWaterDepth": 56,
     "implosionChance": 0.25540897
@@ -10421,6 +10553,10 @@
     "maxWaterDepth": 101,
     "implosionChance": 0.15540898
   },
+  "caverns_and_chasms:waxed_copper_bars_sliding_door": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
   "caverns_and_chasms:waxed_copper_brick_slab": {
     "maxWaterDepth": 85,
     "implosionChance": 0.25540897
@@ -10458,6 +10594,10 @@
     "implosionChance": 0.25540897
   },
   "caverns_and_chasms:waxed_exposed_copper_bars": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "caverns_and_chasms:waxed_exposed_copper_bars_sliding_door": {
     "maxWaterDepth": 101,
     "implosionChance": 0.15540898
   },
@@ -10537,6 +10677,10 @@
     "maxWaterDepth": 101,
     "implosionChance": 0.15540898
   },
+  "caverns_and_chasms:waxed_oxidized_copper_bars_sliding_door": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
   "caverns_and_chasms:waxed_oxidized_copper_brick_slab": {
     "maxWaterDepth": 85,
     "implosionChance": 0.25540897
@@ -10601,6 +10745,10 @@
     "maxWaterDepth": 101,
     "implosionChance": 0.15540898
   },
+  "caverns_and_chasms:waxed_weathered_copper_bars_sliding_door": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
   "caverns_and_chasms:waxed_weathered_copper_brick_slab": {
     "maxWaterDepth": 85,
     "implosionChance": 0.25540897
@@ -10658,6 +10806,10 @@
     "implosionChance": 0.25540897
   },
   "caverns_and_chasms:weathered_copper_bars": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "caverns_and_chasms:weathered_copper_bars_sliding_door": {
     "maxWaterDepth": 101,
     "implosionChance": 0.15540898
   },
@@ -14993,30 +15145,6 @@
     "maxWaterDepth": 63,
     "implosionChance": 0.36137056
   },
-  "clutternomore:enchanted/alder_step": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "clutternomore:enchanted/hawthorn_step": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "clutternomore:enchanted/rowan_step": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "clutternomore:enchanted/vertical_alder_slab": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "clutternomore:enchanted/vertical_hawthorn_slab": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "clutternomore:enchanted/vertical_rowan_slab": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
   "clutternomore:end_stone_brick_step": {
     "maxWaterDepth": 86,
     "implosionChance": 0.2197415
@@ -15252,6 +15380,14 @@
   "clutternomore:goated/vertical_thatch_slab": {
     "maxWaterDepth": 23,
     "implosionChance": 0.5344535
+  },
+  "clutternomore:goblins_tyranny/vertical_hut_logs_slab": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "clutternomore:goblins_tyranny/vertical_mossy_hut_logs_slab": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
   },
   "clutternomore:granite_step": {
     "maxWaterDepth": 68,
@@ -17785,6 +17921,10 @@
     "maxWaterDepth": 101,
     "implosionChance": 0.15540898
   },
+  "create:andesite_bars_sliding_door": {
+    "maxWaterDepth": 85,
+    "implosionChance": 0.25540897
+  },
   "create:andesite_belt_funnel": {
     "maxWaterDepth": 68,
     "implosionChance": 0.330409
@@ -17989,6 +18129,10 @@
     "maxWaterDepth": 101,
     "implosionChance": 0.15540898
   },
+  "create:brass_bars_sliding_door": {
+    "maxWaterDepth": 85,
+    "implosionChance": 0.25540897
+  },
   "create:brass_belt_funnel": {
     "maxWaterDepth": 85,
     "implosionChance": 0.25540897
@@ -18136,6 +18280,10 @@
   "create:copper_bars": {
     "maxWaterDepth": 101,
     "implosionChance": 0.15540898
+  },
+  "create:copper_bars_sliding_door": {
+    "maxWaterDepth": 85,
+    "implosionChance": 0.25540897
   },
   "create:copper_casing": {
     "maxWaterDepth": 47,
@@ -23081,18 +23229,6 @@
     "maxWaterDepth": 42,
     "implosionChance": 0.38137057
   },
-  "diagonalfences:enchanted/alder_fence": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "diagonalfences:enchanted/hawthorn_fence": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "diagonalfences:enchanted/rowan_fence": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
   "diagonalfences:evilcraft/undead_fence": {
     "maxWaterDepth": 44,
     "implosionChance": 0.36137056
@@ -23729,838 +23865,6 @@
     "maxWaterDepth": 17,
     "implosionChance": 0.585469
   },
-  "dragonsurvival:acacia_dragon_altar": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "dragonsurvival:acacia_dragon_door": {
-    "maxWaterDepth": 49,
-    "implosionChance": 0.31137055
-  },
-  "dragonsurvival:amethyst_dragon_altar": {
-    "maxWaterDepth": 35,
-    "implosionChance": 0.43337092
-  },
-  "dragonsurvival:bamboo_dragon_altar": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "dragonsurvival:birch_dragon_altar": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "dragonsurvival:birch_dragon_door": {
-    "maxWaterDepth": 49,
-    "implosionChance": 0.31137055
-  },
-  "dragonsurvival:black_knight_helmet": {
-    "maxWaterDepth": 113,
-    "implosionChance": 0.07864279
-  },
-  "dragonsurvival:blackstone_dragon_altar": {
-    "maxWaterDepth": 68,
-    "implosionChance": 0.330409
-  },
-  "dragonsurvival:bone_dragon_altar": {
-    "maxWaterDepth": 40,
-    "implosionChance": 0.39013878
-  },
-  "dragonsurvival:cave_dragon_door": {
-    "maxWaterDepth": 82,
-    "implosionChance": 0.05
-  },
-  "dragonsurvival:cave_dragon_pressure_plate": {
-    "maxWaterDepth": 37,
-    "implosionChance": 0.43337092
-  },
-  "dragonsurvival:cave_source_of_magic": {
-    "maxWaterDepth": 123,
-    "implosionChance": 0.05
-  },
-  "dragonsurvival:cherry_dragon_altar": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "dragonsurvival:chocolate_dragon_treasure": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "dragonsurvival:copper_dragon_treasure": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "dragonsurvival:crimson_dragon_altar": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "dragonsurvival:crimson_dragon_door": {
-    "maxWaterDepth": 49,
-    "implosionChance": 0.31137055
-  },
-  "dragonsurvival:dark_oak_dragon_altar": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "dragonsurvival:dark_oak_dragon_door": {
-    "maxWaterDepth": 49,
-    "implosionChance": 0.31137055
-  },
-  "dragonsurvival:dark_vault": {
-    "maxWaterDepth": 362,
-    "implosionChance": 0.05
-  },
-  "dragonsurvival:debris_dragon_treasure": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "dragonsurvival:deepslate_dragon_altar": {
-    "maxWaterDepth": 84,
-    "implosionChance": 0.23040898
-  },
-  "dragonsurvival:diamond_dragon_treasure": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "dragonsurvival:dragon_beacon": {
-    "maxWaterDepth": 208,
-    "implosionChance": 0.05
-  },
-  "dragonsurvival:dragon_memory_block": {
-    "maxWaterDepth": 104,
-    "implosionChance": 0.10660128
-  },
-  "dragonsurvival:dragon_pressure_plate": {
-    "maxWaterDepth": 37,
-    "implosionChance": 0.43337092
-  },
-  "dragonsurvival:dragon_rider_workbench": {
-    "maxWaterDepth": 35,
-    "implosionChance": 0.43337092
-  },
-  "dragonsurvival:dragon_soul": {
-    "maxWaterDepth": 146,
-    "implosionChance": 0.05
-  },
-  "dragonsurvival:emerald_dragon_treasure": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "dragonsurvival:endstone_dragon_altar": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.2197415
-  },
-  "dragonsurvival:forest_dragon_door": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.05
-  },
-  "dragonsurvival:forest_dragon_pressure_plate": {
-    "maxWaterDepth": 41,
-    "implosionChance": 0.39013878
-  },
-  "dragonsurvival:forest_source_of_magic": {
-    "maxWaterDepth": 123,
-    "implosionChance": 0.05
-  },
-  "dragonsurvival:gold_dragon_treasure": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "dragonsurvival:golden_knight_helmet": {
-    "maxWaterDepth": 113,
-    "implosionChance": 0.07864279
-  },
-  "dragonsurvival:gothic_dragon_door": {
-    "maxWaterDepth": 49,
-    "implosionChance": 0.31137055
-  },
-  "dragonsurvival:gray_knight_helmet": {
-    "maxWaterDepth": 113,
-    "implosionChance": 0.07864279
-  },
-  "dragonsurvival:human_pressure_plate": {
-    "maxWaterDepth": 37,
-    "implosionChance": 0.43337092
-  },
-  "dragonsurvival:hunter_vault": {
-    "maxWaterDepth": 362,
-    "implosionChance": 0.05
-  },
-  "dragonsurvival:ice_dragon_altar": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.5344535
-  },
-  "dragonsurvival:iron_dragon_door": {
-    "maxWaterDepth": 99,
-    "implosionChance": 0.17082405
-  },
-  "dragonsurvival:iron_dragon_treasure": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "dragonsurvival:jungle_dragon_altar": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "dragonsurvival:jungle_dragon_door": {
-    "maxWaterDepth": 49,
-    "implosionChance": 0.31137055
-  },
-  "dragonsurvival:legacy_dragon_door": {
-    "maxWaterDepth": 49,
-    "implosionChance": 0.31137055
-  },
-  "dragonsurvival:light_vault": {
-    "maxWaterDepth": 362,
-    "implosionChance": 0.05
-  },
-  "dragonsurvival:mangrove_dragon_altar": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "dragonsurvival:mossy_dragon_altar": {
-    "maxWaterDepth": 72,
-    "implosionChance": 0.30540898
-  },
-  "dragonsurvival:mudbrick_dragon_altar": {
-    "maxWaterDepth": 38,
-    "implosionChance": 0.41137058
-  },
-  "dragonsurvival:nether_brick_dragon_altar": {
-    "maxWaterDepth": 72,
-    "implosionChance": 0.30540898
-  },
-  "dragonsurvival:netherrack_dragon_altar": {
-    "maxWaterDepth": 21,
-    "implosionChance": 0.5463528
-  },
-  "dragonsurvival:oak_dragon_altar": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "dragonsurvival:oak_dragon_door": {
-    "maxWaterDepth": 49,
-    "implosionChance": 0.31137055
-  },
-  "dragonsurvival:obsidian_dragon_altar": {
-    "maxWaterDepth": 400,
-    "implosionChance": 0.05
-  },
-  "dragonsurvival:pale_oak_dragon_altar": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "dragonsurvival:primordial_anchor": {
-    "maxWaterDepth": 267,
-    "implosionChance": 0.05
-  },
-  "dragonsurvival:prismarine_dragon_altar": {
-    "maxWaterDepth": 68,
-    "implosionChance": 0.330409
-  },
-  "dragonsurvival:purpur_dragon_altar": {
-    "maxWaterDepth": 68,
-    "implosionChance": 0.330409
-  },
-  "dragonsurvival:quartz_dragon_altar": {
-    "maxWaterDepth": 41,
-    "implosionChance": 0.50122136
-  },
-  "dragonsurvival:red_nether_brick_dragon_altar": {
-    "maxWaterDepth": 72,
-    "implosionChance": 0.30540898
-  },
-  "dragonsurvival:red_sandstone_dragon_altar": {
-    "maxWaterDepth": 41,
-    "implosionChance": 0.50122136
-  },
-  "dragonsurvival:sandstone_dragon_altar": {
-    "maxWaterDepth": 41,
-    "implosionChance": 0.50122136
-  },
-  "dragonsurvival:sea_dragon_door": {
-    "maxWaterDepth": 114,
-    "implosionChance": 0.05
-  },
-  "dragonsurvival:sea_dragon_pressure_plate": {
-    "maxWaterDepth": 37,
-    "implosionChance": 0.43337092
-  },
-  "dragonsurvival:sea_source_of_magic": {
-    "maxWaterDepth": 123,
-    "implosionChance": 0.05
-  },
-  "dragonsurvival:skeleton_dragon_chest_skin1": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_chest_skin2": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_chest_skin3": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_chest_skin4": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_chest_skin5": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_chest_skin6": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_chest_skin7": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_chest_skin8": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_full_skin1": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_full_skin2": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_full_skin3": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_full_skin4": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_full_skin5": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_full_skin6": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_full_skin7": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_full_skin8": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_leg_1_skin1": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_leg_1_skin2": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_leg_1_skin3": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_leg_1_skin4": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_leg_1_skin5": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_leg_1_skin6": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_leg_1_skin7": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_leg_1_skin8": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_leg_2_skin1": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_leg_2_skin2": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_leg_2_skin3": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_leg_2_skin4": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_leg_2_skin5": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_leg_2_skin6": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_leg_2_skin7": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_leg_2_skin8": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_leg_3_skin1": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_leg_3_skin2": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_leg_3_skin3": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_leg_3_skin4": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_leg_3_skin5": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_leg_3_skin6": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_leg_3_skin7": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_leg_3_skin8": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_neck_1_skin1": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_neck_1_skin2": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_neck_1_skin3": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_neck_1_skin4": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_neck_1_skin5": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_neck_1_skin6": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_neck_1_skin7": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_neck_1_skin8": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_neck_2_skin1": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_neck_2_skin2": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_neck_2_skin3": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_neck_2_skin4": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_neck_2_skin5": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_neck_2_skin6": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_neck_2_skin7": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_neck_2_skin8": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_neck_3_skin1": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_neck_3_skin2": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_neck_3_skin3": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_neck_3_skin4": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_neck_3_skin5": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_neck_3_skin6": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_neck_3_skin7": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_neck_3_skin8": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_pelvis_skin1": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_pelvis_skin2": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_pelvis_skin3": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_pelvis_skin4": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_pelvis_skin5": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_pelvis_skin6": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_pelvis_skin7": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_pelvis_skin8": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_skull_1_skin1": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_skull_1_skin2": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_skull_1_skin3": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_skull_1_skin4": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_skull_1_skin5": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_skull_1_skin6": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_skull_1_skin7": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_skull_1_skin8": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_skull_2_skin1": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_skull_2_skin2": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_skull_2_skin3": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_skull_2_skin4": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_skull_2_skin5": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_skull_2_skin6": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_skull_2_skin7": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_skull_2_skin8": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_1_skin1": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_1_skin2": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_1_skin3": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_1_skin4": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_1_skin5": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_1_skin6": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_1_skin7": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_1_skin8": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_2_skin1": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_2_skin2": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_2_skin3": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_2_skin4": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_2_skin5": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_2_skin6": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_2_skin7": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_2_skin8": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_3_skin1": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_3_skin2": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_3_skin3": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_3_skin4": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_3_skin5": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_3_skin6": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_3_skin7": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_3_skin8": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_4_skin1": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_4_skin2": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_4_skin3": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_4_skin4": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_4_skin5": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_4_skin6": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_4_skin7": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skeleton_dragon_tail_4_skin8": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "dragonsurvival:skyrim_dragon_door": {
-    "maxWaterDepth": 49,
-    "implosionChance": 0.31137055
-  },
-  "dragonsurvival:small_acacia_dragon_door": {
-    "maxWaterDepth": 49,
-    "implosionChance": 0.31137055
-  },
-  "dragonsurvival:small_birch_dragon_door": {
-    "maxWaterDepth": 49,
-    "implosionChance": 0.31137055
-  },
-  "dragonsurvival:small_cave_dragon_door": {
-    "maxWaterDepth": 82,
-    "implosionChance": 0.05
-  },
-  "dragonsurvival:small_crimson_dragon_door": {
-    "maxWaterDepth": 49,
-    "implosionChance": 0.31137055
-  },
-  "dragonsurvival:small_dark_oak_dragon_door": {
-    "maxWaterDepth": 49,
-    "implosionChance": 0.31137055
-  },
-  "dragonsurvival:small_forest_dragon_door": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.05
-  },
-  "dragonsurvival:small_gothic_dragon_door": {
-    "maxWaterDepth": 71,
-    "implosionChance": 0.31137055
-  },
-  "dragonsurvival:small_iron_dragon_door": {
-    "maxWaterDepth": 99,
-    "implosionChance": 0.17082405
-  },
-  "dragonsurvival:small_jungle_dragon_door": {
-    "maxWaterDepth": 49,
-    "implosionChance": 0.31137055
-  },
-  "dragonsurvival:small_oak_dragon_door": {
-    "maxWaterDepth": 49,
-    "implosionChance": 0.31137055
-  },
-  "dragonsurvival:small_sea_dragon_door": {
-    "maxWaterDepth": 114,
-    "implosionChance": 0.05
-  },
-  "dragonsurvival:small_skyrim_dragon_door": {
-    "maxWaterDepth": 99,
-    "implosionChance": 0.17082405
-  },
-  "dragonsurvival:small_spruce_dragon_door": {
-    "maxWaterDepth": 49,
-    "implosionChance": 0.31137055
-  },
-  "dragonsurvival:small_stone_dragon_door": {
-    "maxWaterDepth": 71,
-    "implosionChance": 0.31137055
-  },
-  "dragonsurvival:small_warped_dragon_door": {
-    "maxWaterDepth": 49,
-    "implosionChance": 0.31137055
-  },
-  "dragonsurvival:spruce_dragon_altar": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "dragonsurvival:spruce_dragon_door": {
-    "maxWaterDepth": 49,
-    "implosionChance": 0.31137055
-  },
-  "dragonsurvival:stone_dragon_altar": {
-    "maxWaterDepth": 68,
-    "implosionChance": 0.330409
-  },
-  "dragonsurvival:stone_dragon_door": {
-    "maxWaterDepth": 49,
-    "implosionChance": 0.31137055
-  },
-  "dragonsurvival:tuff_dragon_altar": {
-    "maxWaterDepth": 47,
-    "implosionChance": 0.330409
-  },
-  "dragonsurvival:warped_dragon_altar": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "dragonsurvival:warped_dragon_door": {
-    "maxWaterDepth": 49,
-    "implosionChance": 0.31137055
-  },
   "dungeonsdelight:candle_monster_cake": {
     "maxWaterDepth": 23,
     "implosionChance": 0.5344535
@@ -24812,6 +24116,242 @@
   "dungeonsdelight:wormwood_trapdoor": {
     "maxWaterDepth": 37,
     "implosionChance": 0.43337092
+  },
+  "dwarfs_tyranny:air_extractor": {
+    "maxWaterDepth": 85,
+    "implosionChance": 0.25540897
+  },
+  "dwarfs_tyranny:ancientchest": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "dwarfs_tyranny:andesite_pet_rock": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "dwarfs_tyranny:black_nyral_lantern": {
+    "maxWaterDepth": 54,
+    "implosionChance": 0.27459225
+  },
+  "dwarfs_tyranny:blacksmith_dwarf_egg": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.5344535
+  },
+  "dwarfs_tyranny:blackstone_pet_rock": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "dwarfs_tyranny:blue_nyral_lantern": {
+    "maxWaterDepth": 54,
+    "implosionChance": 0.27459225
+  },
+  "dwarfs_tyranny:bridger": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.23040898
+  },
+  "dwarfs_tyranny:bridger_projection": {
+    "maxWaterDepth": 196,
+    "implosionChance": 0.05
+  },
+  "dwarfs_tyranny:calcite_pet_rock": {
+    "maxWaterDepth": 26,
+    "implosionChance": 0.50653845
+  },
+  "dwarfs_tyranny:colony_drum": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "dwarfs_tyranny:cyan_nyral_lantern": {
+    "maxWaterDepth": 54,
+    "implosionChance": 0.27459225
+  },
+  "dwarfs_tyranny:deepslate_pet_rock": {
+    "maxWaterDepth": 80,
+    "implosionChance": 0.25540897
+  },
+  "dwarfs_tyranny:diorite_pet_rock": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "dwarfs_tyranny:dripstone_pet_rock": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4556853
+  },
+  "dwarfs_tyranny:dwarf_egg": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.5344535
+  },
+  "dwarfs_tyranny:end_stone_pet_rock": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.2197415
+  },
+  "dwarfs_tyranny:engraving_table": {
+    "maxWaterDepth": 84,
+    "implosionChance": 0.23040898
+  },
+  "dwarfs_tyranny:geode": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "dwarfs_tyranny:geode_ore": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "dwarfs_tyranny:gold_pet_rock": {
+    "maxWaterDepth": 85,
+    "implosionChance": 0.25540897
+  },
+  "dwarfs_tyranny:granite_pet_rock": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "dwarfs_tyranny:gravialite_block": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "dwarfs_tyranny:green_nyral_lantern": {
+    "maxWaterDepth": 54,
+    "implosionChance": 0.27459225
+  },
+  "dwarfs_tyranny:guard_dwarf_egg": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.5344535
+  },
+  "dwarfs_tyranny:infusion_cauldron": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
+  },
+  "dwarfs_tyranny:innkeeper_dwarf_egg": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.5344535
+  },
+  "dwarfs_tyranny:jeweler_dwarf_egg": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.5344535
+  },
+  "dwarfs_tyranny:king_dwarf_egg": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.5344535
+  },
+  "dwarfs_tyranny:large_pot": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.57176787
+  },
+  "dwarfs_tyranny:lumite_block": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "dwarfs_tyranny:magnetic_rail": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.5119372
+  },
+  "dwarfs_tyranny:mossthril_bale": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "dwarfs_tyranny:mossthril_carpet": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.585469
+  },
+  "dwarfs_tyranny:mosstone": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "dwarfs_tyranny:mythril_block": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "dwarfs_tyranny:mythril_furnace": {
+    "maxWaterDepth": 85,
+    "implosionChance": 0.25540897
+  },
+  "dwarfs_tyranny:mythril_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "dwarfs_tyranny:mythril_pipe": {
+    "maxWaterDepth": 85,
+    "implosionChance": 0.25540897
+  },
+  "dwarfs_tyranny:mythril_raw_block": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "dwarfs_tyranny:mythril_tank": {
+    "maxWaterDepth": 85,
+    "implosionChance": 0.25540897
+  },
+  "dwarfs_tyranny:netherrack_pet_rock": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.5463528
+  },
+  "dwarfs_tyranny:nitrolite_block": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "dwarfs_tyranny:orange_nyral_lantern": {
+    "maxWaterDepth": 54,
+    "implosionChance": 0.27459225
+  },
+  "dwarfs_tyranny:pink_nyral_lantern": {
+    "maxWaterDepth": 54,
+    "implosionChance": 0.27459225
+  },
+  "dwarfs_tyranny:pot": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.57176787
+  },
+  "dwarfs_tyranny:powerer": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "dwarfs_tyranny:propulser": {
+    "maxWaterDepth": 85,
+    "implosionChance": 0.25540897
+  },
+  "dwarfs_tyranny:purple_nyral_lantern": {
+    "maxWaterDepth": 54,
+    "implosionChance": 0.27459225
+  },
+  "dwarfs_tyranny:red_nyral_lantern": {
+    "maxWaterDepth": 54,
+    "implosionChance": 0.27459225
+  },
+  "dwarfs_tyranny:red_sandstone_pet_rock": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.50122136
+  },
+  "dwarfs_tyranny:sandstone_pet_rock": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.50122136
+  },
+  "dwarfs_tyranny:separator": {
+    "maxWaterDepth": 84,
+    "implosionChance": 0.23040898
+  },
+  "dwarfs_tyranny:smallpot": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.57176787
+  },
+  "dwarfs_tyranny:stone_pet_rock": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "dwarfs_tyranny:teminite_block": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "dwarfs_tyranny:tuff_pet_rock": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "dwarfs_tyranny:white_nyral_lantern": {
+    "maxWaterDepth": 54,
+    "implosionChance": 0.27459225
+  },
+  "dwarfs_tyranny:yellow_nyral_lantern": {
+    "maxWaterDepth": 54,
+    "implosionChance": 0.27459225
   },
   "dye_depot:amber_banner": {
     "maxWaterDepth": 32,
@@ -27461,110 +27001,6 @@
     "maxWaterDepth": 178,
     "implosionChance": 0.05
   },
-  "eggdelight:bacon_omelet_egg_pan": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "eggdelight:bacon_omelet_egg_pan_tray": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "eggdelight:beef_omelet_egg_pan": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "eggdelight:beef_omelet_egg_pan_tray": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "eggdelight:chicken_omelet_egg_pan": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "eggdelight:chicken_omelet_egg_pan_tray": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "eggdelight:cod_omelet_egg_pan": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "eggdelight:cod_omelet_egg_pan_tray": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "eggdelight:egg_pan": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "eggdelight:egg_pan_with_tray": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "eggdelight:egg_pie": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "eggdelight:egg_pie_slice_1": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "eggdelight:egg_pie_slice_2": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "eggdelight:egg_pie_slice_3": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "eggdelight:mutton_omelet_egg_pan": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "eggdelight:mutton_omelet_egg_pan_tray": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "eggdelight:omelet": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "eggdelight:omelet_tray": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "eggdelight:omurice_egg_pan": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "eggdelight:omurice_egg_pan_tray": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "eggdelight:raw_omelet": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "eggdelight:raw_omelet_tray": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "eggdelight:salmon_omelet_egg_pan": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "eggdelight:salmon_omelet_egg_pan_tray": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "eggdelight:smoked_ham_omelet_egg_pan": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "eggdelight:smoked_ham_omelet_egg_pan_tray": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
   "eidolon_repraised:arcane_gold_block": {
     "maxWaterDepth": 80,
     "implosionChance": 0.2890562
@@ -27937,258 +27373,6 @@
     "maxWaterDepth": 42,
     "implosionChance": 0.38137057
   },
-  "enchanted:alder_button": {
-    "maxWaterDepth": 27,
-    "implosionChance": 0.5344535
-  },
-  "enchanted:alder_fence": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "enchanted:alder_fence_gate": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "enchanted:alder_leaves": {
-    "maxWaterDepth": 18,
-    "implosionChance": 0.57176787
-  },
-  "enchanted:alder_log": {
-    "maxWaterDepth": 41,
-    "implosionChance": 0.39013878
-  },
-  "enchanted:alder_planks": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "enchanted:alder_pressure_plate": {
-    "maxWaterDepth": 27,
-    "implosionChance": 0.5344535
-  },
-  "enchanted:alder_sapling": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.6
-  },
-  "enchanted:alder_slab": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "enchanted:alder_stairs": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "enchanted:altar": {
-    "maxWaterDepth": 68,
-    "implosionChance": 0.330409
-  },
-  "enchanted:belladonna": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.6
-  },
-  "enchanted:blood_poppy": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.6
-  },
-  "enchanted:candelabra": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.355409
-  },
-  "enchanted:chalice": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.355409
-  },
-  "enchanted:chalice_filled": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.355409
-  },
-  "enchanted:distillery": {
-    "maxWaterDepth": 130,
-    "implosionChance": 0.05
-  },
-  "enchanted:ember_moss": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.6
-  },
-  "enchanted:fume_funnel": {
-    "maxWaterDepth": 130,
-    "implosionChance": 0.05
-  },
-  "enchanted:fume_funnel_filtered": {
-    "maxWaterDepth": 130,
-    "implosionChance": 0.05
-  },
-  "enchanted:garlic": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.6
-  },
-  "enchanted:glint_weed": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.6
-  },
-  "enchanted:golden_chalk": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.575
-  },
-  "enchanted:hawthorn_button": {
-    "maxWaterDepth": 27,
-    "implosionChance": 0.5344535
-  },
-  "enchanted:hawthorn_fence": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "enchanted:hawthorn_fence_gate": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "enchanted:hawthorn_leaves": {
-    "maxWaterDepth": 18,
-    "implosionChance": 0.57176787
-  },
-  "enchanted:hawthorn_log": {
-    "maxWaterDepth": 41,
-    "implosionChance": 0.39013878
-  },
-  "enchanted:hawthorn_planks": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "enchanted:hawthorn_pressure_plate": {
-    "maxWaterDepth": 27,
-    "implosionChance": 0.5344535
-  },
-  "enchanted:hawthorn_sapling": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.6
-  },
-  "enchanted:hawthorn_slab": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "enchanted:hawthorn_stairs": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "enchanted:infinity_egg": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.2197415
-  },
-  "enchanted:kettle": {
-    "maxWaterDepth": 59,
-    "implosionChance": 0.39013878
-  },
-  "enchanted:mandrake": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.6
-  },
-  "enchanted:nether_chalk": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.575
-  },
-  "enchanted:otherwhere_chalk": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.575
-  },
-  "enchanted:poppet_shelf": {
-    "maxWaterDepth": 178,
-    "implosionChance": 0.05
-  },
-  "enchanted:protection_barrier": {
-    "maxWaterDepth": 267,
-    "implosionChance": 0.05
-  },
-  "enchanted:protection_barrier_temporary": {
-    "maxWaterDepth": 267,
-    "implosionChance": 0.05
-  },
-  "enchanted:ritual_chalk": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.575
-  },
-  "enchanted:rowan_button": {
-    "maxWaterDepth": 27,
-    "implosionChance": 0.5344535
-  },
-  "enchanted:rowan_fence": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "enchanted:rowan_fence_gate": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "enchanted:rowan_leaves": {
-    "maxWaterDepth": 18,
-    "implosionChance": 0.57176787
-  },
-  "enchanted:rowan_log": {
-    "maxWaterDepth": 41,
-    "implosionChance": 0.39013878
-  },
-  "enchanted:rowan_planks": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "enchanted:rowan_pressure_plate": {
-    "maxWaterDepth": 27,
-    "implosionChance": 0.5344535
-  },
-  "enchanted:rowan_sapling": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.6
-  },
-  "enchanted:rowan_slab": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "enchanted:rowan_stairs": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "enchanted:snowbell": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.6
-  },
-  "enchanted:spanish_moss": {
-    "maxWaterDepth": 18,
-    "implosionChance": 0.57176787
-  },
-  "enchanted:spinning_wheel": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "enchanted:stripped_alder_log": {
-    "maxWaterDepth": 41,
-    "implosionChance": 0.39013878
-  },
-  "enchanted:stripped_hawthorn_log": {
-    "maxWaterDepth": 41,
-    "implosionChance": 0.39013878
-  },
-  "enchanted:stripped_rowan_log": {
-    "maxWaterDepth": 41,
-    "implosionChance": 0.39013878
-  },
-  "enchanted:water_artichoke": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.6
-  },
-  "enchanted:wicker_bundle": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.5344535
-  },
-  "enchanted:witch_cauldron": {
-    "maxWaterDepth": 59,
-    "implosionChance": 0.39013878
-  },
-  "enchanted:witch_oven": {
-    "maxWaterDepth": 130,
-    "implosionChance": 0.05
-  },
-  "enchanted:wolfsbane": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.6
-  },
   "endermanoverhaul:tiny_skull": {
     "maxWaterDepth": 25,
     "implosionChance": 0.6
@@ -28278,18 +27462,6 @@
     "implosionChance": 0.39013878
   },
   "envelope:env/eidolon_repraised/illwood_pigeonhole": {
-    "maxWaterDepth": 41,
-    "implosionChance": 0.39013878
-  },
-  "envelope:env/enchanted/alder_pigeonhole": {
-    "maxWaterDepth": 41,
-    "implosionChance": 0.39013878
-  },
-  "envelope:env/enchanted/hawthorn_pigeonhole": {
-    "maxWaterDepth": 41,
-    "implosionChance": 0.39013878
-  },
-  "envelope:env/enchanted/rowan_pigeonhole": {
     "maxWaterDepth": 41,
     "implosionChance": 0.39013878
   },
@@ -28634,30 +27806,6 @@
     "implosionChance": 0.55876356
   },
   "everycomp:c/eidolon_repraised/illwood_window_pane": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.55876356
-  },
-  "everycomp:c/enchanted/alder_window": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.55876356
-  },
-  "everycomp:c/enchanted/alder_window_pane": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.55876356
-  },
-  "everycomp:c/enchanted/hawthorn_window": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.55876356
-  },
-  "everycomp:c/enchanted/hawthorn_window_pane": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.55876356
-  },
-  "everycomp:c/enchanted/rowan_window": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.55876356
-  },
-  "everycomp:c/enchanted/rowan_window_pane": {
     "maxWaterDepth": 28,
     "implosionChance": 0.55876356
   },
@@ -29820,186 +28968,6 @@
   "everycomp:hc/eidolon_repraised/illwood_table": {
     "maxWaterDepth": 42,
     "implosionChance": 0.38137057
-  },
-  "everycomp:hc/enchanted/alder_bench": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/alder_chair": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/alder_corner_trim": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/alder_couch": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/alder_counter": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/alder_cupboard": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/alder_desk": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/alder_dining_bench": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/alder_drawer": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/alder_fancy_bed": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.57176787
-  },
-  "everycomp:hc/enchanted/alder_nightstand": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/alder_pillar_trim": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/alder_shelf": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/alder_side_table": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/alder_table": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/hawthorn_bench": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/hawthorn_chair": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/hawthorn_corner_trim": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/hawthorn_couch": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/hawthorn_counter": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/hawthorn_cupboard": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/hawthorn_desk": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/hawthorn_dining_bench": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/hawthorn_drawer": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/hawthorn_fancy_bed": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.57176787
-  },
-  "everycomp:hc/enchanted/hawthorn_nightstand": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/hawthorn_pillar_trim": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/hawthorn_shelf": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/hawthorn_side_table": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/hawthorn_table": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/rowan_bench": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/rowan_chair": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/rowan_corner_trim": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/rowan_couch": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/rowan_counter": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/rowan_cupboard": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/rowan_desk": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/rowan_dining_bench": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/rowan_drawer": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/rowan_fancy_bed": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.57176787
-  },
-  "everycomp:hc/enchanted/rowan_nightstand": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/rowan_pillar_trim": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/rowan_shelf": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/rowan_side_table": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:hc/enchanted/rowan_table": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
   },
   "everycomp:hc/evilcraft/undead_bench": {
     "maxWaterDepth": 41,
@@ -31409,30 +30377,6 @@
     "maxWaterDepth": 42,
     "implosionChance": 0.38137057
   },
-  "everycomp:nml/enchanted/alder_bookshelf": {
-    "maxWaterDepth": 37,
-    "implosionChance": 0.43337092
-  },
-  "everycomp:nml/enchanted/hawthorn_bookshelf": {
-    "maxWaterDepth": 37,
-    "implosionChance": 0.43337092
-  },
-  "everycomp:nml/enchanted/rowan_bookshelf": {
-    "maxWaterDepth": 37,
-    "implosionChance": 0.43337092
-  },
-  "everycomp:nml/enchanted/trimmed_alder_planks": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:nml/enchanted/trimmed_hawthorn_planks": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:nml/enchanted/trimmed_rowan_planks": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
   "everycomp:nml/evilcraft/trimmed_undead_planks": {
     "maxWaterDepth": 41,
     "implosionChance": 0.39013878
@@ -32042,114 +30986,6 @@
     "implosionChance": 0.3497237
   },
   "everycomp:q/eidolon_repraised/vertical_illwood_planks": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:q/enchanted/alder_bookshelf": {
-    "maxWaterDepth": 37,
-    "implosionChance": 0.43337092
-  },
-  "everycomp:q/enchanted/alder_chest": {
-    "maxWaterDepth": 45,
-    "implosionChance": 0.3497237
-  },
-  "everycomp:q/enchanted/alder_hedge": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:q/enchanted/alder_ladder": {
-    "maxWaterDepth": 25,
-    "implosionChance": 0.5463528
-  },
-  "everycomp:q/enchanted/alder_leaf_carpet": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.6
-  },
-  "everycomp:q/enchanted/alder_vertical_slab": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:q/enchanted/hawthorn_bookshelf": {
-    "maxWaterDepth": 37,
-    "implosionChance": 0.43337092
-  },
-  "everycomp:q/enchanted/hawthorn_chest": {
-    "maxWaterDepth": 45,
-    "implosionChance": 0.3497237
-  },
-  "everycomp:q/enchanted/hawthorn_hedge": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:q/enchanted/hawthorn_ladder": {
-    "maxWaterDepth": 25,
-    "implosionChance": 0.5463528
-  },
-  "everycomp:q/enchanted/hawthorn_leaf_carpet": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.6
-  },
-  "everycomp:q/enchanted/hawthorn_vertical_slab": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:q/enchanted/hollow_alder_log": {
-    "maxWaterDepth": 41,
-    "implosionChance": 0.39013878
-  },
-  "everycomp:q/enchanted/hollow_hawthorn_log": {
-    "maxWaterDepth": 41,
-    "implosionChance": 0.39013878
-  },
-  "everycomp:q/enchanted/hollow_rowan_log": {
-    "maxWaterDepth": 41,
-    "implosionChance": 0.39013878
-  },
-  "everycomp:q/enchanted/rowan_bookshelf": {
-    "maxWaterDepth": 37,
-    "implosionChance": 0.43337092
-  },
-  "everycomp:q/enchanted/rowan_chest": {
-    "maxWaterDepth": 45,
-    "implosionChance": 0.3497237
-  },
-  "everycomp:q/enchanted/rowan_hedge": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:q/enchanted/rowan_ladder": {
-    "maxWaterDepth": 25,
-    "implosionChance": 0.5463528
-  },
-  "everycomp:q/enchanted/rowan_leaf_carpet": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.6
-  },
-  "everycomp:q/enchanted/rowan_vertical_slab": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:q/enchanted/trapped_alder_chest": {
-    "maxWaterDepth": 45,
-    "implosionChance": 0.3497237
-  },
-  "everycomp:q/enchanted/trapped_hawthorn_chest": {
-    "maxWaterDepth": 45,
-    "implosionChance": 0.3497237
-  },
-  "everycomp:q/enchanted/trapped_rowan_chest": {
-    "maxWaterDepth": 45,
-    "implosionChance": 0.3497237
-  },
-  "everycomp:q/enchanted/vertical_alder_planks": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:q/enchanted/vertical_hawthorn_planks": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.36137056
-  },
-  "everycomp:q/enchanted/vertical_rowan_planks": {
     "maxWaterDepth": 44,
     "implosionChance": 0.36137056
   },
@@ -33096,22 +31932,6 @@
   "evilcraft:undead_wood_stripped": {
     "maxWaterDepth": 44,
     "implosionChance": 0.36137056
-  },
-  "fangs_n_claws:beartrap": {
-    "maxWaterDepth": 40,
-    "implosionChance": 0.5344535
-  },
-  "fangs_n_claws:ghost_block": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.55876356
-  },
-  "fangs_n_claws:mimic_spawner": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.6
-  },
-  "fangs_n_claws:vile_lantern": {
-    "maxWaterDepth": 54,
-    "implosionChance": 0.27459225
   },
   "farmersdelight:acacia_cabinet": {
     "maxWaterDepth": 45,
@@ -34289,6 +33109,202 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.5344535
   },
+  "goblins_tyranny:alarm_horn": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.33521047
+  },
+  "goblins_tyranny:bear_hide": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36021048
+  },
+  "goblins_tyranny:bear_stool": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "goblins_tyranny:blazing_barrel": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "goblins_tyranny:coin_barrel": {
+    "maxWaterDepth": 46,
+    "implosionChance": 0.33521047
+  },
+  "goblins_tyranny:coins_1": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.42082405
+  },
+  "goblins_tyranny:coins_2": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.42082405
+  },
+  "goblins_tyranny:coins_3": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.42082405
+  },
+  "goblins_tyranny:coins_4": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.42082405
+  },
+  "goblins_tyranny:coins_5": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.42082405
+  },
+  "goblins_tyranny:coins_6": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.42082405
+  },
+  "goblins_tyranny:cow_hide": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36021048
+  },
+  "goblins_tyranny:cow_stool": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "goblins_tyranny:deadly_barrel": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "goblins_tyranny:engineer_workbench_1": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.33021048
+  },
+  "goblins_tyranny:engineer_workbench_2": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.33021048
+  },
+  "goblins_tyranny:goat_hide": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36021048
+  },
+  "goblins_tyranny:goat_stool": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "goblins_tyranny:goblin_podzol": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.43637055
+  },
+  "goblins_tyranny:hut_logs": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "goblins_tyranny:hut_logs_slab": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "goblins_tyranny:hut_logs_wall": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "goblins_tyranny:hut_spike": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36021048
+  },
+  "goblins_tyranny:hut_torch": {
+    "maxWaterDepth": 45,
+    "implosionChance": 0.35021046
+  },
+  "goblins_tyranny:hut_window": {
+    "maxWaterDepth": 46,
+    "implosionChance": 0.33521047
+  },
+  "goblins_tyranny:liquor_bottles": {
+    "maxWaterDepth": 38,
+    "implosionChance": 0.42082405
+  },
+  "goblins_tyranny:liquor_bottles_2": {
+    "maxWaterDepth": 38,
+    "implosionChance": 0.42082405
+  },
+  "goblins_tyranny:liquor_bottles_3": {
+    "maxWaterDepth": 38,
+    "implosionChance": 0.42082405
+  },
+  "goblins_tyranny:liquor_bottles_4": {
+    "maxWaterDepth": 38,
+    "implosionChance": 0.42082405
+  },
+  "goblins_tyranny:mossy_hut_logs": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "goblins_tyranny:mossy_hut_logs_slab": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "goblins_tyranny:mossy_hut_logs_wall": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "goblins_tyranny:mossy_totem_block": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "goblins_tyranny:mugs": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36021048
+  },
+  "goblins_tyranny:mugs_2": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36021048
+  },
+  "goblins_tyranny:mugs_3": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36021048
+  },
+  "goblins_tyranny:mugs_4": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36021048
+  },
+  "goblins_tyranny:mushroom_pad": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.33021048
+  },
+  "goblins_tyranny:plates": {
+    "maxWaterDepth": 38,
+    "implosionChance": 0.42082405
+  },
+  "goblins_tyranny:plates_2": {
+    "maxWaterDepth": 38,
+    "implosionChance": 0.42082405
+  },
+  "goblins_tyranny:plates_3": {
+    "maxWaterDepth": 38,
+    "implosionChance": 0.42082405
+  },
+  "goblins_tyranny:plates_4": {
+    "maxWaterDepth": 38,
+    "implosionChance": 0.42082405
+  },
+  "goblins_tyranny:podzol_path": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.43637055
+  },
+  "goblins_tyranny:shaman_skull": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36021048
+  },
+  "goblins_tyranny:shelf": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.32521048
+  },
+  "goblins_tyranny:totem_block": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "goblins_tyranny:trapped_barrel": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
+  "goblins_tyranny:wolf_hide": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36021048
+  },
+  "goblins_tyranny:wolf_stool": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31021047
+  },
   "grounded:coarse_earthen_clay": {
     "maxWaterDepth": 23,
     "implosionChance": 0.5344535
@@ -35452,6 +34468,46 @@
   "icys-better-horses:hearthlight": {
     "maxWaterDepth": 25,
     "implosionChance": 0.6
+  },
+  "incubation:chicken_egg_crate": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.43337092
+  },
+  "incubation:hay_chicken_nest": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "incubation:hay_duck_nest": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "incubation:hay_nest": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "incubation:hay_turkey_nest": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "incubation:turtle_egg_crate": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.43337092
+  },
+  "incubation:twig_chicken_nest": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "incubation:twig_duck_nest": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "incubation:twig_nest": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "incubation:twig_turkey_nest": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
   },
   "irons_lib:player_statue": {
     "maxWaterDepth": 68,
@@ -40317,14 +39373,6 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.5344535
   },
-  "mutantmonsters:mutant_skeleton_skull": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
-  "mutantmonsters:mutant_skeleton_wall_skull": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.4806853
-  },
   "netherdescent:arisian_blossom": {
     "maxWaterDepth": 15,
     "implosionChance": 0.6
@@ -41021,6 +40069,10 @@
     "maxWaterDepth": 37,
     "implosionChance": 0.43337092
   },
+  "newworld:fir_bookshelf_door": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.43337092
+  },
   "newworld:fir_button": {
     "maxWaterDepth": 27,
     "implosionChance": 0.5344535
@@ -41045,6 +40097,10 @@
     "maxWaterDepth": 29,
     "implosionChance": 0.4806853
   },
+  "newworld:fir_indiscrete_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
   "newworld:fir_leaves": {
     "maxWaterDepth": 18,
     "implosionChance": 0.57176787
@@ -41053,9 +40109,17 @@
     "maxWaterDepth": 41,
     "implosionChance": 0.39013878
   },
+  "newworld:fir_normal_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
   "newworld:fir_palisade": {
     "maxWaterDepth": 41,
     "implosionChance": 0.39013878
+  },
+  "newworld:fir_pet_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
   },
   "newworld:fir_planks": {
     "maxWaterDepth": 44,
@@ -41084,6 +40148,10 @@
   "newworld:fir_stairs": {
     "maxWaterDepth": 44,
     "implosionChance": 0.36137056
+  },
+  "newworld:fir_transit_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
   },
   "newworld:fir_trapdoor": {
     "maxWaterDepth": 49,
@@ -41365,6 +40433,10 @@
     "maxWaterDepth": 37,
     "implosionChance": 0.43337092
   },
+  "nomansland:acacia_bookshelf_door": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.43337092
+  },
   "nomansland:aconite": {
     "maxWaterDepth": 15,
     "implosionChance": 0.6
@@ -41413,6 +40485,10 @@
     "maxWaterDepth": 37,
     "implosionChance": 0.43337092
   },
+  "nomansland:bamboo_bookshelf_door": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.43337092
+  },
   "nomansland:barrel_cactus": {
     "maxWaterDepth": 15,
     "implosionChance": 0.6
@@ -41426,6 +40502,10 @@
     "implosionChance": 0.3497237
   },
   "nomansland:birch_bookshelf": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.43337092
+  },
+  "nomansland:birch_bookshelf_door": {
     "maxWaterDepth": 37,
     "implosionChance": 0.43337092
   },
@@ -41466,6 +40546,10 @@
     "implosionChance": 0.6
   },
   "nomansland:cherry_bookshelf": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.43337092
+  },
+  "nomansland:cherry_bookshelf_door": {
     "maxWaterDepth": 37,
     "implosionChance": 0.43337092
   },
@@ -41549,6 +40633,10 @@
     "maxWaterDepth": 37,
     "implosionChance": 0.43337092
   },
+  "nomansland:crimson_bookshelf_door": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.43337092
+  },
   "nomansland:crude_door": {
     "maxWaterDepth": 44,
     "implosionChance": 0.36137056
@@ -41570,6 +40658,10 @@
     "implosionChance": 0.5344535
   },
   "nomansland:dark_oak_bookshelf": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.43337092
+  },
+  "nomansland:dark_oak_bookshelf_door": {
     "maxWaterDepth": 37,
     "implosionChance": 0.43337092
   },
@@ -41749,6 +40841,10 @@
     "maxWaterDepth": 37,
     "implosionChance": 0.43337092
   },
+  "nomansland:jungle_bookshelf_door": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.43337092
+  },
   "nomansland:large_ancient_pot": {
     "maxWaterDepth": 39,
     "implosionChance": 0.39959225
@@ -41829,7 +40925,15 @@
     "maxWaterDepth": 37,
     "implosionChance": 0.43337092
   },
+  "nomansland:mangrove_bookshelf_door": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.43337092
+  },
   "nomansland:maple_bookshelf": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.43337092
+  },
+  "nomansland:maple_bookshelf_door": {
     "maxWaterDepth": 37,
     "implosionChance": 0.43337092
   },
@@ -41857,6 +40961,10 @@
     "maxWaterDepth": 29,
     "implosionChance": 0.4806853
   },
+  "nomansland:maple_indiscrete_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
   "nomansland:maple_leaves": {
     "maxWaterDepth": 18,
     "implosionChance": 0.57176787
@@ -41865,9 +40973,17 @@
     "maxWaterDepth": 41,
     "implosionChance": 0.39013878
   },
+  "nomansland:maple_normal_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
   "nomansland:maple_palisade": {
     "maxWaterDepth": 41,
     "implosionChance": 0.39013878
+  },
+  "nomansland:maple_pet_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
   },
   "nomansland:maple_planks": {
     "maxWaterDepth": 44,
@@ -41900,6 +41016,10 @@
   "nomansland:maple_syrup_cauldron": {
     "maxWaterDepth": 59,
     "implosionChance": 0.39013878
+  },
+  "nomansland:maple_transit_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
   },
   "nomansland:maple_trapdoor": {
     "maxWaterDepth": 49,
@@ -42045,6 +41165,10 @@
     "maxWaterDepth": 37,
     "implosionChance": 0.43337092
   },
+  "nomansland:pine_bookshelf_door": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.43337092
+  },
   "nomansland:pine_button": {
     "maxWaterDepth": 27,
     "implosionChance": 0.5344535
@@ -42052,6 +41176,10 @@
   "nomansland:pine_cabinet": {
     "maxWaterDepth": 45,
     "implosionChance": 0.3497237
+  },
+  "nomansland:pine_discrete_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
   },
   "nomansland:pine_door": {
     "maxWaterDepth": 49,
@@ -42069,6 +41197,10 @@
     "maxWaterDepth": 29,
     "implosionChance": 0.4806853
   },
+  "nomansland:pine_indiscrete_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
   "nomansland:pine_leaves": {
     "maxWaterDepth": 18,
     "implosionChance": 0.57176787
@@ -42080,6 +41212,10 @@
   "nomansland:pine_palisade": {
     "maxWaterDepth": 41,
     "implosionChance": 0.39013878
+  },
+  "nomansland:pine_pet_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
   },
   "nomansland:pine_planks": {
     "maxWaterDepth": 44,
@@ -42108,6 +41244,10 @@
   "nomansland:pine_stairs": {
     "maxWaterDepth": 44,
     "implosionChance": 0.36137056
+  },
+  "nomansland:pine_transit_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
   },
   "nomansland:pine_trapdoor": {
     "maxWaterDepth": 49,
@@ -42477,6 +41617,10 @@
     "maxWaterDepth": 37,
     "implosionChance": 0.43337092
   },
+  "nomansland:spruce_bookshelf_door": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.43337092
+  },
   "nomansland:stallion_strips": {
     "maxWaterDepth": 23,
     "implosionChance": 0.5344535
@@ -42685,6 +41829,10 @@
     "maxWaterDepth": 37,
     "implosionChance": 0.43337092
   },
+  "nomansland:walnut_bookshelf_door": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.43337092
+  },
   "nomansland:walnut_button": {
     "maxWaterDepth": 27,
     "implosionChance": 0.5344535
@@ -42692,6 +41840,10 @@
   "nomansland:walnut_cabinet": {
     "maxWaterDepth": 45,
     "implosionChance": 0.3497237
+  },
+  "nomansland:walnut_discrete_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
   },
   "nomansland:walnut_door": {
     "maxWaterDepth": 49,
@@ -42709,6 +41861,10 @@
     "maxWaterDepth": 29,
     "implosionChance": 0.4806853
   },
+  "nomansland:walnut_indiscrete_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
   "nomansland:walnut_leaves": {
     "maxWaterDepth": 18,
     "implosionChance": 0.57176787
@@ -42720,6 +41876,10 @@
   "nomansland:walnut_palisade": {
     "maxWaterDepth": 41,
     "implosionChance": 0.39013878
+  },
+  "nomansland:walnut_pet_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
   },
   "nomansland:walnut_planks": {
     "maxWaterDepth": 44,
@@ -42749,6 +41909,10 @@
     "maxWaterDepth": 44,
     "implosionChance": 0.36137056
   },
+  "nomansland:walnut_transit_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
   "nomansland:walnut_trapdoor": {
     "maxWaterDepth": 49,
     "implosionChance": 0.31137055
@@ -42773,6 +41937,10 @@
     "maxWaterDepth": 37,
     "implosionChance": 0.43337092
   },
+  "nomansland:warped_bookshelf_door": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.43337092
+  },
   "nomansland:water_mosaic": {
     "maxWaterDepth": 15,
     "implosionChance": 0.6
@@ -42793,6 +41961,10 @@
     "maxWaterDepth": 37,
     "implosionChance": 0.43337092
   },
+  "nomansland:willow_bookshelf_door": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.43337092
+  },
   "nomansland:willow_button": {
     "maxWaterDepth": 27,
     "implosionChance": 0.5344535
@@ -42800,6 +41972,10 @@
   "nomansland:willow_cabinet": {
     "maxWaterDepth": 45,
     "implosionChance": 0.3497237
+  },
+  "nomansland:willow_discrete_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
   },
   "nomansland:willow_door": {
     "maxWaterDepth": 49,
@@ -42817,6 +41993,10 @@
     "maxWaterDepth": 29,
     "implosionChance": 0.4806853
   },
+  "nomansland:willow_indiscrete_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
   "nomansland:willow_leaves": {
     "maxWaterDepth": 18,
     "implosionChance": 0.57176787
@@ -42828,6 +42008,10 @@
   "nomansland:willow_palisade": {
     "maxWaterDepth": 41,
     "implosionChance": 0.39013878
+  },
+  "nomansland:willow_pet_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
   },
   "nomansland:willow_planks": {
     "maxWaterDepth": 44,
@@ -42856,6 +42040,10 @@
   "nomansland:willow_stairs": {
     "maxWaterDepth": 44,
     "implosionChance": 0.36137056
+  },
+  "nomansland:willow_transit_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
   },
   "nomansland:willow_trapdoor": {
     "maxWaterDepth": 49,
@@ -42920,6 +42108,78 @@
   "onion_onion:motley_grill_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.5344535
+  },
+  "piglinproliferation:blackstone_fire_ring": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "piglinproliferation:blackstone_soul_fire_ring": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "piglinproliferation:deepslate_fire_ring": {
+    "maxWaterDepth": 80,
+    "implosionChance": 0.25540897
+  },
+  "piglinproliferation:deepslate_soul_fire_ring": {
+    "maxWaterDepth": 80,
+    "implosionChance": 0.25540897
+  },
+  "piglinproliferation:end_stone_fire_ring": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.2197415
+  },
+  "piglinproliferation:end_stone_soul_fire_ring": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.2197415
+  },
+  "piglinproliferation:netherrack_fire_ring": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.5463528
+  },
+  "piglinproliferation:netherrack_soul_fire_ring": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.5463528
+  },
+  "piglinproliferation:piglin_alchemist_head": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "piglinproliferation:piglin_alchemist_wall_head": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "piglinproliferation:piglin_brute_head": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "piglinproliferation:piglin_brute_wall_head": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "piglinproliferation:piglin_traveler_head": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "piglinproliferation:piglin_traveler_wall_head": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "piglinproliferation:stone_fire_ring": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "piglinproliferation:stone_soul_fire_ring": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "piglinproliferation:zombified_piglin_head": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "piglinproliferation:zombified_piglin_wall_head": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
   },
   "productivebees:acacia_wood_nest": {
     "maxWaterDepth": 41,
@@ -52045,6 +51305,190 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.5344535
   },
+  "tuttasdoors:acacia_discrete_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:acacia_normal_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:acacia_pet_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:acacia_transit_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:bamboo_discrete_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:bamboo_indiscrete_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:bamboo_pet_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:bamboo_transit_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:birch_indiscrete_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:birch_normal_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:birch_pet_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:birch_transit_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:cherry_discrete_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:cherry_indiscrete_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:cherry_pet_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:cherry_transit_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:crimson_indiscrete_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:crimson_normal_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:crimson_pet_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:crimson_transit_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:dark_oak_indiscrete_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:dark_oak_normal_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:dark_oak_pet_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:dark_oak_transit_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:iron_bars_sliding_door": {
+    "maxWaterDepth": 99,
+    "implosionChance": 0.17082405
+  },
+  "tuttasdoors:jungle_discrete_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:jungle_indiscrete_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:jungle_pet_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:jungle_transit_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:mangrove_indiscrete_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:mangrove_normal_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:mangrove_pet_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:mangrove_transit_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:oak_bookshelf_door": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.43337092
+  },
+  "tuttasdoors:oak_discrete_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:oak_indiscrete_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:oak_pet_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:oak_transit_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:spruce_indiscrete_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:spruce_normal_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:spruce_pet_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:spruce_transit_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:warped_indiscrete_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:warped_normal_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:warped_pet_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "tuttasdoors:warped_transit_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
   "upgrade_aquatic:acan_coral": {
     "maxWaterDepth": 15,
     "implosionChance": 0.6
@@ -52529,6 +51973,10 @@
     "maxWaterDepth": 29,
     "implosionChance": 0.4806853
   },
+  "upgrade_aquatic:driftwood_indiscrete_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
   "upgrade_aquatic:driftwood_ladder": {
     "maxWaterDepth": 21,
     "implosionChance": 0.5463528
@@ -52536,6 +51984,14 @@
   "upgrade_aquatic:driftwood_log": {
     "maxWaterDepth": 41,
     "implosionChance": 0.39013878
+  },
+  "upgrade_aquatic:driftwood_normal_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "upgrade_aquatic:driftwood_pet_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
   },
   "upgrade_aquatic:driftwood_planks": {
     "maxWaterDepth": 44,
@@ -52556,6 +52012,10 @@
   "upgrade_aquatic:driftwood_stairs": {
     "maxWaterDepth": 44,
     "implosionChance": 0.36137056
+  },
+  "upgrade_aquatic:driftwood_transit_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
   },
   "upgrade_aquatic:driftwood_trapdoor": {
     "maxWaterDepth": 49,
@@ -53013,6 +52473,10 @@
     "maxWaterDepth": 29,
     "implosionChance": 0.4806853
   },
+  "upgrade_aquatic:river_indiscrete_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
   "upgrade_aquatic:river_ladder": {
     "maxWaterDepth": 21,
     "implosionChance": 0.5463528
@@ -53028,6 +52492,14 @@
   "upgrade_aquatic:river_log": {
     "maxWaterDepth": 41,
     "implosionChance": 0.39013878
+  },
+  "upgrade_aquatic:river_normal_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "upgrade_aquatic:river_pet_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
   },
   "upgrade_aquatic:river_planks": {
     "maxWaterDepth": 44,
@@ -53052,6 +52524,10 @@
   "upgrade_aquatic:river_stairs": {
     "maxWaterDepth": 44,
     "implosionChance": 0.36137056
+  },
+  "upgrade_aquatic:river_transit_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
   },
   "upgrade_aquatic:river_trapdoor": {
     "maxWaterDepth": 49,

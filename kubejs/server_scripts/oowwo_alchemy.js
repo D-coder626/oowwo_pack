@@ -36,14 +36,15 @@ function oalRingResult(ringId, bonus) {
 var OAL_TINCTURE_RECIPES = {
   sol: { grind: ['eidolon_repraised:arcane_gold_ingot', 'minecraft:blaze_powder', 'jewelry:topaz', 'minecraft:glowstone_dust'],
     pot: 'farmersdelight:cooking', extra: ['minecraft:blaze_powder', 'minecraft:glowstone_dust'] },
-  // 2026-10-17: Hexerei removed; Luna now draws moonlight from Enchanted's tear of the goddess + Eidolon enchanted ash.
-  luna: { grind: ['#c:ingots/silver', 'enchanted:tear_of_the_goddess', 'minecraft:phantom_membrane', 'eidolon_repraised:enchanted_ash'],
-    pot: 'farmersdelight:cooking', extra: ['enchanted:tear_of_the_goddess', 'minecraft:phantom_membrane'] },
+  // 2026-10-17: Hexerei removed; Luna draws moonlight from the goddess tear + Eidolon enchanted ash.
+  // 2026-10-29: Enchanted removed; goddess tear / ender dew / quicklime are oowwo items (oowwo_enchanted_replacements.js).
+  luna: { grind: ['#c:ingots/silver', 'oowwo:goddess_tear', 'minecraft:phantom_membrane', 'eidolon_repraised:enchanted_ash'],
+    pot: 'farmersdelight:cooking', extra: ['oowwo:goddess_tear', 'minecraft:phantom_membrane'] },
   sulfur: { grind: ['nomansland:sulfur', 'nomansland:sulfur', 'jewelry:ruby', 'irons_spellbooks:cinder_essence'],
     pot: 'farmersdelight:cooking', extra: ['minecraft:blaze_powder', 'nomansland:sulfur'] },
-  mercury: { grind: ['wayfarer_core:mercury_droplet', 'wayfarer_core:mercury_droplet', 'irons_spellbooks:ice_venom_vial', 'enchanted:ender_dew'],
+  mercury: { grind: ['wayfarer_core:mercury_droplet', 'wayfarer_core:mercury_droplet', 'irons_spellbooks:ice_venom_vial', 'oowwo:ender_dew'],
     pot: 'farmersdelight:cooking', extra: ['wayfarer_core:mercury_droplet', 'minecraft:ghast_tear'] },
-  salt: { grind: ['spelunkery:rock_salt', 'spelunkery:rock_salt', 'caverns_and_chasms:turquoise', 'enchanted:quicklime'],
+  salt: { grind: ['spelunkery:rock_salt', 'spelunkery:rock_salt', 'caverns_and_chasms:turquoise', 'oowwo:quicklime'],
     pot: 'farmersdelight:cooking', extra: ['#c:salt', 'minecraft:quartz'] },
   arcane: { grind: ['irons_spellbooks:arcane_essence', 'irons_spellbooks:arcane_essence', 'irons_spellbooks:mithril_scrap', 'eidolon_repraised:lesser_soul_gem'],
     pot: 'farmersdelight:cooking', extra: ['irons_spellbooks:arcane_essence', '#c:gems/lapis'] },

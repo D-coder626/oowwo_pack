@@ -19,7 +19,7 @@
 //   - nova_structures:pots/pot_pillager_outpost is skipped (comes from a D&T addon oowwo lacks).
 //   - Sniffer: Nirvana's hemp seeds / bliss bloom NOT added to the sniffer table (Nirvana now installed; optional).
 //   - 2026-10-19: Rustic Delight cotton / bell pepper / coffee and Nirvana hemp added to the seed pot;
-//     Enchanted's five witch seeds live in a separate rare table (lootjs:witch_seed_pot).
+//     (Enchanted's witch seed table removed 2026-10-29 with the mod.)
 //
 // To revert: delete this file and the data folders listed above.
 
@@ -46,15 +46,7 @@ LootJS.lootTables(event => {
       pool.addEntry(LootEntry.empty().withWeight(15));
     });
 
-  // Enchanted's witch herbs: rare, never in ordinary seed pots (2026-10-19).
-  event.create('lootjs:witch_seed_pot')
-    .createPool(pool => {
-      pool.addEntry(LootEntry.of('enchanted:mandrake_seeds').withWeight(1).setCount([1, 3]));
-      pool.addEntry(LootEntry.of('enchanted:belladonna_seeds').withWeight(1).setCount([1, 3]));
-      pool.addEntry(LootEntry.of('enchanted:wolfsbane_seeds').withWeight(1).setCount([1, 3]));
-      pool.addEntry(LootEntry.of('enchanted:snowbell_seeds').withWeight(1).setCount([1, 3]));
-      pool.addEntry(LootEntry.of('enchanted:water_artichoke_seeds').withWeight(1).setCount([1, 3]));
-    });
+  // 2026-10-29: Enchanted removed — its witch herb seed table (lootjs:witch_seed_pot) and extra rolls are gone.
 
   // Pots: Wayfarer makes 10% (illager camp 20%) of these pots seed pots.
   const POTS = {
@@ -75,19 +67,6 @@ LootJS.lootTables(event => {
     if (tbl == null) { W('missing table ' + id); return; }
     tbl.createPool(pool => {
       pool.addEntry(LootEntry.reference('lootjs:seed_pot').when(c => c.randomChance(POTS[id])));
-    });
-  }));
-
-  // Witch herb seeds: a rare extra roll in illager camp pots and witchy chests.
-  const WITCH = {
-    'nova_structures:pots/pot_illager_camp': 0.05,
-    'minecraft:chests/woodland_mansion': 0.5,
-    'minecraft:chests/simple_dungeon': 0.25,
-  };
-  Object.keys(WITCH).forEach(id => withTable(id, tbl => {
-    if (tbl == null) { W('missing table ' + id); return; }
-    tbl.createPool(pool => {
-      pool.addEntry(LootEntry.reference('lootjs:witch_seed_pot').when(c => c.randomChance(WITCH[id])));
     });
   }));
 

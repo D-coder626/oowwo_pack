@@ -21,7 +21,7 @@ ServerEvents.recipes(event => {
     ['minecraft:book', 'ars_nouveau:worn_notebook'],
     '#c:ingots/silver', '#c:ingots/silver',
     'wayfarer_core:mercury_droplet',
-    'enchanted:tear_of_the_goddess'   // 2026-10-17: was lapis; Enchanted distillery (breath of the goddess + lapis)
+    'oowwo:goddess_tear'   // 2026-10-29: was Enchanted's tear of the goddess (Enchanted removed); keg + distillery
   ]).id('oowwo:magic/ars_novice_spell_book'))
 
   // ---------------------------------------------------------------- 2. IRON'S SPELLBOOKS — inscription table

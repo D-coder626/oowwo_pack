@@ -60,9 +60,8 @@ LootJS.modifiers(event => {
     'nomansland:raw_venison', 'nomansland:cooked_venison', 'nomansland:raw_horse', 'nomansland:horse_steak',
     'goated:chevon', 'goated:cooked_chevon',
     // Critters n' Crawlers
-    'cnc:raw_venison', 'cnc:cooked_venison', 'cnc:raw_game', 'cnc:raw_turkey', 'cnc:raw_waterfowl',
-    // Fangs & Claws
-    'fangs_n_claws:owlbear_meat', 'fangs_n_claws:cooked_owlbear_meat'
+    'cnc:raw_venison', 'cnc:cooked_venison', 'cnc:raw_game', 'cnc:raw_turkey', 'cnc:raw_waterfowl'
+    // (Fangs & Claws owlbear meat removed 2026-10-29 with the mod)
   ]
   ;['capybara', 'crocodile', 'giraffe', 'hedgehog', 'hippopotamus', 'kiwi', 'ostrich', 'pigeon', 'seal'].forEach(m => {
     MEAT.push('reanimal:raw_' + m + '_meat', 'reanimal:cooked_' + m + '_meat')

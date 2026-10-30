@@ -36,7 +36,7 @@ ServerEvents.recipes(event => {
     'III'
   ], {
     I: '#c:ingots/iron',
-    D: 'enchanted:hint_of_rebirth',
+    D: 'oowwo:rebirth_spirit',
     H: 'productivelib:upgrade_child'
   }).id('oowwo:bees/breeding_chamber'))
 

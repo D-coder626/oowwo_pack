@@ -33,7 +33,7 @@ ServerEvents.recipes(event => {
   // needs, so it stays pre-Nether. 2026-10-20 (Derek): centre is a charged attuned stone (Enchanted), was lifesalt.
   event.remove({ id: 'ars_nouveau:imbuement_chamber' })
   R(() => event.shaped('ars_nouveau:imbuement_chamber', ['xyx', 'xLx', 'xyx'], {
-    x: 'ars_nouveau:archwood_planks', y: '#c:ingots/gold', L: 'enchanted:attuned_stone_charged'
+    x: 'ars_nouveau:archwood_planks', y: '#c:ingots/gold', L: 'oowwo:charged_attuned_stone'
   }).id('oowwo:magic/ars_imbuement_chamber'))
 
   // ---------------------------------------------------------------- 7. IRON'S — alchemist cauldron (+ vanilla cauldron)

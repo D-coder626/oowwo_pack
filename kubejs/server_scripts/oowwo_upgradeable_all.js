@@ -13,6 +13,8 @@
 // #wayfarer:upgrade/mining (jar defaults cover vanilla tool tags). Modded weapons/tools are added by id below.
 // Keeps oowwo_smithing.js (Wayfarer's 61 ids) untouched; this file only adds.
 // To revert: delete this file.
+// 2026-10-28 launch 2: removed 10 dragonsurvival + 4 mutantmonsters ids (mods removed).
+// 2026-10-29 launch 3: removed 21 fangs_n_claws ids (mod removed).
 
 const OOWWO_UPG_NEW = [
     'aether:skyroot_axe', 'aether:skyroot_hoe', 'aether:skyroot_pickaxe', 'aether:skyroot_shovel',
@@ -102,21 +104,12 @@ const OOWWO_UPG_NEW = [
     'create_sa:slime_helmet', 'create_sa:zinc_axe', 'create_sa:zinc_boots', 'create_sa:zinc_chestplate',
     'create_sa:zinc_helmet', 'create_sa:zinc_hoe', 'create_sa:zinc_leggings', 'create_sa:zinc_pickaxe',
     'create_sa:zinc_shovel', 'create_sa:zinc_sword', 'crittersandcompanions:grappling_hook',
-    'dragonsurvival:dark_dragon_boots', 'dragonsurvival:dark_dragon_chestplate',
-    'dragonsurvival:dark_dragon_helmet', 'dragonsurvival:dark_dragon_leggings', 'dragonsurvival:hunter_partisan',
-    'dragonsurvival:hunter_partisan_diamond', 'dragonsurvival:light_dragon_boots',
-    'dragonsurvival:light_dragon_chestplate', 'dragonsurvival:light_dragon_helmet',
-    'dragonsurvival:light_dragon_leggings', 'dungeonsdelight:diamond_cleaver', 'dungeonsdelight:flint_cleaver',
+    'dungeonsdelight:diamond_cleaver', 'dungeonsdelight:flint_cleaver',
     'dungeonsdelight:golden_cleaver', 'dungeonsdelight:iron_cleaver', 'dungeonsdelight:stained_cleaver',
     'dungeonsdelight:stained_knife', 'endermanoverhaul:badlands_hood', 'endermanoverhaul:corrupted_blade',
     'endermanoverhaul:corrupted_shield', 'endermanoverhaul:savanna_hood', 'endermanoverhaul:snowy_hood',
-    'evilcraft:spikey_claws', 'evilcraft:vein_sword', 'evilcraft:vengeance_pickaxe', 'fangs_n_claws:fang_dagger',
-    'fangs_n_claws:fire_pitchfork', 'fangs_n_claws:fur_boots', 'fangs_n_claws:fur_chestplate',
-    'fangs_n_claws:fur_helmet', 'fangs_n_claws:fur_leggings', 'fangs_n_claws:hellfire_pitchfork',
-    'fangs_n_claws:owl_boots', 'fangs_n_claws:owl_chestplate', 'fangs_n_claws:owl_helmet',
-    'fangs_n_claws:owl_leggings', 'fangs_n_claws:shrike_boots', 'fangs_n_claws:shrike_chestplate',
-    'fangs_n_claws:shrike_helmet', 'fangs_n_claws:shrike_leggings', 'fangs_n_claws:silver_sword',
-    'fangs_n_claws:tomahawk', 'farmersdelight:flint_knife', 'galosphere:sterling_boots',
+    'evilcraft:spikey_claws', 'evilcraft:vein_sword', 'evilcraft:vengeance_pickaxe', 
+    'farmersdelight:flint_knife', 'galosphere:sterling_boots',
     'galosphere:sterling_chestplate', 'galosphere:sterling_helmet', 'galosphere:sterling_leggings',
     'irons_spellbooks:amethyst_rapier', 'irons_spellbooks:archevoker_boots',
     'irons_spellbooks:archevoker_chestplate', 'irons_spellbooks:archevoker_helmet',
@@ -152,8 +145,6 @@ const OOWWO_UPG_NEW = [
     'minecraft:wooden_shovel', 'minecraft:wooden_sword', 'mowziesmobs:geomancer_beads',
     'mowziesmobs:geomancer_belt', 'mowziesmobs:geomancer_robe', 'mowziesmobs:geomancer_sandals',
     'mowziesmobs:sand_rake', 'mowziesmobs:sculptor_staff', 'mowziesmobs:spear',
-    'mutantmonsters:mutant_skeleton_boots', 'mutantmonsters:mutant_skeleton_chestplate',
-    'mutantmonsters:mutant_skeleton_leggings', 'mutantmonsters:mutant_skeleton_skull',
     'netherdescent:pendorite_wolf_armor', 'quark:pickarang', 'rogues:assassin_armor_chest',
     'rogues:assassin_armor_feet', 'rogues:assassin_armor_head', 'rogues:assassin_armor_legs',
     'rogues:berserker_armor_chest', 'rogues:berserker_armor_feet', 'rogues:berserker_armor_head',
@@ -250,8 +241,7 @@ const OOWWO_UPG_ATTACK = [
     'create_sa:zinc_axe', 'create_sa:zinc_pickaxe', 'create_sa:zinc_sword', 'dungeonsdelight:diamond_cleaver',
     'dungeonsdelight:flint_cleaver', 'dungeonsdelight:golden_cleaver', 'dungeonsdelight:iron_cleaver',
     'dungeonsdelight:stained_cleaver', 'dungeonsdelight:stained_knife', 'endermanoverhaul:corrupted_blade',
-    'evilcraft:spikey_claws', 'evilcraft:vein_sword', 'evilcraft:vengeance_pickaxe', 'fangs_n_claws:fang_dagger',
-    'fangs_n_claws:fire_pitchfork', 'fangs_n_claws:hellfire_pitchfork', 'fangs_n_claws:silver_sword',
+    'evilcraft:spikey_claws', 'evilcraft:vein_sword', 'evilcraft:vengeance_pickaxe', 
     'farmersdelight:diamond_knife', 'farmersdelight:flint_knife', 'farmersdelight:golden_knife',
     'farmersdelight:iron_knife', 'irons_spellbooks:amethyst_rapier', 'irons_spellbooks:claymore',
     'irons_spellbooks:decrepit_scythe', 'irons_spellbooks:hellrazor', 'irons_spellbooks:keeper_flamberge',

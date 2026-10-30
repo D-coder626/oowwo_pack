@@ -1,0 +1,202 @@
+	[doors.general]
+		#Master switch for Tutta's Doors. Disabling it removes the module's content and creative tab
+		#and leaves vanilla and other mods' doors unchanged.
+		moduleEnabled = true
+
+	[doors.content]
+		#Enables the consistent door set for every available wood family.
+		consistentEnabled = true
+		#Enables the transit door set for every available wood family.
+		transitEnabled = true
+		#Enables the pet door set for every available wood family.
+		petEnabled = true
+		#Enables the lateral door set for every available wood family.
+		lateralEnabled = true
+		#Enables the secret door set for every available wood family.
+		secretEnabled = true
+
+	[doors.behavior]
+		#Shows Tutta's Doors style descriptions on door items.
+		tooltipsEnabled = false
+		#Allows Transit Doors to open automatically for eligible entities.
+		transitAutomaticOpeningEnabled = false
+		#Allows Transit Doors to close automatically after entities move away.
+		transitAutomaticClosingEnabled = false
+		#Allows Pet Doors to open automatically for entities.
+		petAutomaticOpeningEnabled = false
+		#Allows Pet Doors to close automatically after entities move away.
+		petAutomaticClosingEnabled = false
+		#Delay before an automatically closing door checks whether it can close.
+		#20 ticks equals one second.
+		# Default: 20
+		# Range: 1 ~ 1200
+		automaticClosingDelayTicks = 20
+		#By default, automatic opening and closing work without redstone and stop while powered.
+		#Enable this to make both behaviors work only while powered.
+		invertAutomaticClosingRedstone = false
+
+	[beds.general]
+		#Master switch for the whole beds module. Disabling registers none of its content
+		#and leaves vanilla and other mods' bed behavior unchanged.
+		moduleEnabled = false
+		#Shows Tutta's Beds descriptions on bed items.
+		tooltipsEnabled = false
+
+		[beds.content.mattresses]
+			#Disabling also disables every straw-mattress bed variant.
+			strawMattressEnabled = true
+			#Disabling also disables every soft-mattress bed variant.
+			softMattressEnabled = true
+
+		[beds.content.basicCovers]
+			#Disabling also disables every Tier LOW wheat-covered variant.
+			wheatCoverEnabled = true
+			#Disabling also disables every Tier LOW raw-leather-covered variant.
+			leatherCoverEnabled = true
+
+		[beds.content.blankets]
+			#Disabling also disables every Tier NORMAL wool-blanket bed and, since it's
+			#the only blanket with a Tier DELUXE upgrade path, every Tier DELUXE bed too.
+			woolBlanketEnabled = true
+			#Disabling also disables every Tier NORMAL leather-blanket bed.
+			leatherBlanketEnabled = true
+			#Master switch for Tier DELUXE specifically, independent of woolBlanketEnabled.
+			deluxeTierEnabled = true
+
+		[beds.gameplay.tiers]
+			#Whether the time required to complete sleep changes with the bed tier.
+			#Other mods' beds are treated as Tier BASIC.
+			tieredSleepDurationEnabled = true
+			#Whether vanilla Minecraft beds use the Tier BASIC sleep-duration multiplier.
+			#When disabled, vanilla beds always keep vanilla's five-second sleep duration.
+			vanillaBedsUseTieredSleepDuration = true
+			#Whether vanilla Minecraft beds use their resolved tier's respawn rule.
+			#When disabled, vanilla beds always set spawn normally.
+			vanillaBedsUseTierSpawnRules = true
+			#Whether vanilla Minecraft beds apply their resolved tier's wake effect.
+			vanillaBedsUseTierWakeEffects = true
+
+			[beds.gameplay.tiers.basic]
+				#Whether beds in this tier set the player's respawn point.
+				setsSpawn = false
+				#Multiplier applied to vanilla's five-second sleep duration.
+				# Default: 2.0
+				# Range: 0.1 ~ 10.0
+				sleepDurationMultiplier = 2.0
+				#Optional block IDs assigned to this tier, overriding their automatic classification.
+				#Use a full ID such as "minecraft:red_bed" or a namespace wildcard such as "minecraft:*".
+				#If a block appears in multiple tiers, the highest tier wins.
+				blockOverrides = []
+				#Block IDs that cannot use this tier.
+				#Use a full ID or namespace wildcard, following the same format as blockOverrides.
+				#A bed excluded from its resolved tier keeps its normal behavior without tier mechanics.
+				blockExclusions = []
+
+				[beds.gameplay.tiers.basic.wakeEffect]
+					#Whether waking up from this applies an effect at all.
+					effectEnabled = false
+					#Registry name of the effect to apply, e.g. "minecraft:regeneration". Any effect, from any mod, works.
+					effectId = "minecraft:regeneration"
+					#Duration of the effect, in seconds.
+					# Default: 0
+					# Range: > 0
+					effectDurationSeconds = 0
+
+			[beds.gameplay.tiers.low]
+				#Whether beds in this tier set the player's respawn point.
+				setsSpawn = true
+				#Multiplier applied to vanilla's five-second sleep duration.
+				# Default: 1.5
+				# Range: 0.1 ~ 10.0
+				sleepDurationMultiplier = 1.5
+				#Optional block IDs assigned to this tier, overriding their automatic classification.
+				#Use a full ID such as "minecraft:red_bed" or a namespace wildcard such as "minecraft:*".
+				#If a block appears in multiple tiers, the highest tier wins.
+				blockOverrides = []
+				#Block IDs that cannot use this tier.
+				#Use a full ID or namespace wildcard, following the same format as blockOverrides.
+				#A bed excluded from its resolved tier keeps its normal behavior without tier mechanics.
+				blockExclusions = []
+
+				[beds.gameplay.tiers.low.wakeEffect]
+					#Whether waking up from this applies an effect at all.
+					effectEnabled = false
+					#Registry name of the effect to apply, e.g. "minecraft:regeneration". Any effect, from any mod, works.
+					effectId = "minecraft:regeneration"
+					#Duration of the effect, in seconds.
+					# Default: 0
+					# Range: > 0
+					effectDurationSeconds = 0
+
+			[beds.gameplay.tiers.normal]
+				#Whether beds in this tier set the player's respawn point.
+				setsSpawn = true
+				#Multiplier applied to vanilla's five-second sleep duration.
+				# Default: 1.0
+				# Range: 0.1 ~ 10.0
+				sleepDurationMultiplier = 1.0
+				#Optional block IDs assigned to this tier, overriding their automatic classification.
+				#Use a full ID such as "minecraft:red_bed" or a namespace wildcard such as "minecraft:*".
+				#If a block appears in multiple tiers, the highest tier wins.
+				blockOverrides = []
+				#Block IDs that cannot use this tier.
+				#Use a full ID or namespace wildcard, following the same format as blockOverrides.
+				#A bed excluded from its resolved tier keeps its normal behavior without tier mechanics.
+				blockExclusions = []
+
+				[beds.gameplay.tiers.normal.wakeEffect]
+					#Whether waking up from this applies an effect at all.
+					effectEnabled = true
+					#Registry name of the effect to apply, e.g. "minecraft:regeneration". Any effect, from any mod, works.
+					effectId = "minecraft:regeneration"
+					#Duration of the effect, in seconds.
+					# Default: 5
+					# Range: > 0
+					effectDurationSeconds = 5
+
+			[beds.gameplay.tiers.deluxe]
+				#Whether beds in this tier set the player's respawn point.
+				setsSpawn = true
+				#Multiplier applied to vanilla's five-second sleep duration.
+				# Default: 0.5
+				# Range: 0.1 ~ 10.0
+				sleepDurationMultiplier = 0.5
+				#Optional block IDs assigned to this tier, overriding their automatic classification.
+				#Use a full ID such as "minecraft:red_bed" or a namespace wildcard such as "minecraft:*".
+				#If a block appears in multiple tiers, the highest tier wins.
+				blockOverrides = []
+				#Block IDs that cannot use this tier.
+				#Use a full ID or namespace wildcard, following the same format as blockOverrides.
+				#A bed excluded from its resolved tier keeps its normal behavior without tier mechanics.
+				blockExclusions = []
+				#Whether Tier DELUXE beds allow sleeping while nearby monsters would normally prevent it.
+				ignoresNearbyMonsters = true
+
+				[beds.gameplay.tiers.deluxe.wakeEffect]
+					#Whether waking up from this applies an effect at all.
+					effectEnabled = true
+					#Registry name of the effect to apply, e.g. "minecraft:regeneration". Any effect, from any mod, works.
+					effectId = "minecraft:regeneration"
+					#Duration of the effect, in seconds.
+					# Default: 10
+					# Range: > 0
+					effectDurationSeconds = 10
+
+		[beds.gameplay.villagers]
+			#Allows villagers to claim and sleep in Tutta's Beds, loose mattresses and bed frames.
+			canUseTuttaBeds = true
+
+		[beds.gameplay.interactions]
+			#Cover and blanket suffixes that cannot be applied directly to a mattress or bed.
+			#This only disables the interaction shortcut; normal recipes still work.
+			#The list applies to native and compatible materials with the same suffix.
+			directApplyDisabled = ["wool_blanket", "leather_blanket"]
+
+		[beds.compatibility.farmersDelight]
+			#Disabling also disables every canvas-mattress bed variant.
+			canvasMattressEnabled = true
+			#Disabling also disables every Farmer's Delight straw-mattress bed variant
+			#(independent of content.mattresses.strawMattressEnabled, which is this module's own wheat mattress).
+			strawMattressEnabled = true
+			#Disabling also disables every Tier LOW canvas-covered variant, for every material.
+			canvasCoverEnabled = true

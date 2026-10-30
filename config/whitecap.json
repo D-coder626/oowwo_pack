@@ -1,6 +1,6 @@
 {
   "configVersion": 2,
-  "enabled": true,
+  "enabled": false,
   "style": "vanilla",
   "swellHeight": 0.9,
   "rainSwell": 1.4,

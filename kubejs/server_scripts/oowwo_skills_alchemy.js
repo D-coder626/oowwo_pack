@@ -126,6 +126,7 @@ NativeEvents.onEvent(EffectApplicable, safe('applicable', function (e) {
 // ================= durations: Mithridatism halves harmful effects on you; Volatile Mixtures stretches your splash potions =================
 NativeEvents.onEvent(EffectAdded, safe('added', function (e) {
   var target = e.getEntity(), inst = e.getEffectInstance()
+  if (!isPlayer(target) && !isPlayer(e.getEffectSource())) return   // 2026-10-29: mob-only effects skip all work
   if (inst == null || inst.isInfiniteDuration()) return
   var h = inst.getEffect()
   if (REAPPLY[String(target.getUuid()) + effId(h)] || h.value().isInstantenous()) return

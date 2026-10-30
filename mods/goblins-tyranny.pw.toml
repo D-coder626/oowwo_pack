@@ -1,0 +1,13 @@
+name = "Goblin's Tyranny"
+filename = "goblins_tyranny-neoforge-1.21.1-1.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4888f7e5f361a44ce0b81fdd409b996aa43c0c39"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9350435
+project-id = 1020500

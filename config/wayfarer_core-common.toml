@@ -52,9 +52,6 @@ spawnRange = 128.0
 	"caverns_and_chasms:underground_water_ambient" = -1
 	# Default: -1
 	# Range: -1 ~ 100000
-	"dragonsurvival:hunter_faction" = -1
-	# Default: -1
-	# Range: -1 ~ 100000
 	spawn_water_decoration = -1
 	# Default: -1
 	# Range: -1 ~ 100000

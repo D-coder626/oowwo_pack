@@ -10,13 +10,7 @@
 // Caverns & Chasms — both are in those tags, see silver_unification.js) works. vista:mirror
 // skipped (Vista not installed). Recipe ids added. To revert: delete this file.
 //
-// oowwo addition (Derek, 2026-09-27): Wayfarer's silver sword/axe/knife/mallet count as werewolf bane
-// for Fangs & Claws (its tag already lists the Caverns & Chasms silver tools and its own silver sword).
-
-ServerEvents.tags('item', event => {
-  event.add('fangs_n_claws:werewolf_bane', ['wayfarer_core:silver_sword', 'wayfarer_core:silver_axe',
-    'wayfarer_core:silver_knife', 'wayfarer_core:silver_mallet']);
-});
+// 2026-10-29: Fangs & Claws removed, so the werewolf_bane tag block (Wayfarer silver tools) was deleted.
 
 ServerEvents.recipes(event => {
   const R = fn => { try { fn(); } catch (e) { console.warn('[silver] skipped: ' + e); } };

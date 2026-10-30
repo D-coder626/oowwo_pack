@@ -1088,18 +1088,6 @@
     "createaddition:tesla_coil": [
       "building:15"
     ],
-    "dragonsurvival:dragon_hunter_sword": [
-      "attack:30"
-    ],
-    "dragonsurvival:hunter_partisan": [
-      "attack:10"
-    ],
-    "dragonsurvival:hunter_partisan_diamond": [
-      "attack:15"
-    ],
-    "dragonsurvival:hunter_partisan_netherite": [
-      "attack:30"
-    ],
     "dungeonsdelight:diamond_cleaver": [
       "attack:15"
     ],
@@ -1161,15 +1149,6 @@
     "evilcraft:vengeance_pickaxe": [
       "magic:5",
       "mining:15"
-    ],
-    "fangs_n_claws:netherite_dagger": [
-      "attack:30"
-    ],
-    "fangs_n_claws:silver_sword": [
-      "attack:5"
-    ],
-    "fangs_n_claws:tomahawk": [
-      "attack:5"
     ],
     "farmersdelight:diamond_knife": [
       "attack:15"
@@ -1906,6 +1885,91 @@
     "vital_herbs:verdant_scourge": [
       "attack:5",
       "magic:5"
+    ],
+    "dwarfs_tyranny:air_extractor": [
+      "building:10"
+    ],
+    "dwarfs_tyranny:mythril_pipe": [
+      "building:10"
+    ],
+    "dwarfs_tyranny:mythril_tank": [
+      "building:10"
+    ],
+    "dwarfs_tyranny:gas_tank": [
+      "building:10"
+    ],
+    "dwarfs_tyranny:empty_tank": [
+      "building:10"
+    ],
+    "dwarfs_tyranny:grapple_gun": [
+      "building:15"
+    ],
+    "dwarfs_tyranny:nail_gun": [
+      "building:15"
+    ],
+    "dwarfs_tyranny:propulser": [
+      "building:15"
+    ],
+    "dwarfs_tyranny:magnetic_rail": [
+      "building:15"
+    ],
+    "dwarfs_tyranny:bridger": [
+      "building:15"
+    ],
+    "dwarfs_tyranny:separator": [
+      "building:15"
+    ],
+    "dwarfs_tyranny:mythril_furnace": [
+      "building:15"
+    ],
+    "dwarfs_tyranny:flamethrower": [
+      "building:20"
+    ],
+    "dwarfs_tyranny:rc_drill": [
+      "building:20"
+    ],
+    "dwarfs_tyranny:lightningthrower": [
+      "building:25"
+    ],
+    "dwarfs_tyranny:mythril_pickaxe": [
+      "mining:22"
+    ],
+    "dwarfs_tyranny:mythril_sword": [
+      "attack:22"
+    ],
+    "dwarfs_tyranny:mythril_axe": [
+      "attack:22",
+      "gathering:22"
+    ],
+    "dwarfs_tyranny:mythril_shovel": [
+      "gathering:22"
+    ],
+    "dwarfs_tyranny:mythril_hoe": [
+      "farming:22"
+    ],
+    "dwarfs_tyranny:mythril_armor_helmet": [
+      "defense:22"
+    ],
+    "dwarfs_tyranny:dwarf_netherite_armor_helmet": [
+      "defense:30"
+    ],
+    "dwarfs_tyranny:mythril_armor_chestplate": [
+      "defense:22"
+    ],
+    "dwarfs_tyranny:dwarf_netherite_armor_chestplate": [
+      "defense:30"
+    ],
+    "dwarfs_tyranny:mythril_armor_leggings": [
+      "defense:22"
+    ],
+    "dwarfs_tyranny:dwarf_netherite_armor_leggings": [
+      "defense:30"
+    ],
+    "dwarfs_tyranny:mythril_armor_boots": [
+      "defense:22"
+    ],
+    "dwarfs_tyranny:dwarf_netherite_armor_boots": [
+      "defense:30"
     ]
   }
 }

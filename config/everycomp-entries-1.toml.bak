@@ -28,9 +28,6 @@
 		[types.lantern.dungeonsdelight]
 			living_lantern = true
 
-		[types.lantern.fangs_n_claws]
-			vile_lantern = true
-
 		[types.lantern.netherdescent]
 			pendorite_lantern = true
 
@@ -113,6 +110,13 @@
 			alder = true
 			hawthorn = true
 			rowan = true
+
+		[types.wood_type.burnt]
+			smoldering_bamboo = true
+
+		[types.wood_type.burnt_additions]
+			smoldering_soul = true
+			soul_tempered = true
 
 		[types.leaves_type.abundant_atmosphere]
 			ashroot = true

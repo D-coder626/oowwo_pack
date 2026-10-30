@@ -51,7 +51,7 @@ ServerEvents.recipes(event => {
   event.remove({ id: 'ars_nouveau:ritual_brazier' })
   R(() => event.shapeless('ars_nouveau:ritual_brazier', [
     'ars_nouveau:arcane_pedestal', '#c:storage_blocks/source',
-    '#c:ingots/arcane_gold', '#c:ingots/arcane_gold', '#c:ingots/arcane_gold', 'enchanted:ritual_chalk'
+    '#c:ingots/arcane_gold', '#c:ingots/arcane_gold', '#c:ingots/arcane_gold', 'oowwo:ritual_chalk'
   ]).id('oowwo:magic/ars_ritual_brazier'))
 
   // ---------------------------------------------------------------- 6. APPARATUS ITEMS: Enchanter's sword/shield, amulets, charms
@@ -72,17 +72,17 @@ ServerEvents.recipes(event => {
   R(() => event.custom({"type":"ars_nouveau:enchanting_apparatus","keepNbtOfReagent":false,"pedestalItems":[{"item":"eidolon_repraised:lesser_soul_gem"},{"tag":"c:gems/diamond"},{"tag":"c:ingots/arcane_gold"},{"tag":"c:ingots/arcane_gold"},{"tag":"c:gems/source"},{"tag":"c:gems/source"},{"tag":"c:gems/source"},{"tag":"c:gems/source"}],"reagent":{"item":"ars_nouveau:dull_trinket"},"result":{"count":1,"id":"ars_nouveau:amulet_of_mana_regen"},"sourceCost":0}).id('oowwo:magic/ars_amulet_of_mana_regen'))
 
   event.remove({ id: 'ars_nouveau:starbuncle_charm' })
-  R(() => event.custom({"type":"ars_nouveau:enchanting_apparatus","keepNbtOfReagent":true,"pedestalItems":[{"tag":"c:ingots/arcane_gold"},{"tag":"c:ingots/arcane_gold"},{"item":"enchanted:attuned_stone"},{"item":"enchanted:attuned_stone"}],"reagent":{"item":"ars_nouveau:starbuncle_shards"},"result":{"count":1,"id":"ars_nouveau:starbuncle_charm"},"sourceCost":0}).id('oowwo:magic/ars_starbuncle_charm'))
+  R(() => event.custom({"type":"ars_nouveau:enchanting_apparatus","keepNbtOfReagent":true,"pedestalItems":[{"tag":"c:ingots/arcane_gold"},{"tag":"c:ingots/arcane_gold"},{"item":"oowwo:attuned_stone"},{"item":"oowwo:attuned_stone"}],"reagent":{"item":"ars_nouveau:starbuncle_shards"},"result":{"count":1,"id":"ars_nouveau:starbuncle_charm"},"sourceCost":0}).id('oowwo:magic/ars_starbuncle_charm'))
 
   event.remove({ id: 'ars_nouveau:wixie_charm' })
-  R(() => event.custom({"type":"ars_nouveau:enchanting_apparatus","keepNbtOfReagent":false,"pedestalItems":[{"tag":"minecraft:saplings"},{"tag":"c:gems/emerald"},{"item":"minecraft:crafting_table"},{"item":"minecraft:brewing_stand"},{"tag":"c:ingots/arcane_gold"},{"item":"enchanted:attuned_stone"}],"reagent":{"item":"ars_nouveau:wixie_shards"},"result":{"count":1,"id":"ars_nouveau:wixie_charm"},"sourceCost":0}).id('oowwo:magic/ars_wixie_charm'))
+  R(() => event.custom({"type":"ars_nouveau:enchanting_apparatus","keepNbtOfReagent":false,"pedestalItems":[{"tag":"minecraft:saplings"},{"tag":"c:gems/emerald"},{"item":"minecraft:crafting_table"},{"item":"minecraft:brewing_stand"},{"tag":"c:ingots/arcane_gold"},{"item":"oowwo:attuned_stone"}],"reagent":{"item":"ars_nouveau:wixie_shards"},"result":{"count":1,"id":"ars_nouveau:wixie_charm"},"sourceCost":0}).id('oowwo:magic/ars_wixie_charm'))
 
   event.remove({ id: 'ars_nouveau:alakarkinos_charm' })
-  R(() => event.custom({"type":"ars_nouveau:enchanting_apparatus","keepNbtOfReagent":false,"pedestalItems":[{"item":"minecraft:brush"},{"tag":"minecraft:decorated_pot_sherds"},{"tag":"minecraft:decorated_pot_sherds"},{"tag":"minecraft:decorated_pot_sherds"},{"tag":"c:ingots/arcane_gold"},{"item":"enchanted:attuned_stone"}],"reagent":{"item":"ars_nouveau:alakarkinos_token"},"result":{"count":1,"id":"ars_nouveau:alakarkinos_charm"},"sourceCost":0}).id('oowwo:magic/ars_alakarkinos_charm'))
+  R(() => event.custom({"type":"ars_nouveau:enchanting_apparatus","keepNbtOfReagent":false,"pedestalItems":[{"item":"minecraft:brush"},{"tag":"minecraft:decorated_pot_sherds"},{"tag":"minecraft:decorated_pot_sherds"},{"tag":"minecraft:decorated_pot_sherds"},{"tag":"c:ingots/arcane_gold"},{"item":"oowwo:attuned_stone"}],"reagent":{"item":"ars_nouveau:alakarkinos_token"},"result":{"count":1,"id":"ars_nouveau:alakarkinos_charm"},"sourceCost":0}).id('oowwo:magic/ars_alakarkinos_charm'))
 
   event.remove({ id: 'ars_nouveau:drygmy_charm' })
-  R(() => event.custom({"type":"ars_nouveau:enchanting_apparatus","keepNbtOfReagent":false,"pedestalItems":[{"tag":"minecraft:fishes"},{"item":"minecraft:wheat"},{"item":"minecraft:apple"},{"item":"minecraft:carrot"},{"tag":"c:seeds"},{"tag":"c:ingots/arcane_gold"},{"item":"enchanted:attuned_stone"},{"tag":"c:gems/source"}],"reagent":{"item":"ars_nouveau:drygmy_shard"},"result":{"count":1,"id":"ars_nouveau:drygmy_charm"},"sourceCost":0}).id('oowwo:magic/ars_drygmy_charm'))
+  R(() => event.custom({"type":"ars_nouveau:enchanting_apparatus","keepNbtOfReagent":false,"pedestalItems":[{"tag":"minecraft:fishes"},{"item":"minecraft:wheat"},{"item":"minecraft:apple"},{"item":"minecraft:carrot"},{"tag":"c:seeds"},{"tag":"c:ingots/arcane_gold"},{"item":"oowwo:attuned_stone"},{"tag":"c:gems/source"}],"reagent":{"item":"ars_nouveau:drygmy_shard"},"result":{"count":1,"id":"ars_nouveau:drygmy_charm"},"sourceCost":0}).id('oowwo:magic/ars_drygmy_charm'))
 
   event.remove({ id: 'ars_nouveau:whirlisprig_charm' })
-  R(() => event.custom({"type":"ars_nouveau:enchanting_apparatus","keepNbtOfReagent":false,"pedestalItems":[{"tag":"c:gems/source"},{"item":"ars_nouveau:magebloom_crop"},{"item":"ars_nouveau:magebloom"},{"item":"enchanted:attuned_stone"},{"item":"minecraft:oak_sapling"},{"item":"minecraft:spruce_sapling"},{"item":"minecraft:birch_sapling"},{"tag":"c:ingots/arcane_gold"}],"reagent":{"item":"ars_nouveau:whirlisprig_shards"},"result":{"count":1,"id":"ars_nouveau:whirlisprig_charm"},"sourceCost":0}).id('oowwo:magic/ars_whirlisprig_charm'))
+  R(() => event.custom({"type":"ars_nouveau:enchanting_apparatus","keepNbtOfReagent":false,"pedestalItems":[{"tag":"c:gems/source"},{"item":"ars_nouveau:magebloom_crop"},{"item":"ars_nouveau:magebloom"},{"item":"oowwo:attuned_stone"},{"item":"minecraft:oak_sapling"},{"item":"minecraft:spruce_sapling"},{"item":"minecraft:birch_sapling"},{"tag":"c:ingots/arcane_gold"}],"reagent":{"item":"ars_nouveau:whirlisprig_shards"},"result":{"count":1,"id":"ars_nouveau:whirlisprig_charm"},"sourceCost":0}).id('oowwo:magic/ars_whirlisprig_charm'))
 })

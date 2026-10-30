@@ -2,7 +2,7 @@
 	#The maximum stacksize for heart canisters, also the maximum amount of full hearts you can get per heart container type
 	# Default: 10
 	# Range: 0 ~ 99
-	heartStackSize = 10
+	heartStackSize = 8
 	#How often do wither bones Drop? (1.0 = 100 % and 0.0 means 0%)
 	# Default: 0.18
 	# Range: 0.0 ~ 1.0

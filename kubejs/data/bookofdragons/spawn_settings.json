@@ -1,9 +1,9 @@
 {
   "enabled": true,
-  "period_ticks": 2400,
-  "roostless_cap": 5,
-  "per_extra_player": 2,
-  "density_cap": 2,
+  "period_ticks": 3600,
+  "roostless_cap": 3,
+  "per_extra_player": 1,
+  "density_cap": 1,
   "density_radius": 128,
   "species_share": 0.25,
   "abundance": {
