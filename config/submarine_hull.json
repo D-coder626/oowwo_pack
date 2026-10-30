@@ -34565,6 +34565,10 @@
     "maxWaterDepth": 362,
     "implosionChance": 0.05
   },
+  "irons_spellbooks:cooked_ice_spider_egg": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
   "irons_spellbooks:deepslate_mithril_ore": {
     "maxWaterDepth": 220,
     "implosionChance": 0.05
@@ -46536,6 +46540,10 @@
   "sauce:source_jar_valve": {
     "maxWaterDepth": 71,
     "implosionChance": 0.31137055
+  },
+  "scrollshelf:scroll_shelf": {
+    "maxWaterDepth": 69,
+    "implosionChance": 0.11021047
   },
   "seadwellers:aquamarine_block": {
     "maxWaterDepth": 47,

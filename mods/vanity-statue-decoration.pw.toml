@@ -1,0 +1,13 @@
+name = "Vanity: Statue Decoration"
+filename = "vanity_statue_decorations-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/slwVlKuo/versions/uhvtNNG1/vanity_statue_decorations-1.0.jar"
+hash-format = "sha512"
+hash = "81f527a3994c67ead0b35e83ff3fbd621a245c24cf97053b2bb44059566f95104015a9964e1fab06675e7a6dad7d688f0f420150d2056509752bb2e3f0f40c45"
+
+[update]
+[update.modrinth]
+mod-id = "slwVlKuo"
+version = "uhvtNNG1"

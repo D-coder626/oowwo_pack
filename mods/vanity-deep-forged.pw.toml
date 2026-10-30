@@ -1,0 +1,13 @@
+name = "Vanity: Deep Forged"
+filename = "vanity_deep_forged-1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WGTY6Lgi/versions/sTAyDcKi/vanity_deep_forged-1.3.jar"
+hash-format = "sha512"
+hash = "70c3b46fbc5dd4a8c4be31132970bf7dae44dccb630f2131835543d678b458c458a95047a141e71b8a611a102b6f4e4a9974747e429ba2d9985865c6101937a7"
+
+[update]
+[update.modrinth]
+mod-id = "WGTY6Lgi"
+version = "sTAyDcKi"

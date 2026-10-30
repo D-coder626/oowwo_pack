@@ -2242,7 +2242,7 @@ hash = "36b0d118a1924aa3f2436fa16cc46a366c9a7f138765ae86caec05977be98bd5"
 
 [[files]]
 file = "config/enhancedcelestials2core/translations-cache/en_us.json"
-hash = "031126165e26ee408fa786ae40f04e47020faaa7db08c385ad375803b887b05d"
+hash = "ab498514a38c6b6a28adc7841475c2b7e198583b83998288fbe4d319a031938c"
 
 [[files]]
 file = "config/enhancedcelestials2core/translations.json"
@@ -2250,7 +2250,11 @@ hash = "24c34c89632454822eb2acc91d2b38b1a72fd370925c544c796396b2b174a205"
 
 [[files]]
 file = "config/enhancedcelestials2defaultlunarevents/translations-cache/en_us.json"
-hash = "3c4867c21785065c7208471517ce4da506e720d13779843e8a8450479b519882"
+hash = "cfb65b81fbad73bb62061caf1c4ad356b6c055c050c3eaa641a3e78dc39f93a0"
+
+[[files]]
+file = "config/enhancedcelestials2shaders/translations-cache/en_us.json"
+hash = "f25a521488717ba991134a8dc909afa8530f89c5f4f8d644dfe61a554cb88a19"
 
 [[files]]
 file = "config/enhancedmobcap-common.toml"
@@ -3123,6 +3127,14 @@ hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
 [[files]]
 file = "config/inventoryprofilesnext/yrrp/villager-trading-config-v2.json"
 hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "config/iris-excluded.json"
+hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
+
+[[files]]
+file = "config/iris.properties"
+hash = "9cb2a29010776e7eae53198242d3ddd86b69657c58e1550bf419b81947981509"
 
 [[files]]
 file = "config/irons_spellbooks-client.toml"
@@ -4278,7 +4290,7 @@ hash = "1e02077599b5ea195d74cd07e3f1cd731f15536318bc2a96824a7ec03097e33f"
 
 [[files]]
 file = "config/submarine_hull.json"
-hash = "9a14cdaba9f45491a2bcb46b58090ebb6e243ea1729aed2301dd4cbeab0e751f"
+hash = "066679c106d7d7f615db40142f4df6f26cdaeaf10d508ed2c245a3024427ea02"
 
 [[files]]
 file = "config/subtle_effects/blocks.toml"
@@ -7424,6 +7436,11 @@ hash = "6f0b39dd7bbdcfc949ed2bae609c14ff3599606496c2b58323cf959e9167d695"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-celestials-2-shader-support.pw.toml"
+hash = "b650c5666be87fc045190cdf8d19c23c11ea47c2d853c5381beb73799dc0f6e2"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-mob-cap.pw.toml"
 hash = "f4518a50c69770b077804feb01596ed46dc2218c8edd08d4e1dec48efac23044"
 metafile = true
@@ -7644,6 +7661,11 @@ hash = "3eddd65ecb3fbe5f4a986663855b3f43c81b153a4bcb1ae3d374f83626292ae3"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "c7eeac25e127fcc530b901cb285109cda2cee1e15437f2f47eddea19e12e7167"
+metafile = true
+
+[[files]]
 file = "mods/irons-lib.pw.toml"
 hash = "2b8828fee0eee7900b80d5f9ac1b0d9e194ba5edf3797dbd70a1e02c3f4dd0a8"
 metafile = true
@@ -7655,7 +7677,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "7cc3cbcec18ece69ef68a89a2dd037c3826a99169e79cfe2b46584e7c2618ab6"
+hash = "26967b8f53ac1a953eed40294ea819f340dff090b0553e8f1a676203d5facbd5"
 metafile = true
 
 [[files]]
@@ -8077,6 +8099,11 @@ hash = "961b22a942e44a665f1434c8db311acd2bdd24b60802ef7ed01974c837ebf442"
 metafile = true
 
 [[files]]
+file = "mods/scrollshelf.pw.toml"
+hash = "7539b47326d462c473c654f43a1ca4a2f91cbd65767764cf7c13968723ffc0ae"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "cb78636f6248ef18541c45d1367b0087d01944f9421ccee12c5ec709435fd6af"
 metafile = true
@@ -8107,11 +8134,6 @@ hash = "889f3e8ab46bfc12afe6ca473169ead98794c6cc913d9b5d3c3b69d38c64559e"
 metafile = true
 
 [[files]]
-file = "mods/simply-swords.pw.toml"
-hash = "a2e45168586cae3588256872f83e9587641d3033a196d18c3524e08bd252218d"
-metafile = true
-
-[[files]]
 file = "mods/simply-tents.pw.toml"
 hash = "6acf861cff397ac8cd8394740ca59f06a43278d1a98732acf88ff28143292773"
 metafile = true
@@ -8120,6 +8142,10 @@ metafile = true
 file = "mods/simply-tooltips.pw.toml"
 hash = "935e620b5f2bef8c1bf54285df466bed328cac6ac78668dbf98bd324902621b0"
 metafile = true
+
+[[files]]
+file = "mods/simplyswords-neoforge-1.70.1-1.21.1.jar"
+hash = "08bb74665b9ce75bb63d7943fea661588a6fb85fe90cd7ef047303695550b04c"
 
 [[files]]
 file = "mods/sinytra-connector.pw.toml"
@@ -8375,9 +8401,51 @@ hash = "8d43ef6d5520e1801d75562f329668215cf3a523ec5fc360bf3a5f138fe6ec41"
 metafile = true
 
 [[files]]
+file = "mods/vanity-aesthetic-armory.pw.toml"
+hash = "24dde8683b084284fb56c3ba60f2cba516e3cab2aac256e925a7abc0c6f60bfa"
+metafile = true
+
+[[files]]
+file = "mods/vanity-ancient-tool-variants.pw.toml"
+hash = "71577f6d8dc40ff39e1cbda2d0b6304f25026616d603b7b9526996e733989b3d"
+metafile = true
+
+[[files]]
+file = "mods/vanity-colossal-weapons.pw.toml"
+hash = "9a85fd58d2f143cdc0e73499de747ff39b5e1c6c8afb0ec056103b7b72424946"
+metafile = true
+
+[[files]]
 file = "mods/vanity-core.pw.toml"
 hash = "7ee7b42f1c3b89ca9082e0c68fe4ba8b3f0fc733c17c38e03471971fa7f76238"
 metafile = true
+
+[[files]]
+file = "mods/vanity-deep-forged.pw.toml"
+hash = "73f3cb88676f6be134a350068da3ceae1f2e69ac7845d44b131cc9dbe05aafde"
+metafile = true
+
+[[files]]
+file = "mods/vanity-ornate-weaponry.pw.toml"
+hash = "2ef6494b0b061a7454da2f62581cc8ed4a0fac3677f75353f5d900d79e0e1225"
+metafile = true
+
+[[files]]
+file = "mods/vanity-statue-decoration.pw.toml"
+hash = "1a15003f3c19a13c904489aee4d6a7bdf211d7a282ad838bf01c14f11cae2de4"
+metafile = true
+
+[[files]]
+file = "mods/vanity_fortvisceran_design.jar"
+hash = "e11d77e14e1f990e9303bf97af560120c61a5e7c2c9fdefccc9d7e7b593ccfdd"
+
+[[files]]
+file = "mods/vanity_gourdite_design.jar"
+hash = "92d356565bf00b443e315533eccd0727b26714de2f5410bb408aff528b363115"
+
+[[files]]
+file = "mods/vanity_tactical_design.jar"
+hash = "0ebdb0955c47dd6f54addf86a1662cdaae7a227d0a5888b90ed04a5d1df6f111"
 
 [[files]]
 file = "mods/variants-and-ventures.pw.toml"

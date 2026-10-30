@@ -1,0 +1,13 @@
+name = "Vanity: Colossal Weapons"
+filename = "vanity_colossal_weapons-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PzD3qsuR/versions/XnR1qv1J/vanity_colossal_weapons-1.0.2.jar"
+hash-format = "sha512"
+hash = "e0d0dcf8e1af8777517ec3a4fd37ed1bc132133d60c1a2a3e080073b871b5400695dd75423ef57dc95b9373781157ad9a12d5e5b2e74ee0d29a3c50864a83229"
+
+[update]
+[update.modrinth]
+mod-id = "PzD3qsuR"
+version = "XnR1qv1J"

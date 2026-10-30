@@ -1,0 +1,13 @@
+name = "Vanity: Ancient Tool Variants"
+filename = "ancient_design.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UHJHjAMr/versions/PwWRGzNo/ancient_design.jar"
+hash-format = "sha512"
+hash = "1e88ea625507583c822cc49e13f0abbbf8e542d7d58352acfe0048d0497a04500c81e2051dceaa1ef09442909d03c376ab504e8a22ed903106b9a5e340182fe9"
+
+[update]
+[update.modrinth]
+mod-id = "UHJHjAMr"
+version = "PwWRGzNo"
