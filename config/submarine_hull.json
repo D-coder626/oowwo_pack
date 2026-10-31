@@ -1873,6 +1873,38 @@
     "maxWaterDepth": 32,
     "implosionChance": 0.4806853
   },
+  "amendments:copperoverthrow/wall_copper_lantern": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "amendments:copperoverthrow/wall_exposed_copper_lantern": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "amendments:copperoverthrow/wall_oxidized_copper_lantern": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "amendments:copperoverthrow/wall_waxed_copper_lantern": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "amendments:copperoverthrow/wall_waxed_exposed_copper_lantern": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "amendments:copperoverthrow/wall_waxed_oxidized_copper_lantern": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "amendments:copperoverthrow/wall_waxed_weathered_copper_lantern": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "amendments:copperoverthrow/wall_weathered_copper_lantern": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
   "amendments:createaddition/double_chocolate_cake": {
     "maxWaterDepth": 23,
     "implosionChance": 0.5344535
@@ -17684,6 +17716,318 @@
   "comforts:sleeping_bag_yellow": {
     "maxWaterDepth": 17,
     "implosionChance": 0.585469
+  },
+  "copperoverthrow:bamboo_wind_chime": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "copperoverthrow:copper_beeosphere": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:copper_chain": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:copper_lantern": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:copper_scaffolding": {
+    "maxWaterDepth": 53,
+    "implosionChance": 0.45637056
+  },
+  "copperoverthrow:exposed_copper_chain": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:exposed_copper_lantern": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:exposed_copper_scaffolding": {
+    "maxWaterDepth": 54,
+    "implosionChance": 0.45137057
+  },
+  "copperoverthrow:exposed_high_note_rain_drum": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "copperoverthrow:exposed_kitchen_bell": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:exposed_log_stripper": {
+    "maxWaterDepth": 83,
+    "implosionChance": 0.23905621
+  },
+  "copperoverthrow:exposed_low_note_rain_drum": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "copperoverthrow:exposed_medium_note_rain_drum": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "copperoverthrow:exposed_tamtam": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:high_note_rain_drum": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "copperoverthrow:hologram_block": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "copperoverthrow:inverted_hologram_block": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "copperoverthrow:kitchen_bell": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:log_stripper": {
+    "maxWaterDepth": 83,
+    "implosionChance": 0.23905621
+  },
+  "copperoverthrow:low_note_rain_drum": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "copperoverthrow:lunar_wind_chime": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "copperoverthrow:medium_note_rain_drum": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "copperoverthrow:oxidized_copper_chain": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:oxidized_copper_lantern": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:oxidized_copper_scaffolding": {
+    "maxWaterDepth": 57,
+    "implosionChance": 0.43137056
+  },
+  "copperoverthrow:oxidized_high_note_rain_drum": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "copperoverthrow:oxidized_kitchen_bell": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:oxidized_log_stripper": {
+    "maxWaterDepth": 83,
+    "implosionChance": 0.23905621
+  },
+  "copperoverthrow:oxidized_low_note_rain_drum": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "copperoverthrow:oxidized_medium_note_rain_drum": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "copperoverthrow:oxidized_tamtam": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:red_wind_chime": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "copperoverthrow:tamtam": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:waxed_copper_chain": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:waxed_copper_lantern": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:waxed_copper_scaffolding": {
+    "maxWaterDepth": 53,
+    "implosionChance": 0.45637056
+  },
+  "copperoverthrow:waxed_exposed_copper_chain": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:waxed_exposed_copper_lantern": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:waxed_exposed_copper_scaffolding": {
+    "maxWaterDepth": 54,
+    "implosionChance": 0.45137057
+  },
+  "copperoverthrow:waxed_exposed_high_note_rain_drum": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "copperoverthrow:waxed_exposed_kitchen_bell": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:waxed_exposed_log_stripper": {
+    "maxWaterDepth": 83,
+    "implosionChance": 0.23905621
+  },
+  "copperoverthrow:waxed_exposed_low_note_rain_drum": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "copperoverthrow:waxed_exposed_medium_note_rain_drum": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "copperoverthrow:waxed_exposed_tamtam": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:waxed_high_note_rain_drum": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "copperoverthrow:waxed_kitchen_bell": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:waxed_log_stripper": {
+    "maxWaterDepth": 83,
+    "implosionChance": 0.23905621
+  },
+  "copperoverthrow:waxed_low_note_rain_drum": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "copperoverthrow:waxed_medium_note_rain_drum": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "copperoverthrow:waxed_oxidized_copper_chain": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:waxed_oxidized_copper_lantern": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:waxed_oxidized_copper_scaffolding": {
+    "maxWaterDepth": 57,
+    "implosionChance": 0.43137056
+  },
+  "copperoverthrow:waxed_oxidized_high_note_rain_drum": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "copperoverthrow:waxed_oxidized_kitchen_bell": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:waxed_oxidized_log_stripper": {
+    "maxWaterDepth": 83,
+    "implosionChance": 0.23905621
+  },
+  "copperoverthrow:waxed_oxidized_low_note_rain_drum": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "copperoverthrow:waxed_oxidized_medium_note_rain_drum": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "copperoverthrow:waxed_oxidized_tamtam": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:waxed_tamtam": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:waxed_weathered_copper_chain": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:waxed_weathered_copper_lantern": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:waxed_weathered_copper_scaffolding": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.44137058
+  },
+  "copperoverthrow:waxed_weathered_high_note_rain_drum": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "copperoverthrow:waxed_weathered_kitchen_bell": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:waxed_weathered_log_stripper": {
+    "maxWaterDepth": 83,
+    "implosionChance": 0.23905621
+  },
+  "copperoverthrow:waxed_weathered_low_note_rain_drum": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "copperoverthrow:waxed_weathered_medium_note_rain_drum": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "copperoverthrow:waxed_weathered_tamtam": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:weathered_copper_chain": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:weathered_copper_lantern": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:weathered_copper_scaffolding": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.44137058
+  },
+  "copperoverthrow:weathered_high_note_rain_drum": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "copperoverthrow:weathered_kitchen_bell": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "copperoverthrow:weathered_log_stripper": {
+    "maxWaterDepth": 83,
+    "implosionChance": 0.23905621
+  },
+  "copperoverthrow:weathered_low_note_rain_drum": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "copperoverthrow:weathered_medium_note_rain_drum": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "copperoverthrow:weathered_tamtam": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
   },
   "copycats:copycat_base": {
     "maxWaterDepth": 85,
