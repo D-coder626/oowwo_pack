@@ -1937,6 +1937,10 @@
     "maxWaterDepth": 59,
     "implosionChance": 0.39013878
   },
+  "amendments:enderscape/wall_bulb_lantern": {
+    "maxWaterDepth": 54,
+    "implosionChance": 0.27459225
+  },
   "amendments:hanging_flower_pot": {
     "maxWaterDepth": 25,
     "implosionChance": 0.6
@@ -15181,6 +15185,166 @@
     "maxWaterDepth": 86,
     "implosionChance": 0.2197415
   },
+  "clutternomore:enderscape/celestial_brick_step": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:enderscape/celestial_step": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "clutternomore:enderscape/cut_shadoline_step": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "clutternomore:enderscape/dusk_purpur_step": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:enderscape/end_stone_step": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "clutternomore:enderscape/kurodite_brick_step": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:enderscape/kurodite_step": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:enderscape/mirestone_brick_step": {
+    "maxWaterDepth": 79,
+    "implosionChance": 0.06974149
+  },
+  "clutternomore:enderscape/mirestone_step": {
+    "maxWaterDepth": 79,
+    "implosionChance": 0.06974149
+  },
+  "clutternomore:enderscape/murublight_brick_step": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:enderscape/murublight_step": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "clutternomore:enderscape/polished_end_stone_step": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "clutternomore:enderscape/polished_kurodite_step": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:enderscape/polished_mirestone_step": {
+    "maxWaterDepth": 79,
+    "implosionChance": 0.06974149
+  },
+  "clutternomore:enderscape/polished_veradite_step": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:enderscape/purpur_tile_step": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:enderscape/shadoline_block_step": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "clutternomore:enderscape/veiled_step": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "clutternomore:enderscape/veradite_brick_step": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:enderscape/veradite_step": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:enderscape/vertical_celestial_brick_slab": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:enderscape/vertical_celestial_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "clutternomore:enderscape/vertical_cut_shadoline_slab": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "clutternomore:enderscape/vertical_dusk_purpur_slab": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.30540898
+  },
+  "clutternomore:enderscape/vertical_end_stone_slab": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "clutternomore:enderscape/vertical_kurodite_brick_slab": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:enderscape/vertical_kurodite_slab": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:enderscape/vertical_mirestone_brick_slab": {
+    "maxWaterDepth": 79,
+    "implosionChance": 0.06974149
+  },
+  "clutternomore:enderscape/vertical_mirestone_slab": {
+    "maxWaterDepth": 79,
+    "implosionChance": 0.06974149
+  },
+  "clutternomore:enderscape/vertical_murublight_brick_slab": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:enderscape/vertical_murublight_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "clutternomore:enderscape/vertical_polished_end_stone_slab": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "clutternomore:enderscape/vertical_polished_kurodite_slab": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:enderscape/vertical_polished_mirestone_slab": {
+    "maxWaterDepth": 79,
+    "implosionChance": 0.06974149
+  },
+  "clutternomore:enderscape/vertical_polished_veradite_slab": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:enderscape/vertical_purpur_tile_slab": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.30540898
+  },
+  "clutternomore:enderscape/vertical_shadoline_block_slab": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "clutternomore:enderscape/vertical_veiled_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "clutternomore:enderscape/vertical_veradite_brick_slab": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:enderscape/vertical_veradite_slab": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
   "clutternomore:eternalnether/cracked_withered_blackstone_step": {
     "maxWaterDepth": 400,
     "implosionChance": 0.05
@@ -16481,13 +16645,45 @@
     "maxWaterDepth": 68,
     "implosionChance": 0.330409
   },
+  "clutternomore:the_beyond/brittle_metal_step": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "clutternomore:the_beyond/cobbled_pearl_brick_step": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.560469
+  },
   "clutternomore:the_beyond/memor_step": {
     "maxWaterDepth": 196,
     "implosionChance": 0.05
   },
+  "clutternomore:the_beyond/pearl_brick_step": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.560469
+  },
+  "clutternomore:the_beyond/pearl_step": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.575
+  },
   "clutternomore:the_beyond/portelain_step": {
     "maxWaterDepth": 68,
     "implosionChance": 0.330409
+  },
+  "clutternomore:the_beyond/vertical_brittle_metal_slab": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "clutternomore:the_beyond/vertical_cobbled_pearl_brick_slab": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.560469
+  },
+  "clutternomore:the_beyond/vertical_pearl_brick_slab": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.560469
+  },
+  "clutternomore:the_beyond/vertical_pearl_slab": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.575
   },
   "clutternomore:the_beyond/vertical_portelain_slab": {
     "maxWaterDepth": 68,
@@ -23573,6 +23769,18 @@
     "maxWaterDepth": 42,
     "implosionChance": 0.38137057
   },
+  "diagonalfences:enderscape/celestial_fence": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "diagonalfences:enderscape/murublight_fence": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "diagonalfences:enderscape/veiled_fence": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
   "diagonalfences:evilcraft/undead_fence": {
     "maxWaterDepth": 44,
     "implosionChance": 0.36137056
@@ -27721,6 +27929,834 @@
     "maxWaterDepth": 25,
     "implosionChance": 0.6
   },
+  "enderscape:alluring_magnia": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:alluring_magnia_sprout": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.355409
+  },
+  "enderscape:blinklamp": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "enderscape:blinklight_vines_body": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "enderscape:blinklight_vines_head": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "enderscape:bulb_flower": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "enderscape:bulb_lantern": {
+    "maxWaterDepth": 54,
+    "implosionChance": 0.27459225
+  },
+  "enderscape:celestial_brick_slab": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:celestial_brick_stairs": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:celestial_brick_wall": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:celestial_bricks": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:celestial_button": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "enderscape:celestial_cap": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "enderscape:celestial_chanterelle": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "enderscape:celestial_door": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.31137055
+  },
+  "enderscape:celestial_fence": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "enderscape:celestial_fence_gate": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "enderscape:celestial_growth": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "enderscape:celestial_hanging_sign": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "enderscape:celestial_hyphae": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.39013878
+  },
+  "enderscape:celestial_indiscrete_door": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.31137055
+  },
+  "enderscape:celestial_normal_door": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.31137055
+  },
+  "enderscape:celestial_overgrowth": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "enderscape:celestial_path_block": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "enderscape:celestial_pet_door": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.31137055
+  },
+  "enderscape:celestial_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "enderscape:celestial_pressure_plate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "enderscape:celestial_sign": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "enderscape:celestial_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "enderscape:celestial_stairs": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "enderscape:celestial_stem": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.39013878
+  },
+  "enderscape:celestial_transit_door": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.31137055
+  },
+  "enderscape:celestial_trapdoor": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.31137055
+  },
+  "enderscape:celestial_wall_hanging_sign": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "enderscape:celestial_wall_sign": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "enderscape:chiseled_dusk_purpur": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:chiseled_end_stone": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "enderscape:chiseled_kurodite": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:chiseled_mirestone": {
+    "maxWaterDepth": 79,
+    "implosionChance": 0.06974149
+  },
+  "enderscape:chiseled_purpur": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:chiseled_shadoline": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "enderscape:chiseled_veradite": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:chorus_cake_roll": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "enderscape:chorus_sprouts": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "enderscape:corrupt_growth": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "enderscape:corrupt_overgrowth": {
+    "maxWaterDepth": 79,
+    "implosionChance": 0.06974149
+  },
+  "enderscape:corrupt_path_block": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "enderscape:cut_shadoline": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "enderscape:cut_shadoline_slab": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "enderscape:cut_shadoline_stairs": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "enderscape:cut_shadoline_wall": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "enderscape:drift_jelly_block": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "enderscape:dry_end_growth": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "enderscape:dusk_purpur_block": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:dusk_purpur_pillar": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:dusk_purpur_slab": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.30540898
+  },
+  "enderscape:dusk_purpur_stairs": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:dusk_purpur_wall": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:end_lamp": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.52299964
+  },
+  "enderscape:end_stone_slab": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "enderscape:end_stone_stairs": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "enderscape:end_stone_wall": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "enderscape:end_trial_spawner": {
+    "maxWaterDepth": 362,
+    "implosionChance": 0.05
+  },
+  "enderscape:end_vault": {
+    "maxWaterDepth": 362,
+    "implosionChance": 0.05
+  },
+  "enderscape:etched_alluring_magnia": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:etched_repulsive_magnia": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:flanger_berry_flower": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.55876356
+  },
+  "enderscape:flanger_berry_vine": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "enderscape:kurodite": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:kurodite_brick_slab": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:kurodite_brick_stairs": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:kurodite_brick_wall": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:kurodite_bricks": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:kurodite_slab": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:kurodite_stairs": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:kurodite_wall": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:mirestone": {
+    "maxWaterDepth": 79,
+    "implosionChance": 0.06974149
+  },
+  "enderscape:mirestone_brick_slab": {
+    "maxWaterDepth": 79,
+    "implosionChance": 0.06974149
+  },
+  "enderscape:mirestone_brick_stairs": {
+    "maxWaterDepth": 79,
+    "implosionChance": 0.06974149
+  },
+  "enderscape:mirestone_brick_wall": {
+    "maxWaterDepth": 79,
+    "implosionChance": 0.06974149
+  },
+  "enderscape:mirestone_bricks": {
+    "maxWaterDepth": 79,
+    "implosionChance": 0.06974149
+  },
+  "enderscape:mirestone_nebulite_ore": {
+    "maxWaterDepth": 79,
+    "implosionChance": 0.06974149
+  },
+  "enderscape:mirestone_shadoline_ore": {
+    "maxWaterDepth": 79,
+    "implosionChance": 0.06974149
+  },
+  "enderscape:mirestone_slab": {
+    "maxWaterDepth": 79,
+    "implosionChance": 0.06974149
+  },
+  "enderscape:mirestone_stairs": {
+    "maxWaterDepth": 79,
+    "implosionChance": 0.06974149
+  },
+  "enderscape:mirestone_wall": {
+    "maxWaterDepth": 79,
+    "implosionChance": 0.06974149
+  },
+  "enderscape:murublight_brick_slab": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:murublight_brick_stairs": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:murublight_brick_wall": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:murublight_bricks": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:murublight_button": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "enderscape:murublight_cap": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "enderscape:murublight_chanterelle": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "enderscape:murublight_door": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.31137055
+  },
+  "enderscape:murublight_fence": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "enderscape:murublight_fence_gate": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "enderscape:murublight_hanging_sign": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "enderscape:murublight_hyphae": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.39013878
+  },
+  "enderscape:murublight_indiscrete_door": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.31137055
+  },
+  "enderscape:murublight_normal_door": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.31137055
+  },
+  "enderscape:murublight_pet_door": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.31137055
+  },
+  "enderscape:murublight_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "enderscape:murublight_pressure_plate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "enderscape:murublight_shelf": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "enderscape:murublight_sign": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "enderscape:murublight_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "enderscape:murublight_stairs": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "enderscape:murublight_stem": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.39013878
+  },
+  "enderscape:murublight_transit_door": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.31137055
+  },
+  "enderscape:murublight_trapdoor": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.31137055
+  },
+  "enderscape:murublight_wall_hanging_sign": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "enderscape:murublight_wall_sign": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "enderscape:nebulite_block": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.30540898
+  },
+  "enderscape:nebulite_ore": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "enderscape:polished_end_stone": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "enderscape:polished_end_stone_button": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "enderscape:polished_end_stone_pressure_plate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "enderscape:polished_end_stone_slab": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "enderscape:polished_end_stone_stairs": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "enderscape:polished_end_stone_wall": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "enderscape:polished_kurodite": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:polished_kurodite_button": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "enderscape:polished_kurodite_pressure_plate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "enderscape:polished_kurodite_slab": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:polished_kurodite_stairs": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:polished_kurodite_wall": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:polished_mirestone": {
+    "maxWaterDepth": 79,
+    "implosionChance": 0.06974149
+  },
+  "enderscape:polished_mirestone_button": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "enderscape:polished_mirestone_pressure_plate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "enderscape:polished_mirestone_slab": {
+    "maxWaterDepth": 79,
+    "implosionChance": 0.06974149
+  },
+  "enderscape:polished_mirestone_stairs": {
+    "maxWaterDepth": 79,
+    "implosionChance": 0.06974149
+  },
+  "enderscape:polished_mirestone_wall": {
+    "maxWaterDepth": 79,
+    "implosionChance": 0.06974149
+  },
+  "enderscape:polished_veradite": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:polished_veradite_button": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "enderscape:polished_veradite_pressure_plate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "enderscape:polished_veradite_slab": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:polished_veradite_stairs": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:polished_veradite_wall": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:potted_alluring_magnia_sprout": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "enderscape:potted_blinklight": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "enderscape:potted_bulb_flower": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "enderscape:potted_celestial_chanterelle": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "enderscape:potted_celestial_growth": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "enderscape:potted_chorus_sprouts": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "enderscape:potted_corrupt_growth": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "enderscape:potted_dry_end_growth": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "enderscape:potted_murublight_chanterelle": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "enderscape:potted_repulsive_magnia_sprout": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "enderscape:potted_veiled_sapling": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "enderscape:potted_wisp_growth": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "enderscape:purpur_tile_slab": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.30540898
+  },
+  "enderscape:purpur_tile_stairs": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:purpur_tiles": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:purpur_wall": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:raw_shadoline_block": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.31137055
+  },
+  "enderscape:repulsive_magnia": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:repulsive_magnia_sprout": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.355409
+  },
+  "enderscape:ripe_flanger_berry_block": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.55876356
+  },
+  "enderscape:shadoline_block": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "enderscape:shadoline_block_slab": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "enderscape:shadoline_block_stairs": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "enderscape:shadoline_block_wall": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "enderscape:shadoline_ore": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "enderscape:shadoline_pillar": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "enderscape:stripped_celestial_hyphae": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.39013878
+  },
+  "enderscape:stripped_celestial_stem": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.39013878
+  },
+  "enderscape:stripped_murublight_hyphae": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.39013878
+  },
+  "enderscape:stripped_murublight_stem": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.39013878
+  },
+  "enderscape:stripped_veiled_log": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.39013878
+  },
+  "enderscape:stripped_veiled_wood": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.39013878
+  },
+  "enderscape:unripe_flanger_berry_block": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.55876356
+  },
+  "enderscape:veiled_button": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "enderscape:veiled_discrete_door": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.31137055
+  },
+  "enderscape:veiled_door": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.31137055
+  },
+  "enderscape:veiled_end_stone": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.2197415
+  },
+  "enderscape:veiled_fence": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "enderscape:veiled_fence_gate": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "enderscape:veiled_hanging_sign": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "enderscape:veiled_indiscrete_door": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.31137055
+  },
+  "enderscape:veiled_leaf_pile": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.585469
+  },
+  "enderscape:veiled_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "enderscape:veiled_log": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.39013878
+  },
+  "enderscape:veiled_pet_door": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.31137055
+  },
+  "enderscape:veiled_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "enderscape:veiled_pressure_plate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "enderscape:veiled_sapling": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "enderscape:veiled_sign": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "enderscape:veiled_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "enderscape:veiled_stairs": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "enderscape:veiled_transit_door": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.31137055
+  },
+  "enderscape:veiled_trapdoor": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.31137055
+  },
+  "enderscape:veiled_vines": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "enderscape:veiled_wall_hanging_sign": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "enderscape:veiled_wall_sign": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "enderscape:veiled_wood": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.39013878
+  },
+  "enderscape:veradite": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:veradite_brick_slab": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:veradite_brick_stairs": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:veradite_brick_wall": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:veradite_bricks": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:veradite_slab": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:veradite_stairs": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:veradite_wall": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "enderscape:void_shale": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "enderscape:wisp_flower": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "enderscape:wisp_growth": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "enderscape:wisp_sprouts": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
   "endrem:ancient_portal_frame": {
     "maxWaterDepth": 30,
     "implosionChance": 0.05
@@ -27806,6 +28842,18 @@
     "implosionChance": 0.39013878
   },
   "envelope:env/eidolon_repraised/illwood_pigeonhole": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "envelope:env/enderscape/celestial_pigeonhole": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "envelope:env/enderscape/murublight_pigeonhole": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "envelope:env/enderscape/veiled_pigeonhole": {
     "maxWaterDepth": 41,
     "implosionChance": 0.39013878
   },
@@ -28153,6 +29201,30 @@
     "maxWaterDepth": 28,
     "implosionChance": 0.55876356
   },
+  "everycomp:c/enderscape/celestial_window": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.55876356
+  },
+  "everycomp:c/enderscape/celestial_window_pane": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.55876356
+  },
+  "everycomp:c/enderscape/murublight_window": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.55876356
+  },
+  "everycomp:c/enderscape/murublight_window_pane": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.55876356
+  },
+  "everycomp:c/enderscape/veiled_window": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.55876356
+  },
+  "everycomp:c/enderscape/veiled_window_pane": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.55876356
+  },
   "everycomp:c/evilcraft/undead_window": {
     "maxWaterDepth": 28,
     "implosionChance": 0.55876356
@@ -28350,6 +29422,18 @@
     "implosionChance": 0.4806853
   },
   "everycomp:fd/caverns_and_chasms/azalea_cabinet": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:fd/enderscape/celestial_cabinet": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:fd/enderscape/murublight_cabinet": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:fd/enderscape/veiled_cabinet": {
     "maxWaterDepth": 44,
     "implosionChance": 0.36137056
   },
@@ -29312,6 +30396,182 @@
   "everycomp:hc/eidolon_repraised/illwood_table": {
     "maxWaterDepth": 42,
     "implosionChance": 0.38137057
+  },
+  "everycomp:hc/enderscape/celestial_bench": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/celestial_chair": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/celestial_corner_trim": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/celestial_couch": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/celestial_counter": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/celestial_cupboard": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/celestial_desk": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/celestial_dining_bench": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/celestial_drawer": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/celestial_fancy_bed": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.57176787
+  },
+  "everycomp:hc/enderscape/celestial_nightstand": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/celestial_pillar_trim": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/celestial_shelf": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/celestial_side_table": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/celestial_table": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/murublight_bench": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/murublight_chair": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/murublight_corner_trim": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/murublight_couch": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/murublight_counter": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/murublight_cupboard": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/murublight_desk": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/murublight_dining_bench": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/murublight_drawer": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/murublight_fancy_bed": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.57176787
+  },
+  "everycomp:hc/enderscape/murublight_nightstand": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/murublight_pillar_trim": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/murublight_side_table": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/murublight_table": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/veiled_bench": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/veiled_chair": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/veiled_corner_trim": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/veiled_couch": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/veiled_counter": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/veiled_cupboard": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/veiled_desk": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/veiled_dining_bench": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/veiled_drawer": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/veiled_fancy_bed": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.57176787
+  },
+  "everycomp:hc/enderscape/veiled_nightstand": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/veiled_pillar_trim": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/veiled_shelf": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/veiled_side_table": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:hc/enderscape/veiled_table": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
   },
   "everycomp:hc/evilcraft/undead_bench": {
     "maxWaterDepth": 41,
@@ -30721,6 +31981,30 @@
     "maxWaterDepth": 42,
     "implosionChance": 0.38137057
   },
+  "everycomp:nml/enderscape/celestial_bookshelf": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.43337092
+  },
+  "everycomp:nml/enderscape/murublight_bookshelf": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.43337092
+  },
+  "everycomp:nml/enderscape/trimmed_celestial_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:nml/enderscape/trimmed_murublight_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:nml/enderscape/trimmed_veiled_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:nml/enderscape/veiled_bookshelf": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.43337092
+  },
   "everycomp:nml/evilcraft/trimmed_undead_planks": {
     "maxWaterDepth": 41,
     "implosionChance": 0.39013878
@@ -31330,6 +32614,114 @@
     "implosionChance": 0.3497237
   },
   "everycomp:q/eidolon_repraised/vertical_illwood_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:q/enderscape/celestial_bookshelf": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.43337092
+  },
+  "everycomp:q/enderscape/celestial_chest": {
+    "maxWaterDepth": 45,
+    "implosionChance": 0.3497237
+  },
+  "everycomp:q/enderscape/celestial_ladder": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.5463528
+  },
+  "everycomp:q/enderscape/celestial_post": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:q/enderscape/celestial_vertical_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:q/enderscape/hollow_celestial_log": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:q/enderscape/hollow_murublight_log": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:q/enderscape/hollow_veiled_log": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.39013878
+  },
+  "everycomp:q/enderscape/murublight_bookshelf": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.43337092
+  },
+  "everycomp:q/enderscape/murublight_chest": {
+    "maxWaterDepth": 45,
+    "implosionChance": 0.3497237
+  },
+  "everycomp:q/enderscape/murublight_ladder": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.5463528
+  },
+  "everycomp:q/enderscape/murublight_post": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:q/enderscape/murublight_vertical_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:q/enderscape/stripped_celestial_post": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:q/enderscape/stripped_murublight_post": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:q/enderscape/stripped_veiled_post": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:q/enderscape/trapped_celestial_chest": {
+    "maxWaterDepth": 45,
+    "implosionChance": 0.3497237
+  },
+  "everycomp:q/enderscape/trapped_murublight_chest": {
+    "maxWaterDepth": 45,
+    "implosionChance": 0.3497237
+  },
+  "everycomp:q/enderscape/trapped_veiled_chest": {
+    "maxWaterDepth": 45,
+    "implosionChance": 0.3497237
+  },
+  "everycomp:q/enderscape/veiled_bookshelf": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.43337092
+  },
+  "everycomp:q/enderscape/veiled_chest": {
+    "maxWaterDepth": 45,
+    "implosionChance": 0.3497237
+  },
+  "everycomp:q/enderscape/veiled_ladder": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.5463528
+  },
+  "everycomp:q/enderscape/veiled_post": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:q/enderscape/veiled_vertical_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:q/enderscape/vertical_celestial_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:q/enderscape/vertical_murublight_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "everycomp:q/enderscape/vertical_veiled_planks": {
     "maxWaterDepth": 44,
     "implosionChance": 0.36137056
   },
@@ -51153,13 +52545,73 @@
     "maxWaterDepth": 196,
     "implosionChance": 0.05
   },
+  "the_beyond:bedazzled_end_stone": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.39013878
+  },
+  "the_beyond:bellow": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "the_beyond:bleeding_thorn": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "the_beyond:blinding_thorn": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
   "the_beyond:bonfire": {
     "maxWaterDepth": 362,
     "implosionChance": 0.05
   },
+  "the_beyond:brittle_metal": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "the_beyond:brittle_metal_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "the_beyond:brittle_metal_door": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "the_beyond:brittle_metal_slab": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "the_beyond:brittle_metal_stairs": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
   "the_beyond:chiseled_memor": {
     "maxWaterDepth": 196,
     "implosionChance": 0.05
+  },
+  "the_beyond:cobbled_pearl": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.560469
+  },
+  "the_beyond:cobbled_pearl_brick_slab": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.560469
+  },
+  "the_beyond:cobbled_pearl_brick_stairs": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.560469
+  },
+  "the_beyond:cobbled_pearl_brick_wall": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.560469
+  },
+  "the_beyond:cobbled_pearl_bricks": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.560469
+  },
+  "the_beyond:coil_vertebrae": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4594535
   },
   "the_beyond:creeping_zymote": {
     "maxWaterDepth": 15,
@@ -51189,6 +52641,14 @@
     "maxWaterDepth": 15,
     "implosionChance": 0.6
   },
+  "the_beyond:gauss_vent": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.41513878
+  },
+  "the_beyond:gaussanite": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.41513878
+  },
   "the_beyond:gellid_void_block": {
     "maxWaterDepth": 25,
     "implosionChance": 0.6
@@ -51217,6 +52677,14 @@
     "maxWaterDepth": 196,
     "implosionChance": 0.05
   },
+  "the_beyond:mirror": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.540469
+  },
+  "the_beyond:molten_metal": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
   "the_beyond:nacre": {
     "maxWaterDepth": 40,
     "implosionChance": 0.39013878
@@ -51233,9 +52701,65 @@
     "maxWaterDepth": 20,
     "implosionChance": 0.6
   },
+  "the_beyond:ornate_mirror": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.540469
+  },
+  "the_beyond:pale_nacre": {
+    "maxWaterDepth": 34,
+    "implosionChance": 0.44013876
+  },
+  "the_beyond:pale_raked_nacre": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.39013878
+  },
+  "the_beyond:pearl": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.575
+  },
+  "the_beyond:pearl_brick_slab": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.560469
+  },
+  "the_beyond:pearl_brick_stairs": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.560469
+  },
+  "the_beyond:pearl_brick_wall": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.560469
+  },
+  "the_beyond:pearl_bricks": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.560469
+  },
+  "the_beyond:pearl_chimes": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.540469
+  },
+  "the_beyond:pearl_slab": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.575
+  },
+  "the_beyond:pearl_stairs": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.575
+  },
+  "the_beyond:pearl_wall": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.575
+  },
   "the_beyond:peeping_obiroot": {
     "maxWaterDepth": 41,
     "implosionChance": 0.39013878
+  },
+  "the_beyond:perka_stalk": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.49876356
+  },
+  "the_beyond:perka_stalk_mouth": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4594535
   },
   "the_beyond:plate_block": {
     "maxWaterDepth": 67,
@@ -51285,6 +52809,22 @@
     "maxWaterDepth": 68,
     "implosionChance": 0.330409
   },
+  "the_beyond:portelain_wall": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "the_beyond:prismograph": {
+    "maxWaterDepth": 57,
+    "implosionChance": 0.43337092
+  },
+  "the_beyond:projector": {
+    "maxWaterDepth": 57,
+    "implosionChance": 0.43337092
+  },
+  "the_beyond:raked_nacre": {
+    "maxWaterDepth": 34,
+    "implosionChance": 0.44013876
+  },
   "the_beyond:reaching_zymote": {
     "maxWaterDepth": 15,
     "implosionChance": 0.6
@@ -51293,9 +52833,33 @@
     "maxWaterDepth": 81,
     "implosionChance": 0.050349243
   },
+  "the_beyond:rich_nacre": {
+    "maxWaterDepth": 34,
+    "implosionChance": 0.44013876
+  },
+  "the_beyond:rich_raked_nacre": {
+    "maxWaterDepth": 34,
+    "implosionChance": 0.44013876
+  },
+  "the_beyond:soot_block": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.585
+  },
   "the_beyond:stardust": {
     "maxWaterDepth": 15,
     "implosionChance": 0.6
+  },
+  "the_beyond:unstable_nacre": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.41513878
+  },
+  "the_beyond:vile_growth": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "the_beyond:vilet": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.585
   },
   "the_beyond:void_crystal": {
     "maxWaterDepth": 22,

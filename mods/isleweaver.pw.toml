@@ -1,0 +1,13 @@
+name = "The Beyond - Isleweaver Addon"
+filename = "isleweaver-0.0.3b-InDev.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/erNCpdqn/versions/vsuc3Sww/isleweaver-0.0.3b-InDev.jar"
+hash-format = "sha512"
+hash = "3f034a81d22453ff7afcf7dd0060e85e0a1dc27e146e70fe0bb0aaa948c2ee0671006116a514353bdcff9a95e1bea3a1ab9596bdf4afad0e4783ff5a555071fe"
+
+[update]
+[update.modrinth]
+mod-id = "erNCpdqn"
+version = "vsuc3Sww"

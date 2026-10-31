@@ -692,6 +692,10 @@
     "bronze:bronze_sword": [
       "attack:5"
     ],
+    "caverns_and_chasms:necromium_axe": [
+      "attack:30",
+      "gathering:30"
+    ],
     "caverns_and_chasms:necromium_boots": [
       "defense:30"
     ],
@@ -701,11 +705,20 @@
     "caverns_and_chasms:necromium_helmet": [
       "defense:30"
     ],
+    "caverns_and_chasms:necromium_hoe": [
+      "farming:30"
+    ],
     "caverns_and_chasms:necromium_leggings": [
       "defense:30"
     ],
     "caverns_and_chasms:necromium_pickaxe": [
       "mining:30"
+    ],
+    "caverns_and_chasms:necromium_shovel": [
+      "gathering:30"
+    ],
+    "caverns_and_chasms:necromium_sword": [
+      "attack:30"
     ],
     "caverns_and_chasms:silver_boots": [
       "defense:5"
@@ -891,16 +904,19 @@
       "building:5"
     ],
     "create_deep_dark:echo_armor_boots": [
-      "defense:15"
+      "defense:30"
     ],
     "create_deep_dark:echo_armor_chestplate": [
-      "defense:15"
+      "defense:30"
     ],
     "create_deep_dark:echo_armor_helmet": [
-      "defense:15"
+      "defense:30"
     ],
     "create_deep_dark:echo_armor_leggings": [
-      "defense:15"
+      "defense:30"
+    ],
+    "create_deep_dark:echo_sword": [
+      "attack:30"
     ],
     "create_high_seas:anchor": [
       "building:20"
@@ -1141,6 +1157,91 @@
     ],
     "dungeonsdelight:zanite_knife": [
       "attack:5"
+    ],
+    "dwarfs_tyranny:air_extractor": [
+      "building:10"
+    ],
+    "dwarfs_tyranny:bridger": [
+      "building:15"
+    ],
+    "dwarfs_tyranny:dwarf_netherite_armor_boots": [
+      "defense:30"
+    ],
+    "dwarfs_tyranny:dwarf_netherite_armor_chestplate": [
+      "defense:30"
+    ],
+    "dwarfs_tyranny:dwarf_netherite_armor_helmet": [
+      "defense:30"
+    ],
+    "dwarfs_tyranny:dwarf_netherite_armor_leggings": [
+      "defense:30"
+    ],
+    "dwarfs_tyranny:empty_tank": [
+      "building:10"
+    ],
+    "dwarfs_tyranny:flamethrower": [
+      "building:20"
+    ],
+    "dwarfs_tyranny:gas_tank": [
+      "building:10"
+    ],
+    "dwarfs_tyranny:grapple_gun": [
+      "building:15"
+    ],
+    "dwarfs_tyranny:lightningthrower": [
+      "building:25"
+    ],
+    "dwarfs_tyranny:magnetic_rail": [
+      "building:15"
+    ],
+    "dwarfs_tyranny:mythril_armor_boots": [
+      "defense:22"
+    ],
+    "dwarfs_tyranny:mythril_armor_chestplate": [
+      "defense:22"
+    ],
+    "dwarfs_tyranny:mythril_armor_helmet": [
+      "defense:22"
+    ],
+    "dwarfs_tyranny:mythril_armor_leggings": [
+      "defense:22"
+    ],
+    "dwarfs_tyranny:mythril_axe": [
+      "attack:22",
+      "gathering:22"
+    ],
+    "dwarfs_tyranny:mythril_furnace": [
+      "building:15"
+    ],
+    "dwarfs_tyranny:mythril_hoe": [
+      "farming:22"
+    ],
+    "dwarfs_tyranny:mythril_pickaxe": [
+      "mining:22"
+    ],
+    "dwarfs_tyranny:mythril_pipe": [
+      "building:10"
+    ],
+    "dwarfs_tyranny:mythril_shovel": [
+      "gathering:22"
+    ],
+    "dwarfs_tyranny:mythril_sword": [
+      "attack:22"
+    ],
+    "dwarfs_tyranny:mythril_tank": [
+      "building:10"
+    ],
+    "dwarfs_tyranny:nail_gun": [
+      "building:15"
+    ],
+    "dwarfs_tyranny:propulser": [
+      "building:15"
+    ],
+    "dwarfs_tyranny:rc_drill": [
+      "building:20"
+    ],
+    "dwarfs_tyranny:separator": [
+      "building:15"
     ],
     "evilcraft:spikey_claws": [
       "magic:5",
@@ -1822,17 +1923,92 @@
     "simulated:velocity_sensor": [
       "building:15"
     ],
+    "sons_of_sins:butcher_cleaver": [
+      "attack:10",
+      "magic:5"
+    ],
+    "sons_of_sins:cursed_head": [
+      "attack:15",
+      "magic:10"
+    ],
+    "sons_of_sins:ether_engine": [
+      "magic:10"
+    ],
+    "sons_of_sins:ether_sword": [
+      "attack:10",
+      "magic:10"
+    ],
     "sons_of_sins:flesh_axe": [
+      "attack:10",
+      "gathering:10",
+      "magic:5"
+    ],
+    "sons_of_sins:flesh_hoe": [
+      "farming:10",
+      "magic:5"
+    ],
+    "sons_of_sins:flesh_pickaxe": [
+      "mining:10",
+      "magic:5"
+    ],
+    "sons_of_sins:flesh_shovel": [
+      "gathering:10",
+      "magic:5"
+    ],
+    "sons_of_sins:flesh_sword": [
+      "attack:10",
+      "magic:5"
+    ],
+    "sons_of_sins:hand_of_riot": [
+      "attack:30",
+      "magic:15"
+    ],
+    "sons_of_sins:osseous_axe": [
       "attack:5",
       "gathering:5",
       "magic:5"
     ],
-    "sons_of_sins:flesh_sword": [
+    "sons_of_sins:osseous_hoe": [
+      "farming:5",
+      "magic:5"
+    ],
+    "sons_of_sins:osseous_pickaxe": [
+      "mining:5",
+      "magic:5"
+    ],
+    "sons_of_sins:osseous_shovel": [
+      "gathering:5",
+      "magic:5"
+    ],
+    "sons_of_sins:osseous_sword": [
       "attack:5",
+      "magic:5"
+    ],
+    "sons_of_sins:puppet_of_strife": [
+      "magic:15"
+    ],
+    "sons_of_sins:remnant_boots": [
+      "defense:10",
+      "magic:5"
+    ],
+    "sons_of_sins:remnant_chestplate": [
+      "defense:10",
+      "magic:5"
+    ],
+    "sons_of_sins:remnant_helmet": [
+      "defense:10",
+      "magic:5"
+    ],
+    "sons_of_sins:remnant_leggings": [
+      "defense:10",
       "magic:5"
     ],
     "sons_of_sins:shape_shifting_tool": [
       "attack:15",
+      "magic:5"
+    ],
+    "sons_of_sins:sickle_of_struggle": [
+      "attack:10",
       "magic:5"
     ],
     "sons_of_sins:sinful_axe": [
@@ -1840,9 +2016,29 @@
       "gathering:30",
       "magic:15"
     ],
+    "sons_of_sins:sinful_hoe": [
+      "farming:30",
+      "magic:15"
+    ],
+    "sons_of_sins:sinful_pickaxe": [
+      "mining:30",
+      "magic:15"
+    ],
+    "sons_of_sins:sinful_shovel": [
+      "gathering:30",
+      "magic:15"
+    ],
     "sons_of_sins:sinful_sword": [
       "attack:30",
       "magic:15"
+    ],
+    "sons_of_sins:touch_of_greed": [
+      "attack:15",
+      "magic:10"
+    ],
+    "sons_of_sins:wistivers_jaws": [
+      "attack:15",
+      "magic:10"
     ],
     "tide:blazing_swordfish": [
       "attack:5"
@@ -1885,91 +2081,6 @@
     "vital_herbs:verdant_scourge": [
       "attack:5",
       "magic:5"
-    ],
-    "dwarfs_tyranny:air_extractor": [
-      "building:10"
-    ],
-    "dwarfs_tyranny:mythril_pipe": [
-      "building:10"
-    ],
-    "dwarfs_tyranny:mythril_tank": [
-      "building:10"
-    ],
-    "dwarfs_tyranny:gas_tank": [
-      "building:10"
-    ],
-    "dwarfs_tyranny:empty_tank": [
-      "building:10"
-    ],
-    "dwarfs_tyranny:grapple_gun": [
-      "building:15"
-    ],
-    "dwarfs_tyranny:nail_gun": [
-      "building:15"
-    ],
-    "dwarfs_tyranny:propulser": [
-      "building:15"
-    ],
-    "dwarfs_tyranny:magnetic_rail": [
-      "building:15"
-    ],
-    "dwarfs_tyranny:bridger": [
-      "building:15"
-    ],
-    "dwarfs_tyranny:separator": [
-      "building:15"
-    ],
-    "dwarfs_tyranny:mythril_furnace": [
-      "building:15"
-    ],
-    "dwarfs_tyranny:flamethrower": [
-      "building:20"
-    ],
-    "dwarfs_tyranny:rc_drill": [
-      "building:20"
-    ],
-    "dwarfs_tyranny:lightningthrower": [
-      "building:25"
-    ],
-    "dwarfs_tyranny:mythril_pickaxe": [
-      "mining:22"
-    ],
-    "dwarfs_tyranny:mythril_sword": [
-      "attack:22"
-    ],
-    "dwarfs_tyranny:mythril_axe": [
-      "attack:22",
-      "gathering:22"
-    ],
-    "dwarfs_tyranny:mythril_shovel": [
-      "gathering:22"
-    ],
-    "dwarfs_tyranny:mythril_hoe": [
-      "farming:22"
-    ],
-    "dwarfs_tyranny:mythril_armor_helmet": [
-      "defense:22"
-    ],
-    "dwarfs_tyranny:dwarf_netherite_armor_helmet": [
-      "defense:30"
-    ],
-    "dwarfs_tyranny:mythril_armor_chestplate": [
-      "defense:22"
-    ],
-    "dwarfs_tyranny:dwarf_netherite_armor_chestplate": [
-      "defense:30"
-    ],
-    "dwarfs_tyranny:mythril_armor_leggings": [
-      "defense:22"
-    ],
-    "dwarfs_tyranny:dwarf_netherite_armor_leggings": [
-      "defense:30"
-    ],
-    "dwarfs_tyranny:mythril_armor_boots": [
-      "defense:22"
-    ],
-    "dwarfs_tyranny:dwarf_netherite_armor_boots": [
-      "defense:30"
     ]
   }
 }

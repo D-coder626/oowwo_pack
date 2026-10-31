@@ -657,24 +657,12 @@ file = "config/almostunified/startup.json"
 hash = "b4ce4d99b37a679b372fd2d5c34113f0b79adfe67a5b830e4fb5a20f47951278"
 
 [[files]]
-file = "config/almostunified/startup.json.bak"
-hash = "37f013c49586db025c17f9fa6657c6f239e0169ebc97ef682ff114a2ede43c5e"
-
-[[files]]
 file = "config/almostunified/tags.json"
 hash = "ffb4a94c23056f6f4bad86f72e741940be2bfa097df4a052910071d76f0a240b"
 
 [[files]]
-file = "config/almostunified/tags.json.bak"
-hash = "f97d365637689000a437018ab8a27a39aa57bc7780fd93299d6410ae2c60a1d5"
-
-[[files]]
 file = "config/almostunified/unification/materials.json"
 hash = "54daabba78a99a492004d4da138eabed0367200000449d1aa4df7788b17f6a66"
-
-[[files]]
-file = "config/almostunified/unification/materials.json.bak"
-hash = "aeedd65c113ba7e1442e4106f0ca0f95728f4addd39ae90a84f50aff2de7c538"
 
 [[files]]
 file = "config/alterna-client.toml"
@@ -686,7 +674,7 @@ hash = "b3ef9004d3d63f80828090b436c08edacbe53ab059d1f2c9f490ed03dc024aa0"
 
 [[files]]
 file = "config/ambientfog/biome_fog.json"
-hash = "012d070802c73f95b583128e32a74dfa86a5647144f83c61b1217ed8e10140f6"
+hash = "ec65a8753dd5cac808b9cafb24e975873cf1c4e6ca825d2b2b07a6d2f8d82c30"
 
 [[files]]
 file = "config/ambientsounds-client.json"
@@ -714,11 +702,11 @@ hash = "2150a9e5f1bf77a33843d3a9d290efad799e7aaf338b1f6d0bedfae190864aa8"
 
 [[files]]
 file = "config/apotheosis/enchantments.cfg"
-hash = "3f53c5193b74a7757856c0d97b64bbffd07ed8968adfb1e7428d5950bba18367"
+hash = "aacb0fa12cccd34dd2ba7dae78eb66c40b39c43d533405856088e6fb876ae09b"
 
 [[files]]
 file = "config/apotheosis/name_generation.cfg"
-hash = "807697c2e3c88d32bf1996f176ce367a6b120b19820739b961946ad317bec690"
+hash = "217031357a329a1e041faab468eda63cf7c2e8f52cd81400910339959208b7d6"
 
 [[files]]
 file = "config/apothic_compat-common.toml"
@@ -1474,7 +1462,7 @@ hash = "3308812ac04a345a093f7fdaf3891bfa21b633e9f50f586972e957417d3454c9"
 
 [[files]]
 file = "config/betterback/last_deaths.properties"
-hash = "e93d3f9eba6f98d9de0f4b3fd6e58ff92a003a2cdd825a7313722f00f95eb61c"
+hash = "16c5b83ce61470f1b0ff14f774f559388449b0d3067786f250f0ed55553bbe5f"
 
 [[files]]
 file = "config/betterback/settings.properties"
@@ -1778,10 +1766,6 @@ hash = "46b235fb9775c7b4dba2013148cdd0ddf401b7fdfcd37da88ce68926d5a3d4c4"
 
 [[files]]
 file = "config/burnt_basic.json"
-hash = "9023366bfdc29702ab05b2b1d4520157eaf44de8b43d39b884ac24b7cfb2d0c1"
-
-[[files]]
-file = "config/burnt_basic.json.bak"
 hash = "9023366bfdc29702ab05b2b1d4520157eaf44de8b43d39b884ac24b7cfb2d0c1"
 
 [[files]]
@@ -2249,12 +2233,16 @@ file = "config/endermanoverhaul.jsonc"
 hash = "94d584e93f86976673fc36fd3834f407444a452199fc4bb9adff6ba320c3e881"
 
 [[files]]
+file = "config/enderscape.json5"
+hash = "0172f64ede42e5f6608c559045623ca82ae5f3123c5888f435bdd2d1b6773739"
+
+[[files]]
 file = "config/enhancedcelestials2core/mixins.properties"
 hash = "36b0d118a1924aa3f2436fa16cc46a366c9a7f138765ae86caec05977be98bd5"
 
 [[files]]
 file = "config/enhancedcelestials2core/translations-cache/en_us.json"
-hash = "19ae81b3256f9a90d9928350e346f6d4d9c9c774911f6a87017324bc56edff58"
+hash = "70f8284af64dda3b2a8a3062b99796ba2b236619f804e135617784b1f20d9cba"
 
 [[files]]
 file = "config/enhancedcelestials2core/translations.json"
@@ -2262,11 +2250,11 @@ hash = "24c34c89632454822eb2acc91d2b38b1a72fd370925c544c796396b2b174a205"
 
 [[files]]
 file = "config/enhancedcelestials2defaultlunarevents/translations-cache/en_us.json"
-hash = "fc0863ef1bfbb6be0966817ed5d49031ea636627cd6196d746fa9e57d50c2c8c"
+hash = "03ca53668e31b6e081f79afc0991d104b78474f015fc82e45b1299d84b550e76"
 
 [[files]]
 file = "config/enhancedcelestials2shaders/translations-cache/en_us.json"
-hash = "2859f16074f6e38b1299b584486698827430786fd2a2f19f88d99558f98616ac"
+hash = "bdbea5e5820cf69a7861c5b7121371e03d3468e50ba81026d9085c18e978e4ef"
 
 [[files]]
 file = "config/enhancedmobcap-common.toml"
@@ -2330,7 +2318,7 @@ hash = "6bccd9a5af80821fe4b83ea397da43adac0b8511bfb7d3b297c038f2b69da8f1"
 
 [[files]]
 file = "config/everycomp-entries.toml"
-hash = "3ce3ab26de00554c4e76800d3cb37c8573c1fccdc47dbe4c6e434b5f3b73fe53"
+hash = "68b55baf0d31a52ce4e68123a792fab0684a699c50d848a9d62442fc91747fe7"
 
 [[files]]
 file = "config/everycomp-hazardous.toml"
@@ -2749,6 +2737,10 @@ file = "config/forgeendertech/Biomes/quark$glimmering_weald.cfg"
 hash = "312d6435ec3e507331ed29fb529d090e1dfc756c00bfb1fb08f0420e0f347328"
 
 [[files]]
+file = "config/forgeendertech/Biomes/spawn$deep_warm_ocean.cfg"
+hash = "7c512883d66338aa5118132c2a09cddbb1631dd2ff30409d44581748166e0276"
+
+[[files]]
 file = "config/forgeendertech/Biomes/spawn$dodo_island.cfg"
 hash = "f6a3f49f6af9cb35280b3082474ce6d6e0940d7be9fcfe24bc2566a0926cca4f"
 
@@ -3146,7 +3138,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "90b6bf3d261765f55d307d04b919d108e48a730d930a2fd1722dde3883494111"
+hash = "292dfe67494639074ea7116c41f2f7f8cf960ab7ddc5101867a765c9483959e3"
 
 [[files]]
 file = "config/irons_spellbooks-client.toml"
@@ -3726,23 +3718,7 @@ hash = "9ce4f0cc2c6676ee95dd9cba85cb28e11ab1933a71838bb5fe8927d5d2af43eb"
 
 [[files]]
 file = "config/reskillable/skill_locks.json"
-hash = "9cb7ae613db5f2660e989fde3db8cd10ab2efba77906da7c78e7f25293f9d6ab"
-
-[[files]]
-file = "config/reskillable/skill_locks.json.bak"
-hash = "80745c0d3b4c45552d7ea9465865c88983ca86af30f78ff75e3c3913158b2a18"
-
-[[files]]
-file = "config/reskillable/skill_locks.json.bak-2026-10-21"
-hash = "86cae4840199877e146dbfac79b8c520318a1268767b9711304a8352996a0070"
-
-[[files]]
-file = "config/reskillable/skill_locks.v1.CLAUDE.json.bak"
-hash = "26949487fb0f2f24b17639a24ae8404e6d3529adad8022b8b2ab2b3eec4278bd"
-
-[[files]]
-file = "config/reskillable/skill_locksv3.json.bak"
-hash = "3e41562dd6358becc1f15527cafca2bea4be12a241b104a615c1351d2e9d7b64"
+hash = "7f086cb3047fa3047c0bcf77b380cd6b3939f3f8a927aac0f5d14b1b3ebbe481"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -3998,7 +3974,7 @@ hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "87a7e9462f54daa080633b255d2fac96089e2317ff565e18e50c2078b33b60ca"
+hash = "544a8123857580b73bcf04cac45e73a2a6a6a3fafcfdd92839db9cec88ea83b5"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -4302,7 +4278,7 @@ hash = "1e02077599b5ea195d74cd07e3f1cd731f15536318bc2a96824a7ec03097e33f"
 
 [[files]]
 file = "config/submarine_hull.json"
-hash = "63d0874ed450412f7e191bdd17483d84e3c11d78e7fff2f6ce920f91713e3318"
+hash = "dfd996092104422f40b4135667127ac46a8281f4ba3397c9f04bbe66ec42420a"
 
 [[files]]
 file = "config/subtle_effects/blocks.toml"
@@ -4354,11 +4330,11 @@ hash = "e04586d7dc58c806eb2d71eff53458bc56fe8e5d88675a710783bab85124fee3"
 
 [[files]]
 file = "config/the_beyond-client.toml"
-hash = "09cd138f32e5cdfb7d00d748417a36fa4d89b1c19a352be70e9fe47b80c6332e"
+hash = "1f0d0ff26a233867309e43a6ee06bbfc2c168ce6549226d353a6a1e466b93d95"
 
 [[files]]
 file = "config/the_beyond-common.toml"
-hash = "7da9d9bbb0b8a87c50f59971f506e09e0bcc82dacacbbbd90eccb0d2a6d57672"
+hash = "ed601be65d7dab5b9e268ce659f551d3c6a31133f4d32058c2c99c862fecd821"
 
 [[files]]
 file = "config/tia-client.toml"
@@ -4637,6 +4613,14 @@ file = "config/windswept-common.toml"
 hash = "991810e2f2e86681afe0057dbaaa7c93e36e60fc94bd0711dfb973f22a6af3e1"
 
 [[files]]
+file = "config/witherreincarnated/client.toml"
+hash = "82c1ee827a0337e3348427e0cff1dff9df9983cd9a56f307ac7935f1514560c2"
+
+[[files]]
+file = "config/witherreincarnated/common.toml"
+hash = "77ff4259974a548fe3b4d6dfbcc3d7eabf4d0e48b9150285b5649e3c5b0dd7bb"
+
+[[files]]
 file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
@@ -4821,6 +4805,14 @@ file = "kubejs/assets/oowwo/models/item/bronze_cleaver.json"
 hash = "1b4ba2b17f422ac7b5fbb4882bdfc05de2c68d3196b69f1baf5f9f62fdd1af04"
 
 [[files]]
+file = "kubejs/assets/oowwo/textures/block/fluid/molten_adamantite.png"
+hash = "97f8e47c24565370c67d6a735a4b1953f86597b01852e83524e3ae53928d76c8"
+
+[[files]]
+file = "kubejs/assets/oowwo/textures/block/fluid/molten_adamantite.png.mcmeta"
+hash = "6a19bef21d66aac8fdcd8032751057733e321446b304d38f5ee8ba35efe99a1d"
+
+[[files]]
 file = "kubejs/assets/oowwo/textures/item/brass_blend.png"
 hash = "23bdf322078f1eb8c8acde219e32d73fde7a36cdfb40e61d962895d6b25da9f5"
 
@@ -4975,6 +4967,10 @@ hash = "22a1079cdf8862ba22eb9769bd9bc9cd959cb355d1edadf5e14e177040662ab0"
 [[files]]
 file = "kubejs/client_scripts/oowwo_bronze_weapons_lang.js"
 hash = "8c8e410ddb9c6e1831dd37e1d050ef3cb7db1bbfa69d15a8b83158085884cf81"
+
+[[files]]
+file = "kubejs/client_scripts/oowwo_display_names_lang.js"
+hash = "28d8182711ad9f9a5cf1dc39a30d79c74f2df5dde3a12f28c5335d11245447ef"
 
 [[files]]
 file = "kubejs/config/client.json"
@@ -6689,6 +6685,10 @@ file = "kubejs/server_scripts/oowwo_tolerable_creepers.js"
 hash = "dd9df02315b8ed19c185c6c986847b687d4828edc90fe5b68a2bc58b12546e9e"
 
 [[files]]
+file = "kubejs/server_scripts/oowwo_top_tiers.js"
+hash = "6171a3fdc5ce40a1e48322bdd28a256dfb4e2d42002c3fb9eedb218d57387a1e"
+
+[[files]]
 file = "kubejs/server_scripts/oowwo_toxony_wax.js"
 hash = "89550c078bdee4e17e5fb09012bf9f39ce57ee06811b334cb089396d83a5b958"
 
@@ -6761,6 +6761,10 @@ file = "kubejs/startup_scripts/oowwo_copper_pickaxe_tier.js"
 hash = "e7e52b590b8b1b5a547876ce58534cb5fae147dd6bb703e2f17c1d96efeecaa3"
 
 [[files]]
+file = "kubejs/startup_scripts/oowwo_display_names.js"
+hash = "5d501507a2ff8270e7052250e91f00dcaa936a16a2e50a68ddce8bcb9afdbec5"
+
+[[files]]
 file = "kubejs/startup_scripts/oowwo_enchanted_items.js"
 hash = "d1c0b983ac12a717fbc669cc1af2cda64e330c801a43e1ba11096f188f7066d7"
 
@@ -6787,6 +6791,10 @@ hash = "25d6252cc1d3e6fc6521e9fd194b70208e71188c0811c82b809bcf94a1480e6a"
 [[files]]
 file = "kubejs/startup_scripts/oowwo_tier_rebalance.js"
 hash = "cd145ed7fbc848bacadbdbdc94b8c93620a14a9837fc11d7f4d2bfc0c39fd24c"
+
+[[files]]
+file = "kubejs/startup_scripts/oowwo_top_tiers.js"
+hash = "2bbd32b2771d418d3d8bc2425cdc42bf52966a59ec3cf5fa11b1fa4ab055f6cc"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -7446,6 +7454,11 @@ hash = "9c337573c2b064c10c3210d7d8e989854d5fe7ddc649fcbba6f527666bc9e606"
 metafile = true
 
 [[files]]
+file = "mods/enderscape.pw.toml"
+hash = "e0209f2a8c76fccb8cbf6ab773ffa6d4b0d405ab861a1086e87c04ba0be72f06"
+metafile = true
+
+[[files]]
 file = "mods/endrem.pw.toml"
 hash = "cf0c9cfa54f46aa1b3e59ff8fa44955c882a3e19050751aa0b668be83413a9b3"
 metafile = true
@@ -7703,6 +7716,11 @@ metafile = true
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "26967b8f53ac1a953eed40294ea819f340dff090b0553e8f1a676203d5facbd5"
+metafile = true
+
+[[files]]
+file = "mods/isleweaver.pw.toml"
+hash = "5956f99d5eb11752bb7c41e415e4384cd2df2d17d9bb78b6de34e1da24fa87c7"
 metafile = true
 
 [[files]]
@@ -8347,7 +8365,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-beyond.pw.toml"
-hash = "d9cfa0508d71de0d769cd022227a6a2b0efd648cc1df21a3ca96b443c3c10994"
+hash = "0558357d3da875720e61e274a803da3b345f99cc0898927683c71181267b8b8f"
 metafile = true
 
 [[files]]
@@ -8507,7 +8525,7 @@ metafile = true
 
 [[files]]
 file = "mods/wayfarer_core-0.1.0.jar"
-hash = "ac746f6dcd10c9f53a62917d0abdb0e897d6ec07894157224164fa679769fa1d"
+hash = "394c33e1d13dac248dd26736ce8a4c93b8e835ae30e601aa3a65290c40e4167b"
 
 [[files]]
 file = "mods/wayfinder.pw.toml"
@@ -8522,6 +8540,11 @@ metafile = true
 [[files]]
 file = "mods/windswept-1.21.1-4.0.0.jar"
 hash = "f29675999057591fae43ad86a7f33e7e87fdb6dc15dce950284d69d00f51f7fe"
+
+[[files]]
+file = "mods/wither-reincarnated.pw.toml"
+hash = "b20bcc8adbf2bd3fcee3945e692f2dc0e5fd8586c6750002c91742a6e5bb7c34"
+metafile = true
 
 [[files]]
 file = "mods/wooden-armor-pluse-10.pw.toml"
@@ -8624,7 +8647,7 @@ hash = "a0914da9d3765df6bb2036a4a1770c4c00a34aa7a29534489ad0e166cf13cf68"
 
 [[files]]
 file = "resourcepacks/Wayfarer_Retextures__oowwo_.zip"
-hash = "e45807c7ab792510d2474e506664fda98d3f620fe7503ab872ed214bad0aee52"
+hash = "ea71adde84784a44e97a8a2c26005889de91f9ec1fa0ddc9bf4382b7ae6c8c5a"
 
 [[files]]
 file = "resourcepacks/oowwo_archwood.zip"
@@ -8641,6 +8664,10 @@ hash = "f816e99a6f9a347bb9ca234b195739b4e8a0ce76cee7ff21c34848ea41116f86"
 [[files]]
 file = "resourcepacks/sunbathing-v1.10.zip"
 hash = "af8980d92f426ec3e5cc428c6b84813e59fec37870eb8fa5e03c5207b44a8f6b"
+
+[[files]]
+file = "resourcepacks/true-ending-dragon-music-v1.zip"
+hash = "d4ef3ac168e43661cecc7349f67bd034961de84c116f7356b22ec3461446defd"
 
 [[files]]
 file = "resourcepacks/vertical_fences_0.2.zip"

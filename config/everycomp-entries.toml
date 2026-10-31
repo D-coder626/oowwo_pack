@@ -34,6 +34,19 @@
 		[types.lantern.wayfarer_core]
 			rift_lantern = true
 
+		[types.lantern.copperoverthrow]
+			copper_lantern = true
+			exposed_copper_lantern = true
+			weathered_copper_lantern = true
+			oxidized_copper_lantern = true
+			waxed_copper_lantern = true
+			waxed_exposed_copper_lantern = true
+			waxed_weathered_copper_lantern = true
+			waxed_oxidized_copper_lantern = true
+
+		[types.lantern.enderscape]
+			bulb_lantern = true
+
 		[types.wood_type.abundant_atmosphere]
 			red_bamboo = true
 			ashroot = true
@@ -112,6 +125,11 @@
 		[types.wood_type.burnt_additions]
 			smoldering_soul = true
 			soul_tempered = true
+
+		[types.wood_type.enderscape]
+			veiled = true
+			celestial = true
+			murublight = true
 
 		[types.leaves_type.abundant_atmosphere]
 			ashroot = true
