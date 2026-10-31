@@ -1,0 +1,66 @@
+#The Handsaw use duration in ticks
+# Default: 80
+# Range: 1 ~ 999
+HandSawUse = 80
+#Maximum of possible blocks broken at a time, having larger value may affect the frame rate
+# Default: 128
+# Range: 1 ~ 999
+HandSawMax = 128
+#Maximum distance a measure creates hologram blocks
+# Default: 100
+# Range: 1 ~ 999
+MeasureMaxDistance = 100
+#Crash Helmets' Head Impact Resistance Percentage
+# Default: 1.0
+# Range: 0.0 ~ 1.0
+CrashHelmetHeadImpactResistance = 1.0
+#Stepper Boots' added Step Height amount. 0.6 is vanilla Step Height (0.6 + x)
+# Default: 0.5
+# Range: 0.0 ~ 3.0
+StepperBootsStepHeight = 0.5
+#Stepper Boots' added Safe Distance amount. 3.0 is vanilla Safe Fall (3.0 + x)
+# Default: 3.0
+# Range: 0.0 ~ 999.0
+stepperBootsSafeFallDistance = 3.0
+#Stepper Leggings' added Movement Speed (0.020 equals 20%)
+# Default: 0.02
+# Range: 0.0 ~ 1.0
+stepperLeggingsSpeedBoost = 0.02
+#Stepper Leggings' added Water Mobility Efficiency (0.5 equals 50% of water resistance penalty mitigated
+# Default: 0.5
+# Range: 0.0 ~ 1.0
+stepperLeggingsWaterMobility = 0.5
+#Durability of used Tool lost per ingredient on a log stripping station
+# Default: 0.5
+# Range: 0.0 ~ 5.0
+logStripperToolDamage = 0.5
+#Tam-Tam's Volume radius (16 blocks * x volume
+# Default: 8.0
+# Range: 0.0 ~ 32.0
+tamtamVolumeRadius = 8.0
+#Tam-Tam's Volume radius (16 blocks * x volume
+# Default: 2
+# Range: 0 ~ 32
+tamtamMoonVolumeRadius = 2
+#Tam-Tam's Volume radius (16 blocks * x volume
+# Default: 0.02
+# Range: 0.0 ~ 1.0
+tamtamMoonVolumeChance = 0.02
+#Desk Bell's Volume radius (16 blocks * x volume
+# Default: 1.0
+# Range: 0.0 ~ 32.0
+kitchenbellVolumeRadius = 1.0
+#Whether Desk Bell has a small chance to get jammed. Default: TRUE
+jamming = true
+#Wind Chimes' maximum rotation in degrees on hit
+# Default: 60
+# Range: 1 ~ 360
+windChimeMaxRotation = 60
+#Wind Chimes' probability to play idle sound
+# Default: 0.003
+# Range: 0.0 ~ 1.0
+windChimeIdleSoundChance = 0.003
+#Wind Chimes' check range to see if the chime is open enough to play idle sounds, needs to be walk through to be updated
+# Default: 12
+# Range: 0 ~ 20
+windChimeIdleRange = 12

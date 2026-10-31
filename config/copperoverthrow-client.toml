@@ -1,0 +1,4 @@
+#Whether feature Rain Drums emit particles when playing a note. Default: TRUE
+noteParticlesBoolean = true
+#Whether feature Rain Drums sparkle during full moon. Default: TRUE
+sparkleParticlesBoolean = true

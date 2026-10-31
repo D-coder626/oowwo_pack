@@ -714,11 +714,11 @@ hash = "2150a9e5f1bf77a33843d3a9d290efad799e7aaf338b1f6d0bedfae190864aa8"
 
 [[files]]
 file = "config/apotheosis/enchantments.cfg"
-hash = "29ae4a2cad1d945512a37e96b6d6efda019d4e0857e9c1eb88ef65be94ded9c5"
+hash = "3f53c5193b74a7757856c0d97b64bbffd07ed8968adfb1e7428d5950bba18367"
 
 [[files]]
 file = "config/apotheosis/name_generation.cfg"
-hash = "fc7a02c494d9808d6c0aa4219102112cfe2ebf5facad2cb85c1e907bc00c276c"
+hash = "807697c2e3c88d32bf1996f176ce367a6b120b19820739b961946ad317bec690"
 
 [[files]]
 file = "config/apothic_compat-common.toml"
@@ -1893,6 +1893,14 @@ file = "config/continuity.json"
 hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
+file = "config/copperoverthrow-client.toml"
+hash = "11d2686847712831efa9c693cbd01744aa12aab5ed0a705b451cf3871d02c4ff"
+
+[[files]]
+file = "config/copperoverthrow-server.toml"
+hash = "af918e256b1a03d994349a4458925549ab5123ebb52cecc5c02e10b2994fc339"
+
+[[files]]
 file = "config/copycats-client.toml"
 hash = "381f51308cca7e8aaa1aebb9253a6be686f74ebc70d4da39dd7750d2ca2e9598"
 
@@ -2101,6 +2109,10 @@ file = "config/dungeonsdelight-config.toml"
 hash = "890499252533e72686f54798b8f82ac44ee6a0b7ea1a3802200521b276df95ff"
 
 [[files]]
+file = "config/dwarfs_tyranny-server.toml"
+hash = "647110810da5163dc1a07e883e6a946ac3b6e21512848d47e98eed03e2633ca2"
+
+[[files]]
 file = "config/dynamiclantern-client.toml"
 hash = "b5a447202df6c8ac7dec19265cdfbb56236fd3a5baf75e802f6691d1b0a7c2fe"
 
@@ -2242,7 +2254,7 @@ hash = "36b0d118a1924aa3f2436fa16cc46a366c9a7f138765ae86caec05977be98bd5"
 
 [[files]]
 file = "config/enhancedcelestials2core/translations-cache/en_us.json"
-hash = "ab498514a38c6b6a28adc7841475c2b7e198583b83998288fbe4d319a031938c"
+hash = "19ae81b3256f9a90d9928350e346f6d4d9c9c774911f6a87017324bc56edff58"
 
 [[files]]
 file = "config/enhancedcelestials2core/translations.json"
@@ -2250,11 +2262,11 @@ hash = "24c34c89632454822eb2acc91d2b38b1a72fd370925c544c796396b2b174a205"
 
 [[files]]
 file = "config/enhancedcelestials2defaultlunarevents/translations-cache/en_us.json"
-hash = "cfb65b81fbad73bb62061caf1c4ad356b6c055c050c3eaa641a3e78dc39f93a0"
+hash = "fc0863ef1bfbb6be0966817ed5d49031ea636627cd6196d746fa9e57d50c2c8c"
 
 [[files]]
 file = "config/enhancedcelestials2shaders/translations-cache/en_us.json"
-hash = "f25a521488717ba991134a8dc909afa8530f89c5f4f8d644dfe61a554cb88a19"
+hash = "2859f16074f6e38b1299b584486698827430786fd2a2f19f88d99558f98616ac"
 
 [[files]]
 file = "config/enhancedmobcap-common.toml"
@@ -3134,7 +3146,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "9cb2a29010776e7eae53198242d3ddd86b69657c58e1550bf419b81947981509"
+hash = "90b6bf3d261765f55d307d04b919d108e48a730d930a2fd1722dde3883494111"
 
 [[files]]
 file = "config/irons_spellbooks-client.toml"
@@ -3986,7 +3998,7 @@ hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "f6894ed1ccc36d4c7c7e955b7aa40d75f6c875c17d2f92959c276de3ba97093f"
+hash = "87a7e9462f54daa080633b255d2fac96089e2317ff565e18e50c2078b33b60ca"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -4290,7 +4302,7 @@ hash = "1e02077599b5ea195d74cd07e3f1cd731f15536318bc2a96824a7ec03097e33f"
 
 [[files]]
 file = "config/submarine_hull.json"
-hash = "066679c106d7d7f615db40142f4df6f26cdaeaf10d508ed2c245a3024427ea02"
+hash = "63d0874ed450412f7e191bdd17483d84e3c11d78e7fff2f6ce920f91713e3318"
 
 [[files]]
 file = "config/subtle_effects/blocks.toml"
@@ -6473,6 +6485,10 @@ file = "kubejs/server_scripts/oowwo_copper_pickaxe.js"
 hash = "0a53fb9978e9d13a0b5e8e04865a9ea475dd78f5d48cff56f1a54070bdfb9d3d"
 
 [[files]]
+file = "kubejs/server_scripts/oowwo_copperoverthrow.js"
+hash = "fb229d43cada233b3f382ecbd4e9d6a0cf1efbf1980b146363cd6fa80fe82290"
+
+[[files]]
 file = "kubejs/server_scripts/oowwo_create.js"
 hash = "ad990fdf28ff53b7bebb0ea85d71973ac26ddefeea930822039ff083d42309b1"
 
@@ -6607,6 +6623,10 @@ hash = "d6c072b1adc845b6eaa70e558f09bd9420065d11f11e06c6fd0d327c75718655"
 [[files]]
 file = "kubejs/server_scripts/oowwo_ring_loot.js"
 hash = "aa15f2efe8946a2fdd49ff02f3004c91f67501f7eeeea3470e2c3fae6e37b309"
+
+[[files]]
+file = "kubejs/server_scripts/oowwo_scrollshelf.js"
+hash = "5a486cd739e77e992660704f3eddfe991c684188284b1c75e29621c5be862417"
 
 [[files]]
 file = "kubejs/server_scripts/oowwo_seed_pots.js"
@@ -7194,6 +7214,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "2694300b7ac43702d4678eb7e42d25548676b308b2b2494cebef94f414b314a8"
+metafile = true
+
+[[files]]
+file = "mods/copper-overthrow.pw.toml"
+hash = "ec14ee7a00910a80f5fa5b5fc0448e9f02422266a38c20848534bedba1a9ab37"
 metafile = true
 
 [[files]]
@@ -7843,11 +7868,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "ac87bbbe993d45e753473134037e57963bb6e78cd84a79dbf11aa7f8af65a57a"
-metafile = true
-
-[[files]]
-file = "mods/mowzies-mobs.pw.toml"
-hash = "49fb2c91310b2085f4d2716ad4afeac89e87e5f7f68962266a8dc2c9ada43120"
 metafile = true
 
 [[files]]
