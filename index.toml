@@ -7871,6 +7871,11 @@ hash = "ac87bbbe993d45e753473134037e57963bb6e78cd84a79dbf11aa7f8af65a57a"
 metafile = true
 
 [[files]]
+file = "mods/mowzies-mobs.pw.toml"
+hash = "49fb2c91310b2085f4d2716ad4afeac89e87e5f7f68962266a8dc2c9ada43120"
+metafile = true
+
+[[files]]
 file = "mods/mru.pw.toml"
 hash = "33171f1d754367d6bce93622e15bce46799a7729738c5c0931eb7362b92d84b5"
 metafile = true
