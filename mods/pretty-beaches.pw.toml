@@ -1,0 +1,13 @@
+name = "Pretty Beaches"
+filename = "prettybeaches-neoforge-1.21.1-21.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IAJe5m4X/versions/LUwXmCVo/prettybeaches-neoforge-1.21.1-21.1.3.jar"
+hash-format = "sha512"
+hash = "ad3b42b5f56eb93e75227c4e10d5c55310200d6f1078aa5bf8e4358c25ad23c3c2fc8cfaa4e7203f42d323ece96c56c5f22374ad39803b6bb3fb53d3a5f59611"
+
+[update]
+[update.modrinth]
+mod-id = "IAJe5m4X"
+version = "LUwXmCVo"

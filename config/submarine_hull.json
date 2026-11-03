@@ -15597,6 +15597,58 @@
     "maxWaterDepth": 44,
     "implosionChance": 0.36137056
   },
+  "clutternomore:mcd_d_nether/basalt_tile_step": {
+    "maxWaterDepth": 42,
+    "implosionChance": 0.37263414
+  },
+  "clutternomore:mcd_d_nether/blackstone_tile_step": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:mcd_d_nether/dark_nether_brick_step": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "clutternomore:mcd_d_nether/nether_tile_step": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:mcd_d_nether/red_nether_tile_step": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:mcd_d_nether/vertical_basalt_tile_slab": {
+    "maxWaterDepth": 42,
+    "implosionChance": 0.37263414
+  },
+  "clutternomore:mcd_d_nether/vertical_blackstone_tile_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:mcd_d_nether/vertical_dark_nether_brick_slab": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "clutternomore:mcd_d_nether/vertical_nether_tile_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:mcd_d_nether/vertical_polished_dark_netherrack_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:mcd_d_nether/vertical_polished_netherrack_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:mcd_d_nether/vertical_polished_red_netherrack_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:mcd_d_nether/vertical_red_nether_tile_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
   "clutternomore:mossy_cobblestone_step": {
     "maxWaterDepth": 72,
     "implosionChance": 0.30540898
@@ -23788,6 +23840,14 @@
   "diagonalfences:ghosts/haunted_fence": {
     "maxWaterDepth": 44,
     "implosionChance": 0.36137056
+  },
+  "diagonalfences:mcd_d_nether/bone_fence": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.39013878
+  },
+  "diagonalfences:mcd_d_nether/dark_nether_brick_fence": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
   },
   "diagonalfences:minecraft/acacia_fence": {
     "maxWaterDepth": 44,
@@ -36416,6 +36476,358 @@
   "lootr:trophy": {
     "maxWaterDepth": 194,
     "implosionChance": 0.05
+  },
+  "mcd_d_nether:ash": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.585469
+  },
+  "mcd_d_nether:ashy_basalt": {
+    "maxWaterDepth": 42,
+    "implosionChance": 0.37263414
+  },
+  "mcd_d_nether:basalt_tile_slab": {
+    "maxWaterDepth": 42,
+    "implosionChance": 0.37263414
+  },
+  "mcd_d_nether:basalt_tile_stairs": {
+    "maxWaterDepth": 42,
+    "implosionChance": 0.37263414
+  },
+  "mcd_d_nether:basalt_tiles": {
+    "maxWaterDepth": 42,
+    "implosionChance": 0.37263414
+  },
+  "mcd_d_nether:blackstone_tile_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "mcd_d_nether:blackstone_tile_stairs": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "mcd_d_nether:blackstone_tiles": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "mcd_d_nether:bloodthorn_blossom": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:bone_fence": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.39013878
+  },
+  "mcd_d_nether:crimson_filament": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:crimson_ivy": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:crimson_sprouts": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:crimson_stalk": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:dark_nether_brick_fence": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "mcd_d_nether:dark_nether_brick_slab": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "mcd_d_nether:dark_nether_brick_stairs": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "mcd_d_nether:dark_nether_brick_wall": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "mcd_d_nether:dark_nether_bricks": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "mcd_d_nether:feeler_flower": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:fluorescent_fig": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:fluorescent_flower": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:fluorescent_flower_inv": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:fluorescent_fungus": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:frog_flower": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:fungal_fern": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:gaseous_glob": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:gilded_basalt_tiles": {
+    "maxWaterDepth": 42,
+    "implosionChance": 0.37263414
+  },
+  "mcd_d_nether:midnight_mildew": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:midnight_mould": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "mcd_d_nether:midnight_wart_block": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "mcd_d_nether:moldy_blackstone_tiles": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "mcd_d_nether:moldy_nether_tiles": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "mcd_d_nether:moldy_ornate_blackstone_tiles": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "mcd_d_nether:moldy_ornate_nether_tiles": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "mcd_d_nether:moldy_ornate_red_nether_tiles": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "mcd_d_nether:moldy_red_nether_tiles": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "mcd_d_nether:moonlight_mildew": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:moonlight_mould": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "mcd_d_nether:nether_brick_pillar": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "mcd_d_nether:nether_tile_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "mcd_d_nether:nether_tile_stairs": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "mcd_d_nether:nether_tiles": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "mcd_d_nether:nether_wall_flower": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:nether_wart_fluff": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:netherite_bars": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "mcd_d_nether:netherite_chain": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "mcd_d_nether:netherite_spike": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "mcd_d_nether:observer_orchids": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:ornate_blackstone_tiles": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "mcd_d_nether:ornate_nether_tiles": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "mcd_d_nether:ornate_polished_netherrack": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "mcd_d_nether:ornate_polished_red_netherrack": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "mcd_d_nether:ornate_red_nether_tiles": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "mcd_d_nether:polished_dark_netherrack": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "mcd_d_nether:polished_dark_netherrack_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "mcd_d_nether:polished_netherrack": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "mcd_d_nether:polished_netherrack_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "mcd_d_nether:polished_red_netherrack": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "mcd_d_nether:polished_red_netherrack_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "mcd_d_nether:potted_crimson_sprouts": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:potted_warped_blossom": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:red_brush": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:red_nether_brick_pillar": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "mcd_d_nether:red_nether_tile_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "mcd_d_nether:red_nether_tile_stairs": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "mcd_d_nether:red_nether_tiles": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "mcd_d_nether:rough_netherrack": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.5463528
+  },
+  "mcd_d_nether:shy_succulent": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:siphon_stalk": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:spalling_basalt_tiles": {
+    "maxWaterDepth": 42,
+    "implosionChance": 0.37263414
+  },
+  "mcd_d_nether:spalling_blackstone_tiles": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "mcd_d_nether:spalling_nether_bricks": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "mcd_d_nether:spalling_nether_tiles": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "mcd_d_nether:spalling_red_nether_bricks": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "mcd_d_nether:spalling_red_nether_tiles": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "mcd_d_nether:sporangium": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:stoutshroom": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:tall_sporangium": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:teal_brush": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:warped_blossom": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:warped_filament": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:warped_stalk": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:warped_trunk": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.39013878
+  },
+  "mcd_d_nether:warped_wart_fluff": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:warped_wart_hanging": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:warping_vines": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "mcd_d_nether:warping_vines_plant": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
   },
   "mebahelcreaturesdraugr:draugr_altar": {
     "maxWaterDepth": 400,

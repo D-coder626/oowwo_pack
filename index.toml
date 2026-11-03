@@ -674,7 +674,7 @@ hash = "b3ef9004d3d63f80828090b436c08edacbe53ab059d1f2c9f490ed03dc024aa0"
 
 [[files]]
 file = "config/ambientfog/biome_fog.json"
-hash = "ec65a8753dd5cac808b9cafb24e975873cf1c4e6ca825d2b2b07a6d2f8d82c30"
+hash = "0a9906c960a295ef6ceb1a00714393aab02a0d4b1ecc4a098421cf6080e70b07"
 
 [[files]]
 file = "config/ambientsounds-client.json"
@@ -1462,7 +1462,7 @@ hash = "3308812ac04a345a093f7fdaf3891bfa21b633e9f50f586972e957417d3454c9"
 
 [[files]]
 file = "config/betterback/last_deaths.properties"
-hash = "16c5b83ce61470f1b0ff14f774f559388449b0d3067786f250f0ed55553bbe5f"
+hash = "46948a75a103a07078f9c8d7c8d7223bdbd7f65ba83c2abbdba1c6f8017874a0"
 
 [[files]]
 file = "config/betterback/settings.properties"
@@ -1778,7 +1778,7 @@ hash = "865a366143df5f4d92941058c823ea48deb8445f6444b45e870331b16a444f0f"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "13739099dd2553acaac7f1a2e44e10a9851f553b7790a864cc4a42b5918c4e17"
+hash = "4d000d1b82dbfe49623aad5d2e46c8f8768b6e5d9eb4db29f9eb0c0c06c4b886"
 
 [[files]]
 file = "config/cave_dweller-server.toml"
@@ -2242,7 +2242,7 @@ hash = "36b0d118a1924aa3f2436fa16cc46a366c9a7f138765ae86caec05977be98bd5"
 
 [[files]]
 file = "config/enhancedcelestials2core/translations-cache/en_us.json"
-hash = "70f8284af64dda3b2a8a3062b99796ba2b236619f804e135617784b1f20d9cba"
+hash = "a18c1f34f9670e3bd95db9dc2c54d70a55e02b8b08dad196683f2913bfeb8d7a"
 
 [[files]]
 file = "config/enhancedcelestials2core/translations.json"
@@ -2250,11 +2250,11 @@ hash = "24c34c89632454822eb2acc91d2b38b1a72fd370925c544c796396b2b174a205"
 
 [[files]]
 file = "config/enhancedcelestials2defaultlunarevents/translations-cache/en_us.json"
-hash = "03ca53668e31b6e081f79afc0991d104b78474f015fc82e45b1299d84b550e76"
+hash = "9566ed9ae551deb9085a4db649529d536d6fd40cfbe2f3a8b75dd1ac9a5a53ab"
 
 [[files]]
 file = "config/enhancedcelestials2shaders/translations-cache/en_us.json"
-hash = "bdbea5e5820cf69a7861c5b7121371e03d3468e50ba81026d9085c18e978e4ef"
+hash = "b699f4e99d277df0812bf0e76fc111e5687d8fff26cf743abeabe9ddde8e2684"
 
 [[files]]
 file = "config/enhancedmobcap-common.toml"
@@ -3138,7 +3138,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "292dfe67494639074ea7116c41f2f7f8cf960ab7ddc5101867a765c9483959e3"
+hash = "cf0348790aeb596b13cd3340beb250d022cfb226112178d9275d645471788e01"
 
 [[files]]
 file = "config/irons_spellbooks-client.toml"
@@ -3659,6 +3659,10 @@ hash = "eb7e9906d126543f03c2257ca98efa4b845d1e7479dc8b069a12b194c86debcf"
 [[files]]
 file = "config/ponder-client.toml"
 hash = "55affffe67e84dfe11e590769e235aee999b77f9484a3adf7ee8247a9f3d35ba"
+
+[[files]]
+file = "config/prettybeaches-common.toml"
+hash = "407cc3bfbc0934f7bc55f6921cf49688eca71b4d46bfb22fa8ef831d2ada52fb"
 
 [[files]]
 file = "config/productivebees-client.toml"
@@ -4278,7 +4282,7 @@ hash = "1e02077599b5ea195d74cd07e3f1cd731f15536318bc2a96824a7ec03097e33f"
 
 [[files]]
 file = "config/submarine_hull.json"
-hash = "dfd996092104422f40b4135667127ac46a8281f4ba3397c9f04bbe66ec42420a"
+hash = "389f6a6c190e958d044e867bab1252635c1fb690b1e563164bd1e98f7e953477"
 
 [[files]]
 file = "config/subtle_effects/blocks.toml"
@@ -7400,6 +7404,11 @@ hash = "35f0d9a2d3a8f2381c0720af972e8364bf051dfe15e49a285da00d7d3e805ee1"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-dimensions-nether.pw.toml"
+hash = "3d8f7d4255527d106f45828b48ad252e8461dd298aaa88fa4ba8836a38759422"
+metafile = true
+
+[[files]]
 file = "mods/dwarfs_tyranny-1.0.7-neoforge-1.21.1.jar"
 hash = "80101918cb14f32f93d7dc57b859079356324b94541adda756e4584cf98f90fd"
 
@@ -8030,6 +8039,11 @@ metafile = true
 [[files]]
 file = "mods/polytone.pw.toml"
 hash = "7e39652127ce54b6a51db3222a66e9e6babf670447a18e707b31007f5c1e9ccd"
+metafile = true
+
+[[files]]
+file = "mods/pretty-beaches.pw.toml"
+hash = "0ad107f97ee8005fa97c05281f9953c0c18ce1842afe2982a36c7524676f42aa"
 metafile = true
 
 [[files]]
