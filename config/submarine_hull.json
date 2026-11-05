@@ -15393,6 +15393,30 @@
     "maxWaterDepth": 85,
     "implosionChance": 0.25540897
   },
+  "clutternomore:frostiful/cut_blue_ice_step": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.3264999
+  },
+  "clutternomore:frostiful/cut_packed_ice_step": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.50653845
+  },
+  "clutternomore:frostiful/packed_snow_brick_step": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "clutternomore:frostiful/vertical_cut_blue_ice_slab": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.3264999
+  },
+  "clutternomore:frostiful/vertical_cut_packed_ice_slab": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.50653845
+  },
+  "clutternomore:frostiful/vertical_packed_snow_brick_slab": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
   "clutternomore:galosphere/allurite_brick_step": {
     "maxWaterDepth": 35,
     "implosionChance": 0.43337092
@@ -34289,6 +34313,106 @@
     "maxWaterDepth": 41,
     "implosionChance": 0.39013878
   },
+  "frostiful:brittle_ice": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.5344535
+  },
+  "frostiful:cold_sun_lichen": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "frostiful:cool_sun_lichen": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "frostiful:cut_blue_ice": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.3264999
+  },
+  "frostiful:cut_blue_ice_slab": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.3264999
+  },
+  "frostiful:cut_blue_ice_stairs": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.3264999
+  },
+  "frostiful:cut_blue_ice_wall": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.3264999
+  },
+  "frostiful:cut_packed_ice": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.50653845
+  },
+  "frostiful:cut_packed_ice_slab": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.50653845
+  },
+  "frostiful:cut_packed_ice_stairs": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.50653845
+  },
+  "frostiful:cut_packed_ice_wall": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.50653845
+  },
+  "frostiful:frozen_torch": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "frostiful:frozen_wall_torch": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "frostiful:hot_sun_lichen": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "frostiful:ice_pane": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.5344535
+  },
+  "frostiful:icicle": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.5344535
+  },
+  "frostiful:icy_trial_spawner": {
+    "maxWaterDepth": 362,
+    "implosionChance": 0.05
+  },
+  "frostiful:icy_vault": {
+    "maxWaterDepth": 362,
+    "implosionChance": 0.05
+  },
+  "frostiful:packed_snow": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.40137056
+  },
+  "frostiful:packed_snow_block": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "frostiful:packed_snow_brick_slab": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "frostiful:packed_snow_brick_stairs": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "frostiful:packed_snow_brick_wall": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "frostiful:packed_snow_bricks": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "frostiful:warm_sun_lichen": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
   "gag:fluid_proxy": {
     "maxWaterDepth": 101,
     "implosionChance": 0.15540898
@@ -48689,6 +48813,42 @@
     "maxWaterDepth": 71,
     "implosionChance": 0.31137055
   },
+  "scorchful:crimson_lily": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "scorchful:red_sand_cauldron": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
+  },
+  "scorchful:red_sand_pile": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "scorchful:rooted_crimson_nylium": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.5463528
+  },
+  "scorchful:rooted_netherrack": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.5463528
+  },
+  "scorchful:rooted_warped_nylium": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.5463528
+  },
+  "scorchful:sand_cauldron": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
+  },
+  "scorchful:sand_pile": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "scorchful:warped_lily": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
   "scrollshelf:scroll_shelf": {
     "maxWaterDepth": 69,
     "implosionChance": 0.11021047
@@ -48728,6 +48888,14 @@
   "seadwellers:sea_rope_3": {
     "maxWaterDepth": 59,
     "implosionChance": 0.23609427
+  },
+  "selling_bin:selling_bin": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.5
+  },
+  "sereneseasons:season_sensor": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.57176787
   },
   "simplyswords:runic_forge": {
     "maxWaterDepth": 77,
@@ -51305,6 +51473,218 @@
     "maxWaterDepth": 15,
     "implosionChance": 0.6
   },
+  "starcatcher:acacia_fish_plaque": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.55
+  },
+  "starcatcher:aquarium": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.39013878
+  },
+  "starcatcher:bamboo_fish_plaque": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.55
+  },
+  "starcatcher:birch_fish_plaque": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.55
+  },
+  "starcatcher:cherry_fish_plaque": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.55
+  },
+  "starcatcher:clam": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.59
+  },
+  "starcatcher:conch": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.59
+  },
+  "starcatcher:dark_oak_fish_plaque": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.55
+  },
+  "starcatcher:display": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.5
+  },
+  "starcatcher:fisherman_hat_black": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "starcatcher:fisherman_hat_blue": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "starcatcher:fisherman_hat_brown": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "starcatcher:fisherman_hat_cyan": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "starcatcher:fisherman_hat_gray": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "starcatcher:fisherman_hat_green": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "starcatcher:fisherman_hat_light_blue": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "starcatcher:fisherman_hat_light_gray": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "starcatcher:fisherman_hat_lime": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "starcatcher:fisherman_hat_magenta": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "starcatcher:fisherman_hat_orange": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "starcatcher:fisherman_hat_pink": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "starcatcher:fisherman_hat_purple": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "starcatcher:fisherman_hat_red": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "starcatcher:fisherman_hat_white": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "starcatcher:fisherman_hat_yellow": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "starcatcher:jungle_fish_plaque": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.55
+  },
+  "starcatcher:mangrove_fish_plaque": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.55
+  },
+  "starcatcher:oak_fish_plaque": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.55
+  },
+  "starcatcher:spruce_fish_plaque": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.55
+  },
+  "starcatcher:tackle_box": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
+  },
+  "starcatcher:tackle_box_black": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
+  },
+  "starcatcher:tackle_box_blue": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
+  },
+  "starcatcher:tackle_box_brown": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
+  },
+  "starcatcher:tackle_box_cyan": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
+  },
+  "starcatcher:tackle_box_gray": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
+  },
+  "starcatcher:tackle_box_green": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
+  },
+  "starcatcher:tackle_box_light_blue": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
+  },
+  "starcatcher:tackle_box_light_gray": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
+  },
+  "starcatcher:tackle_box_lime": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
+  },
+  "starcatcher:tackle_box_magenta": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
+  },
+  "starcatcher:tackle_box_orange": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
+  },
+  "starcatcher:tackle_box_pink": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
+  },
+  "starcatcher:tackle_box_purple": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
+  },
+  "starcatcher:tackle_box_red": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
+  },
+  "starcatcher:tackle_box_white": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
+  },
+  "starcatcher:tackle_box_yellow": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
+  },
+  "starcatcher:tournament_stand": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.5
+  },
+  "starcatcher:trophy_copper": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.5
+  },
+  "starcatcher:trophy_diamond": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.5
+  },
+  "starcatcher:trophy_emerald": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.5
+  },
+  "starcatcher:trophy_gold": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.5
+  },
+  "starcatcher:trophy_iron": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.5
+  },
+  "starcatcher:trophy_of_the_older_angler": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.5
+  },
   "streamsreflowing:stream": {
     "maxWaterDepth": 400,
     "implosionChance": 0.05
@@ -53324,6 +53704,18 @@
   "tide:wooden_crate": {
     "maxWaterDepth": 45,
     "implosionChance": 0.3497237
+  },
+  "tinymultiblocklib:diamond_structure": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "tinymultiblocklib:simple_multiblock": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "tinymultiblocklib:test_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
   },
   "tolerable_creepers:potted_creeper_spores": {
     "maxWaterDepth": 25,

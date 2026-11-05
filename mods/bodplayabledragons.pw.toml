@@ -1,0 +1,13 @@
+name = "Book of Dragons: Playable Dragons addon"
+filename = "playabledragons-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oME3ymTz/versions/gOfZ7UVl/playabledragons-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "d86aeaed06ebfaeca030089810b236036e90bf21bfc7f38dae5e9dfa7b8716f8c6d4f89c50b7aeb0c2669c4e6a5aeb367591cdf0c0c6de46a5e6ebe30126dd0d"
+
+[update]
+[update.modrinth]
+mod-id = "oME3ymTz"
+version = "gOfZ7UVl"
